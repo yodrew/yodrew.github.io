@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/img/fav/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/fav/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/fav/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon.ico">
+<link rel="manifest" href="/img/fav/site.webmanifest">
+<link rel="mask-icon" href="/img/fav/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+	
+	{% include meta.html %}
+
+	<!--[if lt IE 9]>
+	  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="stylesheet" type="text/css" href="/style.css" />
+	<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="/feed.xml" />
+
+	<!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d6d59515adc7449be31fb5e5a/43dc241764acbbafd525ab8fd.js");</script>
+
+</head>
+
+<body>
+
+<div class="flex-container">
+	<div>
+		<nav class="man">
+			<ul>
+				<li>&#9776;
+					<ul>
+						<li>front
+							<ul>
+								<li><a href="/">blurb</a></li>
+								<li><a href="/front/dedication">dedication</a></li>
+								<li><a href="/front/disclaimer">disclaimer</a></li>
+								<li><a href="/front/notes/">notes</a></li>
+								<li><a href="/front/foreword">foreword</a></li>
+								<li><a href="/front/preface">preface</a></li>
+								<li><a href="/front/introduction">introduction</a></li>
+							</ul>
+						</li>
+						<li>chapters
+							<ul>
+								<li><a href="/hygiene">hygiene  1</a></li>
+								<li><a href="/darkroom-retreat">darkroom retreat  2</a></li>
+								<li><a href="/psychology">psychology  3</a></li>
+								<li><b>retreat</b>&nbsp; &nbsp;part 2</li>
+								<li><a href="/protocol">protocol  5</a></li>
+								<li><a href="/prepare">prepare  6</a></li>
+								<li><a href="/design">design  7</a></li>
+								<li><a href="/plan">plan</a></li>
+								<li><a href="/make">make  8</a></li>
+								<li><a href="/air">air  9</a></li>
+								<li><a href="/darkness">darkness  10</a></li>
+								<li><a href="/water">water  11</a></li>
+							</ul>
+						</li>
+						<li>back
+							<ul>
+								<li><a href="/back/faq">faq</a></li>
+								<li><a href="/back/bibliography-influences">bibliography &amp; influences</a></li>
+								<li><a href="/back/acknowledgments">acknowledgments</a></li>
+								<li><a href="/back/services">services</a></li>
+								<li><a href="/back/license">license</a></li>
+								<li><a href="/back/participate">participate</a></li>
+								<li><a href="/back/bio">bio, contact</a></li>
+							</ul>
+						</li>
+						<li><a href="/about">about/contact</a></li>
+						<li><a href="/blog">blog</a></li>
+						<li><a href="/reports">reports</a></li>
+						<li><a href="/darkness-conjecture">conjecture</a></li>
+						<li><a href="/other-writings">other</a></li>
+						<li><iframe src="https://duckduckgo.com/search.html?width=120&site=darkroomretreat.com&prefill=search&focus=yes" style="overflow:hidden;margin:0;padding:0;width:240px;height:30px;" frameborder="0"></iframe></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+	</div>
+	<div>
+		<h1 id="title"><a href="/">hygienic <span id="phrase">darkroom retreat</span></a></h1>
+				   <p id="sub">profound&nbsp;rest for&nbsp;the self&#8209;healing&nbsp;psyche</p>
+				  <p id="author">a book by&nbsp;andrew&nbsp;durham</p>
+	</div>
+	<div>
+		<a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" id="img" title="click to buy" label="book cover image"> </a>
+	</div>
+</div>
+<div class="container">
+	{{ content }}
+</div>
+
+<div class="container">
+	<footer class="footer">
+		{% include svg-icons.html %}
+	</footer>
+</div>
+
+	{% include analytics.html %}
+
+</body>
+</html>
+
+
+

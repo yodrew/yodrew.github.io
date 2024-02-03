@@ -1,0 +1,9 @@
+Customize threshold vent
+ 
+1. using straight edge and razor knife, cut horizontal line CC running through center shrink arrow
+2. slide top section down over bottom until cut edge meets mm marks equal to _t_. Tape in place.
+3. raise point C to 2mm mark equal to _t_
+4. cut vertical lines running through shrink arrows in grey areas
+5. slide left and right sections inwardly over center section until cut edges meet mm marks (at top and bottom) equal to _h_. Tape in place
+6. cut vertical line running through center stretch arrow
+
