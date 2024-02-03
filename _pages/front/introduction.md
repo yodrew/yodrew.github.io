@@ -246,7 +246,7 @@ The full application of the idea of hygienic darkroom retreating consists of doi
 
 #### contents
 
-The "intro" sections—dedication, contents, blurb, notes, foreword, preface, and introduction—aren't just a sales pitch. They succinctly present the basic idea in different ways to aid understanding.
+The front part of the book—disclaimer, dedication, contents, blurb, notes, foreword, preface, and introduction—isn't just a sales pitch. Its elements succinctly present the basic idea in different ways to aid understanding. In hygiene, understanding is always the first task.
 
 Chapters are grouped in three parts:
 
@@ -269,7 +269,13 @@ The back part consists of:
 
 - [faq](/back/faq): frequently asked questions
 - [bibliography and influences](/back/bibliography-influences)
-- [acknowledgments](/back/acknowledgments), [services](/back/services), [license](/back/license), and [bio](/back/bio)
+- [acknowledgments](/back/acknowledgments)
+- [services](/back/services)
+- [license](/back/license)
+- [participate](/back/participate)
+- [bio](/back/bio)
+
+<!--pagebreak-->
 
 This book is at [leanpub.com/darkroomretreat/](https://leanpub.com/darkroomretreat) as an ebook for sale. It is free at [darkroomretreat.com](/), where you can also read: 
 
@@ -293,6 +299,6 @@ I continually update this book. Before rereading or building, download the lates
 
 Now, on to the life-restoring perspective of hygiene and how darkness and psychology complete it.
 
-<!--{pagebreak]-->
+<!--pagebreak-->
 
-<!--{pagebreak]-->
+<!--pagebreak-->
