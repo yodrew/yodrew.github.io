@@ -2,7 +2,7 @@
 title: Tribal Housing
 layout: page
 navprev: ordo
-permalink: "/other-writings/tribal-housing/"
+permalink: /other-writings/tribal-housing/
 navnext: links
 ---
 
@@ -90,7 +90,7 @@ Now for the little known fact. Tribal Housing is already happening, quietly and 
 
 That's Tribal Housing. So much for loneliness, inclement weather, and the grind. By working together, as tribes have done for eons, we are immediately able to have what we need. Without selling out. While interacting with the system. Without looking for it to crash. Without waiting for the entire world to get it. There is nothing to it. Get with three or four of your people, keep reading this article and website, and act immediately on what parts of it you now see clearly.
 
-Find the latest version of this secret-dense article and other New Tribal writings online at [andrewdurham.com](/darkness-conjecture/conjecture/). It is in the public domain; please pass it on. Properly formatted and printed, it photocopies onto the front and back of a ledger-size piece of paper. Below, I have listed books that have informed the design. They are also guaranteed to clean your clock. To request help with design for your group or your inclusion on a Tribal Housing mailing list, write me at info@andrewdurham.com. To individuals with questions: before asking me, please reread the article a few times, sleep on it, use your own good sense, and talk with friends about it. Please let me in on what you come up with.
+Find the latest version of this secret-dense article and other New Tribal writings online at [darkroomretreat.com](/other-writings/). It is in the public domain; please pass it on. Properly formatted and printed, it photocopies onto the front and back of a ledger-size piece of paper. Below, I have listed books that have informed the design. They are also guaranteed to clean your clock. To request help with design for your group or your inclusion on a Tribal Housing mailing list, write me at info@andrewdurham.com. To individuals with questions: before asking me, please reread the article a few times, sleep on it, use your own good sense, and talk with friends about it. Please let me in on what you come up with.
 
 There is no, one, right way to create Tribal Housing. We can take minutes or months. We can do it bankrolled or broke, quick and dirty, or slow and precise. We can be few or many, rude or courteous, learned or just plain gung ho. However it happens, this house is a place for us, as we are.
 

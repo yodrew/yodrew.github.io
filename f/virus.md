@@ -1,9 +1,9 @@
 ---
 title: virus
 layout: page
-navprev: 
+navprev: /other-writings
 permalink: /f/virus/
-navnext: 
+navnext: /other-writings
 ---
 
 by [David Klein, Ph.D.](http://www.vibranthealthandwealthacademy.com) (RIP)  

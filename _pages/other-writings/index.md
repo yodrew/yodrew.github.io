@@ -52,7 +52,7 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 	- [Fasting: Nature's Best Remedy](./fasting/) by Albert Mosseri
 	- [Maharaj: A Biography of Shriman Tapasviji Maharaj, a Mahatma Who Lived for 185 Years](./maharaj/) by T S Anantha Murthy: report of long dark retreat <span id=new>NEW</span>
 	- [Wireless Radiation](/f/wireless) a research summary from the Naval Medical Research Institute, 1972. <span id=new>NEW</span>
-	- [True Healing Art](/f/trall.pd) by Russell Trall: a founder of hygiene speaks in 1862 at the Smithsonian. <span id=new>NEW</span>
+	- [True Healing Art](/f/trall.pdf) by Russell Trall: a founder of hygiene speaks in 1862 at the Smithsonian. <span id=new>NEW</span>
 - agriculture
 	- [Origins of Agriculture](./origins-of-agriculture/) by Wadley & Martin: a stunning _What if…?_
 	- [On a Green Mountain with Masanobu Fukuoka](./fukuoka/) the genius of natural farming

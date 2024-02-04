@@ -1,7 +1,7 @@
 ---
 title: Links
 layout: page
-navprev: tribal housing
+navprev: tribal-housing
 permalink: /other-writings/links/
 navnext: myths
 ---
