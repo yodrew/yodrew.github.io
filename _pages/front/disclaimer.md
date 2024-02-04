@@ -1,7 +1,7 @@
 ---
 title: disclaimer
 layout: page
-navprev: /
+navprev: ../../
 permalink: /front/disclaimer/
 navnext: dedication
 ---
