@@ -13,7 +13,7 @@ hexayurt front, with screen door (blue tape is screen repair, and yes, that's an
 
 hexayurt from back
 
-Between my obsessiveness about details, the non-uniform, dirty, salvaged materials, and my funny toolset, it has taken way longer than expected. These things can be built in a few days if you just [follow instructions](http://openfarmtech.org/weblog/?p=340). C'est la vie. The hexayurt now has provisional solid and screen doors. It still needs shelving.
+Between my obsessiveness about details, the non-uniform, dirty, salvaged materials, and my funny toolset, it has taken way longer than expected. These things can be built in a few days if you just [follow instructions](https://www.opensourceecology.org/hexayurt-construction/). C'est la vie. The hexayurt now has provisional solid and screen doors. It still needs shelving.
 
 I racked my brains for three days over the design of the hexayurt's experimental "flat octet truss" floor:
 

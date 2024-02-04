@@ -32,7 +32,7 @@ navnext: acknowledgments
     - The Bible as law, with DeWaynn Rogers (late legal counsel, enigma, and possibly Teacher of the Age)
     - Christianity, the Bible as it is, and Satan's rule of the world in ["Total Onslaught"](https://www.youtube.com/watch?v=LTSKfXzdiuE&list=PL95B1BB23B7A3C795) video series on YouTube, Walter Veith
     - [_Our Universal Journey_](https://ourjourneyhome.earth), George Kavassilas + [YouTube interviews](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1)
-    - animism from nature, books (above, especially by Quinn), elders (scoutmaster Jack Asher; godfather and mentor, [John Boyer](https://boyerjewelry.com)), extended family, and friends
+    - animism from nature, books (above, especially by Quinn), elders (scoutmaster Jack Asher; godfather and mentor, [John Boyer](https://www.facebook.com/boyerjewelry/)), extended family, and friends
 - health
     - my parents, always keenly interested in diet and health
     - hygiene
@@ -47,7 +47,7 @@ navnext: acknowledgments
     - my parents and brother
     - grandelder and grandmaster craftsman and engineer, [Jack Nuckols](https://rockcreekmetalcraft.com)
     - childhood teacher, Steve Parks (Horizons School, Twin Falls)
-    - accompanist and mentor, [Willetta Warberg](https://willettawarberg.com)
+    - accompanist and mentor, [Willetta Warberg](https://web.archive.org/web/20190421065127/http://willettawarberg.com:80/)
     - _The Dark is Rising_, Susan Cooper
     - _BuckyWorks_, Jay Baldwin (about Buckminster Fuller)
     - _The Natural House_, Frank Lloyd Wright

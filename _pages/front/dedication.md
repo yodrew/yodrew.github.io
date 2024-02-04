@@ -1,9 +1,9 @@
 ---
 title: dedication
-permalink: "/front/dedication/"
 layout: page
-navprev: ../
-navnext: disclaimer
+navprev: disclaimer
+permalink: "/front/dedication/"
+navnext: notes
 ---
     
 _For late friends,  
