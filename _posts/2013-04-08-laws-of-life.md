@@ -5,5 +5,5 @@ permalink: "/blog/2013/04/laws-of-life/"
 layout: post
 ---
 
-Check out Herbert Shelton's cogent discussion of the [Laws of Life](http://www.naturalhygienesociety.org/members/general/e/files/lawsoflife.pdf) as formulated in Natural Hygiene.
+Check out Herbert Shelton's cogent discussion of the [Laws of Life](https://web.archive.org/web/20190327184011/http://www.naturalhygienesociety.org/members/general/e/files/lawsoflife.pdf) as formulated in Natural Hygiene.
 

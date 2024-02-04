@@ -156,7 +156,7 @@ I have grouped laws by importance and subject. Four primary laws form the contex
 
 This is an overhaul of the [original list](/resource/laws). I had some criticisms of it. Names in (parentheses) below derive from it.
 
-Here are all the laws of life, the strongest dose of hygienism you can get.
+Here are all the Laws of Life, the strongest dose of hygienism you can get.
 
 #### primary
 
