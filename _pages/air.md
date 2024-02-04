@@ -290,9 +290,9 @@ A silencer is an larger duct section lined with insulation. Its greater volume d
 You can make or buy silencers. 
 
 - my double-turn box design is below, $2-$10 depending on your material salvaging skills.
-- [DIY straight tube design](https://www.4420magazine.com/forums/do-it-yourself/176589-diy-duct-silencer-muffler-super-cheap.html) 
-- [acoustic ducting](https://www.fantronix.com/acatalog/Acoustic_Ducting.html), at least 3m with 2-3 bends
-- [silencer for sound booths](https://www.whisperroom.com/sound-booth-optional-features.php#vent). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
+- [DIY straight tube design](https://www.420magazine.com/community/threads/diy-duct-silencer-muffler-super-cheap.176589/) 
+- [acoustic ducting](https://www.google.com/search?q=acoustic+ducting), at least 3m of 100mm with 2-3 bends
+- [silencer for sound booths](https://whisperroom-shop.com/collections/frontpage/products/ventilation-silencing-system). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
 - manufactured silencers are made of metal and other super durable materials and cost $100-200.
 
 Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. Thanks to Richard Nöjd of Skattungbyn, Sweden, for pointing out these cool solutions. 
@@ -421,7 +421,7 @@ For warmth, I often use a portable oil-filled electric heater. It is silent and 
 
 If you live in a cold place, I highly recommend buying and installing a [Heat Recovery Ventilator](https://en.wikipedia.org/wiki/Heat_recovery_ventilation) (HRV) for both health and economy. It conducts heat from return air to supply air while keeping airstreams separate using an exchanging core and fans.
 
-Fine wire heat exchange (fiwihex) technology is my favorite. It is 15x more efficient than plate exchangers. It is compact. A low power fan will supply air to one person. So it can be installed at point of use with little to no ducting. Fiwihex cores have been available for $150 from [Viking House](https://viking-house.ie) and possibly [Fresh-R](https://fresh-r.eu). These companies' _Breathing Windows_ embody an intriguing design for a complete ventilation system. 
+Fine wire heat exchange (fiwihex) technology is my favorite. It is 15x more efficient than plate exchangers. It is compact. A low power fan will supply air to one person. So it can be installed at point of use with little to no ducting. Fiwihex cores have been available for $150 from [Viking House](http://viking-house.ie) and possibly [Fresh-R](https://fresh-r.eu). These companies' _Breathing Windows_ embody an intriguing design for a complete ventilation system. 
 
 However, I lived with one for six months and found it too loud due to its small, high-RPM fans with no silencing. If fans were separated and silenced, fiwihex would be great. A 200mm axial case fan works (I tried it). DC  blower fans could work with silencing. Building your own HRV is doable.
 

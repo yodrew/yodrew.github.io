@@ -16,10 +16,10 @@ Other worthy systems I've come across in the last couple days:
 - [cyclos.org](http://cyclos.org/) open source software to run your own bank, complete with free hosting; soul boggling!
 - [villages.cc](http://villages.cc)**is the best implementation of 
 - [ripplepay.com](http://ripplepay.com/), a compelling solution to LETS accountability concerns.
-- [e-flux.com/timebank](http://e-flux.com/timebank) hip and simple
+- [e-flux.com/timebank](https://www.e-flux.com/announcements/36461/time-bank/) hip and simple
 - friendly [favors.org](http://favors.org/) 2nd largest after CES, social, clever, but aging and a bit complicated
 - [johnturmel.com/uniset.htm](http://johnturmel.com/uniset.htm) very simple, start alone now. Improved by showing account as a ledger using a [web-based spreadsheet](http://bit.ly/uletsad)
-- [JEU/GAME](http://www.personocratia.com/en/documents/game-full-document.pdf) paper system (compatible with CES), very elegant, semi-private, decentralized accounting, best for when the lights go out.
+- [JEU/GAME](https://www.personocratia.com/en/le-j-e-u/) paper system (compatible with CES), very elegant, semi-private, decentralized accounting, best for when the lights go out.
 
 CES is (NOT*) the most accessible, practical, and mature, though some of these systems, especially payswarm, have much greater potential. Open source money has finally gotten legs, wings… and teeth.
 

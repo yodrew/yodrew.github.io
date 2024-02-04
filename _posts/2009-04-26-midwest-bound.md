@@ -5,7 +5,7 @@ permalink: "/blog/2009/04/midwest-bound/"
 layout: post
 ---
 
-I have decided that the darkness retreat must be embedded in a life that already works well in other ways. So I am going to the midwest next week to stay at the [Possibility Alliance](http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/), which I have [mentioned before](/blog/2009/02/its-not-mine-alone/). After languishing in Eugene for six weeks following my first failed attempt at a long darkness retreat, and exploring options here in Seattle for a month, it is clear my own happiness must become a priority. I cannot wait until the completion of a darkness retreat. And I cannot hope that anyone will really understand this before I complete one.
+I have decided that the darkness retreat must be embedded in a life that already works well in other ways. So I am going to the midwest next week to stay at the [Possibility Alliance](https://planetsave.com/articles/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/), which I have [mentioned before](/blog/2009/02/its-not-mine-alone/). After languishing in Eugene for six weeks following my first failed attempt at a long darkness retreat, and exploring options here in Seattle for a month, it is clear my own happiness must become a priority. I cannot wait until the completion of a darkness retreat. And I cannot hope that anyone will really understand this before I complete one.
 
 I really appreciate the comments and support various people have given me since I stumbled out of the darkness in February. Boy, what a strange couple of months it has been!
 

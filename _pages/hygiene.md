@@ -315,7 +315,7 @@ This is the general theory of hygiene 3.0. Now we can better apprehend our main 
 
 &nbsp;
 
-[^1]: Herbert Shelton, [Natural Hygiene: Man's Pristine Way of Life](https://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.hhtm), elegantly paraphrased by TC Fry, [Life Science Health System](https://www.scribd.com/doc/225734352/The-Life-Science-Health-System-T-C-Fry).
+[^1]: Herbert Shelton, [Natural Hygiene: Man's Pristine Way of Life](https://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm), elegantly paraphrased by TC Fry, [Life Science Health System](https://mojadrogadozdrowiablog.files.wordpress.com/2016/03/the-life-science-health-system-t-c-fry.pdf).
 [^2]: Unfortunately, White abused people from the pulpit. It became a tradition in her church. I can't recommend visiting it. But Walter Veith's lecture series on YouTube, _Total Onslaught_, is electrifying. It integrating all the strange events of history and with the Bible.
 [^3]: Herbert Shelton, [Science and Fine Art of Natural Hygiene](/nhs.pdf), back cover.
 [^4]: religion, Latin, re (_again_) + leg (_law_), an internal binding to law. It is mad act, making people strange.

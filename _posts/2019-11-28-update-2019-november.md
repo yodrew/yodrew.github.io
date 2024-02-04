@@ -32,7 +32,7 @@ Development ended this autumn when I saw:
 1. the last pieces of the method
     - air filtration
     - bed design
-    - the infinite nature of the self (thanks to George Kavassilas, author of [_Our Universal Journey_](https://www.weareinfinite.love/our-universal-journey)) and several videos online. George shows how we have been in denial of our deep selves. He shows how we have some access to it. We need the relief and comfort it brings now. We need it to completely recover ourselves in darkness.
+    - the infinite nature of the self (thanks to George Kavassilas, author of [_Our Universal Journey_](https://www.ourjourneyhome.earth/market-place#section-1592035487385)) and [several videos](https://youtu.be/NI0D-yZJqzI) online. George shows how we have been in denial of our deep selves. He shows how we have some access to it. We need the relief and comfort it brings now. We need it to completely recover ourselves in darkness.
 2. the method as a whole 
     - importance of and high standards necessary for all pieces. I tried for years to get by on quick, cheap solutions. That was fine for experiments. But for full application, everything needs serious attention.
     - how they all work together. The main elements are:

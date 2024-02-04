@@ -15,17 +15,14 @@ I recommend the following designs/methods for shelter construction.
 [Self-Strutting Geodesic Plydome](https://web.archive.org/web/20050308102749/http://www.sover.net:80/~triorbtl/index1.html) (weeks)  
 Steve Miller's perfection of Buckminster Fuller's design for a frameless sphere. Write me for detailed plans.
 
-[Conic Shelter](https://www.fishrock.com/conics) (weeks)  
+[Conic Shelter](https://conic.design) (weeks)  
 Chuck Henderson's sweeping, simple, brilliant, circled-square construction
 
-[Hexayurt](https://www.hexayurt.com/) (hours)  
+[Hexayurt](http://www.hexayurt.com/) (hours)  
 Vinay Gupta's 3-hour, $200, portable pop-up shelter + autonomous infrastructure
 
-[Superadobe](https://www.calearth.org/) (weeks)  
+[Superadobe](https://calearth.org/) (weeks)  
 Nadir Khalili's giant upside down coil pot shelters elegantly made from war materials
-
-[Straw Bale Dome](https://andrewdurham.shutterfly.com/355#355) (weeks)  
-my design for a frameless, superinsulated, catenary, corbelled, _cheap_ shelter, based on superadobe
 
 [Cardboard Geodesic Dome](https://www.cccoe.net/stars/) (days)  
 I started work on improving this. See pics of Seattle and Sweden Domes [here](https://andrewdurham.shutterfly.com).

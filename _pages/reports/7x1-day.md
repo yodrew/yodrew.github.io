@@ -79,7 +79,7 @@ My failure at shit tests had figured largely into my break-up. Reading about the
 
 I learned the principle of _masculinity as respectful dominance_ (see _Tao of Badass_ by Joshua Pellicer and _Book of Pook_ by Pook). This idea shocked me after living 25 years with feminist indoctrination and its mounting gender warfare.
 
-I laughed harder than I ever have at hundreds of pick-up stories in _The Game_ by Neil Strauss and _Get Laid or Die Trying_ by Jeff Allen. PUA is super liberating. I am trying this new way of being toward women, alternately succeeding slightly then bombing. Still an [AFC](http://www.pualingo.com/pua-definitions/average-frustrated-chump-afc/), but the ducks are slowly lining up.
+I laughed harder than I ever have at hundreds of pick-up stories in _The Game_ by Neil Strauss and _Get Laid or Die Trying_ by Jeff Allen. PUA is super liberating. I am trying this new way of being toward women, alternately succeeding slightly then bombing. Still an [AFC](https://puamore.com/wiki/afc/) (also [here](https://cdn.preterhuman.net/texts/sex/Technique/Seduction/seductionlibrary/afc.html)), but the ducks are slowly lining up.
 
 UPDATE: The pickup I studied at first was _indirect_. It made my "game" more awkward than ever. It is the source of the sleaziness I never liked about pickup. After eight months of this, I came across the _direct_ approach to pickup: telling a woman right away why I noticed her and the romantic purpose I am talking to her for. This is a consistent application of the alpha/dominant idea to pickup. A dominant man needn't hide his intentions behind memorized techniques and lines, as in the _indirect_ approach.
 

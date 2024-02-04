@@ -24,7 +24,7 @@ _revised 2 Dec 03_
 
 *I got a chance to ask Mr Quinn to read this essay; I am glad to report he likes it.
 
-   [1]: https://www.ishmael.com/Education/Writings/technology_and_other_war.shtml
+   [1]: https://www.ishmael.org/daniel-quinn/essays/technology-the-other-war/
 
 
 

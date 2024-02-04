@@ -5,7 +5,7 @@ permalink: "/blog/2012/02/dominant-assurance-with-a-twist/"
 layout: post
 ---
 
-I came up with a twist on [Dominant Assurance Contracts](http://marginalrevolution.com/marginalrevolution/2005/05/assurance_contr.html). Which is economist [Alex Tabarrok](http://mason.gmu.edu/~atabarro/)‘s game theoretical extension of the all-or-nothing Assurance Contract popularized by [Kickstarter](http://www.kickstarter.com). In an assurance contract, if pledges toward a financial goal are insufficient by the contract's deadline, then pledges remain uncollected. With dominant assurance, everyone who offered to contribute gets a **bonus**. "Thus contribution becomes the _dominant_ strategy," says Dr Tabarrok.
+I came up with a twist on [Dominant Assurance Contracts](http://marginalrevolution.com/marginalrevolution/2005/05/assurance_contr.html). Which is economist [Alex Tabarrok](http://mason.gmu.edu/~atabarro/)‘s game theoretical extension of the all-or-nothing Assurance Contract popularized by [Kickstarter](https://kickstarter.com). In an assurance contract, if pledges toward a financial goal are insufficient by the contract's deadline, then pledges remain uncollected. With dominant assurance, everyone who offered to contribute gets a **bonus**. "Thus contribution becomes the _dominant_ strategy," says Dr Tabarrok.
 
 My idea takes off from there.
 

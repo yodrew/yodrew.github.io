@@ -19,7 +19,7 @@ I racked my brains for three days over the design of the hexayurt's experimental
 
 It was worth it, though. I'd been imagining it for a few years and finally had a chance to build it. It is much lighter than a conventional 2×4 or 2×6 joist floor. It is springy and will work nicely in the dome.
 
-Now that I'm sleeping in it, I'm keeping electricity out of it. This is due partly to the influence of the [Hughes](http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/), who make such excellent candles. I am using an oil lamp:
+Now that I'm sleeping in it, I'm keeping electricity out of it. This is due partly to the influence of the [Hughes](https://planetsave.com/articles/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/), who make such excellent candles. I am using an oil lamp:
 
 uses any vegetable oil or biodiesel
 

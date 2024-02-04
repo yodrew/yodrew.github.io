@@ -184,7 +184,7 @@ How did all this begin?
 
 My parents were thinkers and somewhat unconventional. They were much concerned with philosophy, health, design, and music. I took all of it more seriously than they expected. 
 
-They were emotionally distant. My intense [older brother](https://pauldurham.com) became a big force in my life. For me, our house was more training camp than home. Other [influences](/back/bibliography-influences/) and [people](/back/acknowledgments/) smoothed it out a bit.
+They were emotionally distant. My intense [older brother](http://pauldurham.com) became a big force in my life. For me, our house was more training camp than home. Other [influences](/back/bibliography-influences/) and [people](/back/acknowledgments/) smoothed it out a bit.
 
 I felt awed by life at 2, joyful at 3. School started and a part of me went comatose.
 

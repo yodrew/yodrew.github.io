@@ -117,7 +117,7 @@ I welcome everyone's improvements to these specifications judged by the objectiv
             - any fueling occurs outside room
             - non-electric if possible, otherwise, low-intensity, centralized, EM-shielded electric heat
         - if possible
-            - [Heat Recovery Ventilator](https://en.wikipedia.org/wiki/Heat-recovery-ventilation), either with fiwihex core ([Fresh-R](https://vaventis.com)) or Mitsubishi Lossnay core ([Renewaire](https://www.renewaire.com)) (or other high-tech paper core). Fans require silencers and/or acoustic ducting.
+            - [Heat Recovery Ventilator](https://en.wikipedia.org/wiki/Heat_recovery_ventilation), either with fiwihex core ([Fresh-R](https://fresh-r.eu)) or Mitsubishi Lossnay core ([Renewaire](https://www.renewaire.com)) (or other high-tech paper core). Fans require silencers and/or acoustic ducting.
             - building is super-insulated and sealed to Passive House standards to eliminate heating 
         - _basic:_ somehow, be warm in and out of bed 
     - comfortable

@@ -6,7 +6,7 @@ navprev: 14-day-lindsey-vona
 navnext: 3-day-sith-bathchamber
 ---
 
-[This story originally came from [Rhio's website](https://hookedonraw.com/?page_id=5648). I finally got a rare copy of the book mentioned. I photographed it, extracted the text, and published it as [Maharaj](/other-writings/maharaj). The excerpt below is from [chapter 27](/other-writings/maharaj#chapter-27) I compared the two texts and restored some lines that Rhio deleted.  
+[This story originally came from [Rhio's website](https://hookedonraw.com/compilation-2-june-2002/). I finally got a rare copy of the book mentioned. I photographed it, extracted the text, and published it as [Maharaj](/other-writings/maharaj). The excerpt below is from [chapter 27](/other-writings/maharaj#chapter-27) I compared the two texts and restored some lines that Rhio deleted.  
 -ad
 
 ~

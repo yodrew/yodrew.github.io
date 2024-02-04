@@ -96,7 +96,7 @@ Hygienic darkroom retreating is that chance.
 At last we are prepared to understand the secret of why hygienic darkroom retreating works. There are three reasons: physiology, attitude, and environment
 
 1. Physiology
-    1. Circadian rhythms: We have a 24-hour wake-sleep cycle. It is governed by the circadian system. This system is controlled by a tiny region of the brain. It is called the [suprachiasmatic nucleus](https://en.wikipedia.org/wiki/suprachiasmatic-nucleus). It has an internal 24-hour clock and resets itself with light. It rests atop the optic chiasm, the intersection of the optic nerves coming from the backs of the eyes. The eyes send it a direct signal of the presence or absence of light. This is prior to the imagery in the signal decoded by the visual cortex of the brain. 
+    1. Circadian rhythms: We have a 24-hour wake-sleep cycle. It is governed by the circadian system. This system is controlled by a tiny region of the brain. It is called the [suprachiasmatic nucleus](https://en.wikipedia.org/wiki/suprachiasmatic_nucleus). It has an internal 24-hour clock and resets itself with light. It rests atop the optic chiasm, the intersection of the optic nerves coming from the backs of the eyes. The eyes send it a direct signal of the presence or absence of light. This is prior to the imagery in the signal decoded by the visual cortex of the brain. 
 
         The suprachiasmatic nucleus, for example, instructs the pineal gland to secrete a famous hormone, [melatonin](https://en.wikipedia.org/wiki/melatonin) into the bloodstream. This hormone causes us to sleep, dream, and lose appetite. In absolute extended darkness, the pineal gland _floods_ the body with melatonin, intensifying these restful processes. 
 
@@ -279,7 +279,7 @@ One does nothing directly in a retreat to cause healing. So one's focus should b
 - darkroom
 	- [design](/design) and [make](/make) a darkroom (1 month) or [retreat](/back/services#retreat) at one of ours
 - support
-	- A [5-day retreat](/format#5-day) can be done alone. Just make sure no unsympathetic people are around. Support can be nice. Arrange it with someone with common sense, a stable personality, reliability, and sympathy. This is important for both mechanical and psychical reasons. See [support](/protocol#support).
+	-[5-day retreat](/format#5-day) can be done alone. Just make sure no unsympathetic people are around. Support can be nice. Arrange it with someone with common sense, a stable personality, reliability, and sympathy. This is important for both mechanical and psychical reasons. See [support](/protocol#support).
 
 Then schedule the retreat, collect food, and begin.
 
@@ -295,4 +295,4 @@ Buckle up. We are heading into the psychological implications of hygienic darkro
 [^4]: Walter Veith, former biology professor and Adventist evangelist, exposes most spiritual activity as Satanism, ie, the lie of works-based salvation. In his sing-song voice, he makes crystal clear the unified story arc of the Bible and the meaning of Christ's message of salvation by grace. (Hygiene's restful approach to healing translates this message into biological terms.) See his astonishing video series, [Total Onslaught](https://adtv.watch/series/total-onslaught).
 [^5]: [Our Universal Journey](https://www.ourjourneyhome.earth/market-place#section-1592035487385) by George Kavassilas, ET contactee and philosopher, exposes all spiritual activity as part of an all-too-real, cosmic-scale [God Control Matrix](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1). George has genuinely new and compelling ideas, from his cosmopolitics and exponential physics to his psychophysiology and ontology of the eternal individual.
 [^6]: [Political Ponerology](/f/ponerology.pdf) by Andrei Lobaczewski, clinical psychologist. He studied psychopathy on a mass scale under the Nazis then the communists in Poland. He and his multi-generational team, working in secret, found its patterns, mechanisms—and simple preventatives. Here is an [excellent introductory interview](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
-[^7]: [Findings of Robert Hare](https://www.hare.org/links/saturday.html), psychologist and creator of the Psychopathy Checklist.
+[^7]: [Findings of Robert Hare](http://www.hare.org/links/saturday.html), psychologist and creator of the Psychopathy Checklist.

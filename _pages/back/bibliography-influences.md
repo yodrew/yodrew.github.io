@@ -17,7 +17,7 @@ navnext: acknowledgments
 - psychology
     - _The Continuum Concept_, [Jean Liedloff](https://continuum-concept.org) (also anthropology)
     - _Summerhill_, A S Neill, genius headmaster
-    - _Magical Child Matures_, [Joseph Chilton Pearce](https://www.ttfuture.org/jcp/front)
+    - _Magical Child Matures_, [Joseph Chilton Pearce](https://joseph-chilton-pearce.com/) and [here](https://ttfuture.org)
     - _Birth Without Violence_ Frederick Leboyer
     - _The Primal Scream_, Arthur Janov
     - _Mass Psychology of Fascism_, Wilhelm Reich
@@ -27,11 +27,11 @@ navnext: acknowledgments
 - philosophy 
 	- my parents, John and LouAnn, and brother, [Paul](https://blacklabworld.com)
     - _Atlas Shrugged_, etc, Ayn Rand, preceptor
-   - [Tantric Hinduism](https://hohmpress.com/books-hohm-press/alchemy-transformation-book.html) with my former guru, [Purna Steinitz](https://goo.gl/dEcMwg)
+   - [Tantric Hinduism](https://www.hohmpress.com/products/the-alchemy-of-transformation) with my former guru, [Purna Steinitz](https://goo.gl/dEcMwg)
     - _In Search of the Miraculous_, PD Ouspensky (GI Gurdjieff's basic teachings)
     - The Bible as law, with DeWaynn Rogers (late legal counsel, enigma, and possibly Teacher of the Age)
     - Christianity, the Bible as it is, and Satan's rule of the world in ["Total Onslaught"](https://www.youtube.com/watch?v=LTSKfXzdiuE&list=PL95B1BB23B7A3C795) video series on YouTube, Walter Veith
-    - [_Our Universal Journey_](https://weareinfinite.love), George Kavassilas + [YouTube interviews](https://youtu.be/NI0D-yZJqzI)1
+    - [_Our Universal Journey_](https://ourjourneyhome.earth), George Kavassilas + [YouTube interviews](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1)
     - animism from nature, books (above, especially by Quinn), elders (scoutmaster Jack Asher; godfather and mentor, [John Boyer](https://boyerjewelry.com)), extended family, and friends
 - health
     - my parents, always keenly interested in diet and health
