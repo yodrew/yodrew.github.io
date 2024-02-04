@@ -1,9 +1,9 @@
 ---
 title: back
-permalink: "/back/"
+permalink: /back/
 layout: index
 navprev: water
-navnext: "back/faq"
+navnext: back/faq
 ---
 
 - [faq](./faq)

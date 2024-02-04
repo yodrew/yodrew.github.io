@@ -297,6 +297,8 @@ A panel:
 - usable just for retreats or permanently
 - adds security if installed outside and latches from the inside through the window
 
+<!--&nbsp;-->
+
 ![photo: panel, exterior](/img/photo/panel.jpg)
 
 <!--&nbsp;-->
