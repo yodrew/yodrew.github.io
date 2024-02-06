@@ -1,8 +1,8 @@
 ---
 title: psychology&nbsp; &nbsp;3
-permalink: "/psychology/"
 layout: page
 navprev: darkroom-retreat
+permalink: /psychology/
 navnext: format
 ---
 

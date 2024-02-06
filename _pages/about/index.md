@@ -1,13 +1,14 @@
 ---
 title: about
-permalink: "/about/"
-layout: index
+layout: page
 navprev: 
+permalink: "/about/"
 navnext: /back/faq
 ---
 
-Links to back matter  
-of book now in menu
+**See menu for**  
+**links to**  
+**back of book**
 {:.submenu}
 
 Welcome. This website contains:
@@ -17,14 +18,14 @@ Welcome. This website contains:
 - [other writings](/other-writings), mostly earlier
 - a [blog](/blog), added to every year or so
 
-For more about me, see [bio](/back/bio)
+See more about:
 
-### contact
+- my [services](/back/services)
+- how to [license](/back/license) my book to sell it
+- ways to [participate](/back/participate)
+- [me](/back/bio)
 
-website: [darkroomretreat.com](/)  
-email: info {at} andrewdurham.com  
-voicemail: +1 541 210 8470 (in the US)  
-Also see [services](/back/services/)
+{% include contact.md %}
 
 ### newsletter
 
@@ -32,6 +33,10 @@ Also see [services](/back/services/)
 
 ### site history
 
-This site has changed regularly for 20 years. It began as geocities.com/secretdesign. I moved it to andrewdurham.com using WordPress. Then it became darkroomretreat.com with static site generators.
+- 2000 - 200?: geocities.com/secretdesign
+- 200? - 201?: andrewdurham.com with WordPress
+- 201? - present: darkroomretreat.com with jekyll (after nanoc)
 
-I can't keep track of changes anymore. Follow them on web.archive.org.
+[web.archive.org](https://web.archive.org) does a fair job of tracking the changes.
+
+

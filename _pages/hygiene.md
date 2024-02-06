@@ -1,8 +1,8 @@
 ---
 title: hygiene&nbsp; &nbsp;1
-permalink: "/hygiene/"
 layout: page
-navprev: "front/introduction"
+navprev: front/introduction
+permalink: /hygiene/
 navnext: darkroom-retreat
 ---
 

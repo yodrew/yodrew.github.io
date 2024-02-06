@@ -1,6 +1,6 @@
 ---
 title: front
-layout: index
+layout: page
 navprev: ../
 permalink: /front/
 navnext: front/dedication

@@ -1,8 +1,8 @@
 ---
 title: darkroom retreat&nbsp; &nbsp;2
-permalink: "/darkroom-retreat/"
 layout: page
 navprev: hygiene
+permalink: /darkroom-retreat/
 navnext: psychology
 ---
 

@@ -2,7 +2,7 @@
 title: make&nbsp; &nbsp;8
 layout: page
 navprev: design
-permalink: "/make/"
+permalink: /make/
 navnext: air
 ---
 
@@ -19,11 +19,11 @@ This chapter provides basic information that applies to all components of a dark
 
 A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes a knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement.
 
-These are normal activities. Everyone does them to some degree. and get help with the rest. If you can walk down stairs without falling, slice a loaf of bread, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, a mechanical engineer and my grand-elder, once told me when my time came, "Become a craftsman." Perhaps your time has come. Become a craftsman.
+These are normal activities. Everyone does them to some degree. and get help with the rest. If you can walk down stairs without falling, slice a loaf of bread, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, a mechanical engineer and my grand-elder, told me when my time came, "Become a craftsman." Perhaps your time has come. Become a craftsman.
 
 A sniper's rule could belong to craftsman, too: "Aim small, miss small." The precision of the plans to follow helps you aim small. The designs and materials are forgiving. Little mistakes can be absorbed, bigger ones, corrected or repaired.
 
-I suggest that, your first time through these last chapters, you read everything in this one. But just read the prose parts of the next three. Save the lists of instructions till you make something. They make dense reading. Eventually, they'll be replaced with graphical assembly instructions like IKEA's. For now, we slog through.
+I suggest that, your first time through these last chapters, you read everything in this one. But just read the prose parts of the next three. Skip the lists of instructions till you make something. They make too dense reading before you have great need. Eventually, they'll be replaced with graphical assembly instructions like IKEA's. For now, slog through with me.
 
 All components rely on the basic instructions in the following sections: **metric**, **tools**, **plans**, and **fabrication**. 
 
