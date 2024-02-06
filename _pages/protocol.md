@@ -1,8 +1,8 @@
 ---
 title: protocol&nbsp; &nbsp;5
-permalink: "/protocol/"
 layout: page
 navprev: format
+permalink: /protocol/
 navnext: prepare
 ---
 

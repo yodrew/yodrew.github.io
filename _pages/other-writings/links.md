@@ -1,9 +1,9 @@
 ---
 title: Links
 layout: page
-navprev: tribal-housing
+navprev: 
 permalink: /other-writings/links/
-navnext: myths
+navnext: 
 ---
 
 #### Shelter

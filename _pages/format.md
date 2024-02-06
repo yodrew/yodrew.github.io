@@ -1,8 +1,8 @@
 ---
 title: format&nbsp; &nbsp;4
-permalink: "/format/"
 layout: page
 navprev: psychology
+permalink: /format/
 navnext: protocol
 ---
 
@@ -10,9 +10,9 @@ We can use darkness in various formats for different reasons. Here, I describe f
 
 I recommend gradually increasing the length of stays in darkness. First darken your bedroom for sleeping and maybe a mini-retreat (12--16 hours). This improves your sleep and gives you a taste of a retreat. Upgrade your room for a [5-day](/format#5-day) retreat. You will get relief, profound rest, and hints of healing. It will also work for 9-day [Czech](/format#czech) retreats.
 
-A dedicated darkroom works better for 9-day [standard](#standard) retreats and [medium](#medium)-length retreats (3--8 weeks). I believe we can heal from the core of our suffering in a medium retreat. Your experience at home might inspire you to build such a darkroom yourself. Interest in darkness is growing. The world needs more and better facilities than the dozens that exist. 
+A dedicated darkroom works better for 9-day [standard](/format#standard) retreats and [medium](/format#medium)-length retreats (3--8 weeks). I believe we can heal from the core of our suffering in a medium retreat. Your experience at home might inspire you to build such a darkroom yourself. Interest in darkness is growing. The world needs more and better facilities than the dozens that exist. 
 
-Even greater preparations must be made for a [long](#long) retreat (3-12 months). It promises to enable us to heal from everything. This includes what few people believe can heal: major physical illness and injury, missing teeth, age-related symptoms. Even birth defects, including ugliness, brain damage, amputation, and nanite infestation might heal. It stands to reason. The self-healing organism cannot help but attain perfect health if the conditions are provided.
+Even greater preparations must be made for a [long](/format#long) retreat (3-12 months). It promises to enable us to heal from everything. This includes what few people believe can heal: major physical illness and injury, missing teeth, age-related symptoms. Even birth defects, including ugliness, brain damage, amputation, and nanite infestation might heal. It stands to reason. The self-healing organism cannot help but attain perfect health if the conditions are provided.
 
 In general, the longer a retreat, the better its conditions must be. This means more silence, space, comfort, and support. You can pull off a 5-day retreat nearly anywhere.
 

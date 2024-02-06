@@ -1,9 +1,9 @@
 ---
 title: acknowledgments
-permalink: "/back/acknowledgments/"
 layout: page
 navprev: bibliography-influences
-navnext: services
+permalink: "/back/acknowledgments/"
+navnext: participate
 ---
 
 Thanks to hundreds of people in a dozen countries on 2 continents for over 3 decades, who morally and materially aided me during my prodigal search, especially my Norwegian:
@@ -18,10 +18,11 @@ Thanks to hundreds of people in a dozen countries on 2 continents for over 3 dec
 
 #### collaborators
 
-- Chrissy Weisgard: friend, host, client, morale-boostser since 2009
-- Johan J&auml;rlind: investor-partner, retreat supporter, confidant, and friend in critical years 2012-14. You gave me so much, I'm speechless except... thank you.
-- Simen Kirker&oslash;d, friend, host, serious retreater and observer, with loads of ideas and help since 2013
+
 - Marion Abbott, for friendship, overflowing transworld conversations, and constant in-the-trenches support starting 2016
+- Simen Kirker&oslash;d, friend, host, serious retreater and observer, with loads of ideas and help since 2013
+- Johan J&auml;rlind: investor-partner, retreat supporter, confidant, and friend in critical years 2012-13. You gave me so much, I'm speechless except... thank you.
+- Chrissy Weisgard: friend, host, client, morale-booster since 2009
 
 #### family
 
@@ -32,8 +33,7 @@ Immediate, extended, and adopted: I leaned on all of you that would let me. It c
 - Brother Francois, for constant experience of love
 - Cousin Christopher, for your generosity and grit
 - Uncle Jim---dropout, drug dealer, beach bum, loser, cool-ass motherfucker---for laughingly giving the system the finger till the day you died. RIP, man.
-
-Trimurti: my second family, torn away as soon as I noticed, for helping further raise me
+- Trimurti: my second family, torn away as soon as I noticed, for helping further raise me
 
 #### influences
 
@@ -43,7 +43,7 @@ Trimurti: my second family, torn away as soon as I noticed, for helping further 
 - Willetta Warberg: you poured your heart and soul into me through your piano, kindness, and huge personality. RIP.
 - John Boyer: you fed me with so much of your _time_.
 - Purna Steinitz: you destroyed my sentimentality and kept your terrible promise.
-- DeWaynn Rogers: you helped me up, to push back, and to stay out of the system's clutches. RIP.
+- DeWaynn Rogers: you helped me get up, push back, and stay out of the system's clutches. RIP.
 - Harold: you showed me my job.
 
 Each of you gave me the world.
@@ -52,7 +52,7 @@ Each of you gave me the world.
 
 - John Roberts: lifelong friend, biggest supporter, and host
 - Danny Meulbroek: guardian, supporter, and host extraordinaire 
-- Brian Riggs Sullivan: full-throttle collaborator, who gave first help in developing these ideas and, as always, trying them out
+- Brian Sullivan: full-throttle collaborator, who gave first help in developing these ideas and, as always, trying them out
 - Evelyn Thomas and Sterling Voss: supporters, fellow investigators and survivors 
 - Ian Robertson: for the life-ring of rationality when it mattered most
 
@@ -67,11 +67,11 @@ Each of you gave me the world.
     - Daniel Tucker and Les Stitt, then Ben Ramsey and Stephanie: for KCMO shelter
 - Guatemala
     - The Maya: for your friendship and unshakable presence
-    - Niels Gronau: for the miraculous Guatemalan facility
+    - Niels Gronau: for your miraculous Guatemalan facility
     - Elena Rago: friend, neighbor, and provider of an experimental facility
     - Karsten: friend, neighbor, supporter, client, and for lending me tools and a workshop where such things are rare
     - Tom Savage: friend and supporter
-    - Sandro Garcia, Nancy Gayle Martin, and Violet: heroic friends, hosts, supporters, retreaters
+    - Sandro Garcia, Nancy Martin, and Violet: heroic friends, hosts, supporters, retreaters
     - Joshua Brang and Nadja: friends, supporters, and (Josh) travel agent
     - my clients: for exploring darkness with me
 - Europe
@@ -96,13 +96,13 @@ Each of you gave me the world.
     - Astrit Gashi, friend and host
     - Ketil Berg, friend, host, sponsor, treasurer extraordinaire. Without you, 2015 would have been very hard to survive. RIP
     - Marie Richert and Virginie Bournaud, friends, hosts, sponsors, and guides in Paris
-	- 40 contributors to my successful 2016 crowdfund to support my 21-day retreat, sadly aborted at 5 days. I'll keep trying.
+	- 40 contributors to my 2016 crowdfund to support a 21-day retreat
 	- Aimee Fenech and TomTom, friends, hosts, helpers, and mentors in Spain
 	- Jan and Thomas Hermann, hosts in La Alpujarra proper 
     - Mary Salama back home in America, for proof-editing this book in 2018
     - Lougaya and J. for support and for trying and making darkness wholeheartedly.
     - Jan Hlavacek, Stepanka Trenz, Martin Pokorny, Petr Vesely, Katerina Cervena, Honza Dlabal for showing me dark retreating in Czech Republic
-    - Pavel Pelikan, Cestr family, Jarda and Jana, and my other neighbors in Czech Republic, for such great peace, kindness, and respect
+    - Pavel, Cestr family, Jarda and Jana, and my other neighbors in Czech Republic, for such great peace, kindness, and respect
 
 #### end
 

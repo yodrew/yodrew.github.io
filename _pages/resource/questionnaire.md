@@ -11,8 +11,7 @@ Complete this questionnaire to [retreat](/back/services#retreat) or [confer](/ba
 Fee: $40
 
 - applies to retreat deposit (good for one year)
-- non-refundable
-- address concerns beforehand: 
+- non-refundable; address concerns beforehand: 
 	- info@andrewdurham.com
 	- +1 (541) 210-8470 (txt/vm)
 

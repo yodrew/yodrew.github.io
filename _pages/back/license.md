@@ -1,9 +1,9 @@
 ---
 title: license
-permalink: "/back/license/"
 layout: page
-navprev: services
-navnext: participate
+navprev: participate
+permalink: "/back/license/"
+navnext: services
 ---
 
 Welcome to the political-economy of _cool_. Here, you get rewarded for cooperating, not punished if you don't. 

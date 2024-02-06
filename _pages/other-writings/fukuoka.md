@@ -10,6 +10,14 @@ navnext:
 by Jim Bones
 [archived page](https://web.archive.org/web/20051224120427/http://www.seedballs.com/)
 
+[NOTE: I grew up in Twin Falls, a center of Idaho's great southern farmland. My grandparents were farmers, and I grew up gardening with my mom and grandma. Agriculture meant a lot to my dad, who spent a lot of time at his uncle's farm. He applied his genius designer's mind to developing natural fertilizers for farmers and landscapers. I helped him sometimes in his business, mixing and delivering fertilizers and running barefoot around fields, collecting plant samples. 
+
+Later, I would try biointensive mini-farming, and gardening without digging (based on a book by the same name by A Guest). Permaculture was big in Oregon. When I saw a talk there on Masunoba and Natural Farming, I knew I was home. The problem of agriculture had been solved. The author of this story relates a similar moment just as he is leaving Fukuoka's farm.
+
+For more, see Fukuoka's many books as well as Larry Korn's book on Natural Farming. He wrote it after being Fukuoka's apprentice and practicing Natural Farming for many years.]
+
+~/~
+
 _"The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."_[^1]  
 Masanobu Fukuoka
 
@@ -49,7 +57,7 @@ We affirmed so, as much as possible.
 
 "Yes," said Howard, "but we would like to go over the list of questions just to be sure."
 
-"Shaking his head Mr. Fukuoka said, "If you are still interested in learning about Natural Farming, go with my daughter and her helpers to the citrus orchards, then come back this afternoon."
+Shaking his head Mr. Fukuoka said, "If you are still interested in learning about Natural Farming, go with my daughter and her helpers to the citrus orchards, then come back this afternoon."
 
 Naomi, Cat and Anthony rode silently with his daughter, while Howard and I squeezed into a utility truck with a young man who spoke fluent English. He sped up a steep road that turned into a trail through dense forests of mandarin oranges. We soon crested the ridge and stopped in the mist surrounded by trees heavy with green fruit.
 
