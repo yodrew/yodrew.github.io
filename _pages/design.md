@@ -2,7 +2,7 @@
 title: design&nbsp; &nbsp;7
 layout: page
 navprev: prepare
-permalink: /design/
+permalink: "/design/"
 navnext: make
 ---
 

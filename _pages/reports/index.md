@@ -1,7 +1,7 @@
 ---
 title: retreat reports
 permalink: "/reports/"
-layout: page
+layout: index
 navprev: 
 navnext: reports/five-darkness-experiences
 ---

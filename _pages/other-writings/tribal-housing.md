@@ -3,7 +3,7 @@ title: Tribal Housing
 layout: page
 navprev: ordo
 permalink: /other-writings/tribal-housing/
-navnext: myths
+navnext: links
 ---
 
 ### a design for a full life on $250 a month

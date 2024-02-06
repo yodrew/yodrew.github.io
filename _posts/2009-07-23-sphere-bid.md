@@ -38,4 +38,4 @@ Here is my quick bid for the direct costs of building the sphere.
     - inversion swing
     - chin-up bar
 
-If you feel moved to contribute in any way to the purchase of materials, the fabrication, assembly, outfitting, and occupation of the sphere, please [write me](/about#contact).
+If you feel moved to contribute in any way to the purchase of materials, the fabrication, assembly, outfitting, and occupation of the sphere, please [write me](/about/).

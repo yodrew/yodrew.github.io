@@ -1,22 +1,22 @@
 ---
 title: faq
+permalink: "/back/faq/"
 layout: page
 navprev: "../water"
-permalink: "/back/faq/"
 navnext: bibliography-influences
 ---
 
 ### mechanics
 
-<!-- - **I don't read books.**
+<!-- - _I don't read books._
 
 No worries. The breakfast cereal will be out soon.
 
-- **I only read fiction.**
+- _I only read fiction._
 
 Some people view this book as fiction. Think of it as a story you can enter and try. That's when it really picks up.
 -->
-1 - **Where can I go for a hygienic darkroom retreat?**
+1 - _Where can I go for a hygienic darkroom retreat?_
 
 <!--&nbsp;-->
 
@@ -28,7 +28,7 @@ This is why I wrote the last five chapters of this book. Use them to make darkne
 
 <!--&nbsp;-->
 
-2 - **I suffer from X. Will this help me?**
+2 - _I suffer from X. Will this help me?_
 
 <!--&nbsp;-->
 
@@ -38,7 +38,7 @@ In your first retreats, you get a taste of these things. You realize them fully 
 
 <!--&nbsp;-->
 
-3 - **Do you eat in a darkroom retreat?**
+3 - _Do you eat in a darkroom retreat?_
 
 <!--&nbsp;-->
 
@@ -48,7 +48,7 @@ Fasting is part of hygiene, too. It is compatible with darkness. But wait on it 
 
 <!--&nbsp;-->
 
-4 - **How many people retreat at once?**
+4 - _How many people retreat at once?_
 
 <!--&nbsp;-->
 
@@ -56,7 +56,7 @@ One. The point of this retreat is to rest, heal, and recover oneself. Nothing is
 
 <!--&nbsp;-->
 
-5 - **How do you do things in darkness?**
+5 - _How do you do things in darkness?_
 
 <!--&nbsp;-->
 
@@ -64,7 +64,7 @@ Slowly and smoothly. First, become familiar with the room in light. Make memorab
 
 <!--&nbsp;-->
 
-6 - **Could you just retreat with a mask?**
+6 - _Could you just retreat with a mask?_
 
 <!--&nbsp;-->
 
@@ -76,7 +76,7 @@ Sleeping masks are good for travel, naps, and sleeping until your bedroom can be
 
 <!--&nbsp;-->
 
-7 - **Is it like meditation?**
+7 - _Is it like meditation?_
 
 <!--&nbsp;-->
 
@@ -90,7 +90,7 @@ These subtly different drivers and purposes have massive effects on one's experi
 
 ### concerns
 
-1 - **Is total extended darkness safe?**
+1 - _Is total extended darkness safe?_
 
 <!--&nbsp;-->
 
@@ -98,7 +98,7 @@ Yes, if you do it correctly. This is uncomplicated. Dangers are easily avoided i
 
 <!--&nbsp;-->
 
-2 - **I feel afraid of this.**
+2 - _I feel afraid of this._
 
 <!--&nbsp;-->
 
@@ -122,7 +122,7 @@ See also objection #1, below.
 
 <!--&nbsp;-->
 
-3 - **Wouldn't you go crazy staying in darkness that long?**
+3 - _Wouldn't you go crazy staying in darkness that long?_
 
 <!--&nbsp;-->
 
@@ -134,7 +134,7 @@ This can be uncomfortable, painful, even alarming, like the traumatic causes of 
 
 <!--&nbsp;-->
 
-4 - **Do you get bored?**
+4 - _Do you get bored?_
 
 <!--&nbsp;-->
 
@@ -144,7 +144,7 @@ Part of the being is so damaged, painful, and draining that all feeling to it ha
 
 <!--&nbsp;-->
 
-5 - **Five days is a long time to do nothing.**
+5 - _Five days is a long time to do nothing._
 
 <!--&nbsp;-->
 
@@ -166,7 +166,7 @@ Maybe you mean it sounds pointless or dreadful. In fact, a retreat often begins 
 
 ### objections
 
-1 - **I could never do a darkroom retreat.**
+1 - _I could never do a darkroom retreat._
 
 <!--&nbsp;-->
 
@@ -174,27 +174,7 @@ At the moment, your doing a retreat is out of the question. You cannot do it if 
 
 <!--&nbsp;-->
 
-2 - **Why must I read a whole book just to retreat or even talk to you?**
-
-<!--&nbsp;-->
-
-Three reasons.
-
-1. You read it to be prepared. You must know how to retreat hygienically to succeed. This is the book on it.
-
-	It only takes 5 minutes to learn the essence of it. But it takes 4 hours of reading (at average reading speed of 200wpm) to counter your conditioning to sabotage it. 
-3. Having to read my book before talking to me filters out unsuitable people. It shows you will use what I have already given before seeking more.
-
-	Reading gives you credibility with me. It shows your diligence and sincerity. It builds a structure in your mind that makes talking to me vastly more profitable for both of us.
-
-My time must be paid for, either in understanding and sincerity, or with money. Take your pick.
-3. Maybe one day, I will have sufficient structure in place to support retreats by non-readers. For now, you must provide the structure. It is built when you read my book. You will understand this better after a retreat. 
-
-	Getting in on the ground floor of anything takes vision and guts. If you are a fellow innovator or an early adopter, you can rise to this challenge. If not, you will have to wait.
-
-<!--&nbsp;-->
-
-3 - **Isn't total darkness unnatural? Shouldn't we be exposed to stars and moon at night?**
+2 - _Isn't total darkness unnatural? Shouldn't we be exposed to stars and moon at night?_
 
 <!--&nbsp;-->
 
@@ -208,33 +188,31 @@ Our obsession with building---the principle activity of civilization for 13,000 
 
 <!--&nbsp;-->
 
-4 - **This sounds Satanic.**
+3 - _This sounds Satanic._
 
 <!--&nbsp;-->
 
 Some Christians who have encountered this idea have attempted to equate physical darkness with the spiritual darkness the Bible speaks against. This is absurd for three reasons.
 
 1. This implies that physical light is the light of God. This amounts to sun worship and is itself Satanism. 
-2. Taking metaphors literally is precisely the abysmal stupidity that rational people rightly mock fundamentalists for. Real Biblical expositors like John MacArthur and Walter Veith warn against it. The Bible is rich with symbols. Their meanings have all been worked out if people will bother themselves to study.
+2. Taking metaphors literally is precisely the fundamentalist stupidity religious people are rightly mocked for. Real Biblical expositors like John MacArthur and Walter Veith warn against it. The Bible is rich with symbols. Their meanings have all been worked out if people will bother themselves to study.
 3. Jesus said that salvation comes only by grace, not works. Satan lies about everything. The defining lie of Satanism is that salvation comes by work. The idea of hygienic darkroom retreating is that healing (a kind of salvation) comes by rest, the opposite of work and a corollary of grace.
 
-	If a single Biblical passage speaks against extended rest in physical darkness, I'd like to know it. The Bible does tell of several extremely good things that happened during or immediately after people had extended stays in darkness. I demand explanations for them. For example, Elijah in the cave, Jonah in the whale, Lazarus and Jesus in their tombs—not to mention the creation of the world and prayer in closets.
+If a single Biblical passage speaks against extended rest in physical darkness, I'd like to know it. I'd also like to hear explanations for several extremely good things that happened during or immediately after people had extended stays in darkness, namely, Elijah in the cave, Jonah in the whale, Lazarus and Jesus in their tombs—not to mention the creation of the world and prayer in closets.
 
-	Myself, I began to sense Christ in physical darkness. The psychopaths I have met, including some Christians, hate and fear darkness. I think _the One_ they serve fears it, too. 
+Myself, I began to find Christ in physical darkness. The psychopaths I have met, including some Christians, hate and fear it. I think _The One_ they serve does, too. 
 
-	The God of Psalm 139:13 fears nothing. “If I ascend to heaven, you are there; if I make my bed in Sheol, you are there... Even the darkness is not dark to you.”
-
-<!--&nbsp;-->
-
-5 - **Extended darkness could be good for some people, but there are many ways people can heal their suffering. Nothing works for everyone.**
+The God of Psalm 139:13 does not: “If I ascend to heaven, you are there; if I make my bed in Sheol, you are there... Even the darkness is not dark to you.”
 
 <!--&nbsp;-->
 
-There are many ways to gain temporary relief. Some help us cope with the worst part of our suffering. That is good. It enables us to catch our breath and survive. With lowered stress, the organism does heal a little.
+4 - _Extended darkness could be good for some people, but there are many ways people can heal their suffering. Nothing works for everyone._
 
-But the solution did not enable us to recover fully. Not even close. The result is merely acceptable by our lifeway's low standards.
+<!--&nbsp;-->
 
-For full recovery, as with all living functions, nature provides single universal conditions and specific combinations thereof. We're not talking about which color to paint a house. Physiology doesn't provide options to suit one's tastes.
+I wish it were that easy. Then none of this would be necessary. The sad fact is there are many ways to gain temporary relief. Some help us cope with the worst part of our suffering. That is good. It enables us to catch our breath and survive. With lowered stress, the organism will heal a little. But the solution did not get us near full recovery. The result is merely acceptable by our lifeway's low standards.
+
+For full recovery, as with all living functions, nature provides single universal conditions and specific combinations thereof. We're not talking about which color to paint a house. Physiology doesn't offer a smorgasbord of options to suit one's tastes.
 
 To breathe, one must have air. To heal from major trauma, one must have darkness and associated conditions of profound rest. These solutions work for everyone, even other animals. They have no substitutes. Physiology is what it is. Post-modernist dogma doesn't alter it one whit.
 
@@ -242,23 +220,18 @@ We can look at it in the negative as well. If this tired statement were true,
 
 - the "many other ways to heal" would make sense and work
 - those who did them well them would now be ok
-- everyone would have every reason to do them asap
-- all the problems we face today would already be solved
 - the deep healing necessary in cases of cataclysmic trauma could occur without profound rest
 - profound rest can occur in semi-darkness and other compromised conditions
 - or psychic trauma is not the primary cause of metaphysical suffering
-- or life has no specific needs for recovering from such pain. It is all random. And this is true despite
-	- its specific and universal need of rest for recovery in all other cases. 
-	- its specific needs of water for quenching thirst, air for breathing, etc
-	- suffering's being an indication in all other cases that something is wrong and needs attention
+- or life has no specific needs for recovering from such pain. It is all random. This, despite its specific and universal need of rest for recovery in all other cases. As well as its specific needs of water for quenching thirst, air for breathing, etc. And despite suffering's being an indication in all other cases that something is wrong.
  
-Evidence shows all these are false. Again, relativism makes fashionable philosophy but poor biology. Repeating it changes nothing. 
+Evidence shows all these are false. Again, relativism makes fashionable philosophy but poor physiology. Repeating it changes nothing. 
 
-Reality is not what they told you it was in college. They defrauded you of a lot of time and money. But it's not too late for you. See my [bibliography](/back/bibliography) for a rehabilitative course of study. Cutting your losses will be easier when you have a replacement for all that nonsense. 
+Reality is not what they told you it was in college. They defrauded you of a lot of time and money. But it's not too late for you. Write me for a rehabilitative course of study. Cutting your losses will be easier when you have a replacement.
 
 <!--&nbsp;-->
 
-6 - **If hygienic darkroom retreating is so great, why are you still sick?**
+5 - _If hygienic darkroom retreating is so great, why are you still sick?_
 
 <!--&nbsp;-->
 
@@ -290,8 +263,8 @@ _If he survived and is just beginning to apply it, what would his condition be?_
 
 Still wrecked.
 
-_If he still has a sense of humor, how much more of an achievement would that be?_
+_If he still has a sense of humor, how much of an achievement would that be?_
 
 Ok, I get the point. Thank you. I'll finish reading your book now.
 
-_Great! You're welcome. Next question._
+_Great! Next question._

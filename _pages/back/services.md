@@ -1,9 +1,9 @@
 ---
 title: services
-layout: page
-navprev: license
 permalink: "/back/services/"
-navnext: bio
+layout: page
+navprev: acknowledgments
+navnext: license
 ---
 
 I do everything related to hygienic darkroom retreating: study, experiment, write, speak, consult, design, build, operate, support.
@@ -17,25 +17,21 @@ I support retreats, either at my place in America, or yours anywhere America has
 Instructions:
 
 1. read my book
-2. send me your completed [questionnaire](/prepare#questionnaire). 
-	- [Email](/about#contact) it with $40 fee ([pay](/services#pay) below)
-	- or use this [form](/resource/questionnaire)
-	- Fee is non-refundable, so [address concerns](/about#contact) beforehand
-	- I'll call soon for interview.
-3. once approved, [enroll](/resource/enroll) to reserve a month for your retreat. See retreat prices there.
+2. send me your completed [questionnaire](#questionnaire). Use this [form](/resource/questionnaire) or [email](/about#contact) it with $40 fee ([pay](#pay) below). Non-refundable, so ([address concerns](/about#contact) beforehand). I'll call soon for interview.
+3. once approved, [enroll](/resource/enroll) with fee to reserve a month for your retreat. See retreat prices there.
 4. Deposit 50% (minus fees) within 5 days, plus any cost of my travel
 3. Pay balance 2 months before retreat or upon my arrival
 6. Pick a starting date between 1 and 15, 1 month before your month. 
-7. Retreat!
+7. retreat
 
-Marion Abbott of Australia at [Profound Rest Retreats](https://profoundrest.wordpress.com) is also organizing retreats. Simen Kirker&oslash;d of Norway can do it, too. (Write me).
+Marion Abbott of Australia at [Profound Rest Retreats](https://profoundrest.wordpress.com) can help you. Simen Kirker&oslash;d of Norway can do it, too; write me.
 
 #### write
 
 - Read this book:
 	- [web](/): free
 	- [ebook at leanpub](https://leanpub.com/darkroomretreat): $15+
-	- print: paperback, inscribed/signed by me. Handsewn, lay flat, cloth binding stays open for ease of holding and reading (even bends back on itself). Searchable PDF included. $55 North America, $75 abroad. Add a note with mailing address and inscription request with [payment](/services#pay).
+	- print: paperback, inscribed/signed by me. Handsewn, lay flat, cloth binding stays open for ease of holding and reading (even bends back on itself). Searchable PDF included. $55 North America, $75 abroad. Add a note with mailing address and inscription request with [payment](#pay).
 - Publish my book, make money. See [license](/back/license/)
 - Quote anything in my book and website. Credit me and tell me where it will show up and I will also acknowledge and link to you on my website.
 - Invite me to write for your publication on any subject related to hygienic darkroom retreating
@@ -50,7 +46,7 @@ $1000 + expenses.
 
 Get my advice on hygienic darkroom retreating, building darkrooms for hygienic retreats, and dealing with issues arising thereof.
 
-$40/hour, 1 hour minimum.
+$40/hr.
 
 I will respond in detail, by email or messenger app, to all your questions and concerns about:
 
@@ -68,17 +64,13 @@ My responses will be based on my experience. Since 2006, I have:
 
 ##### confer
 
-I will read your [questionnaire](/prepare#questionnaire) and discuss it with you by phone if you are retreating at home. [Email](/about#contact) me your questionnaire and [pay](/services#pay) below. or Use this [form](/resource/questionnaire). I'll call soon.
-
-The point is to make sure you understand the idea thoroughly. You probably get it in principle but have missed some details. They can trip you up in darkness. Or make you miss subtle opportunities.
-
-I will be reading and listening for ways your conditioning is holding out. I will point them out to you. In hygienic psychological fashion, you don't try to defend or change them. You are simply prepared if they surface in darkness and try to bamboozle you again.
+I read your [questionnaire](/prepare#questionnaire) and discuss it with you by phone if you are retreating at home or just curious. Use this [form](/resource/questionnaire) or [email](/about#contact) me your questionnaire. [Pay](#pay) below. I'll call soon.
 
 $40.
 
 #### design-build
 
-I design and build darkrooms as part of supporting [retreats](/services#retreat), from scratch or in existing buildings. [Email](/about#contact) me.
+I design and build darkrooms as part of supporting [retreats](#retreat), from scratch or in existing buildings. [Email](/about#contact) me.
 
 See my [hygienic house](/plan) for some of my latest thinking. A vaulted mobile building is also in the works.
 
@@ -93,8 +85,20 @@ I accept payments by:
 - Zelle: info@andrewdurham.com
 - [Wise: andrewd1878](https://wise.com/share/andrewd1878) (formerly Transferwise)
 - [Venmo: @andrewdurham](https://venmo.com/u/andrewdurham)
-- [PayPal](https://www.paypal.com/donate?token=aa7Yi4BeH9QEQlF0uONZowYEckaUtuDb2u1ZIwDisK3YVvEeLKWSr3ODkVOQjjqI6wr1UXWUyLsJjQ5V) (works for credit cards. Add 4% to cover fees)
-- Cryptocurrency: Litecoin, Bitcoin, Ether, Dash. Write me for addresses. 
-- Cash, check, money order, metal, Goldbacks, bank transfer, deposit, commodities, or ??: email me. Include your location.
+- [PayPal](https://www.paypal.com/donate?token=aa7Yi4BeH9QEQlF0uONZowYEckaUtuDb2u1ZIwDisK3YVvEeLKWSr3ODkVOQjjqI6wr1UXWUyLsJjQ5V) (works for credit cards. Add 4% to cover fees)  
+- Cryptocurrency: Litecoin, Bitcoin, Ether, Dash. [Write](/about#contact) me for addresses. 
+- Cash, check, money order, metal, Goldbacks, bank transfer, deposit, or something else: email me about how to use these methods. Include your location.
 
-{% include contact.md %}
+{% include cover.md %}
+
+<!--
+booklets at quantity discounts on my website. Prices postpaid. Write for world prices or see [license](/back/license) for an alternative.
+
+|_Quantity_|_1+_|_4+_|_12+_|_24+_|
+|Europe|&euro;8|&ndash;25%|&ndash;40%|&ndash;60%|
+|US|soon!|
+{:#tableprice}
+-->
+
+
+

@@ -1,16 +1,16 @@
 ---
 title: back
-layout: page
-navprev: water
 permalink: /back/
+layout: index
+navprev: water
 navnext: back/faq
 ---
 
 - [faq](./faq)
 - [bibliography-influences](./bibliography-influences/)
 - [acknowledgments](./acknowledgments/)
-- [participate](./participate)
-- [license](./license/)
 - [services](./services/)
+- [license](./license/)
+- [participate](./participate)
 - [bio](./bio)
 

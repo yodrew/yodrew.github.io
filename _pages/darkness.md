@@ -1,8 +1,8 @@
 ---
 title: darkness&nbsp; &nbsp;10
+permalink: "/darkness/"
 layout: page
 navprev: air
-permalink: /darkness/
 navnext: water
 ---
 
@@ -36,7 +36,7 @@ We will start with the most portable and perhaps simplest design. It darkens the
 
 A good blindfold or sleeping mask is the quickest way to obtain a large measure of darkness wherever you are. It's like draping a dark shirt over the eyes, but it stays on all night.
 
-Know that no mask is comfortable for long periods. None stays in place during all movement. And our skin has enough light-receptors for it to wake us up. A mask cannot replace a darkroom. And the [double blind](/darkness#double-blind) below may be just as easy to make.
+Know that no mask is comfortable for long periods. None stays in place during all movement. And our skin has enough light-receptors for it to wake us up. A mask cannot replace a darkroom. And the [double blind](#double-blind) below may be just as easy to make.
 
 A mask is cheap, accessible, discreet, and very effective for immediately improving sleep. It is a good first step toward the profound rest darkness makes possible.
 

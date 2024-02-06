@@ -1,8 +1,8 @@
 ---
 title: prepare&nbsp; &nbsp;6
+permalink: "/prepare/"
 layout: page
 navprev: protocol
-permalink: /prepare/
 navnext: design
 ---
 
@@ -10,7 +10,7 @@ The main thing you need to prepare for a successful retreat is knowledge. Thus, 
 
 I am available to [check](/back/services#check) your responses and discuss them with you. If you have clients one day, use it with them. Please share your modifications with me.
 
-As of 2024, I support [retreats](/back/services#retreat) again. Someday, there will be many centers that support hygienic darkroom retreats. Your retreat cannot wait till then. Do it yourself at home. Use a friend's place or a vacation rental. Or enroll with me in America or my collaborators in Australia or Norway.
+As of 2024, I support [retreats](/back/services#retreat) again. Someday, there will be many centers that support hygienic darkroom retreats. Your retreat cannot wait till then. Do it yourself at home. Use a friend's place or a vacation rental. Or enroll with me in America or my collaborators in Australia and Norway.
 
 Once you do it yourself, others will want to know about it. You will naturally have opportunities to share it: with a friend, or in an announcement, public talk, book club, class, workplace, or online. Climb the [ladder](/format#ladder).
 
@@ -21,7 +21,7 @@ Once you do it yourself, others will want to know about it. You will naturally h
 3. Consider when you would like to retreat. See example [schedules](/format#schedule).
 4. Consider where you would like to retreat.
 	- if at home, build a darkroom (see remaining chapters)
-	- if not, [retreat](/back/services#retreat) with me, [Marion](https://profoundrest.wordpress.com) or [inquire](/about#contact) about Simen.
+	- if not, [retreat](/back/services#retreat) with me, [Marion](https://profoundrest.wordpress.com) or [inquire](/about) about Simen.
 5. Gather gear and retreat!
 
 ### questionnaire

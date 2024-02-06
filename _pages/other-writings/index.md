@@ -1,6 +1,6 @@
 ---
 title: other writings
-layout: page
+layout: index
 navprev: 
 permalink: "/other-writings/"
 navnext: other-writings/existence-isnt-everything
@@ -32,6 +32,7 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 - [ORDO](./ordo/) an American art of placement
 - [Economy](./economy/) sane personal economy based on Tribal Housing (adjusted for 2023 inflation)
 - [Tribal Housing](./tribal-housing/) a design for a full life on $250 a month
+- [Links](./links/) good designs &etc to learn and sing (by others)
 <!-- - [Gallery](https://andrewdurham.shutterfly.com) photos of my projects (at shutterfly.com)-->
 
 ### Art
@@ -45,16 +46,13 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 
 - general
 	- [Bibliography](./bibliography/) five cranial supernovas + honorable mentions
-	- [Aphorisms](./aphorisms): sayings relevant to darkness <span id=new>NEW</span>
 - health
 	- [Virus](/f/virus) by Klein & Sniadach: the apotheosis of germ theory, medicine's greatest hoax <span id=new>NEW</span>
 	- [Fasting: A Prodigious Discovery](./fasting-discovery/) by Albert Mosseri, French hygienic master, _excerpted from:_
 	- [Fasting: Nature's Best Remedy](./fasting/) by Albert Mosseri
 	- [Maharaj: A Biography of Shriman Tapasviji Maharaj, a Mahatma Who Lived for 185 Years](./maharaj/) by T S Anantha Murthy: report of long dark retreat <span id=new>NEW</span>
 	- [Wireless Radiation](/f/wireless) a research summary from the Naval Medical Research Institute, 1972. <span id=new>NEW</span>
-	- [True Healing Art](/f/trall.pdf) by Russell Trall: speech by a founder of hygiene in 1862 at the Smithsonian. <span id=new>NEW</span>
+	- [True Healing Art](/f/trall.pdf) by Russell Trall: a founder of hygiene speaks in 1862 at the Smithsonian. <span id=new>NEW</span>
 - agriculture
 	- [Origins of Agriculture](./origins-of-agriculture/) by Wadley & Martin: a stunning _What if…?_
-	- [On a Green Mountain with Masanobu Fukuoka](./fukuoka/) the Sensei of Natural Farming
-- design
-	- [Links](./links/) good designs to learn and sing
+	- [On a Green Mountain with Masanobu Fukuoka](./fukuoka/) the genius of natural farming

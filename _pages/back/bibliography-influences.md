@@ -1,8 +1,8 @@
 ---
 title: bibliography and influences
+permalink: "/back/bibliography-influences/"
 layout: page
 navprev: faq
-permalink: "/back/bibliography-influences/"
 navnext: acknowledgments
 ---
 

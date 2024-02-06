@@ -2,7 +2,7 @@
 title: plan
 layout: page
 navprev: design
-permalink: /plan/
+permalink: "/plan/"
 navnext: make
 ---
 

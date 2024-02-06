@@ -1,9 +1,9 @@
 ---
 title: water&nbsp; &nbsp;11
+permalink: "/water/"
 layout: page
 navprev: darkness
-permalink: /water/
-navnext: back/faq
+navnext: "back/faq"
 ---
 
 If you already have a bathroom and kitchen you can darken easily or mostly, and you can get to it, at least with a blindfold, great. If not, make the quick, cheap, portable fixtures below. If basic versions are too punk rock for you, try the upgrades. You can incrementally improve them as you find out for yourself the value of retreating.

@@ -1,7 +1,7 @@
 ---
 title: resource
 permalink: "/resource/"
-layout: page
+layout: index
 navprev: 
 navnext: 
 ---

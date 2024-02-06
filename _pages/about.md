@@ -6,8 +6,8 @@ navprev:
 navnext: /back/faq
 ---
 
-Links to back matter  
-of book now in menu
+**Links to back matter**  
+**of book now in menu**
 {:.submenu}
 
 Welcome. This website contains:

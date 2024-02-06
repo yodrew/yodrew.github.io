@@ -1,8 +1,7 @@
 ---
 title: building
-layout: page
 permalink: "/building/"
-redirect: resource/building
+layout: page
 ---
 
 Page moved [resource > building](/resource/building)

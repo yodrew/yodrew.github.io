@@ -1,6 +1,6 @@
 ---
-title: aphorisms
-permalink: "/other-writings/aphorisms/"
+title: epigram
+permalink: "/resource/epigram/"
 layout: page
 ---
 

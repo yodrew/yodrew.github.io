@@ -1,8 +1,7 @@
 ---
 title: epigram
-layout: page
 permalink: "/epigram/"
-redirect: other-writings/aphorisms
+layout: page
 ---
 
-Page renamed and moved to [other writings > aphorisms](/other-writings/aphorisms)
+Page moved to [epigram](/resource/epigram)
