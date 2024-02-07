@@ -8,7 +8,7 @@ navnext: design
 
 The main thing you need to prepare for a successful retreat is knowledge. Thus, this book. The **instructions** outline the process. **Terms** bring it down to earth. The **quiz** in the **q-form** helps you solidify your grasp of the text. The **questionnaire** orients you toward your own retreat. **Menu** and **gear** sections guide your material preparations.
 
-I am available to [check](/back/services#check) your responses and discuss them with you. If you have clients one day, use it with them. Please share your modifications with me.
+I am available to [confer](/back/services#confer) about your completed questionnaire. If you have clients one day, use it with them. Please share your modifications with me.
 
 As of 2024, I support [retreats](/back/services#retreat) again. Someday, there will be many centers that support hygienic darkroom retreats. Your retreat cannot wait till then. Do it yourself at home. Use a friend's place or a vacation rental. Or enroll with me in America or my collaborators in Australia or Norway.
 
