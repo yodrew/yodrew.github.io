@@ -28,6 +28,36 @@ Through abstract theory and concrete practice, this book tells how to provide al
 
 The book reveals what healing requires in detail. It inspires you to heal and to support others in doing so. It includes designs for darkroom components. Their precision enables even amateur craftsmen to get them right.
 
+#### requirements
+
+To retreat, one needs three things: knowledge, materials, and support.
+
+- knowledge:
+    - of hygienic theory
+    - of the practice of hygienic darkroom retreating
+- materials 
+    - darkroom
+    - food
+    - personal belongings
+- support
+    - supporters are knowledgeable: have read this book, possibly Shelton's
+    - experienced: have done at least a [5-day](/format#5-day) retreat
+    - sympathetic, protective of himself and retreater
+
+		Hygiene is the basis on which sick people can help each other without making things worse. Our problem is partly social. It is solved with increasing degrees of cooperation as we become more capable of doing so.
+
+Meet these requirements by reading this book, preparing for a retreat, and retreating. 
+
+Your first retreats are gratifying warm-ups. You will get relief, sleep, and healing like you never thought possible. You will feel the meaning of hygienic ideas. You will get good at retreating. Then you will be prepared for the ultra-effective medium and long retreats.
+
+##### darkroom
+
+A darkroom is a bedroom, suite, or house that is perfectly dark. Sealing a room like this often requires additional ventilation measures. A darkroom can be basic or deluxe. To summarize the practical point of this book, I advocate arranging basic darkness in your bedroom now, deluxe darkness in a remote location later. 
+
+Basic darkness means perfectly dark, well-ventilated, reasonably quiet, and comfortable. This provides: darkness for nightly sleep; a place to familiarize yourself with extended darkness at your own pace; and a place for your first short retreats.
+
+Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom is built in a small fully functional house in a quiet location. Like all houses should be but are not, it is perfectly and easily darkened. More in [design](/design).
+
 #### terminology
 
 ##### glossary
@@ -79,36 +109,6 @@ I don't use neologisms. I don't use words in any special sense. Virtually any di
 My usage is sometimes unusual. I take pains to recover the original or essential meanings of words by digging into etymology and historical usage. Bad philosophical influences, manipulation by elites, and sloppy popular usage constantly degrade the meanings of high-level abstractions. Words become corrupt or acquire unfortunate associations. Language is artificial and must be maintained.
 
 I consider this half the job of intellectuals. The Oxford English Dictionary exemplifies this effort. Pre-1970 editions of American Heritage Dictionary and Webster's are excellent. Beware of newer lexicology. It is both better and worse than ever due to accelerating divergence of philosophical influences.
-
-#### requirements
-
-To retreat, one needs three things: knowledge, materials, and support.
-
-- knowledge:
-    - of hygienic theory
-    - of the practice of hygienic darkroom retreating
-- materials 
-    - darkroom
-    - food
-    - personal belongings
-- support
-    - supporters are knowledgeable: have read this book, possibly Shelton's
-    - experienced: have done at least a [5-day](/format#5-day) retreat
-    - sympathetic, protective of himself and retreater
-
-		Hygiene is the basis on which sick people can help each other without making things worse. Our problem is partly social. It is solved with increasing degrees of cooperation as we become more capable of doing so.
-
-Meet these requirements by reading this book, preparing for a retreat, and retreating. 
-
-Your first retreats are gratifying warm-ups. You will get relief, sleep, and healing like you never thought possible. You will feel the meaning of hygienic ideas. You will get good at retreating. Then you will be prepared for the ultra-effective medium and long retreats.
-
-#### darkroom
-
-A darkroom is a bedroom, suite, or house that is perfectly dark. Sealing a room like this often requires additional ventilation measures. A darkroom can be basic or deluxe. To summarize the practical point of this book, I advocate arranging basic darkness in your bedroom now, deluxe darkness in a remote location later. 
-
-Basic darkness means perfectly dark, well-ventilated, reasonably quiet, and comfortable. This provides: darkness for nightly sleep; a place to familiarize yourself with extended darkness at your own pace; and a place for your first short retreats.
-
-Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom is built in a small fully functional house in a quiet location. Like all houses should be but are not, it is perfectly and easily darkened. More in [design](/design).
 
 ### background
 
@@ -270,9 +270,9 @@ The back part consists of:
 - [faq](/back/faq): frequently asked questions
 - [bibliography and influences](/back/bibliography-influences)
 - [acknowledgments](/back/acknowledgments)
-- [services](/back/services)
-- [license](/back/license)
 - [participate](/back/participate)
+- [license](/back/license)
+- [services](/back/services)
 - [bio](/back/bio)
 
 <!--pagebreak-->
@@ -299,8 +299,4 @@ I continually update this book. Before rereading or building, download the lates
 
 Now, on to the life-restoring perspective of hygiene and how darkness and psychology complete it.
 
-<!--pagebreak-->
 
-<!--&nbsp;-->
-
-<!--pagebreak-->

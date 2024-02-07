@@ -104,7 +104,7 @@ I believe in fasting. It is a significant part of hygiene. But it seems best to 
 
 They seem to have opposite metabolic requirements. The organism focuses its healing efforts wherever food is absent. It gains energy—or at least internal comfort and support—from wherever food is present. The organism heals the body when physical food is absent. It heals the soul when the psychic food of sensation, especially vision, is absent. 
 
-I have tried both at the same time and it is very good but intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive a strong clear signal from your organism to combine them. I recommend Shelton's books, _Fasting Can Save Your Life_ and _The Science and Fine Art of Fasting_ and Albert Mosseri's [Fasting: Nature's Best Remedy](/other/fasting).
+I have tried both at the same time and it is very good but intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive a strong clear signal from your organism to combine them. I recommend Shelton's books, _Fasting Can Save Your Life_ and _The Science and Fine Art of Fasting_ and Albert Mosseri's [Fasting: Nature's Best Remedy](/f/fasting).
 
 #### conservation
 

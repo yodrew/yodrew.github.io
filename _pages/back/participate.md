@@ -8,7 +8,7 @@ navnext: license
 
 Join the dolphin economy: help me help you help me help you...
 
-Here is how: 
+#### how
 
 - read
 	- my book and retreat [reports](/reports)
@@ -33,7 +33,7 @@ Here is how:
     - [buy](/services#write) the book after reading if it has been beneficial
     - hire my [services](/back/services)
 
-### improve
+#### improve
 
 If you find a theoretical or practical error in the approach, or a way to improve it, please let me know. I am happy to alter the book if your proposal:
 
@@ -48,4 +48,4 @@ Likewise, I would like to work with you in any way to develop hygienic darkroom 
 - demonstrate understanding of its basic ideas
 - have retreated according to my protocol and are convinced of the value of my approach
 
-Cheers. \ \ \ \ .
+Cheers.

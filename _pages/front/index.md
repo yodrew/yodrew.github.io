@@ -7,8 +7,8 @@ navnext: front/dedication
 ---
 
 - [blurb](/)
-- [dedication](./dedication)
 - [disclaimer](./disclaimer)
+- [dedication](./dedication)
 - [notes](./notes)
 - [foreword](./foreword)
 - [preface](./preface)

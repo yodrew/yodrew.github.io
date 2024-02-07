@@ -15,7 +15,9 @@ This book has links. They are:
 - colored on the web
 - underlined in the ebook and paper book
 
-Readers of paper books can follow crosslinks: links within the book. They have a number or letter after them, in parentheses. For example, [capacity](/hygiene#capacity) (1) or [services](/back/services) (w). Simply open to the corresponding chapter/element and skim the headings for the linked word.
+Readers of paper books can follow crosslinks: links within the book. A dashed number or letter in italics follows them, indicating the chapter or element the link target is in. 
+
+For example, [capacity](/hygiene#capacity) _-1_ links to the capacity section in chapter 1, hygiene. [Media](/front/notes#media) _-b_ links to:
 
 #### media
 

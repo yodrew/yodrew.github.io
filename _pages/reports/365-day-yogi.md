@@ -6,7 +6,7 @@ navprev: 14-day-lindsey-vona
 navnext: 3-day-sith-bathchamber
 ---
 
-[This story originally came from [Rhio's website](https://hookedonraw.com/compilation-2-june-2002/). I finally got a rare copy of the book mentioned. I photographed it, extracted the text, and published it as [Maharaj](/f/maharaj). The excerpt below is from [chapter 27](/f/maharaj#chapter-27) I compared the two texts and restored some lines that Rhio deleted.  
+[This story originally came from [Rhio's website](https://hookedonraw.com/compilation-2-june-2002/). I finally got a rare copy of the book mentioned. I photographed it, extracted the text, and published it as [Maharaj](/f/maharaj). The excerpt below is from [chapter 27](/f/maharaj#chapter-27) I compared the two texts and restored a handful of lines that Rhio deleted.  
 -ad
 
 ~
@@ -45,5 +45,7 @@ One thing I note is how similar the "cell" where he spent his time is to a womb.
 
 ~
 
-*Note how each explanation in the story for Tapasviji's rejuvenation reflects the wisdom of the explainer.  
+*Each explanation in the story for Tapasviji's rejuvenation reflects the wisdom of the explainer.  
 -ad
+
+

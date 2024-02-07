@@ -11,11 +11,35 @@ navnext: air
 
 ### intro
 
-Just the ideas in this book can bring relief and hope. But 99% of their value lies in their application. This requires a darkroom, an uncommon thing. But buildings are plentiful. These last four "make" chapters explain how to build darkrooms inside existing buildings. 
+Just the thesis of this book has brought relief and hope to readers. But 99% of its value lies in its application. This requires a darkroom. Darkrooms are uncommon. Suitable buildings are not. These last four "make" chapters explain how to build darkrooms inside existing buildings.
 
-Whether you build a darkroom or not, reading these chapters will give you a sense of being in one. You will see how the abstractions in the first part of the book apply concretely, how its theory, process, and design make up an integral whole. You will know what is going on around you during a retreat. You will know what to look for in a darkroom. You will not be useless should yours break down during your retreat!
+Whether or not you build a darkroom, reading these chapters will give you a sense of being in one. You will:
 
-This chapter provides basic information that applies to all components of a darkroom. The next three chapters provide blueprints and instructions for components related to three elements: air, darkness, water. They are vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost, low-tech, and work off-grid.
+- see how
+	- the abstractions in the first part of the book apply concretely in this one
+	- theory, process, and design make up an integral whole, sans contradiction
+- learn how to combine elements into a system in your own design
+- learn what to look for in a darkroom
+- know what is going on around you during a retreat
+- be better able to help diagnose, even fix yours should it break down during your retreat
+
+This chapter provides basic information that applies to all components of a darkroom. The next three chapters provide blueprints and instructions for components related to three elements: 
+
+- air
+	- vents: helix and threshold
+	- silencer
+	- fan mount
+	- power sources, heating, air purification are discussed 
+- darkness
+	- mask
+	- door seal
+	- blinds: double blind and panel
+- water: DIY, portable kitchen and bathroom fixtures
+	- sink
+	- toilet
+	- bath/shower
+	
+Designs are low-cost, low-tech, and work off-grid.
 
 A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes a knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement.
 
@@ -181,7 +205,7 @@ Download all plans at once with the darkroom retreat [zip file](/darkroom-retrea
 
 #### 3 - key
 
-Here is a key to the plans. Find further explanation of symbols, especially dash-dotted lines, in **fabricate** section below.
+Below is the key to the plans. Find further explanation of symbols in **fabricate** section below, especially the dash-dotted guide line. Its use varies with each drawing.
 
 <!--&nbsp;-->
 
@@ -193,43 +217,39 @@ plan: key - [download](/img/plan/key.pdf)
 
 ### fabricate
 
-These instructions apply to all components, or as indicated. Read special instructions for each component in its respective chapter and section afterward.
+These instructions apply to all components, or as indicated. Read further instructions for each component in its respective chapter and section afterward.
 
 #### 1 - prepare plans
 
-1. for fabric parts ([helix vent](/air#helix), [mask](/darkness#mask))
-    1. using ruler and razor knife, cut out parts at outlines
-    2. cut out tape holes on dash-dotted lines
+1. for fabric parts of ([helix vent](/air#helix) and [mask](/darkness#mask)):
+    1. using ruler and razor knife, cut out parts on solid outlines
+    2. cut out tape holes approximately on dash-dotted lines 
     3. skip to [3 - make parts](/make#make-parts) below
 2. customize [threshold vent](/air#threshold) with instructions in drawing
 
 #### 2 - transfer plans to materials
 
-1. tape plans to materials
-    1. [helix vent shell](/air#helix): skew plan roughly diagonally (20°-70°) to edges or folds (corrugations) of cardboard
-    2. cut out small wedges from outlines of plans to align them with edges of materials.
-    3. parts with stretch arrows
-        1. tape one half to edge of material
-        2. using derived measurements and tape measure, mark material where opposite edge of part should be and tape it there
-    4. lay out other plans on materials and tape opposite corners
-2. put three layers of cardboard on work surface
-3. transfer plan with straight pin
+1. where necessary, make small v-cuts in outlines of plans to see where to align them with edges of materials.
+2. tape plans to materials
+    - [helix vent shell](/air#helix): skew plan roughly diagonally (20°-70°) to rectangles of cardboard
+3. put three layers of cardboard on work surface
+4. transfer plan with straight pin
     - use magnifying glass for ease of marking and geeky precision thrills
     - poke pin through 
         - all black lines close to ends (not grey glue sausages)
         - centers of holes
-4. remove plan from material
-5. mark pin holes:
+5. remove plan from material
+6. mark pin holes:
     - dashed lines: circles
     - dotted lines: double circle
     - solid lines: squares
     - dash-dotted lines: triangle
     - holes: star
-6. mark the marked holes again
+7. mark the marked holes again
     - draw short lines from circles, triangles, and squares in the same direction as lines in plan
     - circles/double circles: add asterisks where indicated 
     - copy joint letters (A, B, C...)
-7.  label drawing, words oriented the same as in plan
+8.  label drawing, words oriented the same as in plan
 
 #### 3 - make parts
 
@@ -266,4 +286,4 @@ These instructions apply to all components, or as indicated. Read special instru
         - use a pointed dowel of appropriate diameter
         - spin it with your fingers or a power drill as you gently push it into hole
 
-Voila. You've got the basics of all darkroom components. You've prepared their plans and parts. Now, let's see how they come together in the air department.
+Voila. You've got the basics of all darkroom components. You've prepared their plans and parts. Now, let's see how those in the air chapter come together.

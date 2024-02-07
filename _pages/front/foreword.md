@@ -6,7 +6,7 @@ permalink: "/front/foreword/"
 navnext: preface
 ---
 
-### the recovery of joy
+#### the recovery of joy
 
 This book comes out of a long inquiry into the cause of joy. 
 

@@ -18,7 +18,7 @@ Instructions:
 
 1. read my book
 2. send me your completed [questionnaire](/prepare#questionnaire). 
-	- [Email](/about#contact) it with $40 fee ([pay](/services#pay) below)
+	- [Email](/about#contact) it with $40 fee (pay below)
 	- or use this [form](/resource/questionnaire)
 	- Fee is non-refundable, so [address concerns](/about#contact) beforehand
 	- I'll call soon for interview.
@@ -35,7 +35,7 @@ Marion Abbott of Australia at [Profound Rest Retreats](https://profoundrest.word
 - Read this book:
 	- [web](/): free
 	- [ebook at leanpub](https://leanpub.com/darkroomretreat): $15+
-	- print: paperback, inscribed/signed by me. Handsewn, lay flat, cloth binding stays open for ease of holding and reading (even bends back on itself). Searchable PDF included. $55 North America, $75 abroad. Add a note with mailing address and inscription request with [payment](/services#pay).
+	- print: paperback, inscribed/signed by me. Handsewn, lay flat, cloth binding stays open for ease of holding and reading (even bends back on itself). Searchable PDF included. $55 North America, $75 abroad. Add a note with mailing address and inscription request when paying (below).
 - Publish my book, make money. See [license](/back/license/)
 - Quote anything in my book and website. Credit me and tell me where it will show up and I will also acknowledge and link to you on my website.
 - Invite me to write for your publication on any subject related to hygienic darkroom retreating
@@ -68,7 +68,7 @@ My responses will be based on my experience. Since 2006, I have:
 
 ##### confer
 
-I will read your [questionnaire](/prepare#questionnaire) and discuss it with you by phone if you are retreating at home. [Email](/about#contact) me your questionnaire and [pay](/services#pay) below. or Use this [form](/resource/questionnaire). I'll call soon.
+I will read your [questionnaire](/prepare#questionnaire) and discuss it with you by phone if you are retreating at home. [Email](/about#contact) me your questionnaire and pay (below). or Use this [form](/resource/questionnaire). I'll call soon.
 
 The point is to make sure you understand the idea thoroughly. You probably get it in principle but have missed some details. They can trip you up in darkness. Or make you miss subtle opportunities.
 
@@ -78,7 +78,7 @@ $40.
 
 #### design-build
 
-I design and build darkrooms as part of supporting [retreats](/services#retreat), from scratch or in existing buildings. [Email](/about#contact) me.
+I design and build darkrooms as part of supporting [retreats](/back/services#retreat), from scratch or in existing buildings. [Email](/about#contact) me.
 
 See my [hygienic house](/plan) for some of my latest thinking. A vaulted mobile building is also in the works.
 
@@ -96,5 +96,7 @@ I accept payments by:
 - [PayPal](https://www.paypal.com/donate?token=aa7Yi4BeH9QEQlF0uONZowYEckaUtuDb2u1ZIwDisK3YVvEeLKWSr3ODkVOQjjqI6wr1UXWUyLsJjQ5V) (works for credit cards. Add 4% to cover fees)
 - Cryptocurrency: Litecoin, Bitcoin, Ether, Dash. Write me for addresses. 
 - Cash, check, money order, metal, Goldbacks, bank transfer, deposit, commodities, or ??: email me. Include your location.
+
+#### contact
 
 {% include contact.md %}

@@ -1,1 +1,1 @@
-### contactI am happy to hear from those who have either read my [whole book](/back/faq#objections) or paid me for a [consultation](/back/services#consult).- email: info {at} andrewdurham.com - text/voicemail: +1 541 210 8470 (in the US) [darkroomretreat.com](/)
+I am happy to hear from those who have either read my [whole book](/back/faq#objections) or paid me for a [consultation](/back/services#consult).- email: info {at} andrewdurham.com - text/voicemail: +1 541 210 8470 (in the US) [darkroomretreat.com](/)

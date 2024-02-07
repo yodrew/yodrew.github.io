@@ -1,6 +1,6 @@
 <!---->
 
-### relief, recovery, healing
+#### relief, recovery, healing
 
 Nature provides darkness for:
 
@@ -14,7 +14,7 @@ A hygienic darkroom retreat is an extended rest in a totally dark room. The room
 
 This is a complete manual, with theory, protocol, and design. It explains why retreating works and how to do it. It includes instructions and drawings for beginning at home.
 
-### toward a hygienic psychology
+#### toward a hygienic psychology
 
 This approach to darkness is neither spiritual, therapeutic, nor psychedelic. It is hygienic. Hygiene is the science of health, a branch of biology. It respects life's self-preserving nature. It identifies life's normal conditions: air, warmth, work, relationship, cleanliness, etc.
 

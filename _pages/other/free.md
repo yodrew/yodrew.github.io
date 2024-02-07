@@ -50,3 +50,5 @@ We will just have facts. For example, people like others who give them pleasure.
 On the other hand, causing displeasure discourages association. Harmfulness is reciprocated. When rights are violated, people tend to get upset, then use force to protect themselves and neutralize danger. Their retaliation might be worse than the original crime. It might be irreversible. Why risk it? Instead, get a life. La Finca is a good place to do so.
 
 States only exist to extend to some the privilege to harm others or deflect retribution from harmful people. Therefore, they hamper freedom. We don't like them. We won't reproduce a small one with our neighbors. In freedom, the common sense, decency, and justice people exhibit outweigh their opposites.
+
+
