@@ -6,7 +6,9 @@ permalink: /other/
 navnext: other/existence
 ---
 
-_This is a collection of my earlier writings. They began appearing in 2001 on my "secret design" geocities site. Verse dates to 1988. The intro sentence is from the first version of andrewdurham.com when I left geocities in 2009._
+_This is a collection of my other, mostly earlier, writings. They began appearing in 2001 on my "secret design" geocities site. Verse dates to 1988. The intro sentence is from the first version of andrewdurham.com when I left geocities in 2009._
+
+_It also contains newer writings that are not part of the book and links to writings of others._
 
 ~~
 
