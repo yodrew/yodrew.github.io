@@ -2,8 +2,8 @@
 title: Mechanics of Mass Slavery
 layout: page
 navprev: just-living
-permalink: /other/mechanics
-navnext: "ordo"
+permalink: /other/mechanics/
+navnext: ordo
 ---
 
 ### a drive-by analysis
