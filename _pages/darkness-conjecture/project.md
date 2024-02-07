@@ -1,9 +1,8 @@
 ---
 title: project
-permalink: "/darkness-conjecture/project/"
-layout: page
-navprev: strifeless
-navnext: 
+permalink: /darkness-conjecture/project/
+layout: redirect
+redirect: ../../conjecture/project
 ---
 
 Here I would like to relate the history and future of this project.

@@ -1,6 +1,6 @@
 ---
 title: appendix - laws of life
-layout: page
+layout: redirect
 navprev: "back/faq"
 permalink: "/appendix-laws-of-life/"
 navnext: "back/bibliography-influences"

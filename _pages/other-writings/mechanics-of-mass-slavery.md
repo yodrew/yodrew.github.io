@@ -1,9 +1,8 @@
 ---
 title: Mechanics of Mass Slavery
-layout: page
-navprev: just-living
-permalink: "/other-writings/mechanics-of-mass-slavery/"
-navnext: ordo
+layout: redirect
+redirect: ../../other/mechanics
+permalink: /other-writings/mechanics-of-mass-slavery/
 ---
 
 ### a drive-by analysis
@@ -62,7 +61,7 @@ The trap is set. The house becomes nothing more than a personalized prison cell 
 
 Social isolation erodes security. Fear leads to credit card shopping sprees. Debt engenders dreams of freedom, at least for one's children. Ironically, parents _force_ these dreams on their offspring. Thus, we arrive at education and selling out. One ends the fiasco at the polls, where one tries to compensate for this lifestyle with a indignantly righteous opinion about who should be left holding the bag.
 
-Inasmuch as these are all more or less corollary factors arising from pandemic [psychosis](/darkness-conjecture/psychosis), I suppose the causation could be switched around. One fellow I talked to recently said it is college debt  that leads to everything else. Not even a career, but the _pursuit_ of a career does it due to everything a career entails and makes one feel entitled to these days. Perhaps because I was raised by an architect, I'm thrifty, and I avoided college, I'm biased towards the house argument. Maybe it would be better to start with conformity. Or something not on Hardenberg's list, like a family disaster: a death, catastrophic illness/accident, or bankruptcy. That's fine, but all these elements of the trap come into play in our lives one way or another. And radical analysis leads to the same conclusion: no one needs any of this crap.
+Inasmuch as these are all more or less corollary factors arising from pandemic [psychosis](/conjecture/psychosis), I suppose the causation could be switched around. One fellow I talked to recently said it is college debt  that leads to everything else. Not even a career, but the _pursuit_ of a career does it due to everything a career entails and makes one feel entitled to these days. Perhaps because I was raised by an architect, I'm thrifty, and I avoided college, I'm biased towards the house argument. Maybe it would be better to start with conformity. Or something not on Hardenberg's list, like a family disaster: a death, catastrophic illness/accident, or bankruptcy. That's fine, but all these elements of the trap come into play in our lives one way or another. And radical analysis leads to the same conclusion: no one needs any of this crap.
 
 &nbsp;
 

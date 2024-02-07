@@ -1,10 +1,10 @@
 ---
 title: services
-layout: page
+layout: redirect
 navprev: "../back/acknowledgments"
 permalink: "/about/services/"
 navnext: "../back/license"
-redirect: ../back/services
+redirect: ../../back/services
 ---
 
 Page moved to [back > services](/back/services)

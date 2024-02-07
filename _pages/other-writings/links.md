@@ -1,9 +1,8 @@
 ---
 title: Links
-layout: page
-navprev: 
+layout: redirect
+redirect: ../../other/links
 permalink: /other-writings/links/
-navnext: 
 ---
 
 #### Shelter

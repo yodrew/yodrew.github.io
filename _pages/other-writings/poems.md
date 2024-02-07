@@ -1,9 +1,8 @@
 ---
 title: Poems
-layout: page
-navprev: myths
-permalink: "/other-writings/poems/"
-navnext: lyrics
+layout: redirect
+redirect: ../../other/poems
+permalink: /other-writings/poems/
 ---
 
 ### 1992-93

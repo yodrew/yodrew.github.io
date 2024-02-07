@@ -1,9 +1,8 @@
 ---
 title: Bibliography
-layout: page
-navprev: ashers
-permalink: "/other-writings/bibliography/"
-navnext: 
+layout: redirect
+redirect: ../../other/bibliography
+permalink: /other-writings/bibliography/
 ---
 
 ### five cranial supernovas

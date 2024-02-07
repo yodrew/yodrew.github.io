@@ -1,9 +1,8 @@
 ---
 title: Sanity and Health
-layout: page
-navprev: free
-permalink: "/other-writings/sanity-and-health/"
-navnext: just-living
+layout: redirect
+redirect: ../../other/sanity
+permalink: /other-writings/sanity-and-health/
 ---
 
 [See NOTE below]
@@ -38,4 +37,4 @@ If the style agrees with you, begin reading the book from page 3. Skim through t
 
 _Introduction to Human Technology_ by William Arthur Evans, impressed me with this idea, especially about emotions, which have far more influence than the external conditions of health (diet, sunlight, exercise, etc). His idea connects the methods of Natural Hygiene (see Douglas Graham and Herbert Shelton) with those of all wisdom schools, including Gurdjieff's Fourth Way teachings.
 
-[NOTE: This is a chaotic piece written in the chaotic year preceding the emergence of the [conjecture](/darkness-conjecture/conjecture). I was desperately grasping at straws at the time, even more so than in a previous essay, [sociality-undenied](/other-writings/sociality-undenied). That also addressed self-observation, but from a social perspective. But it is hopeless for self-observation to deal with such gigantic problems as I thought it could. This is understood in the spiritual world from which self-observation comes. I was on the verge of learning it the hard way.]
+[NOTE: This is a chaotic piece written in the chaotic year preceding the emergence of the [conjecture](/conjecture/conjecture). I was desperately grasping at straws at the time, even more so than in a previous essay, [sociality-undenied](/other/sociality-undenied). That also addressed self-observation, but from a social perspective. But it is hopeless for self-observation to deal with such gigantic problems as I thought it could. This is understood in the spiritual world from which self-observation comes. I was on the verge of learning it the hard way.]

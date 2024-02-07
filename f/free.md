@@ -1,7 +1,8 @@
 ---
 title: free
-layout: page
+layout: redirect
 permalink: /f/free/
+redirect: ../../other/free
 ---
 
-Page moved to [other-writings > free](/other-writings/free)
+Page moved to [other writings > free](/other/free)

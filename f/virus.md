@@ -1,15 +1,15 @@
 ---
 title: virus
 layout: page
-navprev: /other-writings
+navprev: ../other
 permalink: /f/virus/
-navnext: /other-writings
+navnext: ../other
 ---
 
 by [David Klein, Ph.D.](http://www.vibranthealthandwealthacademy.com) (RIP)  
 and [Robert Sniadach, D.C.](http://www.transformationinstitute.org)
 
-![Wuhan Air Quality](./wuhan.jpg)  
+![Wuhan Air Quality](/img/photo/wuhan.jpg)  
 _Deadly air pollution in Wuhan, China, "epicenter" of the "coronavirus outbreak."_
 
 ### introduction

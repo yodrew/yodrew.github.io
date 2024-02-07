@@ -1,9 +1,8 @@
 ---
 title: Lyrics
-layout: page
-navprev: poems
-permalink: "/other-writings/lyrics/"
-navnext: ashers
+layout: redirect
+redirect: ../../other/lyrics
+permalink: /other-writings/lyrics/
 ---
 
 [Send me $20](/back/services#pay) for a copy of my record, "Resolve", recorded in 1995.

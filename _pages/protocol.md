@@ -104,7 +104,7 @@ I believe in fasting. It is a significant part of hygiene. But it seems best to 
 
 They seem to have opposite metabolic requirements. The organism focuses its healing efforts wherever food is absent. It gains energy—or at least internal comfort and support—from wherever food is present. The organism heals the body when physical food is absent. It heals the soul when the psychic food of sensation, especially vision, is absent. 
 
-I have tried both at the same time and it is very good but intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive a strong clear signal from your organism to combine them. I recommend Shelton's books, _Fasting Can Save Your Life_ and _The Science and Fine Art of Fasting_ and Albert Mosseri's [Fasting: Nature's Best Remedy](/other-writings/fasting).
+I have tried both at the same time and it is very good but intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive a strong clear signal from your organism to combine them. I recommend Shelton's books, _Fasting Can Save Your Life_ and _The Science and Fine Art of Fasting_ and Albert Mosseri's [Fasting: Nature's Best Remedy](/other/fasting).
 
 #### conservation
 
@@ -272,7 +272,7 @@ Such images often come in dreams and stay upon waking up. Clients have reported 
 
 On the one hand, I don't think we should get fascinated with them. One the other, I don't accept the common dismissal of them as hallucinations. 
 
-Darkness impresses me as a waking portal to the dreamworld. Which is also called [dreamtime](/darkness-conjecture/dreamtime) or _timespace_. This is the other basic dimension of reality. 
+Darkness impresses me as a waking portal to the dreamworld. Which is also called [dreamtime](/conjecture/dreamtime) or _timespace_. This is the other basic dimension of reality. 
 
 We should have access to it. Indigenous people have. Civilized people do not because of psychic malfunction from major trauma. Maybe we can finally pull ourselves together. 
 

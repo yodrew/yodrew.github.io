@@ -1,9 +1,8 @@
 ---
 title: free
-layout: page
-navprev: individualism
+layout: redirect
+redirect: ../../other/free
 permalink: /other-writings/free/
-navnext: sanity-and-health
 ---
 
 [NOTE: from 2011, this was an early, flawed attempt at an [individualist politics](/other-writings/individualism). Nothing came of this.]

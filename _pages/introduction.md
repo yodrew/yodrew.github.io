@@ -1,10 +1,10 @@
 ---
 title: introduction
-layout: page
+layout: redirect
 navprev: 
 permalink: "/introduction/"
 navnext: 
-redirect: front/introduction
+redirect: ../front/introduction
 ---
 
 Page moved to [front >introduction](/front/introduction)

@@ -332,7 +332,7 @@ Ok, now you know how to keep yourself safe in darkness. Back to the many wonders
 I aim for the simplest way to restore health fully. Broken bones can heal perfectly. So can we, and in every aspect. To this end, I would like to see hygienic retreat centers worldwide with facilities and support for:
 
 - short, medium, and long darkroom retreats
-- fasts (a la Albert Mosseri's groundbreaking [method](/other-writings/fasting))
+- fasts (a la Albert Mosseri's groundbreaking [method](/other/fasting))
 - physical retraining
 - training in healthy lifeway, including both lifestyle and livelihood
 - open-source research and development of the above

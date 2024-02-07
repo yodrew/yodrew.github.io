@@ -1,9 +1,8 @@
 ---
 title: basics
-permalink: "/darkness-conjecture/basics/"
-layout: page
-navprev: conjecture
-navnext: rapture
+permalink: /darkness-conjecture/basics/
+layout: redirect
+redirect: ../../conjecture/basics
 ---
 
 I will briefly explain the title, subtitle, and thesis of this part of the book in terms of theory. This site's [primary content](/) is the practical part. Further notes introduce the rest of the essays.

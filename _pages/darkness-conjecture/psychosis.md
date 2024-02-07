@@ -1,12 +1,11 @@
 ---
 title: psychosis
-permalink: "/darkness-conjecture/psychosis/"
-layout: page
-navprev: dreamtime
-navnext: catastrophe
+permalink: /darkness-conjecture/psychosis/
+layout: redirect
+redirect: ../../conjecture/psychosis
 ---
 
-_This essay is the heart of my work. It describes the insight that instantly precipitated the solution described earlier in [rapture](/darkness-conjecture/rapture/)._
+_This essay is the heart of my work. It describes the insight that instantly precipitated the solution described earlier in [rapture](/conjecture/rapture/)._
 
 On Christmas morning, 2008, I finally saw that I see the world:
 

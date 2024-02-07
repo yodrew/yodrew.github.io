@@ -1,9 +1,8 @@
 ---
 title: geodesic plydome
-permalink: "/darkness-conjecture/geodesic-plydome/"
-layout: page
-navprev: 
-navnext: 
+permalink: /darkness-conjecture/geodesic-plydome/
+layout: redirect
+redirect: ../../conjecture/geodesic-plydome
 ---
 
 ![12 geodesic plydome, size I intend to build, except without conical cap][1]

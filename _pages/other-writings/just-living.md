@@ -1,9 +1,8 @@
 ---
 title: Just Living
-layout: page
-navprev: sanity-and-health
-permalink: "/other-writings/just-living/"
-navnext: mechanics-of-mass-slavery
+layout: redirect
+redirect: ../../other/just-living
+permalink: /other-writings/just-living/
 ---
 
 ### a meditation on design

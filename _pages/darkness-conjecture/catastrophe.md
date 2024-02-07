@@ -1,16 +1,15 @@
 ---
 title: catastrophe
-permalink: "/darkness-conjecture/catastrophe/"
-layout: page
-navprev: psychosis
-navnext: strifeless
+permalink: /darkness-conjecture/catastrophe/
+layout: redirect
+redirect: ../../conjecture/catastrophe
 ---
 
 The catastrophic injury to the psyche I mention in the conjecture deserves some explanation.
 
 Humanity is incredibly resilient and adaptable. So the first cause of this injury would have to be mythic in scale to wreck consciousness. It would have to be something that almost made us extinct. In effect, those who sustained this injury are like the survivors of an airplane crash, wandering bewildered, catatonic, completely disoriented. I believe it was some disastrous event in our distant past that shocked us so badly that we nearly lost touch with reality. Each generation simply passed the mass psychosis on to the next, brutalizing one child at a time. Our society passed it to others through the horrors of conquest. The process metamorphosed into our current, institutionalized catastrophe.
 
-Maybe a comet hit Earth or planets changed position, causing a pole shift and massive geological changes. Not like the pissant tsunamis we have seen lately, but continent-drowning waves (like in the movie _2012_). Maybe the Flood. Maybe not a single event, but a series of events overwhelmed our people's capacity to cope. Maybe surviving grown-ups recovered but _children didn't_. I happen to imagine it as the shock of a mass transmigration of souls from the second dimension (see [myth of three peoples](/other-writings/myths) for the whole story).
+Maybe a comet hit Earth or planets changed position, causing a pole shift and massive geological changes. Not like the pissant tsunamis we have seen lately, but continent-drowning waves (like in the movie _2012_). Maybe the Flood. Maybe not a single event, but a series of events overwhelmed our people's capacity to cope. Maybe surviving grown-ups recovered but _children didn't_. I happen to imagine it as the shock of a mass transmigration of souls from the second dimension (see [myth of three peoples](/other/myths) for the whole story).
 
 In my search for joy, I have seen the same suffering all over. It didn't matter if my host was a multi-millionaire or a burger-flipper, the basic pain was the same.
 

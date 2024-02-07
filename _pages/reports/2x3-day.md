@@ -30,7 +30,7 @@ How? She made fun of me with regards to girls, love, sex. She mocked men and mas
 
 She also programmed me wordlessly, by feeling. She bore coldness, distance, and unavailability toward me, sometimes, even a murderous hostility.
 
-She had little choice in this. It was instinctive. It also expressed an incapacity of feeling she had learned from her own parents, who had learned it from theirs, etc. This goes all the way back, I suppose, to our [catastrophe](/darkness-conjecture/catastrophe/).
+She had little choice in this. It was instinctive. It also expressed an incapacity of feeling she had learned from her own parents, who had learned it from theirs, etc. This goes all the way back, I suppose, to our [catastrophe](/conjecture/catastrophe/).
 
 But Mother also loved me. Fiercely. Desperately. So like Rhea's saving of her child, Zeus, from Chronos, she subconsciously found a terrible way to protect me against the time bomb she had planted in me. She teased, shamed, and discouraged me my whole life about my sexuality and relationship with girls. She was merciless. And she never admitted it when I confronted her.
 

@@ -1,9 +1,8 @@
 ---
 title: The Ashers, a River, and I
-layout: page
-navprev: lyrics
-permalink: "/other-writings/ashers/"
-navnext: bibliography
+layout: redirect
+redirect: ../../other/ashers
+permalink: /other-writings/ashers/
 ---
 
 for my childhood neighbors, LaVerne and Jack Asher, on their 50th Wedding Anniversary

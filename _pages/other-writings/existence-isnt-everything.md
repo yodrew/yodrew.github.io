@@ -1,9 +1,8 @@
 ---
 title: Existence Isn't Everything
-layout: page
-navprev: 
-permalink: "/other-writings/existence-isnt-everything/"
-navnext: sociality-undenied
+layout: redirect
+redirect: ../../other/existence
+permalink: /other-writings/existence-isnt-everything/
 ---
 
 ### rethinking Objectivism's first axiom

@@ -1,9 +1,8 @@
 ---
 title: rapture
-permalink: "/darkness-conjecture/rapture/"
-layout: page
-navprev: basics
-navnext: hygiene-notes
+permalink: /darkness-conjecture/rapture/
+layout: redirect
+redirect: ../../conjecture/rapture
 ---
 
 On Christmas morning, 2008, I solved the mystery I had investigated for over 20 years: Why did a state of rapture arise in me when I was 15 for three months solid, only to fade away?

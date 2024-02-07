@@ -8,7 +8,7 @@ navnext: reports/five-darkness-experiences
 
 ### by me
 
-This is a series of reports of my hygienic darkroom retreats. They document my improbable recovery from an ancestral suicide program and coming of age at age 41. They resulted in the qualification of the [darkness-conjecture](/darkness-conjecture/) as a hypothesis. The book followed, along with the development of the idea into a practical solution. Now it is ready for testing by others.
+This is a series of reports of my hygienic darkroom retreats. They document my improbable recovery from an ancestral suicide program and coming of age at age 41. They resulted in the qualification of the [conjecture](/conjecture/) as a hypothesis. The book followed, along with the development of the idea into a practical solution. Now it is ready for testing by others.
 
 - [five darkness experiences](./five-darkness-experiences/)
 - [7-day retreat](./7-day/)

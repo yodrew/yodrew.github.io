@@ -1,9 +1,8 @@
 ---
 title: ORDO
-layout: page
-navprev: mechanics-of-mass-slavery
-permalink: "/other-writings/ordo/"
-navnext: economy
+layout: redirect
+redirect: ../../other/ordo
+permalink: /other-writings/ordo/
 ---
 
 ### an American art of placement

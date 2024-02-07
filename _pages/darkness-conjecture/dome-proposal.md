@@ -1,9 +1,8 @@
 ---
 title: dome proposal
-permalink: "/darkness-conjecture/dome-proposal/"
-layout: page
-navprev: 
-navnext: 
+permalink: /darkness-conjecture/dome-proposal/
+layout: redirect
+redirect: ../../conjecture/dome-proposal
 ---
 
 ### get shelter, support research
@@ -14,7 +13,7 @@ How would you like a small, beautiful, natural building for the very low cost of
 
 By January, I would like to have built a dome and completed a three-week retreat in total darkness inside it. Whoever funds the construction of the dome:
     - will keep it
-    - will have supported a serious test of [the darkness conjecture](/darkness-conjecture/), “a strifeless solution to [inordinate] human suffering.”
+    - will have supported a serious test of [the darkness conjecture](/conjecture/), “a strifeless solution to [inordinate] human suffering.”
 
 I can build—and, if you like, help you learn to build—one of four domes for you, depending on your location.
 

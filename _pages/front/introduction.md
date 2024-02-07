@@ -190,7 +190,7 @@ I felt awed by life at 2, joyful at 3. School started and a part of me went coma
 
 By age 15, I felt morose and alienated. But something from childhood was stirring in me. One day, I slumped before the TV. A tiny woman living inside it mentioned the importance of loving oneself and being happy. If my mood was the Death Star, this advice was Luke Skywalker's photon torpedo.
 
-In a moment, I was overcome by [rapture](/darkness-conjecture/rapture): sublime joy in apprehending our perfect, beautiful universe. The feeling was bigger than at age 3. It lasted three months. When it faded, so did my previous interests. More than anything, I wanted to understand the cause of joy. I wanted it back. 
+In a moment, I was overcome by [rapture](/conjecture/rapture): sublime joy in apprehending our perfect, beautiful universe. The feeling was bigger than at age 3. It lasted three months. When it faded, so did my previous interests. More than anything, I wanted to understand the cause of joy. I wanted it back. 
 
 In elementary school, I had read _The Dark Is Rising_ by Susan Cooper. It left an intriguing impression. During rapture, I found _Do You Really Need Eyeglasses?_ about natural care of the eyes. Later I learned it was a hygienic. My father's hero, Frank Lloyd Wright, gave me a way to escape school after graduation. "Better four years of experience," he said.
 
@@ -280,10 +280,10 @@ The back part consists of:
 This book is at [leanpub.com/darkroomretreat/](https://leanpub.com/darkroomretreat) as an ebook for sale. It is free at [darkroomretreat.com](/), where you can also read: 
 
 - a series of my retreat [reports](/reports)
-- [early essays](/darkness-conjecture) linked to in this book
+- [early essays](/conjecture) linked to in this book
 - elaborative [blog](/blog) posts
-- related [myths](/other-writings/myths) and
-- essays, designs, prose, poetry, and lyrics since[1988](/other-writings). They marked my way to the restful use of darkness.
+- related [myths](/other/myths) and
+- essays, designs, prose, poetry, and lyrics since[1988](/other). They marked my way to the restful use of darkness.
 
 #### open-source
 

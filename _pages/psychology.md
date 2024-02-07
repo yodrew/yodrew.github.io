@@ -275,7 +275,7 @@ By my rough estimation, we are currently functioning at 2% of capacity. In other
 
 The greatest people in our history had to lower their level of functioning from a normal 90-100% just so we could bear their presence. But what did each of them say, one way or another? _All this and more ye shall do._ This is our task. The first person to raise from the dead is oneself.
 
-The hygienic view of health and sanity is the brain of this approach. Darkroom retreating is the gut---the action. The testimony of mass functional psychosis is its broken heart. My essay online, [psychosis](/darkness-conjecture/psychosis), written in the heat of insight, conveys it purely and forcefully.
+The hygienic view of health and sanity is the brain of this approach. Darkroom retreating is the gut---the action. The testimony of mass functional psychosis is its broken heart. My essay online, [psychosis](/conjecture/psychosis), written in the heat of insight, conveys it purely and forcefully.
 
 ### cataclysm
 
@@ -382,7 +382,7 @@ These have massive implications for hygiene's destiny, and mankind's as well.
 
 Hygiene has said illness originates with enervation (exhaustion) and toxemia (poisoning). Its new pathology explains how these conditions themselves originate in trauma. In coming to terms with trauma, hygiene can finally meet and obsolete allopathy (medicine) in its stronghold. 
 
-I discuss these implications further in [hygiene notes](/darkness-conjecture/hygiene-notes). I am only saying enough here to give you a solid basis for beginning with hygienic darkroom retreating. If it makes sense to you and you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*Science and Fine Art of Natural Hygiene*](/nhs.pdf).
+I discuss these implications further in [hygiene notes](/conjecture/hygiene-notes). I am only saying enough here to give you a solid basis for beginning with hygienic darkroom retreating. If it makes sense to you and you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*Science and Fine Art of Natural Hygiene*](/nhs.pdf).
 
 &nbsp;
 
@@ -391,7 +391,7 @@ I discuss these implications further in [hygiene notes](/darkness-conjecture/hyg
 [^3]: This explains the unconscious motivation for the macabre fascination with genetics. This negligible and corrupt quasi-science is shot through with disgust for life and mechanistic control-freakishness.
 [^4]: David Wilcock, [Enigma 2012](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
 [^5]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual book, _In Search of the Miraculous_.
-[^6]: See my longer essay about cataclysm, [catastrophe](/darkness-conjecture/catastrophe)
+[^6]: See my longer essay about cataclysm, [catastrophe](/conjecture/catastrophe)
 [^7]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
 [^8]: Bernarr Zovluck, [Alternative Healing: What Nobody Understands](http://towardsfreedom.com/iwrters/bernarr-zovluck/alternative-healing-what-nobody-understands/)
  Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. This comment would help me connect darkness with hygiene a decade later.

@@ -19,7 +19,7 @@ From hygiene, I remembered two principles:
 
 And little failures of memory in middle age were showing me the organic nature of my psyche.
 
-One morning in a dream, these clues fused in a [conception](/darkness-conjecture) of _the restful use of darkness in support of the self-healing psyche_.
+One morning in a dream, these clues fused in a [conception](/conjecture) of _the restful use of darkness in support of the self-healing psyche_.
 
 I began testing this idea in more darkroom retreats. Lethal psychic issues that had tortured me for a lifetime began resolving themselves spontaneously, as predicted. In 14 years and 27 retreats, I have seen no sign of an end to this process---short of full recovery of psychophysical integrity.
 

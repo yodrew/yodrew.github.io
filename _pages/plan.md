@@ -211,7 +211,7 @@ Massive increase in bid: doubled to $14k
 - Equity (wages) added
 - Work period doubled to 4 months to include all TYPES, phases, and prototyping delays
 - Stipend 
-	- increased by 1/3 to cover all personal expenses (see [sane personal economy](/other-writings/economy))
+	- increased by 1/3 to cover all personal expenses (see [sane personal economy](/other/economy))
 	- extended for new work period
 - MATERIAL costs padded by 20%. Usual 10% for breakage and mistakes, plus 10% in case of more insane price increases
 - Estimate of license doubled and built into shell cost

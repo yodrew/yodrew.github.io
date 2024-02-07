@@ -1,9 +1,10 @@
 ---
 title: dedication
-permalink: "/dedication/"
-layout: page
+layout: redirect
 navprev: 
+permalink: "/dedication/"
 navnext: 
+redirect: ../front/dedication
 ---
     
 Page moved to [front > dedication](/front/dedication)

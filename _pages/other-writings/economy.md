@@ -1,9 +1,8 @@
 ---
 title: economy
-layout: page
-navprev: ordo
-permalink: "/other-writings/economy/"
-navnext: tribal-housing
+layout: redirect
+redirect: ../../other/economy
+permalink: /other-writings/economy/
 ---
 
 This is an overview and discussion of a sane personal economy.

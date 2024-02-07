@@ -6,7 +6,7 @@ permalink: /f/wireless/
 navnext:
 ---
 
-A real whopper on wireless radiation from our friends in the Navy. Everyone who was anyone in the rollout of wireless technology knew this stuff 50 years ago. That they went full steam ahead anyway tells you what position we occupy in their world.
+A real whopper on wireless radiation from our friends in the Navy. Everyone who was anyone in the rollout of wireless technology knew this stuff 50 years ago. That they went full steam ahead anyway tells you what position we occupy in their view. 
 
 Excerpted from [PDF](https://www.stetzerelectric.com/wp-content/uploads/Naval-Medical-Research-Institute-1972-Full-Bibliography.pdf)
 

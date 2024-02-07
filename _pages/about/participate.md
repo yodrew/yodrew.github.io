@@ -1,10 +1,10 @@
 ---
 title: participate
-layout: page
+layout: redirect
 navprev: "../back/license"
 permalink: "/about/participate/"
 navnext: "../back/bio"
-redirect: ../back/participate
+redirect: ../../back/participate
 ---
 
 Page moved to [back > participate](/back/participate)

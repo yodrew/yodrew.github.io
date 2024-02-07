@@ -29,7 +29,7 @@ What is health like, according to our science?
 > "Health does not consist merely of the absence of symptoms of illness. It is a state of positive well-being that is evidenced by a constant state of euphoria. It is rarely, if ever, experienced by humans today."
 --Herbert Shelton, father of modern hygiene[^1]
 
-Euphoria is the sign of function that my adolescent [rapture](/darkness-conjecture/rapture) hinted at. Once tasted, nothing else will do. What conditions would make it possible? Identifying and providing conditions is hygiene's forte. It accomplishes this by making observations of life in nature along certain lines.
+Euphoria is the sign of function that my adolescent [rapture](/conjecture/rapture) hinted at. Once tasted, nothing else will do. What conditions would make it possible? Identifying and providing conditions is hygiene's forte. It accomplishes this by making observations of life in nature along certain lines.
 
 #### outline
 
@@ -120,7 +120,7 @@ Hygiene 2.0 was marked by integration. After the untimely death of Dr Trall, Joh
 
 By uncompromising insight and Olympian effort, Herbert Shelton revived and systematized hygiene for the 20th century. He published a score of books and 40 years of magazines. He supervised over 20,000 fasts. He counted Gandhi among his adherents and suffered similar persecutions. He rechristened hygiene, "Natural Hygiene", to distinguish it from medicine's corruption of the word to just mean cleanliness.
 
-Albert Mosseri of France further modernized hygiene with his piquant prose and prodigious innovation in [fasting](/other-writings/fasting).
+Albert Mosseri of France further modernized hygiene with his piquant prose and prodigious innovation in [fasting](/other/fasting).
 
 Mosseri's reader and translator, [Frederic Patenaude](https://fredericpatenaude.com) of Quebec, introduced Mosseri to a wider audience through his magazine "Just Eat an Apple" and hygienic book, _Raw Secrets_ (which I helped edit and publish).
 

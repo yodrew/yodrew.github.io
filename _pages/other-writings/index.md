@@ -1,9 +1,8 @@
 ---
 title: other writings
-layout: page
-navprev: 
-permalink: "/other-writings/"
-navnext: other-writings/existence-isnt-everything
+layout: redirect
+redirect: ../../other/
+permalink: /other-writings/
 ---
 
 _This is a collection of my earlier writings. They began appearing in 2001 on my "secret design" geocities site. Verse dates to 1988. The intro sentence is from the first version of andrewdurham.com when I left geocities in 2009._
@@ -11,7 +10,6 @@ _This is a collection of my earlier writings. They began appearing in 2001 on my
 ~~
 
 For 21 years, I have combed the edges of philosophy, health, and design for clues to a sane way to live. Here I describe some of my findings. 
-
 
 ### Philosophy
 
@@ -23,7 +21,7 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 
 ### Health
 
-- [Sanity and Health](./sanity-and-health/) intro (this led to [the darkness conjecture](../darkness-conjecture/) then [hygienic darkroom retreat](/))
+- [Sanity and Health](./sanity-and-health/) intro (this led to [the darkness conjecture](../conjecture/) then [hygienic darkroom retreat](/))
 
 ### Design
 

@@ -1,9 +1,8 @@
 ---
 title: From Where?
-layout: page
-navprev: sociality-undenied
-permalink: "/other-writings/from-where/"
-navnext: nothing-to-fear
+layout: redirect
+redirect: ../../other/from-where
+permalink: /other-writings/from-where/
 ---
 
 ### understanding Quinn, part 2

@@ -1,9 +1,8 @@
 ---
 title: the darkness conjecture
-permalink: "/darkness-conjecture/"
-layout: page
-navprev: 
-navnext: darkness-conjecture/conjecture
+permalink: /darkness-conjecture/
+layout: redirect
+redirect: ../../conjecture/
 ---
 
 ### a strifeless recovery of rapture

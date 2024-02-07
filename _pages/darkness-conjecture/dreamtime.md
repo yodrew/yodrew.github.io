@@ -1,9 +1,8 @@
 ---
 title: dreamtime
-permalink: "/darkness-conjecture/dreamtime/"
-layout: page
-navprev: hygiene-notes
-navnext: psychosis
+permalink: /darkness-conjecture/dreamtime/
+layout: redirect
+redirect: ../../conjecture/dreamtime
 ---
 
 While chatting online with a friend, Brian Sullivan, I described to him my brief waking experience of dreamtime and wrote a bit about the pineal gland. I had learned about it from Mantak Chia in [_Dark Room Enlightenment_](https://www.scribd.com/doc/7109388/Mantak-Chia-Dark-Room-Enlightenment) and [David Wilcock](https://www.divinecosmos.com/videos/free-videos-online/374-the-2012-enigma-free-full-length-documentary-film) in [_2012 Enigma_](https://www.youtube.com/results?search_query=2012+enigma+wilcock). Here is the edited chat:

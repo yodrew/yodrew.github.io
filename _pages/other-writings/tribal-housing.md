@@ -1,9 +1,8 @@
 ---
 title: Tribal Housing
-layout: page
-navprev: ordo
+layout: redirect
+redirect: ../../other/tribal-housing
 permalink: /other-writings/tribal-housing/
-navnext: myths
 ---
 
 ### a design for a full life on $250 a month
@@ -101,4 +100,4 @@ _The Continuum Concept_, Jean Liedloff (tribal relationship); _The Path of Least
 &nbsp;
 
 [**NOTE:** While the mechanics of Tribal Housing as described below are still mostly valid, my thinking about its social context has changed significantly. While I have slightly edited the article to reflect this change, please read [Sociality Undenied](/other-writings/sociality-undenied/) for a full presentation of my new view of social organization]
-[NOTE 2: Sociality Undenied was subsequently obsoleted by the ideas in [psychosis](/darkness-conjecture/psychosis/) and [hygiene](/hygiene#capacity) and even later, [individualism](/other-writings/individualism)]
+[NOTE 2: Sociality Undenied was subsequently obsoleted by the ideas in [psychosis](/conjecture/psychosis/) and [hygiene](/hygiene#capacity) and even later, [individualism](/other-writings/individualism)]

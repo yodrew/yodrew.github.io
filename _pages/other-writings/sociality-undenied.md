@@ -1,9 +1,8 @@
 ---
 title: Sociality Undenied
-layout: page
-navprev: existence-isnt-everything
-permalink: "/other-writings/sociality-undenied/"
-navnext: from-where
+layout: redirect
+redirect: ../../other/sociality-undenied
+permalink: /other-writings/sociality-undenied/
 ---
 
 ###  the operative principle of band society

@@ -1,10 +1,10 @@
 ---
 title: foreword
-layout: page
+layout: redirect
 navprev: 
 permalink: "/foreword/"
 navnext: 
-redirect: front/foreword
+redirect: ../front/foreword
 ---
 
 Page moved to [front >foreword](/front/foreword)

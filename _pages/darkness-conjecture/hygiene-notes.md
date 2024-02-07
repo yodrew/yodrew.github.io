@@ -1,9 +1,8 @@
 ---
 title: hygiene notes
-permalink: "/darkness-conjecture/hygiene-notes/"
-layout: page
-navprev: rapture
-navnext: dreamtime
+permalink: /darkness-conjecture/hygiene-notes/
+layout: redirect
+redirect: ../../conjecture/hygiene-notes
 ---
 
 _Note: this is an early version of the [hygiene](/hygiene/), [darkroom retreat](/darkroom-retreat), and [psychology](/psychology/) chapters from the book. So some of the text is the same. But there are more and different things here about Natural Hygiene and other approaches._

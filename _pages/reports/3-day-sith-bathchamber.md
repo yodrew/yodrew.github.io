@@ -54,14 +54,14 @@ All in all, I had what I consider an extraordinarily valuable experience with th
 
 &nbsp;
 
-[1]: /darkness-conjecture/conjecture/
+[1]: /conjecture/conjecture/
 [2]: https://dropout50394.yuku.com/topic/1102?page=1
 [3]: https://www.traditionaltao.com/index.html/html/site-subsection/ID/9
 [4]: https://www.traditionaltao.com/index.html/html/site-subsection/ID/11
-[5]: /other-writings/tribal-housing/
+[5]: /other/tribal-housing/
 [6]: https://andrewdurham.shutterfly.com/73
-[7]: /darkness-conjecture/dreamtime/
-[8]: /darkness-conjecture/strifeless/
-[9]: /darkness-conjecture/hygiene-notes/
+[7]: /conjecture/dreamtime/
+[8]: /conjecture/strifeless/
+[9]: /conjecture/hygiene-notes/
 
 

@@ -74,7 +74,7 @@ The other main thing about this retreat was that, in catching up on lost sleep, 
 
 ### 2009 Feb 15
 
-Inspired by my breakthrough on Christmas, this was going to be my first long retreat. It took place at another friend's house in Eugene. Due to too much noise in the rest of the house, the retreat was a failure. This positively unnerved me. Somehow I wrote several of [these essays](/darkness-conjecture) about darkness before crashing for weeks with other friends. Then I left Eugene for the last time.
+Inspired by my breakthrough on Christmas, this was going to be my first long retreat. It took place at another friend's house in Eugene. Due to too much noise in the rest of the house, the retreat was a failure. This positively unnerved me. Somehow I wrote several of [these essays](/conjecture) about darkness before crashing for weeks with other friends. Then I left Eugene for the last time.
 
 It helped me realize, in yet another way, how I have habitually kept people out of my life. This led me to ignore several warnings that an occupied house might be too noisy for a retreat. Also, I ignored a request from a couple friends to give a talk about the conjecture, which likely would have opened up the project to others' participation. Heartbreaking. But somehow I will open up.
 

@@ -10,7 +10,7 @@ navnext: 3-day
 
 I had my worst suidicidally depressive breakdown ever in December and let out a cry on my personal facebook page for help with a dark retreat to recover. Within a few weeks, and with the help of a small, far-flung team of supporters, I did a 6-day dark retreat. I am feeling much better. 
 
-(I had planned to retreat 14 days. This proved impractical at the location for reasons given below. Now I am stable but still [psychotic](/darkness-conjecture/psychosis/) &nbsp;;p) )
+(I had planned to retreat 14 days. This proved impractical at the location for reasons given below. Now I am stable but still [psychotic](/conjecture/psychosis/) &nbsp;;p) )
 
 The retreat began Friday about noon local time, two days late due to technical difficulties, which is typical. Then I must have slept 16 hours a day for 2-3 days until I started feeling better.
 

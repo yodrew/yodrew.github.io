@@ -1,9 +1,8 @@
 ---
 title: individualism
-layout: page
-previous: from-where
-permalink: /other-writings/individualism
-next: free 
+layout: redirect
+redirect: ../../other/individualism
+permalink: /other-writings/individualism/
 ---
 
 ### notes toward an individualist form of government

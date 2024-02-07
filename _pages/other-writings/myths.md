@@ -1,9 +1,8 @@
 ---
 title: myths
-layout: page
-navprev: tribal-housing
-permalink: "/other-writings/myths/"
-navnext: poems
+layout: redirect
+redirect: ../../other/myths
+permalink: /other-writings/myths/
 ---
 
 ### three peoples

@@ -262,36 +262,13 @@ Reality is not what they told you it was in college. They defrauded you of a lot
 
 <!--&nbsp;-->
 
-Consider the following conversation.
+Recovery of health through profound rest in darkness requires full application of the hygienic method. This, in turn, requires a team, a proper facility, and a complete method. 
 
-&nbsp;
+I had none of these. Meanwhile, I was using up my reserves. I made damaging errors in my trials of it. 
 
-_How big a problem is suffering?_
+I was saved twice by resting in darkness. I figured out why it had sometimes gone wrong. Mostly alone, and in various substandard facilities, I worked out the details of the method, completing its development. That is all I can claim.
 
-The biggest.
+It is one thing to be curious about my circumstances. It is quite another to dismiss my thesis because of my condition. Ad hominem is very popular these days. But refuting my thesis requires addressing it point by point on its own terms. 
 
-_How important would a solution to it be?_
+So far, no one has been able to do it.
 
-Topmost.
-
-_How much of an achievement would solving it be?_
-
-Staggering.
-
-_How hard would it be to solve it?_
-
-Near-impossible.
-
-_What might it do to one who solved it?_
-
-Wreck or kill him.
-
-_If he survived and is just beginning to apply it, what would his condition be?_
-
-Still wrecked.
-
-_If he still has a sense of humor, how much more of an achievement would that be?_
-
-Ok, I get the point. Thank you. I'll finish reading your book now.
-
-_Great! You're welcome. Next question._

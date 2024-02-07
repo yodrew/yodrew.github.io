@@ -1,10 +1,10 @@
 ---
 title: acknowledgments
-layout: page
+layout: redirect
 navprev: "../back/bibliography-influences"
 permalink: "/about/acknowledgments/"
 navnext: "../back/services"
-redirect: ../back/acknowledgments
+redirect: ../../back/acknowledgments
 ---
 
 Page moved to [back > acknowledgments](/back/acknowledgments)

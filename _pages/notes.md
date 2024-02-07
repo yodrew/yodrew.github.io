@@ -1,10 +1,10 @@
 ---
 title: notes
-layout: page
+layout: redirect
 navprev: 
 permalink: "/notes/"
 navnext: 
-redirect: front/notes
+redirect: ../front/notes
 ---
 
 Page moved to [front >notes](/front/notes)

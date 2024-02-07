@@ -200,11 +200,11 @@ The problem solves itself. We simply turn our prisons into escape pods. After al
 
 But not halfway, like beasts pacing restlessly in a cage. We stop fully, more and faster than anyone expected, without the slightest concession to the demand to constantly be busy. We can even say this is what our buildings were always for.
 
-So rectilinear buildings are not just acceptable for short retreats, but perfectly suitable. We begin to remedy them by an art of placement: feng shui, vastuveda, wabi sabi, or [ordo](/other-writings/ordo). This may render them suitable for medium-length retreats. If not, and certainly for long retreats, we replace, vacate, and dismantle them. We burn or bury their materials or renew them through re-use in round buildings. 
+So rectilinear buildings are not just acceptable for short retreats, but perfectly suitable. We begin to remedy them by an art of placement: feng shui, vastuveda, wabi sabi, or [ordo](/other/ordo). This may render them suitable for medium-length retreats. If not, and certainly for long retreats, we replace, vacate, and dismantle them. We burn or bury their materials or renew them through re-use in round buildings. 
 
 A good building for the long-term is round or has five or more walls in a regular polygon. Walls can be rectangles. Right angles where floors meet walls are fine. But not where walls meet ceilings or each other, as in orthogonal floor plans.
 
-Happily, a handful of elegant, cheap, quick, [round shelter designs](/other-writings/links) exist for new buildings. My hygienic house [plan](/plan) below, is also one. 
+Happily, a handful of elegant, cheap, quick, [round shelter designs](/other/links) exist for new buildings. My hygienic house [plan](/plan) below, is also one. 
 
 It turns out that rectilinear construction is not simpler or easier. It's just a frame of mind.
 

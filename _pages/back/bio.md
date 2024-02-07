@@ -8,11 +8,11 @@ navnext: ../
 
 Born 1971, Twin Falls, Idaho. 
 
-My family and elders trained me to think and to make things.
+My family and elders trained me to think and to make things. They bequeathed to me my lifelong interests in philosophy, health, and design.
 
-At 16, [joy overwhelmed me](/darkness-conjecture/rapture). It inspired me to investigate its cause full-time for 21 years. I independently studied, philosophy, health, and design---interests my parents bequeathed me. I tested my findings while traveling America. I lived outside, with friends and relatives, and in small groups. I played music, did odd jobs, and built alternative shelters. I believe truth is objective, so it is essentially free. Poverty kept me focused while searching.
+At 16, [joy overwhelmed me](/conjecture/rapture). It inspired me to investigate its cause full-time for 21 years. I independently studied my aforementioned interests, testing my findings while traveling America. I lived outside, with friends and relatives, and in small groups I met. I played music, did odd jobs, and built alternative shelters.
 
-In 2008, I discovered darkness as the means nature provides us to heal from trauma, the cause of our suffering. Out of this came the [*darkness conjecture*](/darkness-conjecture/), the concept of the restful use of darkness in support of the self​-healing psyche. I began focusing on:
+In 2008, I discovered darkness as the means nature provides us to heal from trauma, the cause of our suffering. Out of this came the [*darkness conjecture*](/conjecture/), the concept of the restful use of darkness in support of the self​-healing psyche. I began focusing on:
 
 - designing and building darkrooms
 - doing and supporting retreats in America, Guatemala, Sweden, Norway, Spain, and Czech Republic

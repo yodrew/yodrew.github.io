@@ -1,9 +1,8 @@
 ---
 title: Nothing to Fear, Even Fear Itself
-layout: page
-navprev: from-where
-permalink: "/other-writings/nothing-to-fear/"
-navnext: sanity-and-health
+layout: redirect
+redirect: ../../other/nothing-to-fear
+permalink: /other-writings/nothing-to-fear/
 ---
 
 ### big brother's achilles's heel
