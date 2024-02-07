@@ -2,7 +2,7 @@
 title: Origins of Agriculture
 layout: page
 navprev: 
-permalink: /f/origins
+permalink: /f/origins/
 navnext: 
 ---
 

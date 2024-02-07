@@ -163,7 +163,7 @@ Close-knit family is our past, our future, and our secret present. When alone, a
 _revised 5 July 2008_
 
    [1]: /other/bibliography/
-   [2]: /other/origins/
+   [2]: /f/origins/
    
 
 

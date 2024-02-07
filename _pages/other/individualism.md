@@ -2,7 +2,7 @@
 title: individualism
 layout: page
 previous: from-where
-permalink: /other/individualism
+permalink: /other/individualism/
 next: free 
 ---
 

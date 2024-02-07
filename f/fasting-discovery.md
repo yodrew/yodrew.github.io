@@ -6,7 +6,7 @@ permalink: /f/fasting-discovery/
 navnext: fasting
 ---
 
-from [_Fasting: Nature’s Best Remedy_](/other/mosseri), p136, chapter 19, "A Prodigious Discovery"  
+from [_Fasting: Nature’s Best Remedy_](/f/fasting), p136, chapter 19, "A Prodigious Discovery"  
 by Albert Mosséri
 ~~
 

@@ -46,17 +46,17 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 ### By Others
 
 - general
-	- [Bibliography](./bibliography/) five cranial supernovas + honorable mentions
+	- [Bibliography](./bibliography) five cranial supernovas + honorable mentions
 	- [Aphorisms](./aphorisms): sayings relevant to darkness <span id=new>NEW</span>
 - health
 	- [Virus](/f/virus) by Klein & Sniadach: the apotheosis of germ theory, medicine's greatest hoax <span id=new>NEW</span>
-	- [Fasting: A Prodigious Discovery](/f/fasting-discovery/) by Albert Mosseri, French hygienic master, _excerpted from:_
-	- [Fasting: Nature's Best Remedy](/f/fasting/) by Albert Mosseri
+	- [Fasting: A Prodigious Discovery](/f/fasting-discovery) by Albert Mosseri, French hygienic master, _excerpted from:_
+	- [Fasting: Nature's Best Remedy](/f/fasting) by Albert Mosseri
 	- [Maharaj: A Biography of Shriman Tapasviji Maharaj, a Mahatma Who Lived for 185 Years](/f/maharaj/) by T S Anantha Murthy: report of long dark retreat <span id=new>NEW</span>
 	- [Wireless Radiation](/f/wireless) a research summary from the Naval Medical Research Institute, 1972. <span id=new>NEW</span>
 	- [True Healing Art](/f/trall.pdf) by Russell Trall: speech by a founder of hygiene in 1862 at the Smithsonian. <span id=new>NEW</span>
 - agriculture
-	- [Origins of Agriculture](/f/origins/) by Wadley & Martin: a stunning _What if…?_
-	- [On a Green Mountain with Masanobu Fukuoka](/f/fukuoka/) the Sensei of Natural Farming
+	- [Origins of Agriculture](/f/origins) by Wadley & Martin: a stunning _What if…?_
+	- [On a Green Mountain with Masanobu Fukuoka](/f/fukuoka) the Sensei of Natural Farming
 - design
-	- [Links](./links/) good designs to learn and sing
+	- [Links](./links) good designs to learn and sing
