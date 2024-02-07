@@ -120,7 +120,7 @@ Hygiene 2.0 was marked by integration. After the untimely death of Dr Trall, Joh
 
 By uncompromising insight and Olympian effort, Herbert Shelton revived and systematized hygiene for the 20th century. He published a score of books and 40 years of magazines. He supervised over 20,000 fasts. He counted Gandhi among his adherents and suffered similar persecutions. He rechristened hygiene, "Natural Hygiene", to distinguish it from medicine's corruption of the word to just mean cleanliness.
 
-Albert Mosseri of France further modernized hygiene with his piquant prose and prodigious innovation in [fasting](/other/fasting).
+Albert Mosseri of France further modernized hygiene with his piquant prose and prodigious innovation in [fasting](/f/fasting).
 
 Mosseri's reader and translator, [Frederic Patenaude](https://fredericpatenaude.com) of Quebec, introduced Mosseri to a wider audience through his magazine "Just Eat an Apple" and hygienic book, _Raw Secrets_ (which I helped edit and publish).
 

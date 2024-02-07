@@ -254,7 +254,7 @@ We can look at it in the negative as well. If this tired statement were true,
  
 Evidence shows all these are false. Again, relativism makes fashionable philosophy but poor biology. Repeating it changes nothing. 
 
-Reality is not what they told you it was in college. They defrauded you of a lot of time and money. But it's not too late for you. See my [bibliography](/back/bibliography) for a rehabilitative course of study. Cutting your losses will be easier when you have a replacement for all that nonsense. 
+Reality is not what they told you it was in college. They defrauded you of a lot of time and money. But it's not too late for you. See my [bibliography](/back/bibliography-influences) and [here](/other/bibliography) for a rehabilitative course of study. Cutting your losses will be easier when you have a replacement for all that nonsense. 
 
 <!--&nbsp;-->
 

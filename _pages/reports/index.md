@@ -12,7 +12,7 @@ This is a series of reports of my hygienic darkroom retreats. They document my i
 
 - [five darkness experiences](./five-darkness-experiences/)
 - [7-day retreat](./7-day/)
-- [6-day retreat](./6-day/)
+- [6-day retreat](./6-day/) 
 - [3-day retreat](./3-day/)
 - [7x1-day retreat](./7x1-day/)
 - [2x3-day retreat](./2x3-day/)
