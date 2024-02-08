@@ -1,5 +1,5 @@
 ---
-title: hygiene&nbsp; &nbsp;1
+title: 1 &nbsp; hygiene
 layout: page
 navprev: front/introduction
 permalink: /hygiene/

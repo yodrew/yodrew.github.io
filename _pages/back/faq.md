@@ -16,7 +16,7 @@ No worries. The breakfast cereal will be out soon.
 
 Some people view this book as fiction. Think of it as a story you can enter and try. That's when it really picks up.
 -->
-1 - **Where can I go for a hygienic darkroom retreat?**
+**1 - Where can I go for a hygienic darkroom retreat?**
 
 <!--&nbsp;-->
 
@@ -28,7 +28,7 @@ This is why I wrote the last five chapters of this book. Use them to make darkne
 
 <!--&nbsp;-->
 
-2 - **I suffer from X. Will this help me?**
+**2 - I suffer from X. Will this help me?**
 
 <!--&nbsp;-->
 
@@ -38,7 +38,7 @@ In your first retreats, you get a taste of these things. You realize them fully 
 
 <!--&nbsp;-->
 
-3 - **Do you eat in a darkroom retreat?**
+**3 - Do you eat in a darkroom retreat?**
 
 <!--&nbsp;-->
 
@@ -48,7 +48,7 @@ Fasting is part of hygiene, too. It is compatible with darkness. But wait on it 
 
 <!--&nbsp;-->
 
-4 - **How many people retreat at once?**
+**4 - How many people retreat at once?**
 
 <!--&nbsp;-->
 
@@ -56,7 +56,7 @@ One. The point of this retreat is to rest, heal, and recover oneself. Nothing is
 
 <!--&nbsp;-->
 
-5 - **How do you do things in darkness?**
+**5 - How do you do things in darkness?**
 
 <!--&nbsp;-->
 
@@ -64,7 +64,7 @@ Slowly and smoothly. First, become familiar with the room in light. Make memorab
 
 <!--&nbsp;-->
 
-6 - **Could you just retreat with a mask?**
+**6 - Could you just retreat with a mask?**
 
 <!--&nbsp;-->
 
@@ -76,7 +76,7 @@ Sleeping masks are good for travel, naps, and sleeping until your bedroom can be
 
 <!--&nbsp;-->
 
-7 - **Is it like meditation?**
+**7 - Is it like meditation?**
 
 <!--&nbsp;-->
 
@@ -90,7 +90,7 @@ These subtly different drivers and purposes have massive effects on one's experi
 
 ### concerns
 
-1 - **Is total extended darkness safe?**
+**1 - Is total extended darkness safe?**
 
 <!--&nbsp;-->
 
@@ -98,7 +98,7 @@ Yes, if you do it correctly. This is uncomplicated. Dangers are easily avoided i
 
 <!--&nbsp;-->
 
-2 - **I feel afraid of this.**
+**2 - I feel afraid of this.**
 
 <!--&nbsp;-->
 
@@ -122,7 +122,7 @@ See also objection #1, below.
 
 <!--&nbsp;-->
 
-3 - **Wouldn't you go crazy staying in darkness that long?**
+**3 - Wouldn't you go crazy staying in darkness that long?**
 
 <!--&nbsp;-->
 
@@ -134,7 +134,7 @@ This can be uncomfortable, painful, even alarming, like the traumatic causes of 
 
 <!--&nbsp;-->
 
-4 - **Do you get bored?**
+**4 - Do you get bored?**
 
 <!--&nbsp;-->
 
@@ -144,7 +144,7 @@ Part of the being is so damaged, painful, and draining that all feeling to it ha
 
 <!--&nbsp;-->
 
-5 - **Five days is a long time to do nothing.**
+**5 - Five days is a long time to do nothing.**
 
 <!--&nbsp;-->
 
@@ -166,7 +166,7 @@ Maybe you mean it sounds pointless or dreadful. In fact, a retreat often begins 
 
 ### objections
 
-1 - **I could never do a darkroom retreat.**
+**1 - I could never do a darkroom retreat.**
 
 <!--&nbsp;-->
 
@@ -174,7 +174,7 @@ At the moment, your doing a retreat is out of the question. You cannot do it if 
 
 <!--&nbsp;-->
 
-2 - **Why must I read a whole book just to retreat or even talk to you?**
+**2 - Why must I read a whole book just to retreat or even talk to you?**
 
 <!--&nbsp;-->
 
@@ -190,11 +190,11 @@ You read it to:
 My time must be paid for, either in understanding and sincerity, or with money. Take your pick.
 3. Assist me. Someday, I will be set up to support retreats for people who have not read my book. In the meantime, some of the structure necessary for a successful retreat must exist in the mind of the retreater. Reading the book builds that structure.
 
-	Getting in on the ground floor of anything takes vision and guts. If you are a fellow innovator or an early adopter, you can rise to this challenge. If not, you will have to wait.
+	Getting in on the ground floor of anything takes vision and guts. Fellow innovators and early adopters of this will rise to the challenge.
 
 <!--&nbsp;-->
 
-3 - **Isn't total darkness unnatural? Shouldn't we be exposed to stars and moon at night?**
+**3 - Isn't total darkness unnatural? Shouldn't we be exposed to stars and moon at night?**
 
 <!--&nbsp;-->
 
@@ -208,7 +208,7 @@ Our obsession with building---the principle activity of civilization for 13,000 
 
 <!--&nbsp;-->
 
-4 - **This sounds Satanic.**
+**4 - This sounds Satanic.**
 
 <!--&nbsp;-->
 
@@ -226,7 +226,7 @@ Some Christians who have encountered this idea have attempted to equate physical
 
 <!--&nbsp;-->
 
-5 - **Extended darkness could be good for some people, but there are many ways people can heal their suffering. Nothing works for everyone.**
+**5 - Extended darkness could be good for some people, but there are many ways people can heal their suffering. Nothing works for everyone.**
 
 <!--&nbsp;-->
 
@@ -258,7 +258,7 @@ Reality is not what they told you it was in college. They defrauded you of a lot
 
 <!--&nbsp;-->
 
-6 - **If hygienic darkroom retreating is so great, why are you still sick?**
+**6 - If hygienic darkroom retreating is so great, why are you still sick?**
 
 <!--&nbsp;-->
 

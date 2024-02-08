@@ -1,5 +1,5 @@
 ---
-title: format&nbsp; &nbsp;4
+title: 4 &nbsp; format
 layout: page
 navprev: psychology
 permalink: /format/

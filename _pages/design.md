@@ -1,5 +1,5 @@
 ---
-title: design&nbsp; &nbsp;7
+title: 7 &nbsp; design
 layout: page
 navprev: prepare
 permalink: /design/

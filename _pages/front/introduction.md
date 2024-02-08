@@ -265,18 +265,6 @@ Chapters are grouped in three parts:
 	- [darkness](/darkness): refined darkening techniques
 	- [water](/water): simple kitchen and bathroom fixtures for portable darkrooms
 
-The back part consists of:
-
-- [faq](/back/faq): frequently asked questions
-- [bibliography and influences](/back/bibliography-influences)
-- [acknowledgments](/back/acknowledgments)
-- [participate](/back/participate)
-- [license](/back/license)
-- [services](/back/services)
-- [bio](/back/bio)
-
-<!--pagebreak-->
-
 This book is at [leanpub.com/darkroomretreat/](https://leanpub.com/darkroomretreat) as an ebook for sale. It is free at [darkroomretreat.com](/), where you can also read: 
 
 - a series of my retreat [reports](/reports)
@@ -284,6 +272,8 @@ This book is at [leanpub.com/darkroomretreat/](https://leanpub.com/darkroomretre
 - elaborative [blog](/blog) posts
 - related [myths](/other/myths) and
 - essays, designs, prose, poetry, and lyrics since[1988](/other). They marked my way to the restful use of darkness.
+
+<!--pagebreak-->
 
 #### open-source
 
@@ -299,4 +289,9 @@ I continually update this book. Before rereading or building, download the lates
 
 Now, on to the life-restoring perspective of hygiene and how darkness and psychology complete it.
 
+<!--pagebreak-->
+
+<!--&nbsp;-->
+
+<!--pagebreak-->
 

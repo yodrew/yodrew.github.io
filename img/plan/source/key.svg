@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="169.9415mm"
-   height="205.14421mm"
+   height="202.07204mm"
    id="svg2"
    version="1.1"
    inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    sodipodi:docname="key.svg"
-   viewBox="0 0 169.94148 205.14422"
+   viewBox="0 0 169.94148 202.07205"
    inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/key.png"
    inkscape:export-xdpi="100.89"
    inkscape:export-ydpi="100.89"
@@ -312,8 +312,8 @@
        units="mm"
        spacingx="0.099999996"
        spacingy="0.1"
-       originx="3.8084579"
-       originy="-32.358925" />
+       originx="3.8084569"
+       originy="-32.358928" />
     <sodipodi:guide
        position="32.401005,36.020627"
        orientation="0,1"
@@ -322,7 +322,7 @@
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="57.8824,93.911776"
+       position="57.882399,93.911774"
        orientation="0,1"
        id="guide417" />
   </sodipodi:namedview>
@@ -342,7 +342,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-9.6796346,-65.096254)">
+     transform="translate(-9.6796346,-68.168418)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none"
@@ -748,16 +748,16 @@
          style="font-size:7.76111px"
          id="tspan5956">symbols</tspan></text>
     <text
-       transform="matrix(0.9999659,0,0,1.0000341,-41.871865,0)"
+       transform="scale(0.9999659,1.0000341)"
        id="text10893"
-       y="73.670959"
-       x="54.413296"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:6.69432px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       y="75.670898"
+       x="59.541599"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:2.88396px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan10895"
-         style="font-size:11.2889px;line-height:145%;letter-spacing:6.69432px"
-         y="73.670959"
-         x="54.413296"
+         style="font-size:9.87778px;line-height:145%"
+         y="75.670898"
+         x="59.541599"
          sodipodi:role="line">key</tspan></text>
     <text
        id="text8540"

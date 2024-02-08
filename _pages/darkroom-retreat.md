@@ -1,5 +1,5 @@
 ---
-title: darkroom retreat&nbsp; &nbsp;2
+title: 2 &nbsp; darkroom retreat
 layout: page
 navprev: hygiene
 permalink: /darkroom-retreat/

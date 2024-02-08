@@ -1,5 +1,5 @@
 ---
-title: make&nbsp; &nbsp;8
+title: 8 &nbsp; make
 layout: page
 navprev: design
 permalink: /make/
@@ -158,7 +158,7 @@ All plans can be reused except the [mask](/darkness#mask) plan, which is destroy
 
 Images in this book are only for reference and hand-reproduction. They are reduced to fit book pages. Thus they are neither full-scale nor in proportion to each other. If reading on a screen while online, you can zoom in. Download a full-size PDF with link below each image.
 
-#### 1 - download
+#### 1 &nbsp; download
 
 Download all plans at once with the darkroom retreat [zip file](/darkroom-retreat.zip). Extract (decompress) the file. Contents:
 
@@ -166,7 +166,7 @@ Download all plans at once with the darkroom retreat [zip file](/darkroom-retrea
 - all photos below plus extras from website
 - SVG source files of plans for modifying them, originally drawn in [Inkscape](https://inkscape.org).
 
-#### 2 - print
+#### 2 &nbsp; print
 
 1. large format
     1. large format printing is cheap, extremely accurate, and much faster and easier than desktop printing. Most print shops, including Staples and Office Depot, now offer large format printing.
@@ -203,7 +203,7 @@ Download all plans at once with the darkroom retreat [zip file](/darkroom-retrea
         4. mark ends, corners, and intersections of lines precisely and lines just well enough to know what you are looking at later
         5. you will have to overlap multiple sheets of paper for most plans, as with a desktop printer. On each new piece of paper, repeat the last set of marks from the previous so you know where to overlap and tape the sheets together.
 
-#### 3 - key
+#### 3 &nbsp; key
 
 Below is the key to the plans. Find further explanation of symbols in **fabricate** section below, especially the dash-dotted guide line. Its use varies with each drawing.
 
@@ -219,7 +219,7 @@ plan: key - [download](/img/plan/key.pdf)
 
 These instructions apply to all components, or as indicated. Read further instructions for each component in its respective chapter and section afterward.
 
-#### 1 - prepare plans
+#### 1 &nbsp; prepare plans
 
 1. for fabric parts of ([helix vent](/air#helix) and [mask](/darkness#mask)):
     1. using ruler and razor knife, cut out parts on solid outlines
@@ -227,7 +227,7 @@ These instructions apply to all components, or as indicated. Read further instru
     3. skip to [3 - make parts](/make#make-parts) below
 2. customize [threshold vent](/air#threshold) with instructions in drawing
 
-#### 2 - transfer plans to materials
+#### 2 &nbsp; transfer plans to materials
 
 1. where necessary, make small v-cuts in outlines of plans to see where to align them with edges of materials.
 2. tape plans to materials
@@ -251,7 +251,7 @@ These instructions apply to all components, or as indicated. Read further instru
     - copy joint letters (A, B, C...)
 8.  label drawing, words oriented the same as in plan
 
-#### 3 - make parts
+#### 3 &nbsp; make parts
 
 1. keep scrap cardboard on work surface
 2. fabric parts (mask, vents)

@@ -1,5 +1,5 @@
 ---
-title: darkness&nbsp; &nbsp;10
+title: 10 &nbsp; darkness
 layout: page
 navprev: air
 permalink: /darkness/
@@ -12,7 +12,7 @@ Light is easier to deal with than ventilation. There are fewer factors involved,
 
 But light is relentless. It sneaks sideways through a single layer of clear plastic tape; through the fibers and weave of heavy fabric; around multiple, darkened corners; and at joints and edges of everything.
 
-I have suffered many defeats at its hands. Eliminating it demanded equally formidable techniques. Now I bestow them upon you, oh, future Conan the Barbarian of lightproofing.
+I have suffered many defeats at its hands. Eliminating it demanded equally formidable techniques. Now I bestow them upon you, oh, future [Conan the Barbarian](https://www.youtube.com/watch?v=Oo9buo9Mtos) of lightproofing.
 
 Generally, to darken a space,
 
@@ -57,6 +57,8 @@ Adjust the measurements as needed. The mask can cover your forehead, but not you
 #### instant
 
 ![photo: sleeping mask, instant](/img/photo/mask-instant.jpg)
+
+<!--&nbsp;-->
 
 I put this one together in a few minutes. It's like the standard mask below but without seals. Combined with a mostly darkened room, it blocked 95% of light and let me sleep in and nap. (Later, I managed to staple seals to it for 99-100% darkness.)
 
