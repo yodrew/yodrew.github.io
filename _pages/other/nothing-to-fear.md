@@ -64,6 +64,8 @@ I hope this helps you take heart, as it has helped me. I believe that we live in
 
 *A friend recently pointed out that even though he disagrees with this description of the current state of affairs, he finds the analysis of fear in the second half of the essay useful.
 
-**I just read a [comically blatant report](https://www.aol.com.au/news/story/Europe-fast-tracking-swine-flu-vaccine/2350992/index.html) about the latest trial balloon, swine flu (which looks like a keeper in the escalating war on the credulous peasantry). Naturally, all the right people, to cover their asses apparently, come out and impotently say that distributing insufficiently tested vaccines should not happen.
+**I just read a [comically blatant report](https://bit.ly/494HyxG)about the latest trial balloon, swine flu (which looks like a keeper in the escalating war on the credulous peasantry). Naturally, all the right people, to cover their asses apparently, come out and impotently say that distributing insufficiently tested vaccines should not happen.
+
+[EDIT: Swine flu came and went. The right formula for total global panic and control was hit upon with the great corona hoax. It was also the world's first universal simultaneous IQ test. Did you pass?]
 
 

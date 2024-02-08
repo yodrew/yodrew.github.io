@@ -30,7 +30,7 @@ However, once I had a biological foothold in adulthood, I _relapsed_. Vital ener
 
 The experience flattened everything else I was involved in. I had a future in music. Now I couldn't care less. I wanted to be enraptured again. I was resolved: "There is a way; I will find it." I started looking closely at other people. I was not the only one with whom this had happened. I became very interested in philosophy.
 
-Until now, I could never explain what had happened to alter my course so drastically. So most of my family remain bewildered about me and all I gave up on. It saddens me. But I needed an answer, and few had more than a piece of it, like the popular psychologist who named my feeling, [Leo Buscaglia](https://www.youtube.com/watch?v=j4WSWcYSOIM).
+Until now, I could never explain what had happened to alter my course so drastically. So most of my family remain bewildered about me and all I gave up on. It saddens me. But I needed an answer, and few had more than a piece of it, like the popular psychologist who named my feeling, [Leo Buscaglia]().
 
 When the explanation of remission arrived, I had already retreated in darkness. And I had been trained from birth in the design perspective. This means seeking universal solutions to particular problems based on close observation of ordinary constraints. So my solution came full blown with these corollaries:
 

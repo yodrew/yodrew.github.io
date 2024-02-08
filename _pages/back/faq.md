@@ -178,14 +178,19 @@ At the moment, your doing a retreat is out of the question. You cannot do it if 
 
 <!--&nbsp;-->
 
-Three reasons.
+Three reasons:
+
+1. To be prepared. One way or another, you must learn how to retreat hygienically to retreat hygienically. You must know how to counter your conditioning in support of your own life. The first takes 5 minutes. The second, 4 hours of reading my book.
+
+
+Someday, I will be set up to support retreats for people who have not read my book. In the meantime, some of the structure necessary for a successful retreat must exist in the mind of the retreater. Reading the book builds that structure.
 
 1. You read it to be prepared. You must know how to retreat hygienically to succeed. This is the book on it.
 
 	It only takes 5 minutes to learn the essence of it. But it takes 4 hours of reading (at average reading speed of 200wpm) to counter your conditioning to sabotage it. 
-3. Having to read my book before talking to me filters out unsuitable people. It shows you will use what I have already given before seeking more.
+2. Having to read my book before talking to me qualifies you as a suitable client. It shows you will use what I have already given before seeking more.
 
-	Reading gives you credibility with me. It shows your diligence and sincerity. It builds a structure in your mind that makes talking to me vastly more profitable for both of us.
+	Reading gives you credibility with me. It shows your diligence and sincerity. It begins building a structure inside you that makes our conversation vastly more profitable for both of us.
 
 My time must be paid for, either in understanding and sincerity, or with money. Take your pick.
 3. Maybe one day, I will have sufficient structure in place to support retreats by non-readers. For now, you must provide the structure. It is built when you read my book. You will understand this better after a retreat. 
