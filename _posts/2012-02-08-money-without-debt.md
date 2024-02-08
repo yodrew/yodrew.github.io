@@ -10,8 +10,8 @@ Hey, I just came across this excellent web-based credit clearing system:
 
 Other worthy systems I've come across in the last couple days:
 
-- [payswarm.com](http://payswarm.com/) web technology-based, multiple-scenario payment system. Big vision.
-- [ opentransact.org](http://opentransact.org) similar goals as payswarm, different architecture
+- payswarm.com was (?) a web technology-based, multiple-scenario payment system. Big vision.
+- [opentransact.org](http://opentransact.org) similar goals as payswarm, different architecture
 - [picomoney.com](http://picomoney.com/) clever, based on opentransact
 - [cyclos.org](http://cyclos.org/) open source software to run your own bank, complete with free hosting; soul boggling!
 - [villages.cc](http://villages.cc)**is the best implementation of 
@@ -40,5 +40,5 @@ Both have all four criteria. So it's a toss up for me. I hope Villages works out
 Two cool sites about money ideas:
 
 - [MetaCurrency](http://metacurrency.org)
-- [Webisteme](http://webisteme.com) inventor of [#PunkMoney](http://www.punkmoney.org), a twitter-based currency. fricking brilliant.
+- @webisteme invented #PunkMoney, a twitter-based currency. fricking brilliant. Now defunct.  :(
 

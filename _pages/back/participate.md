@@ -30,7 +30,7 @@ Join the dolphin economy: help me help you help me help you...
     - invite me to [speak](/back/services#speak) at an event
     - do something not listed above, perhaps something only you know about or that we could develop together
 - support
-    - [buy](/services#write) the book after reading if it has been beneficial
+    - [buy](/back/services#write) the book after reading if it has been beneficial
     - hire my [services](/back/services)
 
 #### improve

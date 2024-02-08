@@ -6,7 +6,7 @@ permalink: /f/virus/
 navnext: ../other
 ---
 
-by [David Klein, Ph.D.](http://www.vibranthealthandwealthacademy.com) (RIP)  
+by [David Klein, Ph.D.](https://web.archive.org/web/20200405113610/http://vibranthealthandwealthacademy.com/) (RIP)  
 and [Robert Sniadach, D.C.](http://www.transformationinstitute.org)
 
 ![Wuhan Air Quality](/img/photo/wuhan.jpg)  

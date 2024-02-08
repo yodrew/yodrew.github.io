@@ -36,7 +36,7 @@ $150/week
 	- our main expense. It determines the scale of one's economy. 
 	- round, small, non-toxic, portable
 	- simple, functional, comfortable. An example is this [infographic](/img/plan/image/conic.png)
-	- an essay on our culture's basic economic myth: darkroomretreat.com/other-writings/mechanics-mass-slavery
+	- an essay on our culture's basic economic myth: darkroomretreat.com/other/mechanics-mass-slavery
 - food: whole, homemade, some homegrown
 - other
 	- clothing: thrift stores, of course  :)
@@ -59,5 +59,5 @@ $150/week
 - replace having with doing, and doing with being
 - being is renewed through profound rest: solitude, silence, fasting, and/or darkness. See my [homepage](/)
 
-[Tribal Housing](/other-writings/tribal-housing) presents a fuller description of this economy. The context there is group residence. But the essential ideas work with non-group residences, too. The Tiny House movement has shown this.
+[Tribal Housing](/other/tribal-housing) presents a fuller description of this economy. The context there is group residence. But the essential ideas work with non-group residences, too. The Tiny House movement has shown this.
 

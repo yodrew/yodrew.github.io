@@ -64,6 +64,6 @@ B - I will have more questions, but I must think about it. I will talk to you ag
 
 ---
 
-If you read this and [individualism](/blog/2022/08/individualism/), now read the [notes toward an individualist distributed hyperstate](/other-writings/individualism/).
+If you read this and [individualism](/blog/2022/08/individualism/), now read the [notes toward an individualist distributed hyperstate](/other/individualism/).
 
 ([proposal: freedom](/blog/2020/11/proposal-freedom) is based on the above scene.)

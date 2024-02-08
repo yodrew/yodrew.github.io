@@ -38,6 +38,6 @@ Now, I'm just a brushdweller from Idaho, and I admit to starting campfires with 
 
 _revised 2 Dec 2003_
 
-   [1]: https://www.sunnyjohn.com/
+   [1]: https://web.archive.org/web/20150221065747/http://sunnyjohn.com/
 
 

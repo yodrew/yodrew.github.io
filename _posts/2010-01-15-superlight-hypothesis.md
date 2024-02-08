@@ -13,5 +13,5 @@ If so, then, superlight is food for the soul, just as the gross light of this di
 
 It is the light most of us are starved for and seek to replicate with technology, movies, computer screens, light shows at concerts, etc. That we do not see much of it is not a spiritual or moral shortcoming, but a physiological malfunction resulting from psychic injury.
 
-(I believe this injury, by the way, resulted from the shock of incarnation on this planet after leaving the dimension and place in which many of people here were proficient. Earth is a crash-and-burn/trial-and-error planet. This makes more sense if you read the [myth of three cultures](/other-writings/myths/).)
+(I believe this injury, by the way, resulted from the shock of incarnation on this planet after leaving the dimension and place in which many of people here were proficient. Earth is a crash-and-burn/trial-and-error planet. This makes more sense if you read the [myth of three cultures](/other/myths).)
 

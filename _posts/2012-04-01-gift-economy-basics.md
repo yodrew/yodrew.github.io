@@ -23,7 +23,7 @@ The gift economy consists of an endless series of:
   2. unequal values
   3. according to customs of evolving complexity.
 
-Some cultures actively discouraged equal exchanges to help people stay on good terms with each other. (Thanks to [Eli Gothill](http://twitter.com/webisteme), aka [webisteme](http://webisteme.org), creator of [#PunkMoney](https://punkmoney.org) for points 2 & 3.)
+Some cultures actively discouraged equal exchanges to help people stay on good terms with each other. (Thanks to Eli Gothill, formerly webisteme on twitter and creator of the defunct PunkMoney, for points 2 & 3.)
 
 Graeber also exposes the barter system as a myth. There are no examples of it among established people. Spot trades of equal values are only found between:
 

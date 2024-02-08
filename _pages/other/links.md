@@ -31,8 +31,8 @@ The above designs are all **shell** constructions. That is, they are frameless. 
 
 The two designs below are proper applications of the frame-and-skin method of construction. That is, a very lightweight frame supports fabric or film that cannot hold itself up. It is a thin, flexible material possessing only tensile, not compressive strength (nor their combination: cantileverage).
 
-[Pillowdome](https://www.thegreencenter.net/pdf/dome1985.pdf) (pdf)  
-Jay Baldwin's perfection of Bucky's Skybreak concept: a very light, "ephemeralized" frame-and-skin geodesic dome, with panels of noble gas-inflated fluoropolymeric (teflon/ptfe plastic) pillows. This ultimately led to the gigantic greenhouses at [The Eden Project](https://www.lookaroundcornwall.com/gardens-and-nature/the-eden-project.htm) in England. Inflatability reinforces---and minimizes---the frame.
+[Pillowdome](/img/pillowdome.pdf) (pdf)  
+Jay Baldwin's perfection of Bucky's Skybreak concept: a very light, "ephemeralized" frame-and-skin geodesic dome, with panels of noble gas-inflated fluoropolymeric (teflon/ptfe plastic) pillows. This ultimately led to the gigantic greenhouses at [The Eden Project](https://en.wikipedia.org/wiki/Eden_Project) in England. Inflatability reinforces---and minimizes---the frame.
 
 [Warmlite Tent](https://warmlite.com)  
 Jack Stephenson's masterful 2-5 person tents. He and his designs have had a huge influence on all my design thinking since 1995. Can you imagine, he went from being an insulation engineer on space rockets to designing camping gear! After 40 years, his stuff is stillt decades ahead of its time. Only a few of his ideas have started to be copied in the last 5-10 years. I used to talk to him for hours on the phone while buying his gear and materials. Great guy.

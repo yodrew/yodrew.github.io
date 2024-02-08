@@ -11,7 +11,7 @@ As much as I'd like to build it, the [plysphere](/blog/2009/07/spheres-for-darkn
 
 Soundproofness, like other standards the conditions of this first test will meet, may prove non-essential. I hope so. But I will not know till I go through the test first.
 
-Another project I heard about in the spring got me thinking of a corbeled straw bale dome with cob plaster and, like [i did with a friend in 2007](http://andrewdurham.shutterfly.com/172), a [conic](http://conicshelter.com) roof of canvas. The design is very simple, fast, and cheap, and would work well for the retreat. I'm working on a model right now. Pics soon.
+Another project I heard about in the spring got me thinking of a corbeled straw bale dome with cob plaster and, like [i did with a friend in 2007](https://link.shutterfly.com/EHVczp9F0Gb), a [conic](http://conicshelter.com) roof of canvas. The design is very simple, fast, and cheap, and would work well for the retreat. I'm working on a model right now. Pics soon.
 
 This also means I need a new source of funding for the dome, and a new, quiet location in the country. Maybe they'd like this at the [Possibility Alliance](https://planetsave.com/articles/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/) and I should try again there.
 

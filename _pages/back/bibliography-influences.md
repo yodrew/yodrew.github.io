@@ -30,7 +30,7 @@ navnext: acknowledgments
    - [Tantric Hinduism](https://www.hohmpress.com/products/the-alchemy-of-transformation) with my former guru, [Purna Steinitz](https://goo.gl/dEcMwg)
     - _In Search of the Miraculous_, PD Ouspensky (GI Gurdjieff's basic teachings)
     - The Bible as law, with DeWaynn Rogers (late legal counsel, enigma, and possibly Teacher of the Age)
-    - Christianity, the Bible as it is, and Satan's rule of the world in ["Total Onslaught"](https://www.youtube.com/watch?v=LTSKfXzdiuE&list=PL95B1BB23B7A3C795) video series on YouTube, Walter Veith
+    - Christianity, the Bible as it is, and Satan's rule of the world in ["Total Onslaught"](https://staging-adtv.aws.amazingdiscoveries.org/series/total-onslaught) video series on YouTube, Walter Veith
     - [_Our Universal Journey_](https://ourjourneyhome.earth), George Kavassilas + [YouTube interviews](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1)
     - animism from nature, books (above, especially by Quinn), elders (scoutmaster Jack Asher; godfather and mentor, [John Boyer](https://www.facebook.com/boyerjewelry/)), extended family, and friends
 - health

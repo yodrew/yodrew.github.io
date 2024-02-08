@@ -90,4 +90,4 @@ Her full account has become difficult to find, so I’m republishing it here fro
 
 County inspectors closed the Sierra Obscura after six months due to <del>civilization’s sheer insanity</del> a harmless zoning violation. Its founder, Danielle Dao, started an art studio and is studying permaculture abroad and plans to build another retreat center.
 
-James Fadiman excerpted the dazzling parts of this account in [_The Psychedelic Explorers_](https://www.psychedelicexplorersguide.com/), which led to <del>fame and fortune</del> [an engaging interview](https://www.hopedance.org/home/awakenings/2073-hopedance-interview-with-lindsey-vona).
+James Fadiman excerpted the dazzling parts of this account in [_The Psychedelic Explorers_](https://www.psychedelicexplorersguide.com/), which led to <del>fame and fortune</del> [an engaging interview] (https://web.archive.org/web/20130523141150/hopedance.org/home/awakenings/2073-hopedance-interview-with-lindsey-vona).

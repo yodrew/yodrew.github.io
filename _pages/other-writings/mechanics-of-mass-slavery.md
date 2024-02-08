@@ -55,7 +55,7 @@ Though every item he mentions serves a necessary function of life, its form is c
 | selling out | selfhood |
 | centralized state | distributed state* |
 
-Throughout my writings, I have tried in various ways to expose the artificial forms and present the natural ones, eg, [Tribal Housing](/other-writings/tribal-housing). Since the house is the most expensive and isolating item above, it anchors our slavery within this system. The house necessitates the other elements. If you have a house, you must get a job to pay for it. To get to work and psychically buffer oneself against its impositions, one likely requires a car.
+Throughout my writings, I have tried in various ways to expose the artificial forms and present the natural ones, eg, [Tribal Housing](/other/tribal-housing). Since the house is the most expensive and isolating item above, it anchors our slavery within this system. The house necessitates the other elements. If you have a house, you must get a job to pay for it. To get to work and psychically buffer oneself against its impositions, one likely requires a car.
 
 The trap is set. The house becomes nothing more than a personalized prison cell entailing 30 years of indentured servitude. Observe that "mortgage" means _death pledge_. Servitude, in the form of a job, leads to time-scarity and parental neglect. The car is the gateway drug of consumer financing and global devastation (as well as a portable Russian Roulette game for the whole family).
 

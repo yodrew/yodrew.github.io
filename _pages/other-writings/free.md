@@ -5,7 +5,7 @@ redirect: ../../other/free
 permalink: /other-writings/free/
 ---
 
-[NOTE: from 2011, this was an early, flawed attempt at an [individualist politics](/other-writings/individualism). Nothing came of this.]
+[NOTE: from 2011, this was an early, flawed attempt at an [individualist politics](/other/individualism). Nothing came of this.]
 
 A simple plan for freedom, as applied to a piece of land in Guatemala.
 
