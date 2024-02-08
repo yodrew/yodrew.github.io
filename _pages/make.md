@@ -203,6 +203,8 @@ Download all plans at once with the darkroom retreat [zip file](/darkroom-retrea
         4. mark ends, corners, and intersections of lines precisely and lines just well enough to know what you are looking at later
         5. you will have to overlap multiple sheets of paper for most plans, as with a desktop printer. On each new piece of paper, repeat the last set of marks from the previous so you know where to overlap and tape the sheets together.
 
+<!--pagebreak-->
+
 #### 3 &nbsp; key
 
 Below is the key to the plans. Find further explanation of symbols in **fabricate** section below, especially the dash-dotted guide line. Its use varies with each drawing.
@@ -212,8 +214,6 @@ Below is the key to the plans. Find further explanation of symbols in **fabricat
 ![plan: key](/img/plan/image/key.png)
 
 plan: key - [download](/img/plan/key.pdf)
-
-<!--pagebreak-->
 
 ### fabricate
 
