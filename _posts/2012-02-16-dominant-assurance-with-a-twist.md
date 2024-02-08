@@ -28,12 +28,12 @@ Here are the rules:
     - sets the maximum bonus rate between 0@@ and infinity in case of failure
     - sets the maximum profit rate in case of success
     - and can increase both these rates until the campaign's deadline
-2. A supporter sets her bonus rate from –100@@ to infinity. She can increase her contribution and decrease her rate until the proposal's deadline.
+2. A supporter sets her bonus rate from –100% to infinity. She can increase her contribution and decrease her rate until the proposal's deadline.
 3. In case of failure, the pot is divided amongst supporters in proportion to their contributions and according to their final bonus rates.
 4. In case of success, a supporter with an average bonus rates of less than 0@@ is treated as an investor who can eventually profit from the proposal in proportion to her average rate (–bonus rate x maximum profit rate).
 5. Supporters can make multiple contributions with different bonus rates.
 
-Thus someone with an idea but little seed money could still create a Dominant Assurance Contract. Whole-hearted supporters (those with 0@@ rates). The higher the maximum bonus rate, the wilder the game gets. It could be a spectacle of brinkmanship between the whole-hearts and half-hearts more compelling than a good craps game. Half-hearts would help attract attention to the proposal initially. Whole-hearts would help continue to attract half-hearts as the deadline approached. Just as in Eli Gothill's PunkMoney, participants could tweet changes in their positions, and a program could track variables, calculate totals, display graphs, and keep accounts in real time.
+Thus someone with an idea but little seed money could still create a Dominant Assurance Contract. Whole-hearted supporters (those with high rates). The higher the maximum bonus rate, the wilder the game gets. It could be a spectacle of brinkmanship between the whole-hearts and half-hearts more compelling than a good craps game. Half-hearts would help attract attention to the proposal initially. Whole-hearts would help continue to attract half-hearts as the deadline approached. Just as in Eli Gothill's [PunkMoney](https://web.archive.org/web/20120602194508/http://wiki.punkmoney.org/index.php/Main_Page), participants could tweet changes in their positions, and a program could track variables, calculate totals, display graphs, and keep accounts in real time.
 
 Examples
 

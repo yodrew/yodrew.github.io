@@ -40,5 +40,5 @@ Both have all four criteria. So it's a toss up for me. I hope Villages works out
 Two cool sites about money ideas:
 
 - [MetaCurrency](http://metacurrency.org)
-- @webisteme invented #PunkMoney, a twitter-based currency. fricking brilliant. Now defunct.  :(
+- @webisteme invented [PunkMoney](https://web.archive.org/web/20120602194508/http://wiki.punkmoney.org/index.php/Main_Page), a twitter-based currency. fricking brilliant. Now defunct.  :(
 
