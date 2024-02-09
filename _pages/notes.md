@@ -7,4 +7,4 @@ navnext:
 redirect: ../front/notes
 ---
 
-Page moved to [front >notes](/front/notes)
+Page moved to [front > notes](/front/notes)

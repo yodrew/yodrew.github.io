@@ -33,16 +33,16 @@ The book reveals what healing requires in detail. It inspires you to heal and to
 To retreat, one needs three things: knowledge, materials, and support.
 
 - knowledge:
-    - of hygienic theory
-    - of the practice of hygienic darkroom retreating
+	- of hygienic theory
+	- of the practice of hygienic darkroom retreating
 - materials 
-    - darkroom
-    - food
-    - personal belongings
+	- darkroom
+	- food
+	- personal belongings
 - support
-    - supporters are knowledgeable: have read this book, possibly Shelton's
-    - experienced: have done at least a [5-day](/format#5-day) retreat
-    - sympathetic, protective of himself and retreater
+	- supporters are knowledgeable: have read this book, possibly Shelton's
+	- experienced: have done at least a [5-day](/format#5-day) retreat
+	- sympathetic, protective of himself and retreater
 
 		Hygiene is the basis on which sick people can help each other without making things worse. Our problem is partly social. It is solved with increasing degrees of cooperation as we become more capable of doing so.
 
@@ -79,20 +79,20 @@ normal
 psyche
 : the faculty of knowing, specifically of man, including:
 
-    - forms of intelligence and associations
-        - moving: sensation / physical / instinctive / gut / reptilian
-        - feeling: perception / emotional / intuitive / heart / mammalian
-        - thinking: conception / mental / intellectual / brain / rational
-    - parts (used as both adjectives and nouns)
-        - unconscious: coordinates processes fundamental to life like metabolism, cell division, and blood oxygen levels. It cannot become conscious or directly controlled except to an insignificant or backfiring degree, through intense yogic practices, techniques like hypnosis or biofeedback, or psychoactive substances. Synonyms: autonomic, involuntary
-        - subconscious: acquired automatized knowledge, which can be made conscious, like walking, emotional associations, cognizing words, and dreaming
-        - conscious: ordinary waking awareness, as when reading this book or running an errand. Primarily used to direct attention. Synonyms: will or volition
-    - scales
-        - cell
-        - tissue
-        - organ
-        - system
-        - the organism as a whole
+	- forms of intelligence and associations
+		- moving: sensation / physical / instinctive / gut / reptilian
+		- feeling: perception / emotional / intuitive / heart / mammalian
+		- thinking: conception / mental / intellectual / brain / rational
+	- parts (used as both adjectives and nouns)
+		- unconscious: coordinates processes fundamental to life like metabolism, cell division, and blood oxygen levels. It cannot become conscious or directly controlled except to an insignificant or backfiring degree, through intense yogic practices, techniques like hypnosis or biofeedback, or psychoactive substances. Synonyms: autonomic, involuntary
+		- subconscious: acquired automatized knowledge, which can be made conscious, like walking, emotional associations, cognizing words, and dreaming
+		- conscious: ordinary waking awareness, as when reading this book or running an errand. Primarily used to direct attention. Synonyms: will or volition
+	- scales
+		- cell
+		- tissue
+		- organ
+		- system
+		- the organism as a whole
 
 psychic
 :	of or relating to the psyche in general (not occult powers).  
@@ -232,7 +232,7 @@ Hygienic darkroom retreating is for anyone to whom it makes sense and who feels 
 
 Darkness is not an escape. It suits everyone, but not necessarily right now. Sometimes illness or problems need to be addressed in more pressing and obvious ways first. Hygiene offers many means to do so. Keep one eye open for this possibility. 
 
-Learning about hygiene through darkroom retreating reveals hygiene's scope like nothing else. It helps one understand the basic processes of health in a complete context of body _and_ soul. It shows where one is in the process of healing. It offers encouragement and hope. It puts things in perspective. Familiarity with hygiene is critical to healing from any illness. To this end, Herbert Shelton's [Science and Fine Art of Natural Hygiene](/nhs.pdf) is essential reading.
+Learning about hygiene through darkroom retreating reveals hygiene's scope like nothing else. It helps one understand the basic processes of health in a complete context of body _and_ soul. It shows where one is in the process of healing. It offers encouragement and hope. It puts things in perspective. Familiarity with hygiene is critical to healing from any illness. To this end, Herbert Shelton's [*Science and Fine Art of Natural Hygiene*](/nhs.pdf) is essential reading.
 
 #### how to use this book
 

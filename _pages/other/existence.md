@@ -3,7 +3,7 @@ title: Existence Isn't Everything
 layout: page
 navprev: 
 permalink: /other/existence/
-navnext: sociality-undenied
+navnext: sociality
 ---
 
 ### rethinking Objectivism's first axiom

@@ -1,9 +1,9 @@
 ---
 title: ORDO
 layout: page
-navprev: mechanics
+navprev: economy
 permalink: /other/ordo/
-navnext: economy
+navnext: tribal-housing
 ---
 
 ### an American art of placement

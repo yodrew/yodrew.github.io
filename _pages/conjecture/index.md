@@ -11,23 +11,23 @@ navnext: conjecture/conjecture
 Experiences, ideas, and implications of hygienic darkroom retreating. 
 
 - Intro
-    - [conjecture](./conjecture/)
-    - [basics](./basics/)
+	- [conjecture](./conjecture/)
+	- [basics](./basics/)
 - Health
-    - [rapture](./rapture/)
-    - [hygiene notes](./hygiene-notes/)
-    - [dreamtime](./dreamtime/)
+	- [rapture](./rapture/)
+	- [hygiene notes](./hygiene-notes/)
+	- [dreamtime](./dreamtime/)
 - Disease
-    - [psychosis](./psychosis/)
-    - [catastrophe](./catastrophe/)
-    - [strifeless](./strifeless/)
+	- [psychosis](./psychosis/)
+	- [catastrophe](./catastrophe/)
+	- [strifeless](./strifeless/)
 - Healing
-    - [project](./project/)
-    - [hygienic darkroom retreat](/)
+	- [project](./project/)
+	- [hygienic darkroom retreat](/)
 
 <!---
 - Proposals
-    - [dome proposal](./dome-proposal)
-    - [geodesic dome](./geodesic-dome)
-    - [health proposal](./health-proposal)
+	- [dome proposal](./dome-proposal)
+	- [geodesic dome](./geodesic-dome)
+	- [health proposal](./health-proposal)
 --->

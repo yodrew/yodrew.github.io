@@ -25,10 +25,10 @@ A 9-day standard retreat requires upgraded conditions. Besides birth, a retreat 
 Get relief _tonight_ from most outdoor ambient light. In 5-10 minutes, fix dark, dense sheet material over your bedroom windows and doors. 
 
 - over door and windows, tack or tape up 
-    - blankets, sleeping bags, dark bedsheets or extra curtains
-    - black plastic, carpet, or cardboard
-    - or prop up plywood, old doors, or big table tops
-    - use whatever you have to cover the windows
+	- blankets, sleeping bags, dark bedsheets or extra curtains
+	- black plastic, carpet, or cardboard
+	- or prop up plywood, old doors, or big table tops
+	- use whatever you have to cover the windows
 - extend corners of flexible materials as far as possible past door on each side
 - turn off or cover devices in your room that produce light
 - make sure you have plenty of fresh air, even if it lets in a little light
@@ -314,16 +314,16 @@ Fortunately, avoiding them is easy once you know. In the list, each is linked to
 3. doing more than one 5-day retreat rather than advancing to 9-day, medium, and long retreats. This is a serious no-no, folks. See _5-day retreat_ above and [false capacity](/hygiene#false-capacity). The matter cannot be overstated.
 4. sub-standard darkrooms. We become vulnerable in darkness. We are fools to tolerate the irritations and compromised retreats due to poor design and construction: noise, low air-quality, toxic materials, discomfort, cold drafts, etc. See chapters 7-11 for how to build or judge a darkroom suitable for hygienic retreats. Precious few people operate them. It's time to get serious and build world-class darkrooms.
 5. poor support:
-    - insufficient support
-    - inexperienced, ignorant, or indifferent support
-    - other people who are around who are hostile to you or to retreating itself. Say no to abusive relationships of all kinds.
+	- insufficient support
+	- inexperienced, ignorant, or indifferent support
+	- other people who are around who are hostile to you or to retreating itself. Say no to abusive relationships of all kinds.
 6. I said five. But now I'm going to talk sternly.
 
-    By ignoring my instructions and warnings, maybe you can discover more ways to get hurt in darkness. But why? As my late legal counsel, DeWaynn Rogers, would ask, "What is the penalty for following instructions?"
+	By ignoring my instructions and warnings, maybe you can discover more ways to get hurt in darkness. But why? As my late legal counsel, DeWaynn Rogers, would ask, "What is the penalty for following instructions?"
 
-    In the future, we will have more data. We will have studied, applied, and reflected upon all this enough to see better ways. I promise to update the book to reflect them.
-    
-    Until then, stick to the tried and true. Err conservatively. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
+	In the future, we will have more data. We will have studied, applied, and reflected upon all this enough to see better ways. I promise to update the book to reflect them.
+	
+	Until then, stick to the tried and true. Err conservatively. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
 
 Ok, now you know how to keep yourself safe in darkness. Back to the many wonders of hygienic darkroom retreating.
 

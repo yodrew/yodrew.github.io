@@ -81,17 +81,17 @@ Test your knowledge!
 
 - pure water, min 3L per day
 - frugivorous menu
-    - fruit: whole, raw, ripe, in season, well-washed, ample for eating anytime
-    - tender leafy greens: romaine, escarole, young spinach; also celery
-    - treats:
-        - green salad: sweet or savory, large, properly combined, served at midday or evening
-        - 1/2 avocado or 15 olives max once per 2 days
-        - smoothie, max 1 per 5 days
-    - no:
-    	- ferments: vinegar, sauerkraut, kim chee, cheese
-    	- stimulants: onions, garlic, ginger, spices, salt
-    	- extracts: juice, oil, dried food
-    	- complex fatty foods: nuts or seeds
+	- fruit: whole, raw, ripe, in season, well-washed, ample for eating anytime
+	- tender leafy greens: romaine, escarole, young spinach; also celery
+	- treats:
+		- green salad: sweet or savory, large, properly combined, served at midday or evening
+		- 1/2 avocado or 15 olives max once per 2 days
+		- smoothie, max 1 per 5 days
+	- no:
+		- ferments: vinegar, sauerkraut, kim chee, cheese
+		- stimulants: onions, garlic, ginger, spices, salt
+		- extracts: juice, oil, dried food
+		- complex fatty foods: nuts or seeds
 
 #### guide
 
@@ -146,12 +146,12 @@ bitter, sweet, sour, salty, savory, spicy, crunchy, fatty
 - spicy: just a hint, barely enough to notice. Spicy greens are best, like rocket, arugula, mustard, cilantro
 - crunchy: celery, apple
 - fatty
-    - with sufficient chewing, oiliness of lettuce is usually enough
-    - tricky because it is surprisingly easy to overeat fat
-        - eat only one kind of fatty food per day
-        - eat a small quantity once per 2-5 days: 1 small avocado, 15 olives
-        - stick to fatty fruits like avocado and olives (rinse off any oil from packaging)
-        - eat 5-6% of your daily calories from fat, no more than 10%. Track your calories for two weeks. It's surprising. Use nutrition tables, websites, or apps.
+	- with sufficient chewing, oiliness of lettuce is usually enough
+	- tricky because it is surprisingly easy to overeat fat
+		- eat only one kind of fatty food per day
+		- eat a small quantity once per 2-5 days: 1 small avocado, 15 olives
+		- stick to fatty fruits like avocado and olives (rinse off any oil from packaging)
+		- eat 5-6% of your daily calories from fat, no more than 10%. Track your calories for two weeks. It's surprising. Use nutrition tables, websites, or apps.
 
 Just say no to: 
 
@@ -166,7 +166,7 @@ These substances imbalance, overload, or destroy digestive chemistry, bacteria, 
 If you would like to know more about this menu before trying it, see:
 
 - [food](/darkroom-retreat#food) and [food](/protocol#food2)
-- Dr Douglas Graham's masterful [80/10/10 Diet](https://foodnsport.com)
+- Dr Douglas Graham's masterful [*80/10/10 Diet*](https://foodnsport.com)
 - [Loren Lockman's videos](https://www.youtube.com/user/LorenLockman)
 
 If, for whatever reason, you cannot yet eat this way in a retreat, eat as simply and naturally as you know how. For suggestions, write me with your limitations. Give more attention to it later when your motivation and capacity increase.
@@ -174,29 +174,29 @@ If, for whatever reason, you cannot yet eat this way in a retreat, eat as simply
 ### gear
 
 - Yes:
-    - bedsheets and pillow (if retreating at a center and need these provided, let supporter know ahead of time)
-    - pajamas and loose clothes
-    - sweater
-    - slippers
-    - water bottles totaling 3L at least, more if you are bigger than 80kg
-    - clock (unlit analog or red LCD)
-    - cellphone
-    - red LED light
-    - materials and tools for plugging any light leaks you discover during your retreat
-        - masking tape
-        - black electrical tape, 1 roll
-        - black plastic sheeting
-        - black polar fleece, 50cm x 20cm
-        - scissors
-        - table knife 
-        - bamboo skewer
-    - toiletries and personal items
-    - prescription medication
+	- bedsheets and pillow (if retreating at a center and need these provided, let supporter know ahead of time)
+	- pajamas and loose clothes
+	- sweater
+	- slippers
+	- water bottles totaling 3L at least, more if you are bigger than 80kg
+	- clock (unlit analog or red LCD)
+	- cellphone
+	- red LED light
+	- materials and tools for plugging any light leaks you discover during your retreat
+		- masking tape
+		- black electrical tape, 1 roll
+		- black plastic sheeting
+		- black polar fleece, 50cm x 20cm
+		- scissors
+		- table knife 
+		- bamboo skewer
+	- toiletries and personal items
+	- prescription medication
 - No: 
-    - contraband
-    - cigarettes, alcohol, drugs, or plant medicines
-    - electronic devices that make sound, light, vibration, or smell: phones, computers, audio players, watches, clocks, vaporizers, oils, massage devices, etc
-    - if you must bring any of these things, turn them off and store them during the retreat, maybe with your supporter. If something is so critical for your survival you will be sick or injured without it, keep it with you and tell your supporter, before coming if possible. He needs to know what might happen.
+	- contraband
+	- cigarettes, alcohol, drugs, or plant medicines
+	- electronic devices that make sound, light, vibration, or smell: phones, computers, audio players, watches, clocks, vaporizers, oils, massage devices, etc
+	- if you must bring any of these things, turn them off and store them during the retreat, maybe with your supporter. If something is so critical for your survival you will be sick or injured without it, keep it with you and tell your supporter, before coming if possible. He needs to know what might happen.
 
 ~/~
 

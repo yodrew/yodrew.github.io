@@ -56,9 +56,9 @@ _conditions and practices conducive to the preservation of health._
 - _hygiene_ derives from the name of Hygieia, the Greek goddess of health. Hygiene is about health.
 - _conditions and practices_ refer to the normal conditions and activities of life. These are the environmental and instinctive factors inherent in nature. They make life, thus healing, possible.
 - _conducive_ means:
-    - making it easy, possible, or likely for something to happen or exist
-    - tending to promote or assist
-    - contributive to
+	- making it easy, possible, or likely for something to happen or exist
+	- tending to promote or assist
+	- contributive to
 - _preservation_ refers to self-preservation by the organism
 - _health_ refers to the health of an organism
 
@@ -76,9 +76,9 @@ Self-healing:
 
 - requires more work, time, and energy than self-maintenance, but less than self-generation
 - includes:
-    - repair of damage
-    - elimination of toxins, exogenous and endogenous
-    - re-energization of tissue
+	- repair of damage
+	- elimination of toxins, exogenous and endogenous
+	- re-energization of tissue
 
 Consciously, we provide ourselves the conditions of life. Unconsciously, we use them in life's staggering number of processes of self-preservation.
 
@@ -96,22 +96,22 @@ Hygienic darkroom retreating is that chance.
 At last we are prepared to understand the secret of why hygienic darkroom retreating works. There are three reasons: physiology, attitude, and environment
 
 1. Physiology
-    1. Circadian rhythms: We have a 24-hour wake-sleep cycle. It is governed by the circadian system. This system is controlled by a tiny region of the brain. It is called the [suprachiasmatic nucleus](https://en.wikipedia.org/wiki/suprachiasmatic_nucleus). It has an internal 24-hour clock and resets itself with light. It rests atop the optic chiasm, the intersection of the optic nerves coming from the backs of the eyes. The eyes send it a direct signal of the presence or absence of light. This is prior to the imagery in the signal decoded by the visual cortex of the brain. 
+	1. Circadian rhythms: We have a 24-hour wake-sleep cycle. It is governed by the circadian system. This system is controlled by a tiny region of the brain. It is called the [suprachiasmatic nucleus](https://en.wikipedia.org/wiki/suprachiasmatic_nucleus). It has an internal 24-hour clock and resets itself with light. It rests atop the optic chiasm, the intersection of the optic nerves coming from the backs of the eyes. The eyes send it a direct signal of the presence or absence of light. This is prior to the imagery in the signal decoded by the visual cortex of the brain. 
 
-        The suprachiasmatic nucleus, for example, instructs the pineal gland to secrete a famous hormone, [melatonin](https://en.wikipedia.org/wiki/melatonin) into the bloodstream. This hormone causes us to sleep, dream, and lose appetite. In absolute extended darkness, the pineal gland _floods_ the body with melatonin, intensifying these restful processes. 
+		The suprachiasmatic nucleus, for example, instructs the pineal gland to secrete a famous hormone, [melatonin](https://en.wikipedia.org/wiki/melatonin) into the bloodstream. This hormone causes us to sleep, dream, and lose appetite. In absolute extended darkness, the pineal gland _floods_ the body with melatonin, intensifying these restful processes. 
 
-        Melatonin is but one of many hormones, nervous signals, and processes that facilitate the deep rest and sleep necessary to recover from and assimilate the benefits of waking life.
-    2. Destimulation
-        - Conservation: we conserve the energy consumed by sensory processing. It turns sensations into percepts, data into information. Almost half the brain is dedicated to sensory processing. Sight requires twice as much as all other senses combined. Darkness eliminates external visual data and minimizes other kinds. 
-        - Calm: without the abstract stimulation of visual data, the abstract mind slows down
-            - fewer thoughts occur
-            - thinking becomes harder
-            - thinking becomes _less interesting_ (!)
-            - directing attention restfully becomes *much* easier. (See [attention](/protocol#attention))
+		Melatonin is but one of many hormones, nervous signals, and processes that facilitate the deep rest and sleep necessary to recover from and assimilate the benefits of waking life.
+	2. Destimulation
+		- Conservation: we conserve the energy consumed by sensory processing. It turns sensations into percepts, data into information. Almost half the brain is dedicated to sensory processing. Sight requires twice as much as all other senses combined. Darkness eliminates external visual data and minimizes other kinds. 
+		- Calm: without the abstract stimulation of visual data, the abstract mind slows down
+			- fewer thoughts occur
+			- thinking becomes harder
+			- thinking becomes _less interesting_ (!)
+			- directing attention restfully becomes *much* easier. (See [attention](/protocol#attention))
 
-        - Balance: the remaining sensations feed the feeling and moving centers of intelligence. Outwardly undistracted, the internal sense of touch sharpens in its [many aspects](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, aspects of consciousness suppressed in civilization, reactivate. They balance the psychic workload, making it more efficient, saving energy and internal activity.
-    3. Inactivity
-    	- Resting causes rapid recovery of homeostasis, the foundation of healing
+		- Balance: the remaining sensations feed the feeling and moving centers of intelligence. Outwardly undistracted, the internal sense of touch sharpens in its [many aspects](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, aspects of consciousness suppressed in civilization, reactivate. They balance the psychic workload, making it more efficient, saving energy and internal activity.
+	3. Inactivity
+		- Resting causes rapid recovery of homeostasis, the foundation of healing
 	- It induces the stillness required for repair
 	- It enables conservation of the extra vital energy the process of healing consumes. 
 2. Attitude: hygiene's passive attitude toward healing aligns the conscious and unconscious parts of the self. It enables the internal peace and cooperation necessary for super-intensified healing (miracles) to occur. At first, only knowledge of this attitude is necessary. Belief comes later. 
@@ -182,42 +182,49 @@ But we still desire these activities. Frustration is the conflict between desire
 
 #### not
 
-There are three things the hygienic use of darkness is not.
+There are three things the hygienic use of darkness is not: spiritual discipline, therapy, or a psychedelic.
 
-1. It is not a spiritual discipline. 
+##### not spiritual discipline
 
-	Discipline depends on the will. Will is the most delicate, energy-consuming, and ineffective part of the psyche. It is the part most in need of rest. But discipline sets the will in motion and gives it the main role. Discipline steals energy from healing of the faculties on which it depends. It gives the least possible benefit for the time, energy, and effort expended. It produces impressive results only by our abysmal standards. It prevents accomplishment of the top priority: full recovery of the psyche from its catastrophic damage.
+Discipline depends on the will. Will is the most delicate, energy-consuming, and ineffective part of the psyche. It is the part most in need of rest. But discipline sets the will in motion and gives it the main role. Discipline steals energy from healing of the faculties on which it depends. It gives the least possible benefit for the time, energy, and effort expended. It produces impressive results only by our abysmal standards. It prevents accomplishment of the top priority: full recovery of the psyche from its catastrophic damage.
 
-    For example, meditation, like all spiritual practice, entails _super-effort to force access to subtle energy reserves to fuel artificial transformation_ (see Gurdjieff). 
+For example, meditation, like all spiritual practice, entails _super-effort to force access to subtle energy reserves to fuel artificial transformation_ (see Gurdjieff). 
 
-	The hygienic approach entails exactly the opposite: _profound rest to accumulate energy for autonomic restoration_. At rest, the conscious self makes no attempt to ameliorate suffering. It only puts conditions of healing at the disposal of the unconscious. Whose job it is to coordinate the healing of the organism.
+The hygienic approach entails exactly the opposite: _profound rest to accumulate energy for autonomic restoration_. At rest, the conscious self makes no attempt to ameliorate suffering. It only puts conditions of healing at the disposal of the unconscious. Whose job it is to coordinate the healing of the organism.
 
-    Discipline begins with accepting an artificial internal conflict as natural. I mean, "the monstrous absurdity of original sin" (–Ayn Rand). Then one struggles "against nature" (–Gurdjieff), fighting habits with practices to achieve an ideal. Jean Liedloff warned about this adversarial approach to life. As Jesus told Peter, "Get thee behind me, Satan." Satan is the Adversary, the liar, the thief.
+Discipline begins with accepting an artificial internal conflict as natural. I mean, "the monstrous absurdity of original sin" (–Ayn Rand). Then one struggles "against nature" (–Gurdjieff), fighting habits with practices to achieve an ideal. Jean Liedloff warned about this adversarial approach to life. As Jesus told Peter, "Get thee behind me, Satan." Satan is the Adversary, the liar, the thief.
 
-    Hygiene begins with an assumption of natural harmony, of non-contradiction. It gives a logical, non-adversarial explanation of illness. This naturally motivates one to fulfill his supportive role in illness, which functions to restore health.
+Hygiene begins with an assumption of natural harmony, of non-contradiction. It gives a logical, non-adversarial explanation of illness. This naturally motivates one to fulfill his supportive role in illness, which functions to restore health.
 
-    Lastly, discipline sets up artificial dangers and obstacles. The conscious takes control of the process. This usurps the responsibility of the omnipotent unconscious to handle it. The ego becomes subject to the grand-scale forces involved, which are way beyond its capability. Harm is sustained without close supervision by the spiritual guide. Supervision places subtle controls on the individual, limiting the experience and results. Disciplined traditions then spread fear of dark retreating without spiritual preparation and facilitation. It is a racket based on a self-fulfilling delusion.
+Lastly, discipline sets up artificial dangers and obstacles. The conscious takes control of the process. This usurps the responsibility of the omnipotent unconscious to handle it. The ego becomes subject to the grand-scale forces involved, which are way beyond its capability. Without close supervision of a spiritual guide, harm is sustained.
 
-    Hygiene disintegrates rackets: medical, spiritual, or otherwise.
-    
-    For this, I also recommend the liberating ideas of two great and daring thinkers: Walter Veith[^4] and George Kavassilas[^5].
-2. It is not therapy. Therapy is done _to_ a passive organism from the outside. The therapist, therapy, and therapeutic substances or machines are the principal actors in a therapeutic session, not the organism itself. These are instruments of will. While depending on the organism to react to treatment, therapy views the organism as incapable of initiating a movement toward health. It fails to see such movement in disease itself.
+Supervision places subtle controls on the individual, limiting the experience and results. Disciplined traditions then spread fear of dark retreating without spiritual preparation and facilitation. It is a racket based on a self-fulfilling delusion.
 
-    Contemporary science has a similarly objectifying approach to darkroom retreating, though in reverse. It is called _Chamber REST_ (Restricted Environmental Stimulation Therapy). As the name implies, and in accord with scientific materialism, it tends to reduce a retreat and its effects to destimulation: _absence_ of usual sensory stimuli. The subject is then probed, monitored, and interrogated as to what is happening in this absence. 
-    
-    The organism does not experience darkness, for example, as the absence of light, as a negative; but rather, as a positive fact, the presence of something which the active organism takes hold of and uses. It is like night itself. It is a normal period of time in life. Science misses the enormous intelligence at work. Willfully blind, it stabs in the dark.
+Hygiene disintegrates rackets: medical, spiritual, or otherwise.
 
-    In a darkroom retreat, darkness does nothing. Like air or water, darkness merely presents an opportunity to the self-preserving organism to better pursue its ceaseless tendency toward wholeness. The principal actor is life, not its conditions nor any treatment.
+I also recommend the liberating ideas of two great and daring thinkers: Walter Veith[^4] and George Kavassilas[^5].
 
-3. It is not a psychedelic trip. I mean the use of abnormal conditions like substances or sleep-deprivation to consciously experience normally unconscious phenomena.
+##### not therapy
 
-	Nor is it thrill-seeking. The awesome images and associated feelings one can have in darkness are impressive and subtly nourishing. But having such cool experiences is not the point. Recovering the capacity to live normally is the point. Here at hygiene 3.0 HQ, we are cutting through spiritual materialism.
+Therapy is done _to_ a passive organism to heal or cure it from the outside. The the principal actor in a therapeutic session is not the organism, but the therapist, therapy, or therapeutic substances or machines. But these are instruments of will. While depending on the organism to react to treatment, therapy views the organism as incapable of initiating a movement toward health. _It fails to see such movement in disease itself_.
 
-    Because of Mantak Chia's book, _Darkroom Enlightenment_, and similarity of experience, many people believe that endogenous DMT highs happen in darkroom retreats. I once repeated this claim in this book. But it is unproven. It is conjecture. Current methods of detecting DMT would require the pineal gland to be removed, dissected, and analyzed, killing the subject. Psychedelic and dark retreat researcher, Ondrej Skala, told me this. He cited his associate, Dr Marek Malus, professor of psychology at the University of Ostrava, Czech Republic. Dr Malus, whom I met there, is the world's leading academic researcher of dark retreating. 
+Academic science has a similarly objectifying approach to darkroom retreating, though in reverse. It is called _Chamber REST_ (Restricted Environmental Stimulation Therapy). As the name implies, and in accordance with scientific materialism, it tends to reduce a retreat and its effects to destimulation: _absence_ of usual sensory stimuli. The subject is then probed, monitored, and interrogated as to what is happening in this absence. 
 
-Spirituality, therapy, and psychedelics share a vain strategy to end suffering: make the unconscious conscious. Then the conscious can somehow fix the unconscious. Which is viewed as inert, even resistant to fixing things. This attitude is stupid and clumsy. It whips an injured conscious into work it can never do and insults the expert unconscious. It is internalized tyranny.
+But the organism does not experience darkness as an absence; but rather, as yet another condition it takes hold of and uses. The most obvious example is that one can make darkness an object of attention. One can look at it. Darkness, like night itself, is a normal period of time in life. Academics miss the enormous intelligence of the organism at work. Willfully blind, it stabs in the dark.
 
-Predictably, the internal forces capable of the work respond by going on strike. Next to nothing happens that ought to. This confirms expectations and justifies further intervention.
+In a darkroom retreat, darkness does nothing. Like air or water, darkness merely presents an opportunity to the self-preserving organism to express its ceaseless tendency toward wholeness in another way. The principal actor is life, not its conditions nor any treatment.
+
+##### not a psychedelic
+
+I mean it is not related to an abnormal condition, like a substance or sleep-deprivation, to consciously experience normally unconscious phenomena.
+
+Nor is it thrill-seeking. The awesome images and associated feelings one can have in darkness are impressive and subtly nourishing. But having such cool experiences is not the point. Recovering the capacity to live normally is the point. Here at hygiene 3.0 HQ, we are cutting through spiritual materialism.
+
+Because of Mantak Chia's book, _Darkroom Enlightenment_, and the similarity of experience, many people believe that endogenous DMT highs happen in darkroom retreats. But it is unproven. It is conjecture. Current methods of detecting DMT would require the pineal gland to be removed, dissected, and analyzed, killing the subject. Psychedelic and dark retreat researcher, Ondrej Skala, told me this. He cited his associate, Dr Marek Malus, professor of psychology at the University of Ostrava, Czech Republic. Dr Malus, whom I met there, is the world's leading academic researcher of dark retreating. 
+
+Spirituality, therapy, and psychedelics share a vain strategy to end suffering: make the unconscious conscious. Then the conscious can somehow fix the unconscious. Which is viewed as inert, even resistant to fixing things. This attitude is stupid and clumsy. It whips a tired, injured conscious into work it can never do and insults and abuses the expert unconscious. It is internalized tyranny.
+
+Predictably, the internal forces capable of the work respond by going on strike. Next to nothing happens that should. In standard psychotic fashion, this gives conventional minds no pause. Indeed, it confirms their adversarial expectations of the organism. It calls for further intervention. Which makes no sense and never works, so try it again!
 
 In contrast, the hygienic use of darkness is passive as regards the will. The will only plays a supportive role. The autonomic self is the lead actor. The will recognize and supports it. Zero conflict. Maximum efficiency. Perfect result.
 
@@ -233,7 +240,7 @@ Attention to diet and nutrition has always been a big part of hygiene. Due to de
 
 This is why I serve and recommend only fresh fruit and greens to retreaters. This is the frugivorous diet, common to all anthropoid primates like us. Being perfectly appropriate for our anatomy and physiology, these foods only nourish us. They don't medicate us. They neither stimulate or intoxify the system, nor overtax digestion, nor suppress feeling or memory.
 
-For more about frugivorous diet, I recommend [The 80/10/10 Diet](https://foodnsport.com) by Dr Douglas Graham. He is a professional hygienist, frugivore since 1978, former Olympic athlete and trainer to professional athletes. 
+For more about frugivorous diet, I recommend [*The 80/10/10 Diet*](https://foodnsport.com) by Dr Douglas Graham. He is a professional hygienist, frugivore since 1978, former Olympic athlete and trainer to professional athletes. 
 
 Also, see videos by [Loren Lockman](https://www.youtube.com/user/LorenLockman). He is a hygienist and frugivore since 1991. He is a genius about food. His formulations are elegant and incisive. It is as if he came from the future to show us how to eat.
 
@@ -289,10 +296,10 @@ Buckle up. We are heading into the psychological implications of hygienic darkro
 
 &nbsp;
 
-[^1]: Herbert Shelton, [Science and Fine Art of Natural Hygiene](/nhs.pdf), p35
+[^1]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf)\*, p35
 [^2]: Ibid, p139
 [^3]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
-[^4]: Walter Veith, former biology professor and Adventist evangelist, exposes most spiritual activity as Satanism, ie, the lie of works-based salvation. In his sing-song voice, he makes crystal clear the unified story arc of the Bible and the meaning of Christ's message of salvation by grace. (Hygiene's restful approach to healing translates this message into biological terms.) See his astonishing video series, [Total Onslaught](https://adtv.watch/series/total-onslaught).
-[^5]: [Our Universal Journey](https://www.ourjourneyhome.earth/market-place#section-1592035487385) by George Kavassilas, ET contactee and philosopher, exposes all spiritual activity as part of an all-too-real, cosmic-scale [God Control Matrix](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1). George has genuinely new and compelling ideas, from his cosmopolitics and exponential physics to his psychophysiology and ontology of the eternal individual.
-[^6]: [Political Ponerology](/f/ponerology.pdf) by Andrei Lobaczewski, clinical psychologist. He studied psychopathy on a mass scale under the Nazis then the communists in Poland. He and his multi-generational team, working in secret, found its patterns, mechanisms—and simple preventatives. Here is an [excellent introductory interview](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
-[^7]: [Findings of Robert Hare](http://www.hare.org/links/saturday.html), psychologist and creator of the Psychopathy Checklist.
+[^4]: Walter Veith, former biology professor and Adventist evangelist, exposes most spiritual activity as Satanism, ie, the lie of works-based salvation. In his sing-song voice, he makes crystal clear the unified story arc of the Bible and the meaning of Christ's message of salvation by grace. (Hygiene's restful approach to healing translates this message into biological terms.) See his astonishing video series, ["Total Onslaught"](https://adtv.watch/series/total-onslaught).
+[^5]: [*Our Universal Journey*](https://www.ourjourneyhome.earth/market-place#section-1592035487385)\* by George Kavassilas, ET contactee and philosopher, exposes all spiritual activity as part of an all-too-real, cosmic-scale [*God Control Matrix*](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1). George has genuinely new and compelling ideas, from his cosmopolitics and exponential physics to his psychophysiology and ontology of the eternal individual.
+[^6]: [*Political Ponerology*](/f/ponerology.pdf)\* by Andrei Lobaczewski, clinical psychologist. He studied psychopathy on a mass scale under the Nazis then the communists in Poland. He and his multi-generational team, working in secret, found its patterns, mechanisms—and simple preventatives. Here is an [excellent introductory interview](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
+[^7]: [Psychopaths Among Us](http://www.hare.org/links/saturday.html), on critical work of Robert Hare, psychologist and creator of the _Psychopathy Checklist_.

@@ -133,8 +133,8 @@ The helix vent can go anywhere: a blind, a door, a wall, etc. Flaps of either op
 - door: cut slot in it and use helix vent instead of a threshold vent. 
 - existing vent through a wall: in a cardboard box, cut hole the same size as the existing vent. Cut a slot on the opposite side of the box for a helix vent. Attach helix vent to box and box to wall over existing vent. Vent can be either supply or return.
 - silencer
-    - inside or outside, attached at face or side opening. 
-    - z version: simpler, more efficient, higher capacity version especially for inside the silencer. Short and straight, it has fewer light-stopping corners and no shell. It is only for installing inside the silencer or other enclosure with two or more corners for light to go around. See drawings in next section.
+	- inside or outside, attached at face or side opening. 
+	- z version: simpler, more efficient, higher capacity version especially for inside the silencer. Short and straight, it has fewer light-stopping corners and no shell. It is only for installing inside the silencer or other enclosure with two or more corners for light to go around. See drawings in next section.
 
 If your darkroom's ventilation is passive, put vents both low and high in room to enable convection. This works better the greater the inside and outside temperature difference; the greater the vertical distance between vents; and the more vents. 
 
@@ -145,52 +145,52 @@ Materials are simple and non-toxic: heavy black acid-free paper, cardboard, fabr
 Read through instructions once while studying plans.
 
 1. materials (see plans for quantities)
-    1. paper (for channels and walls)
-        - black, acid-free bond, coverstock
-        - available at art supply, stationery, and book shops. In Europe, common posterboard is usually acid-free, Canson Iris, for example.
-        - 2 sheets (550 x 700) per vent
-        - weight: 120--400gsm (200 ideal)
-    2. cardboard, 5mm thick for shell (plan must be adjusted for different thickness)
-    3. fabric: polar fleece, black, medium weight for seal. (Quality check: 10 layers of it in a stack should measure 30-35mm high)
+	1. paper (for channels and walls)
+		- black, acid-free bond, coverstock
+		- available at art supply, stationery, and book shops. In Europe, common posterboard is usually acid-free, Canson Iris, for example.
+		- 2 sheets (550 x 700) per vent
+		- weight: 120--400gsm (200 ideal)
+	2. cardboard, 5mm thick for shell (plan must be adjusted for different thickness)
+	3. fabric: polar fleece, black, medium weight for seal. (Quality check: 10 layers of it in a stack should measure 30-35mm high)
 2. follow instructions in [fabricate](/make#fabricate) 
 3. glue channels to inner and outer shells
-        1. figure out how parts go together. Note that channel plan is oriented to shell plan, including the direction of folds and lettered joint points and lines
-        3. mock up assembly by taping parts together till you've got everything right.
-        4. glue lettered lines first. Use a 2mm bead, ie, as little glue as possible, minimizing warping  
+		1. figure out how parts go together. Note that channel plan is oriented to shell plan, including the direction of folds and lettered joint points and lines
+		3. mock up assembly by taping parts together till you've got everything right.
+		4. glue lettered lines first. Use a 2mm bead, ie, as little glue as possible, minimizing warping  
 3. glue ends to channel tabs
 5. assemble
-    1. bend shell ends up. Trim them to match outer ends.
-    2. position halves for joining
-    3. test joints
-        - align corners of inner and outer shells
-        - match letters
-        - inner ends go inside outer ends
-        - note how notches of inner ends fit around outer ridges
-        - practice using table knife to press ends together when you glue them
+	1. bend shell ends up. Trim them to match outer ends.
+	2. position halves for joining
+	3. test joints
+		- align corners of inner and outer shells
+		- match letters
+		- inner ends go inside outer ends
+		- note how notches of inner ends fit around outer ridges
+		- practice using table knife to press ends together when you glue them
 	4. glue inner ends to outer ends, using table knives
-    5. glue shell seals on shell corners
-    6. glue halves together, one end at a time using table knives
-    7. glue long shell seals on joints between halves
+	5. glue shell seals on shell corners
+	6. glue halves together, one end at a time using table knives
+	7. glue long shell seals on joints between halves
 5. shell
-    - glue on fleece seal 
-    - before installation, tape flaps over openings
+	- glue on fleece seal 
+	- before installation, tape flaps over openings
 6. installation
-    1. determine vent location 
-        - in blind, panel, or silencer
-        - whether it will attach at side or face opening
-        - shell is unnecessary when installed inside silencer or other enclosure
-        - vent should not touch window handles, locks, or frame 
-    2. mark slot with slot plan
-        - the slot plan spaces slot correctly on most blinds and panels
-        - face opening, 35 x 281, on blinds, panels, or outside silencer, with shell
-        - side opening, 32 x 281, inside silencer or other enclosure, without shell
-    3. cut out slot
-    4. position vent over slot and fit vent flaps through it
-    5. when attaching to soft window covering like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
-    6. fold flap at crease and tape it to cover. Tape makes vent removable. Only glue it in place if you are certain of not moving it for years.
-    7. repeat with other long flap, then with short flaps
-    8. tape or 
-    9. cover shell with foil and/or white paper to minimize warping by sun
+	1. determine vent location 
+		- in blind, panel, or silencer
+		- whether it will attach at side or face opening
+		- shell is unnecessary when installed inside silencer or other enclosure
+		- vent should not touch window handles, locks, or frame 
+	2. mark slot with slot plan
+		- the slot plan spaces slot correctly on most blinds and panels
+		- face opening, 35 x 281, on blinds, panels, or outside silencer, with shell
+		- side opening, 32 x 281, inside silencer or other enclosure, without shell
+	3. cut out slot
+	4. position vent over slot and fit vent flaps through it
+	5. when attaching to soft window covering like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
+	6. fold flap at crease and tape it to cover. Tape makes vent removable. Only glue it in place if you are certain of not moving it for years.
+	7. repeat with other long flap, then with short flaps
+	8. tape or 
+	9. cover shell with foil and/or white paper to minimize warping by sun
 
 #### helix-z
 
@@ -235,9 +235,9 @@ plan: threshold vent pattern - [download](/img/plan/threshold-vent.pdf)
 <!--pagebreak-->
 
 1. materials
-    - paper, black, acid-free, 400-600gsm
-    - dowel or stick, 10 diameter, or popsicle sticks
-    - fabric, black: muslin and fleece
+	- paper, black, acid-free, 400-600gsm
+	- dowel or stick, 10 diameter, or popsicle sticks
+	- fabric, black: muslin and fleece
 2. prepare pattern with instructions in [fabricate](/make#fabricate)
 3. blacken interior of ends (grey area) with marker
 4. key (example measurements in parentheses)
@@ -251,8 +251,8 @@ plan: threshold vent pattern - [download](/img/plan/threshold-vent.pdf)
 6. cover part of door inside vent with black muslin: _v_ + 20 x _t_ + 150 (446 x 190)
 7. cover underside of vent with black fleece + 20mm up the walls: _v_ + 40 x _t_ + 80 (486 x 140). Glue it just to the walls, not the bottom for best seal.
 8. attach fabric/paper
-    - to door and threshold with tape
-    - to vent with glue 
+	- to door and threshold with tape
+	- to vent with glue 
 9. glue dowel or stick, or popsicle sticks in 2 offset layers, to tops of walls under flanges. Press flat with a board and weights till dry. Fold flanges down over sticks and glue.
 10. fold up walls and ends to make a box
 11. tape flaps to outside of vent body (undo to store vent flat)
@@ -369,24 +369,24 @@ The fan mount totally dampens vibration from the fan, already smooth and quiet. 
 The design is fairly self-explanatory:
 
 - description
-    - a fan suspended in a web of 2 concentric rings of rubber, stretched between 4 screw posts, anchored in a wooden base
-    - modular, fitting silencer in any configuration
+	- a fan suspended in a web of 2 concentric rings of rubber, stretched between 4 screw posts, anchored in a wooden base
+	- modular, fitting silencer in any configuration
 - materials
-    - base: 272 x 272 x 19 (center hole, 194 diameter). Cut precisely with jig, band, or coping saw; router; or have a carpenter do it for you. Screw hole centers 20 from corners
-    - case fan: 200 (computer fan)
-    - screws: 4@5 x 60 machine + 4 nuts + 4 T-nuts, 4 fender washers
-    - rubber: 1-2 thick, 28 wide, 1700 long. Use inner tube of car, motorcycle, or bicycle wheel. It is tricky to work out distances between loops so that rubber has enough tension to suspend fan without too much movement. Loops and buckle make it all adjustable.
-    - loop: wire, 1mm, bent to fit tight 
-    - gap: 0.5--1 between base and fan
+	- base: 272 x 272 x 19 (center hole, 194 diameter). Cut precisely with jig, band, or coping saw; router; or have a carpenter do it for you. Screw hole centers 20 from corners
+	- case fan: 200 (computer fan)
+	- screws: 4@5 x 60 machine + 4 nuts + 4 T-nuts, 4 fender washers
+	- rubber: 1-2 thick, 28 wide, 1700 long. Use inner tube of car, motorcycle, or bicycle wheel. It is tricky to work out distances between loops so that rubber has enough tension to suspend fan without too much movement. Loops and buckle make it all adjustable.
+	- loop: wire, 1mm, bent to fit tight 
+	- gap: 0.5--1 between base and fan
 - assembly
-    - lay out rubber strip.
-    - figure out order to slide loops on. Do so.
-    - add buckle
-    - tighten and adjust rubber
-    - fit fan with foam standouts into rubber
-    - align fan directly over the hole in base. Gravity may pull it to one side or another. Tug on fan or webbing to reposition fan.
-    - slide webbing up or down screws to adjust base-fan gap
-    - screw base onto silencer over a hole in any position
+	- lay out rubber strip.
+	- figure out order to slide loops on. Do so.
+	- add buckle
+	- tighten and adjust rubber
+	- fit fan with foam standouts into rubber
+	- align fan directly over the hole in base. Gravity may pull it to one side or another. Tug on fan or webbing to reposition fan.
+	- slide webbing up or down screws to adjust base-fan gap
+	- screw base onto silencer over a hole in any position
 
 ![plan: fan mount](/img/plan/image/fan-mount.png)
 

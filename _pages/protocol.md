@@ -23,45 +23,45 @@ Hygienic darkroom retreating is new, and I am still learning. The final authorit
 I describe the overall process of retreating in [format](/format), especially the 5-day and 9-day retreat sections. Here are the details.
 
 - food
-    - the day your retreat begins, eat the same way you will in darkness: just fruit and greens or as simply as you can
-    - finish eating for the day by 18:00
+	- the day your retreat begins, eat the same way you will in darkness: just fruit and greens or as simply as you can
+	- finish eating for the day by 18:00
 - retreating
-    - in your bedroom:
-        - neutralize it: cover or store everything unnecessary to the retreat
-        - clean it thoroughly
-        - pad sharp corners and protrusions
-    - at a center
-        - arrive at 18:00
-        - your supporter will:
-            - show you to your room, pointing out where food will be delivered and any special features
-            - find out particular things you need
-            - talk to you a little bit about the retreat, reiterating the basic ideas of rest and self-healing
-        - as you unpack and settle in, memorize the room. Close your eyes and practice moving around and finding things
+	- in your bedroom:
+		- neutralize it: cover or store everything unnecessary to the retreat
+		- clean it thoroughly
+		- pad sharp corners and protrusions
+	- at a center
+		- arrive at 18:00
+		- your supporter will:
+			- show you to your room, pointing out where food will be delivered and any special features
+			- find out particular things you need
+			- talk to you a little bit about the retreat, reiterating the basic ideas of rest and self-healing
+		- as you unpack and settle in, memorize the room. Close your eyes and practice moving around and finding things
 - set two alarms on a cellphone
-    - between 10:00 and 12:00 the first day you will uncover the windows. On transition days, you can open the room before noon, as early as 06:00, as long as you feel fully rested.
-    - between 06:00 and 12:00 the morning your retreat will end, depending on your schedule.
-    - turn cellphone off or put it in flight mode to stop calls and minimize electromagnetic radiation
+	- between 10:00 and 12:00 the first day you will uncover the windows. On transition days, you can open the room before noon, as early as 06:00, as long as you feel fully rested.
+	- between 06:00 and 12:00 the morning your retreat will end, depending on your schedule.
+	- turn cellphone off or put it in flight mode to stop calls and minimize electromagnetic radiation
 - lights out
-    - how to do everything in a totally dark room: slowly!
-    - _Important_: avoid hitting your head when standing or sitting. Make a circle with your arms in front of yourself at chest height, hands together, when moving up or down. Practice this a few times in light with eyes closed, near something you will touch with your hands.
-    - put food scraps in bucket provided inside the room
-    - things slowly go out of place in darkness. If you would like the bed remade, lost shoes found, etc, ask your supporter.
-    - If you notice a light leak, immediately look away. Find something to cover it with. See [gear](/prepare#gear) for materials to do this with. Tell your supporter so he can plug the leak.
-    - Use scratch paper and pen to write notes to your supporter. Put them in the agreed-upon spot for messages.
-    - Avoid all media during your retreat: text, music, photos, video. 
-    - Avoid all company as well: family, friends, etc, unless 
-        - you are a parent and your child needs to be with you
-        - perhaps if your retreat is longer than 9 days (I don't know yet)
+	- how to do everything in a totally dark room: slowly!
+	- _Important_: avoid hitting your head when standing or sitting. Make a circle with your arms in front of yourself at chest height, hands together, when moving up or down. Practice this a few times in light with eyes closed, near something you will touch with your hands.
+	- put food scraps in bucket provided inside the room
+	- things slowly go out of place in darkness. If you would like the bed remade, lost shoes found, etc, ask your supporter.
+	- If you notice a light leak, immediately look away. Find something to cover it with. See [gear](/prepare#gear) for materials to do this with. Tell your supporter so he can plug the leak.
+	- Use scratch paper and pen to write notes to your supporter. Put them in the agreed-upon spot for messages.
+	- Avoid all media during your retreat: text, music, photos, video. 
+	- Avoid all company as well: family, friends, etc, unless 
+		- you are a parent and your child needs to be with you
+		- perhaps if your retreat is longer than 9 days (I don't know yet)
 - transition day(s)
-    - take walks, lie in the sun on the grass, go barefoot
-    - take naps, inside with windows covered if you like
-    - maintain solitude
-    - write about your retreat
-    - darken the room again between 18:00 and 20:00
-    - maintain darkness until morning
+	- take walks, lie in the sun on the grass, go barefoot
+	- take naps, inside with windows covered if you like
+	- maintain solitude
+	- write about your retreat
+	- darken the room again between 18:00 and 20:00
+	- maintain darkness until morning
 - last morning
-    - finish writing about your retreat
-    - pack and exit room by 13:00
+	- finish writing about your retreat
+	- pack and exit room by 13:00
 
 #### water and exercise
 
@@ -69,7 +69,7 @@ I make sure I do two things in darkness:
 
 - drink water: the body uses water for virtually all its processes. Detection of dehydration is strangely harder in darkness. Each day, drink about 1 liter for every 20 kg you weigh, 2.5 liters minimum. Get enough bottles to hold that much. Keep them by your bed. Fill and drink them down every day. Simple.
 
-    With all its extra energy, the body is reopening old wounds. It needs water to repair, clean, and re-energize these tissues. It is shaking toxins loose. It needs water to wash them out. It soaks the nerves in water to keep them cool. Hydrating in darkness makes the experience smoother emotionally. 
+	With all its extra energy, the body is reopening old wounds. It needs water to repair, clean, and re-energize these tissues. It is shaking toxins loose. It needs water to wash them out. It soaks the nerves in water to keep them cool. Hydrating in darkness makes the experience smoother emotionally. 
 - exercise: exercise helps one get to sleep, avoid bed soreness, feel less restless and irritable, retard muscle atrophy, and, interestingly, maintain the psychophysical "space" in which healing occurs. Even three minutes a day makes the difference between a pleasant retreat and constant discomfort.
 
 	The first couple days, exercising can be really hard. One is so tired. If so, and none of the above problems arises, just sleep. Energy to exercise should return on day 3.
@@ -95,7 +95,7 @@ Most of what you consume in fruit and leafy greens is water. So you must eat 3-5
 For more about food, see:
 
 - [food](/darkroom-retreat#food) and [menu](/prepare#menu)
-- [The 80/10/10 Diet](https://foodnsport.com) by Dr Douglas Graham
+- [*The 80/10/10 Diet*](https://foodnsport.com) by Dr Douglas Graham
 - [Loren Lockman's videos](https://youtube.com/user/LorenLockman)
 
 ##### fasting
@@ -104,7 +104,7 @@ I believe in fasting. It is a significant part of hygiene. But it seems best to 
 
 They seem to have opposite metabolic requirements. The organism focuses its healing efforts wherever food is absent. It gains energy—or at least internal comfort and support—from wherever food is present. The organism heals the body when physical food is absent. It heals the soul when the psychic food of sensation, especially vision, is absent. 
 
-I have tried both at the same time and it is very good but intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive a strong clear signal from your organism to combine them. I recommend Shelton's books, _Fasting Can Save Your Life_ and _The Science and Fine Art of Fasting_ and Albert Mosseri's [Fasting: Nature's Best Remedy](/f/fasting).
+I have tried both at the same time and it is very good but intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive a strong clear signal from your organism to combine them. I recommend Shelton's books, _Fasting Can Save Your Life_ and _The Science and Fine Art of Fasting_ and Albert Mosseri's [*Fasting: Nature's Best Remedy*](/f/fasting)\*.
 
 #### conservation
 
@@ -123,7 +123,7 @@ Here are ways to conserve energy in darkness for healing:
 	
 	But rather avoid immediately re-entering regular life. You will probably end up blowing off this extra energy. It is better to reabsorb it, recirculate it, stabilize it. 
 
-    This is how transition days came about. The retreat continues after darkness with windows uncovered and doors opened during the day one day for every 3 darkened days. This gives time to re-orient to light and gravity. Take a walk, lie in the grass, look at nature, and reflect on what has happened. See [transition](/format#transition) and my blog post, [post-retreat protocol](/blog/2012/12/post-retreat-protocol) for more about this.
+	This is how transition days came about. The retreat continues after darkness with windows uncovered and doors opened during the day one day for every 3 darkened days. This gives time to re-orient to light and gravity. Take a walk, lie in the grass, look at nature, and reflect on what has happened. See [transition](/format#transition) and my blog post, [post-retreat protocol](/blog/2012/12/post-retreat-protocol) for more about this.
 
 #### support
 
@@ -147,17 +147,17 @@ A retreater can get a supporter's attention from inside the darkroom with notes,
 Here are the attributes of good support.
 
 - a supporter:
-    - has read and understood this book, including the basic ideas of hygiene
-    - has retreated or will soon. No neutral or implicitly negative supporters!
-    - is reliable and has common sense
-    - brings food and checks for notes or says hello according to an agreed schedule (noon or soon before works well). Saying hello can happen once a day, once in the middle of the retreat, or not at all.
-    - stays nearby and keeps the retreater in the back of his mind while going about daily life
-    - has back-up support, at least one other person, at least by phone (see [consult](/back/services#consult)
+	- has read and understood this book, including the basic ideas of hygiene
+	- has retreated or will soon. No neutral or implicitly negative supporters!
+	- is reliable and has common sense
+	- brings food and checks for notes or says hello according to an agreed schedule (noon or soon before works well). Saying hello can happen once a day, once in the middle of the retreat, or not at all.
+	- stays nearby and keeps the retreater in the back of his mind while going about daily life
+	- has back-up support, at least one other person, at least by phone (see [consult](/back/services#consult)
 - design
-    - a supporter can deliver food and talk to the retreater in a normal voice without opening the darkroom's door
-    - a supporter can enter the darkroom or deliver food without letting in light. To have the retreater cover his eyes while the door is open is unacceptable. Like having to open the door to get fresh air, it is lazy, unserious design.
-    - a retreater can call the supporter without leaving the room or being exposed to light
-    - see [design](/design) and [make](/make) for ways to do these
+	- a supporter can deliver food and talk to the retreater in a normal voice without opening the darkroom's door
+	- a supporter can enter the darkroom or deliver food without letting in light. To have the retreater cover his eyes while the door is open is unacceptable. Like having to open the door to get fresh air, it is lazy, unserious design.
+	- a retreater can call the supporter without leaving the room or being exposed to light
+	- see [design](/design) and [make](/make) for ways to do these
 
 ### attitude
 
@@ -227,10 +227,10 @@ You rest consciously by focusing attention in restful places. I know of 4:
 	- physically on voluntary movement, throughout the body
 3. visually on darkness, in front of the eyes (closed or open), for 5-10 minutes at a time
 4. palpably and audibly on semi-voluntary bodily rhythms, for hours at a time, on:
-    - breathing, in the belly
-    - the pulse, anywhere, sometimes in the heart
-    - swallowing
-    - blinking
+	- breathing, in the belly
+	- the pulse, anywhere, sometimes in the heart
+	- swallowing
+	- blinking
 
 These are all suitable places for attention. It just depends on what resting requires in any given moment. For example, if you need to think about something, avoiding it will be agitating, not restful. Remember the purpose of rest, and you will learn when, where, and how to move your attention.
 
@@ -243,13 +243,13 @@ Attention is different from the mind. Attention can be on the mind itself: its a
 Placing attention on oneself is usually called meditation. (Gurdjieff, in his usual precision, called it self-remembrance). Thus darkroom retreating sounds like meditation to many people. But meditation is a discipline. Time is set aside just for it. It is the main process. The moment meditative effort stops, so does the main process.
 
 A hygienic retreat is not for meditation but rest. Healing is the main process. What one does with attention helps. But healing goes on anyway. It is an autonomic process. It runs in the background of willed activity. Further, a retreat provides so many conditions of rest and so little to do, one tends to rest more.
-    
+	
 Thinking is sometimes critically important. When you have presence of mind and a pressing issue arises, think it through logically. Steadily make rational connections until it is resolved. This doesn't happen much or take long. We all know how thinking too much can drive one crazy. But everything has its place. Fortunately, thinking is not the only option in darkness.
 
 You can also look directly at darkness itself, making it an object of attention. We are usually taught to think of darkness as nothing or as a background for something lit. Focusing on darkness for awhile as an external fact, eyes open or closed, helps calm the mind. It can be unexpectedly absorbing. 
 
 Try it right now for a minute or two. Put your palms over your eyes. Slightly overlap them above the nose to seal out light. Look at the backs of your eyelids like you are looking a couple meters away. Do this for a few minutes. Shapes and colors and spots might move around for awhile, then slowly clear away. Focus on the slowest dark patches, sometimes in front of, sometimes behind the imagery. You are withdrawing all your senses back inside your head. 
-    
+	
 You can also do this in the middle of a regular day to rapidly collect yourself, to feel centered and in your body again. It is restful for the eyes. It is an old practice from hygiene called _palming_.
 
 I used to look at darkness for hours at a time for days. This was way too much. You can read the trouble I got into for this in my [7-day retreat](/reports/7-day). Increasingly clear images of a subjective nature play on the "screen" of darkness. In other words, the images are coming from the mind. At first, I found this fascinating. Then it became torturous and nightmarish. There is no point to this.
@@ -354,7 +354,7 @@ If discomfort feels like too much to be endured, here are things you can do abou
 	- talk or sing to yourself
 	- talk to your supporter
 	- red light: A red LED light is pure red light. It gives no signal to the circadian system to bring rest to an end and prepare you for action. If other techniques don't help you ease your discomfort, turn on the red light for a minute. Don't do this regularly. If you have a supporter, have him bring the light and take it away.
-    - if you still can't stand it, use natural light as a last resort. Slowly uncover the window or open the door as much and long as needed. Start with eyes closed and turned away from the light. Open your eyes, but do not look into the light directly. If this is insufficient, step outside. When you feel calm again, go back into darkness again. 
+	- if you still can't stand it, use natural light as a last resort. Slowly uncover the window or open the door as much and long as needed. Start with eyes closed and turned away from the light. Open your eyes, but do not look into the light directly. If this is insufficient, step outside. When you feel calm again, go back into darkness again. 
 - see more techniques in the phobia section below
 
 Waiting it out often works. Enduring. Hanging on. In some case, retreating can feel unbearably difficult. It is perfectly alright to not resume the retreat at this time. Darkness is natural, but reacquaintance with it and oneself in it can take time and must not be rushed.
@@ -455,4 +455,4 @@ Your non-expert, non-mind-reading, non-therapist supporter will be on the outsid
 
 On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it later with insights from your aftermath. Share it online if you like and send me a link. I have found these reports useful in improving darkrooms, understanding the process, and explaining it to people. More writers and readers of reports will help spread hygienic darkroom retreating, advancing its theory and practice.
 
-[^1]: I was raised with many superstitions. In [_Objectivism_](https://objectivismphilosophyaynrand.com/)_: The Philosophy of Ayn Rand_, Leonard Peikoff explains how to identify and treat _arbitrary_ ideas. There is no evidence for them whatsoever. One must willfully dismiss them and put one's attention back on the facts of reality, dealing only with ideas tied to it. I found his analysis of _truth status_ extremely helpful in dealing with the conscious part of superstition.
+[^1]: I was raised with many superstitions. In [*Objectivism*](https://objectivismphilosophyaynrand.com/)_: The Philosophy of Ayn Rand_, Leonard Peikoff explains how to identify and treat _arbitrary_ ideas. There is no evidence for them whatsoever. One must willfully dismiss them and put one's attention back on the facts of reality, dealing only with ideas tied to it. I found his analysis of _truth status_ extremely helpful in dealing with the conscious part of superstition.

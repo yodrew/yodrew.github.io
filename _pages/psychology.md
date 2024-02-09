@@ -50,13 +50,13 @@ By contrast, hygiene is primarily concerned with the cause and conditions of hea
 My formulation of hygiene's generic pathology is simple. It describes the three ways an organism falls ill: by trauma, exhaustion, or poisoning. It describes the three corresponding ways it heals: repair, elimination, and re-energization.
 
 1. **causes of disease**
-    1. **trauma**: injury or damage to living tissue, whether psychical or psychical, subtle or gross. The younger the individual is, the greater his susceptibility to trauma, the subtler its form, and the wider its variety (eg, not sleeping with parents or not being nursed); yet the more rapid his recovery can be. If unhealed, trauma leads to every illness over time.
-    2. **exhaustion**: a greatly lowered energy state, sudden or prolonged. It results from overwork, distress, intense emotion, or extreme environmental factors: danger, temperature, atmospheric pressure, noise, frequencies, vibration, etc (equivalent to _enervation_, below).
-    3. **poisoning**: sudden intake or chronic excess of substances—gases, liquids, food, solids—or emotions or ideas that are toxic or in too great a quantity (similar to _toxemia_, below).
+	1. **trauma**: injury or damage to living tissue, whether psychical or psychical, subtle or gross. The younger the individual is, the greater his susceptibility to trauma, the subtler its form, and the wider its variety (eg, not sleeping with parents or not being nursed); yet the more rapid his recovery can be. If unhealed, trauma leads to every illness over time.
+	2. **exhaustion**: a greatly lowered energy state, sudden or prolonged. It results from overwork, distress, intense emotion, or extreme environmental factors: danger, temperature, atmospheric pressure, noise, frequencies, vibration, etc (equivalent to _enervation_, below).
+	3. **poisoning**: sudden intake or chronic excess of substances—gases, liquids, food, solids—or emotions or ideas that are toxic or in too great a quantity (similar to _toxemia_, below).
 2. **processes of healing**
-    1. **repair**: the renewal and replacement of tissue after normal use; the regeneration and knitting of tissue back together following trauma
-    2. **elimination**: removal of waste and toxins, both endogenous and exogenous, from cells through the lymph, blood, and organs of elimination
-    3. **re-energization**: recharging of exhausted nerves and refueling of cells
+	1. **repair**: the renewal and replacement of tissue after normal use; the regeneration and knitting of tissue back together following trauma
+	2. **elimination**: removal of waste and toxins, both endogenous and exogenous, from cells through the lymph, blood, and organs of elimination
+	3. **re-energization**: recharging of exhausted nerves and refueling of cells
 
 The above hygienic pathology is new. It is my simplification and radicalization of the old one. The old pathology helps explain disease once it has begun. But it does not satisfactorily explain the inception of disease, nor the corresponding means of its reversal. We will review and critique the old pathology now.
 
@@ -382,15 +382,15 @@ These have massive implications for hygiene's destiny, and mankind's as well.
 
 Hygiene has said illness originates with enervation (exhaustion) and toxemia (poisoning). Its new pathology explains how these conditions themselves originate in trauma. In coming to terms with trauma, hygiene can finally meet and obsolete allopathy (medicine) in its stronghold. 
 
-I discuss these implications further in [hygiene notes](/conjecture/hygiene-notes). I am only saying enough here to give you a solid basis for beginning with hygienic darkroom retreating. If it makes sense to you and you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*Science and Fine Art of Natural Hygiene*](/nhs.pdf).
+I discuss these implications further in [hygiene notes](/conjecture/hygiene-notes). I am only saying enough here to give you a solid basis for beginning with hygienic darkroom retreating. If it makes sense to you and you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*Science and Fine Art of Natural Hygiene*](/nhs.pdf)\*.
 
 &nbsp;
 
 [^1]: Sometimes, doctors go on strike. Life expectancy increases overnight by 9 years. It falls again the day the strike ends. See Dr Robert S Mendelsohn, _Confessions of a Medical Heretic_ for this and other amusing facts about medicine. See also [Medical Myths](https://foodkills.org/medicalmyths/)
 [^2]: Joseph Chilton Pearce, _Evolution's End_
 [^3]: This explains the unconscious motivation for the macabre fascination with genetics. This negligible and corrupt quasi-science is shot through with disgust for life and mechanistic control-freakishness.
-[^4]: David Wilcock, [Enigma 2012](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
-[^5]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual book, _In Search of the Miraculous_.
+[^4]: ["Enigma 2012"](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/), a lecture on video by David Wilcock
+[^5]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual book, [*In Search of the Miraculous*](/f/search.pdf)\*.
 [^6]: See my longer essay about cataclysm, [catastrophe](/conjecture/catastrophe)
 [^7]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
 [^8]: Bernarr Zovluck, [Alternative Healing: What Nobody Understands](http://towardsfreedom.com/iwrters/bernarr-zovluck/alternative-healing-what-nobody-understands/). Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. This comment would help me connect darkness with hygiene a decade later.

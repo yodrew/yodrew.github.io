@@ -1,7 +1,9 @@
 ---
 title: aphorisms
-permalink: /other/aphorisms/
 layout: page
+navprev: bibliography
+permalink: /other/aphorisms/
+navnext: ../f
 ---
 
 _A political victory, a rise of rents, the recovery of your sick, or the return of an absent friend, or some other favorable event lifts your spirits and you think good days are preparing for you. Do not believe it. Nothing can bring you peace but yourself. Nothing can bring you peace but the triumph of principles._

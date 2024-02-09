@@ -12,26 +12,26 @@ Join the dolphin economy: help me help you help me help you...
 
 - read
 	- my book and retreat [reports](/reports)
-	- Herbert Shelton's masterwork, [Science and Fine Art of Natural Hygiene](/nhs.pdf)
+	- Herbert Shelton's masterwork, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf)
 	- other books in my [bibliography](/back/bibliography-influences)
 - apply
-    - darken your room
-    - retreat according to this method at home or at a center
-    - climb the [ladder](/format#ladder)
+	- darken your room
+	- retreat according to this method at home or at a center
+	- climb the [ladder](/format#ladder)
 - interact
-    - [send](/about#contact) me a question or comment
-    - report on your retreat online and send me the link
-    - join my Telegram [study](https://t.me/darkroombookstudy) and [makers](https://t.me/darkroommakers) groups.
+	- [send](/about#contact) me a question or comment
+	- report on your retreat online and send me the link
+	- join my Telegram [study](https://t.me/darkroombookstudy) and [makers](https://t.me/darkroommakers) groups.
 - engage
-    - tell me about spelling and grammatical errors you find in the book
-    - [improve](https://github.com/yodrew/yodrew.github.io/issues) the website and designs
-    - improve the method (see below)
-    - publish the book; see [license](/back/license)
-    - invite me to [speak](/back/services#speak) at an event
-    - do something not listed above, perhaps something only you know about or that we could develop together
+	- tell me about spelling and grammatical errors you find in the book
+	- [improve](https://github.com/yodrew/yodrew.github.io/issues) the website and designs
+	- improve the method (see below)
+	- publish the book; see [license](/back/license)
+	- invite me to [speak](/back/services#speak) at an event
+	- do something not listed above, perhaps something only you know about or that we could develop together
 - support
-    - [buy](/back/services#write) the book after reading if it has been beneficial
-    - hire my [services](/back/services)
+	- [buy](/back/services#write) the book after reading if it has been beneficial
+	- hire my [services](/back/services)
 
 #### improve
 

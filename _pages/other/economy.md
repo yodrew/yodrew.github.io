@@ -1,12 +1,12 @@
 ---
 title: economy
 layout: page
-navprev: ordo
+navprev: mechanics
 permalink: /other/economy/
-navnext: tribal-housing
+navnext: ordo
 ---
 
-This is an overview and discussion of a sane personal economy.
+This is a design for a sane personal economy.
 
 ### budget
 

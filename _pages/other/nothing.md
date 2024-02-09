@@ -2,8 +2,8 @@
 title: Nothing to Fear, Even Fear Itself
 layout: page
 navprev: from-where
-permalink: /other/nothing-to-fear/
-navnext: sanity
+permalink: /other/nothing/
+navnext: individualism
 ---
 
 ### big brother's achilles's heel
@@ -17,7 +17,7 @@ We, the peasantry of the world, are:
 
   1. cluttering the landscape
   2. uselessly consuming resources
-  3. democratically disturbing politics and
+  3. disturbing the political status quo by various means and
   4. generally becoming unnecessary due to technology
 
 Thus, the nobility has decided to eliminate us. And not just the Jews, gays, convicts, dissidents, dark people, etc. But all 6.5 billion of us.
@@ -46,7 +46,7 @@ Combined with the already embedded meme of over-population, these new myths not 
 
 This is good news because it means we are not facing unstoppable forces, such as strangely intransigent Muslims, empty oil wells, rising temperatures and ocean levels locked into positive feedback loops. We are facing a tiny cabal of highly disciplined masterminds whose fragile chance of success depends on a stable and near universal state of fear among Earth's people. This is so delicate a condition that even one person who merely begins to see through her fears disrupts the cabal's apple cart.
 
-How is fear seen through? By the only means any culture has found to address any persistent, debilitating emotion at its root and unearth a real foundation for living: spiritual practice, namely, self-observation and self-remembrance (ie, contemplation and meditation, fasting and prayer, etc). Thus, in addition to being the vehicle of spiritual liberation, spiritual practice is the most powerful activity of political liberation one can engage in. [EDIT: I believe the opposite now. See [my book](/).]
+How is fear seen through? By the only means any culture has found to address any persistent, debilitating emotion at its root and unearth a real foundation for living: spiritual practice, namely, self-observation and self-remembrance (ie, contemplation and meditation, fasting and prayer, etc). Thus, in addition to being the vehicle of spiritual liberation, spiritual practice is the most powerful activity of political liberation one can engage in. [EDIT: I now believe that spiritual practice is itself part of the control system we live in. See [not](/psychology#not).]
 
 One may learn this for herself by applying the following propositions as hypotheses:
 

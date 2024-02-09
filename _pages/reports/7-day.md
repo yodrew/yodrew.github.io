@@ -61,3 +61,5 @@ When the ventilation system stopped a second time early Saturday morning, I thre
 I think all these technical failures point to my chronic, rigid dependence on my mind and my lonesome habits. Still the same lesson over and over. However, the retreat catalyzed some common sense in me, and within a few days, success both in resolving tension with my girlfriend and in reaching out to my good social organizer friend. It is good to feel some love and conviviality again.
 
 Especially including its aftermath, this retreat counts as a semi-success. I have not written about it much, but I view the re-emergence of love in a person as a criterion of success of the conjecture. At some point I will dare to call this a hypothesis, not merely a conjecture. But put to the test, much evidence in support of it continues to be generated, and little to the contrary.
+
+

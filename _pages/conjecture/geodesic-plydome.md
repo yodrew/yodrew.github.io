@@ -21,23 +21,23 @@ Click on either picture to go to triorbtl site of plydome builder, Steve Miller.
 I will build a geodesic sphere to do the darkness retreat in. Having been through several of these types of projects, I believe that building it and its contents will likely take three months and cost ~$2000, including personal expenses.
 
 - description
-    - Self-Strutting Geodesic Plydome, designed by Buckminster Fuller, perfected by Steve Miller
-    - whole icosahedron
-    - 12’ diameter
-    - floor of new “flat octet truss” design (prototyped)
-    - suspended by ropes from trees or resting on 5-point stand
-    - needs very quiet location
+	- Self-Strutting Geodesic Plydome, designed by Buckminster Fuller, perfected by Steve Miller
+	- whole icosahedron
+	- 12’ diameter
+	- floor of new “flat octet truss” design (prototyped)
+	- suspended by ropes from trees or resting on 5-point stand
+	- needs very quiet location
 - containing:
-    - bed of new design: light, folds into sofa or away for storage (conceived, not prototyped)
-    - inversion swing (to hang upside down)
-    - humanure composting toilet (5 gal bucket in box with ventilation)
-    - fold-up shower, fed by hot water delivered by support crew
-    - rug
-    - water dispenser
-    - food cooler (ice-pack cooled) for fruits and greens
-    - convection powered ventilation system (conceived not prototyped)
-    - shelf of new design for clothing, etc (conceived, not prototyped)
-    - retreater ![:\)][3]
+	- bed of new design: light, folds into sofa or away for storage (conceived, not prototyped)
+	- inversion swing (to hang upside down)
+	- humanure composting toilet (5 gal bucket in box with ventilation)
+	- fold-up shower, fed by hot water delivered by support crew
+	- rug
+	- water dispenser
+	- food cooler (ice-pack cooled) for fruits and greens
+	- convection powered ventilation system (conceived not prototyped)
+	- shelf of new design for clothing, etc (conceived, not prototyped)
+	- retreater ![:\)][3]
 - bid: see [sphere bid][4]
 
    [1]: https://web.archive.org/web/20050311230747im_/http://www.sover.net/~triorbtl/tn/D09-99-23.jpg (12 geodesic plydome)

@@ -52,7 +52,6 @@ Each of you gave me the world.
 
 - John Roberts: lifelong friend, biggest supporter, and host
 - Danny Meulbroek: guardian, supporter, and host extraordinaire 
-- Brian Sullivan: full-throttle collaborator, who gave first help in developing these ideas and, as always, trying them out
 - Evelyn Thomas and Sterling Voss: supporters, fellow investigators and survivors 
 - Ian Robertson: for the life-ring of rationality when it mattered most
 
@@ -60,49 +59,50 @@ Each of you gave me the world.
 
 - America
 	- Crea Egan for helping Harold begin with darkness, thus opening the door for me.
-    - Rob Miller, Malia Shultheis, and Jen Carroll: supporters and early retreat hosts
-    - Jesse King, John Monroe, and Elisabeth Goward, Dome Villagers at Maitreya Ecovillage, Eugene: camaraderie and support
-    - Blanche Colson: for getting Harold and me started in commercial window coverings for darkrooms. Of course, it was cardboard.
+	- Rob Miller, Malia Shultheis, and Jen Carroll: supporters and early retreat hosts
+	- Brian Sullivan: full-throttle collaborator, who gave first help in developing these ideas and, as always, trying them out
+	- Jesse King, John Monroe, and Elisabeth Goward, Dome Villagers at Maitreya Ecovillage, Eugene: camaraderie and support
+	- Blanche Colson: for getting Harold and me started in commercial window coverings for darkrooms. Of course, it was cardboard.
 	- [Hannah Christina Torres](https://hannahtorres.massagetherapy.com) for the second window covering idea
-    - Daniel Tucker and Les Stitt, then Ben Ramsey and Stephanie: for KCMO shelter
+	- Daniel Tucker and Les Stitt, then Ben Ramsey and Stephanie: for KCMO shelter
 - Guatemala
-    - The Maya: for your friendship and unshakable presence
-    - Niels Gronau: for your miraculous Guatemalan facility
-    - Elena Rago: friend, neighbor, and provider of an experimental facility
-    - Karsten: friend, neighbor, supporter, client, and for lending me tools and a workshop where such things are rare
-    - Tom Savage: friend and supporter
-    - Sandro Garcia, Nancy Martin, and Violet: heroic friends, hosts, supporters, retreaters
-    - Joshua Brang and Nadja: friends, supporters, and (Josh) travel agent
-    - my clients: for exploring darkness with me
+	- The Maya: for your friendship and unshakable presence
+	- Niels Gronau: for your miraculous Guatemalan facility
+	- Elena Rago: friend, neighbor, and provider of an experimental facility
+	- Karsten: friend, neighbor, supporter, client, and for lending me tools and a workshop where such things are rare
+	- Tom Savage: friend and supporter
+	- Sandro Garcia, Nancy Martin, and Violet: heroic friends, hosts, supporters, retreaters
+	- Joshua Brang and Nadja: friends, supporters, and (Josh) travel agent
+	- my clients: for exploring darkness with me
 - Europe
-    - Kostas: fast friend, host, and shepherd from Athens to Thessalonika
-    - David Friman and Erika Hedstrom, for shelter and space to test darkroom design
-    - Oscar, Limme, and Max at Kulturforeningen Gryning of Helsingborg: friends, hosts, and supporters. Cheers!
-    - Anna Ericksson: supporter and darkness experimenter
-    - Sanna Aatig: friend, supporter, host, and nurse in my darkest days
-    - Frank Cicela: supporter since 2002
-    - Brad Crutchfield: friend, always-interested supporter, and deep well-wisher
-    - &Aring;sa Ringstrom and Johan L&ouml;rne: friends and supporters
-    - Richard N&ouml;jd for hard-won darkroom design ideas
-    - A woman, unnamed, who initiated me in an essential part of my lost self, leading to the [conclusive test](/reports/2x3-day/) of this idea
-    - Marcus Ivarsson and Emma Sofie Berg: connectors
-    - Stisse and Carina Gilgren: Swedish godparents
-    - The people and place of Skattungbyn, Sweden 
-    - Dr Anette Kjellgren: for unqualified, professional encouragement
-    - Oscar Nelson for the donation that sustained me and the book for a winter
-    - B&aring;rd Anders Lien, friend, host, sponsor, apprentice _and_ guide in Oslo
-    - Terje Tjensvoll, supporter, host, collaborator, and guardian
-    - Elisabette Molin: friend, host, and champion retreat supporter
-    - Astrit Gashi, friend and host
-    - Ketil Berg, friend, host, sponsor, treasurer extraordinaire. Without you, 2015 would have been very hard to survive. RIP
-    - Marie Richert and Virginie Bournaud, friends, hosts, sponsors, and guides in Paris
+	- Kostas: fast friend, host, and shepherd from Athens to Thessalonika
+	- David Friman and Erika Hedstrom, for shelter and space to test darkroom design
+	- Oscar, Limme, and Max at Kulturforeningen Gryning of Helsingborg: friends, hosts, and supporters. Cheers!
+	- Anna Ericksson: supporter and darkness experimenter
+	- Sanna Aatig: friend, supporter, host, and nurse in my darkest days
+	- Frank Cicela: supporter since 2002
+	- Brad Crutchfield: friend, always-interested supporter, and deep well-wisher
+	- &Aring;sa Ringstrom and Johan L&ouml;rne: friends and supporters
+	- Richard N&ouml;jd for hard-won darkroom design ideas
+	- A woman, unnamed, who initiated me in an essential part of my lost self, leading to the [conclusive test](/reports/2x3-day/) of this idea
+	- Marcus Ivarsson and Emma Sofie Berg: connectors
+	- Stisse and Carina Gilgren: Swedish godparents
+	- The people and place of Skattungbyn, Sweden 
+	- Dr Anette Kjellgren: for unqualified, professional encouragement
+	- Oscar Nelson for the donation that sustained me and the book for a winter
+	- B&aring;rd Anders Lien, friend, host, sponsor, apprentice _and_ guide in Oslo
+	- Terje Tjensvoll, supporter, host, collaborator, and guardian
+	- Elisabette Molin: friend, host, and champion retreat supporter
+	- Astrit Gashi, friend and host
+	- Ketil Berg, friend, host, sponsor, treasurer extraordinaire. Without you, 2015 would have been very hard to survive. RIP
+	- Marie Richert and Virginie Bournaud, friends, hosts, sponsors, and guides in Paris
 	- 40 contributors to my 2016 crowdfund to support a 21-day retreat
 	- Aimee Fenech and TomTom, friends, hosts, helpers, and mentors in Spain
 	- Jan and Thomas Hermann, hosts in La Alpujarra proper 
-    - Mary Salama back home in America, for proof-editing this book in 2018
-    - Lougaya and J. for support and for trying and making darkness wholeheartedly.
-    - Jan Hlavacek, Stepanka Trenz, Martin Pokorny, Petr Vesely, Katerina Cervena, Honza Dlabal for showing me dark retreating in Czech Republic
-    - Pavel, Cestr family, Jarda and Jana, and my other neighbors in Czech Republic, for such great peace, kindness, and respect
+	- Mary Salama back home in America, for proof-editing this book in 2018
+	- Lougaya and J. for support and for trying and making darkness wholeheartedly.
+	- Jan Hlavacek, Stepanka Trenz, Martin Pokorny, Petr Vesely, Katerina Cervena, Honza Dlabal for showing me dark retreating in Czech Republic
+	- Pavel, Cestr family, Jarda and Jana, and my other neighbors in Czech Republic, for such great peace, kindness, and respect
 
 #### end
 

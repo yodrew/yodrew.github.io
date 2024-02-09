@@ -91,3 +91,5 @@ I am avoiding this feeling about myself even now, staying up late to write this.
 Boy, to think of all the years I endured without myself, in denial, in pain, thinking it was a woman I was missing. I crashed myself into one after another in order to find someone to kill myself over. Romeo hundreds of times over without the relief of a blade. In my retreat, I begged god for mercy one way or the other. It has come.
 
 All my retreats have culminated in this one. It is a milestone. Now maybe I can function well enough to begin supporting myself and finally organize a 14-day retreat. What is next?!
+
+

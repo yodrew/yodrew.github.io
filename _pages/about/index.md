@@ -35,9 +35,9 @@ See more about:
 
 ### site history
 
-- 2000 - 200?: geocities.com/secretdesign
-- 200? - 201?: andrewdurham.com with WordPress
-- 201? - present: darkroomretreat.com with jekyll (after nanoc)
+- 2000 - 2009: geocities.com/secretdesign
+- 2009 - 2013: andrewdurham.com with WordPress
+- 2013 - present: darkroomretreat.com with jekyll (after nanoc)
 
 [web.archive.org](https://web.archive.org) does a fair job of tracking the changes.
 

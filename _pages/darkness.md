@@ -17,11 +17,11 @@ I have suffered many defeats at its hands. Eliminating it demanded equally formi
 Generally, to darken a space,
 
 1. use dense, inherently lightproof sheet material in 1-2 layers to cover area. Using few layers means:
-    - simpler construction
-    - better function
-    - easier operation
-    - neater appearance
-    - greater need for precision
+	- simpler construction
+	- better function
+	- easier operation
+	- neater appearance
+	- greater need for precision
 2. seal out light at edges with black polar fleece. Attach it to 2 sides, over an edge, forcing light around 1-2 corners.
 3. make outer surfaces exposed to sun reflective: white or silver
 4. in vents, channel light around 6 black-surfaced corners
@@ -45,8 +45,8 @@ No mask I've tried or seen satisfied my requirements. So I designed one. The str
 #### constraints
 
 - blocks all light 
-    - through the mask
-    - at its edges
+	- through the mask
+	- at its edges
 - comfortable for many hours
 - stays in place during sleep and gentle activity
 - cheap and simple to make
@@ -63,13 +63,13 @@ Adjust the measurements as needed. The mask can cover your forehead, but not you
 I put this one together in a few minutes. It's like the standard mask below but without seals. Combined with a mostly darkened room, it blocked 95% of light and let me sleep in and nap. (Later, I managed to staple seals to it for 99-100% darkness.)
 
 - cut a piece from a black 100% cotton 
-    - T-shirt, 250mm x 440, folded the short way in 4 layers
-    - or sweatshirt, 250mm x 330, folded in 3
+	- T-shirt, 250mm x 440, folded the short way in 4 layers
+	- or sweatshirt, 250mm x 330, folded in 3
 - staple along its long edges
 - 4 strap anchors
-        - 3mm holes poked through with a ballpoint pen tip, elastic going through them then knotted
-        - or 2 staples each
-        - knot where comfortable, end-knots (overhand or figure-8) on one end, two half-hitches or slip knots on the other.
+		- 3mm holes poked through with a ballpoint pen tip, elastic going through them then knotted
+		- or 2 staples each
+		- knot where comfortable, end-knots (overhand or figure-8) on one end, two half-hitches or slip knots on the other.
 - vertical strap: make a slipknot in each end of the vertical elastic piece that tightens around the horizontal straps.
 
 #### standard
@@ -81,51 +81,51 @@ plan: sleeping mask - [download](/img/plan/mask.pdf)
 <!--pagebreak-->
 
 1. materials
-    - soft black knit fabric: 
-        - 100% cotton sweatshirt fabric (French Terry cloth or loop-back cotton) 
-        - 100% T-shirt fabric (cotton jersey)
-        - polar fleece for the cold
-        - cotton is cooler than fleece, which can feel scratchy, too. Avoid woven fabric. It frays and doesn't flex. A bright colored piece of cloth on the outside makes finding the mask in the light and in bags a lot easier. 
-    - elastic, 3-5mm, white, helps to find the mask and is much more common in stores
-    - cord, 3mm polyester or nylon, white
-    - thread
+	- soft black knit fabric: 
+		- 100% cotton sweatshirt fabric (French Terry cloth or loop-back cotton) 
+		- 100% T-shirt fabric (cotton jersey)
+		- polar fleece for the cold
+		- cotton is cooler than fleece, which can feel scratchy, too. Avoid woven fabric. It frays and doesn't flex. A bright colored piece of cloth on the outside makes finding the mask in the light and in bags a lot easier. 
+	- elastic, 3-5mm, white, helps to find the mask and is much more common in stores
+	- cord, 3mm polyester or nylon, white
+	- thread
 2. follow instructions in [fabricate](/air#fabricate)
 3. attach side seals to cover
-    1. put cotton cover with plan still attached on 2-3 layers of cardboard
-    2. each side seal has a 7mm wide flap divided by 5mm cut in middle and a small circle on dashed stitch line. Two side seals=4 divisions. 
-        1. align one division at a time to grey marks on cover
-        2. tape in place
-        3. sew on stitch line of plan to or from small circle
-        4. tear plan in middle to bend seal 
-        5. repeat for other three divisions
-        6. remove all paper from fabric
+	1. put cotton cover with plan still attached on 2-3 layers of cardboard
+	2. each side seal has a 7mm wide flap divided by 5mm cut in middle and a small circle on dashed stitch line. Two side seals=4 divisions. 
+		1. align one division at a time to grey marks on cover
+		2. tape in place
+		3. sew on stitch line of plan to or from small circle
+		4. tear plan in middle to bend seal 
+		5. repeat for other three divisions
+		6. remove all paper from fabric
 4. attach center seals
-    1. fold center seals in half the long way and fit them between side seals, making everything symmetrical and even
-    2. pin center seals to cover through their folds 
-    3. sew (maybe hand sew) center seals to cover
+	1. fold center seals in half the long way and fit them between side seals, making everything symmetrical and even
+	2. pin center seals to cover through their folds 
+	3. sew (maybe hand sew) center seals to cover
 5. bind seals
-    1. hand-sew seals together through sideways stitch line
-    2. pull thread with minimal force, leaving seam neither loose nor tight.
-    3. the stitch line is a little distant---7mm---from the zigzagging edges of the seals. This allows the seals to hold each other up to fill in the gaps on each side of the nose. Yet the unbound edges of the seals can fan out to more gently make contact with the face.
+	1. hand-sew seals together through sideways stitch line
+	2. pull thread with minimal force, leaving seam neither loose nor tight.
+	3. the stitch line is a little distant---7mm---from the zigzagging edges of the seals. This allows the seals to hold each other up to fill in the gaps on each side of the nose. Yet the unbound edges of the seals can fan out to more gently make contact with the face.
 6. sew cover
-    1. stack all cover pieces, matching up edges evenly
-    2. fold seam allowance of cotton cover under and pin in place to other cover pieces
-    3. sew around edge of cover to join all pieces
+	1. stack all cover pieces, matching up edges evenly
+	2. fold seam allowance of cotton cover under and pin in place to other cover pieces
+	3. sew around edge of cover to join all pieces
 7. prepare straps
-    1. cut elastic
-        - 2 pieces 500mm long
-        - 1 piece 250mm long
-    2. cut cord, 4 pieces 30mm long
-    3. melt all ends with flame to prevent fraying
-    4. tie figure-8 knots in ends of elastic
+	1. cut elastic
+		- 2 pieces 500mm long
+		- 1 piece 250mm long
+	2. cut cord, 4 pieces 30mm long
+	3. melt all ends with flame to prevent fraying
+	4. tie figure-8 knots in ends of elastic
 8. attach straps
-    1. fold cord in half, making a loop. Sew loop to front of mask at points **x** and **z** so loops stick out over corners from cover 1mm and cord ends are pointed toward center of cover
-    2. tie one end of a 500mm piece to a loop at point **x** with a slip knot
-    3. tie other end at other point **x** with taut line hitch
-    4. repeat steps 2 & 3 with other 500mm piece at points **y**
-    5. tie 250mm piece to 500mm pieces at points **z** with slip knots
-    6. the taut line hitch, when tight, slides on the part of the strap it is tied to, then locks in place, creating a strap of adjustable length. Adjust straps for comfort. Bottom strap should go around neck, top strap should go high around back of head.
-    
+	1. fold cord in half, making a loop. Sew loop to front of mask at points **x** and **z** so loops stick out over corners from cover 1mm and cord ends are pointed toward center of cover
+	2. tie one end of a 500mm piece to a loop at point **x** with a slip knot
+	3. tie other end at other point **x** with taut line hitch
+	4. repeat steps 2 & 3 with other 500mm piece at points **y**
+	5. tie 250mm piece to 500mm pieces at points **z** with slip knots
+	6. the taut line hitch, when tight, slides on the part of the strap it is tied to, then locks in place, creating a strap of adjustable length. Adjust straps for comfort. Bottom strap should go around neck, top strap should go high around back of head.
+	
 <!--pagebreak-->
 
 ### door seal
@@ -187,20 +187,20 @@ A handful of companies make blinds for traveling (especially with children). The
 Now for a quick lesson on window types and anatomy.
 
 - types:
-    - fixed
-    - opening
-        - sliding
-            - double-hung (vertical)
-            - horizontal
-        - casement (hinged)
+	- fixed
+	- opening
+		- sliding
+			- double-hung (vertical)
+			- horizontal
+		- casement (hinged)
 - anatomy, from center of window to wall:
-    1. pane: the glass itself
-    2. frame: holds pane, moving with it in opening windows 
-    3. sash: attached to wall, surrounds frame. In opening windows, the frame closes against the sash. With non-opening windows, sash is often the same as the frame.
-    4. sill: holds sash; it's the surface where you put plants, candles, etc, and corresponding sides and top. Defines the recess.
-    5. recess: entire opening in wall where window is installed. It is defined by the sill.
-    6. trim: wooden border around window. Attaches to wall and edge of sill, covering the crack between them. Not always present. 40-100 wide, 10-20 deep. 
-    7. wall
+	1. pane: the glass itself
+	2. frame: holds pane, moving with it in opening windows 
+	3. sash: attached to wall, surrounds frame. In opening windows, the frame closes against the sash. With non-opening windows, sash is often the same as the frame.
+	4. sill: holds sash; it's the surface where you put plants, candles, etc, and corresponding sides and top. Defines the recess.
+	5. recess: entire opening in wall where window is installed. It is defined by the sill.
+	6. trim: wooden border around window. Attaches to wall and edge of sill, covering the crack between them. Not always present. 40-100 wide, 10-20 deep. 
+	7. wall
 
 #### double blind
 

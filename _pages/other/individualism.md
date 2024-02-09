@@ -1,7 +1,7 @@
 ---
 title: individualism
 layout: page
-previous: from-where
+previous: nothing
 permalink: /other/individualism/
 next: free 
 ---
@@ -29,9 +29,9 @@ This is a state that is:
 - based on individualist principles (the precepts, which assert the rights of man)
 - undertaken and operated by all individuals throughout the population
 - of maximum size in terms of 
-    - number of participants
-    - comprehensiveness of laws (through contracts)
-    - amount of power held and degree of control exercised, but by individuals over their own affairs 
+	- number of participants
+	- comprehensiveness of laws (through contracts)
+	- amount of power held and degree of control exercised, but by individuals over their own affairs 
 
 Individualism sets the operational context of the society. The rights of man to life, liberty, and property and the corollary maxims of law will become common sense again. Little children understand, apply, and uphold them. Everyone can be mentally, emotionally, physically, and legally aligned with his self-preserving nature as an organism.
 
@@ -157,39 +157,39 @@ _Lifeforce_ eclipses even truthforce, Gandhi's disciplined simulation. He used i
 ### structure
 
 - Rights
-    - Life is conditional. Some things are good for it, others bad. To attain the good is good. For man, the volitional being, to choose to do so is right. Therefore it is a right. It is his right  among others who could choose to physically stop him. To live, a human must:
-        - be
-        - move
-        - get
-    - therefore these things are right
-    - therefore these things are rights
-    - list of rights {crimes violating them are in curly braces}
-    - Life: body
-        - {poisoning*, assault, battery, maiming, murder} 
-        - {*usually pollution: noise, material (plasma, gas, liquid, solid), light, electromagnetism. Sensible, at least to some, and in those cases, detectable by anyone with instruments.}
-    - Liberty: motility
-        - {obstruction, capture}
-        - {harassment: unwelcome contact with someone in place}
-    - Property: possessions 
-        - originates by "mixing one's efforts" with natural materials
-        - {vandalism, fraud, theft}
+	- Life is conditional. Some things are good for it, others bad. To attain the good is good. For man, the volitional being, to choose to do so is right. Therefore it is a right. It is his right  among others who could choose to physically stop him. To live, a human must:
+		- be
+		- move
+		- get
+	- therefore these things are right
+	- therefore these things are rights
+	- list of rights {crimes violating them are in curly braces}
+	- Life: body
+		- {poisoning*, assault, battery, maiming, murder} 
+		- {*usually pollution: noise, material (plasma, gas, liquid, solid), light, electromagnetism. Sensible, at least to some, and in those cases, detectable by anyone with instruments.}
+	- Liberty: motility
+		- {obstruction, capture}
+		- {harassment: unwelcome contact with someone in place}
+	- Property: possessions 
+		- originates by "mixing one's efforts" with natural materials
+		- {vandalism, fraud, theft}
 
 - Party
-    - membership by self-identification and natural acceptance by others
-    - issues these non-binding precepts as open source project
-    - provides forum for networking
-    - organizes embassy
-    - all activities and projects ad hoc
+	- membership by self-identification and natural acceptance by others
+	- issues these non-binding precepts as open source project
+	- provides forum for networking
+	- organizes embassy
+	- all activities and projects ad hoc
 - State:
-    - Function: to stop crime. Crime is the initiation of physical force by one human against another. It consists of touching another's person or property without his permission, or threatening to, with anything physical that is sensible, harmful, and unavoidable. This is how rights are violated. Self-defense is the use of force against its initiators sufficient to stop them.
-    - According to the precepts,
-        - individuals 
-            - write their own laws with contracts
-            - defend themselves with force 
-            - resolve their own disputes 
-            - hire counselors, defenders, and adjudicators to assist them as needed
-        - counselors, defenders, and adjudicators offer and manage their services
-        - all band together when necessary to thwart large threats, by prior agreement and funding through insurance companies
+	- Function: to stop crime. Crime is the initiation of physical force by one human against another. It consists of touching another's person or property without his permission, or threatening to, with anything physical that is sensible, harmful, and unavoidable. This is how rights are violated. Self-defense is the use of force against its initiators sufficient to stop them.
+	- According to the precepts,
+		- individuals 
+			- write their own laws with contracts
+			- defend themselves with force 
+			- resolve their own disputes 
+			- hire counselors, defenders, and adjudicators to assist them as needed
+		- counselors, defenders, and adjudicators offer and manage their services
+		- all band together when necessary to thwart large threats, by prior agreement and funding through insurance companies
 
 #### choice
 
@@ -204,14 +204,14 @@ Freedom is the quality of a society that stands against the initiation of force,
 #### types
 
 - individualism
-    - pure: band society
-    - civilized: capitalism 
-    - pseudo: conservatism, anarcho-capitalism, voluntarism, agorism
+	- pure: band society
+	- civilized: capitalism 
+	- pseudo: conservatism, anarcho-capitalism, voluntarism, agorism
 - collectivism  
-    - perfect: anarchy
-    - pure: communism
-    - near: fascism, monarchy, Islam, Catholocism
-    - weak: socialism, democracy, republic, Satanism, tribalism
+	- perfect: anarchy
+	- pure: communism
+	- near: fascism, monarchy, Islam, Catholocism
+	- weak: socialism, democracy, republic, Satanism, tribalism
 
 #### anti-anarchy
 

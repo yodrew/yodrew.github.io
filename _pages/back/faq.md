@@ -194,7 +194,7 @@ If a single Biblical passage speaks against extended rest in physical darkness, 
 
 Myself, I began to sense Christ in physical darkness. If darkness were evil, it should have driven me further away from that sense. The psychopaths I have met, including some Christians, hate and fear darkness. I think _the One_ they serve fears it, too. 
 
-The God of Psalm 139:13 fears nothing. “If I ascend to heaven, you are there; if I make my bed in Sheol, you are there... Even the darkness is not dark to you.” David was capable of using two different senses of the same word in the same sentence. You, like most of his readers, probably can, too.
+The God of Psalm 139:13 fears nothing. “If I ascend to heaven, you are there; if I make my bed in Sheol, you are there... Even the darkness is not dark to you.” David was capable of using two different senses of the same word in the same sentence. Like most of his readers, you probably can, too.
 
 <!--&nbsp;-->
 

@@ -1,1 +1,0 @@
-https://www.paypal.com/donate?token=aa7Yi4BeH9QEQlF0uONZowYEckaUtuDb2u1ZIwDisK3YVvEeLKWSr3ODkVOQjjqI6wr1UXWUyLsJjQ5V

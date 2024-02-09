@@ -2,7 +2,7 @@
 title: Sociality Undenied
 layout: page
 navprev: existence
-permalink: /other/sociality-undenied/
+permalink: /other/sociality/
 navnext: from-where
 ---
 

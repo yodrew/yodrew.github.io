@@ -6,7 +6,7 @@ permalink: /other/tribal-housing/
 navnext: myths
 ---
 
-### a design for a full life on $250 a month
+#### a design for a full life on $250 a month
 
 [See **NOTE** at end]
 

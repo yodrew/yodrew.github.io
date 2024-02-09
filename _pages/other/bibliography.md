@@ -3,7 +3,7 @@ title: Bibliography
 layout: page
 navprev: ashers
 permalink: /other/bibliography/
-navnext: 
+navnext: aphorisms
 ---
 
 ### five cranial supernovas
@@ -24,7 +24,7 @@ Of Rand, Liedloff, and Quinn, I read and liked nearly everything else. There was
 
 Ouspensky's other books don't attract me. But Fritz Peters's books about Gurdjieff are great. 
 
-I have just started to study Graham. I sought his crystalline book on diet for over 20 years. His book also stands for Herbert Shelton's masterful work on hygiene, [_Science and Fine Art of Natural Hygiene_](/nhs.pdf).
+I have just started to study Graham. I sought his crystalline book on diet for over 20 years. His book also stands for Herbert Shelton's masterful work on hygiene, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf).
 
 ### others
 

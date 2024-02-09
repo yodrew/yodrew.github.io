@@ -1,9 +1,9 @@
 ---
 title: From Where?
 layout: page
-navprev: sociality-undenied
+navprev: sociality
 permalink: /other/from-where/
-navnext: nothing-to-fear
+navnext: nothing
 ---
 
 ### understanding Quinn, part 2
