@@ -10,24 +10,27 @@ navnext:
 
 #### frameless
 
-For their simplicity, ease, economy, strength, beauty, and elegance, I recommend the following designs/methods for shelter construction.
+For their simplicity, ease, economy, speed, strength, beauty, and elegance, I recommend the following designs/methods for shelter construction.
 
-(Speed measured in hours, days, weeks):
+(Fastest possible construction times):
 
-[Self-Strutting Geodesic Plydome](https://web.archive.org/web/20050308102749/http://www.sover.net:80/~triorbtl/index1.html) (weeks)  
+[Self-Strutting Geodesic Plydome](https://web.archive.org/web/20050308102749/http://www.sover.net:80/~triorbtl/index1.html) (days)  
 Steve Miller's perfection of Buckminster Fuller's design for a frameless sphere. Write me for detailed plans.
 
-[Conic Shelter](https://conic.design) (weeks)  
+[Conic Shelter](https://conic.design) (days)  
 Chuck Henderson's sweeping, simple, brilliant, circled-square construction
+
+[hygienic house / conic](/plan) (days)  
+My adaptation of Chuck's conic with a cylindrical wall using the same building method.
 
 [Hexayurt](http://www.hexayurt.com/) (hours)  
 Vinay Gupta's 3-hour, $200, portable pop-up shelter + autonomous infrastructure
 
-[Superadobe](https://calearth.org/) (weeks)  
+[Superadobe](https://calearth.org/) (days)  
 Nadir Khalili's giant upside down coil pot shelters elegantly made from war materials
 
-[Cardboard Geodesic Dome](https://www.cccoe.net/stars/) (days)  
-I started work on improving this. See pics of Seattle and Sweden Domes [here](https://andrewdurham.shutterfly.com).
+[Cardboard Geodesic Dome](https://www.cccoe.net/stars/) (hours)  
+Fun for kids and grown-ups alike
 
 The above designs are all **shell** constructions. That is, they are frameless. Why? It is true architecture: the technique of forming arches from separate pieces of materials to create covered space.
 

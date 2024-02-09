@@ -204,7 +204,7 @@ So rectilinear buildings are not just acceptable for short retreats, but perfect
 
 A good building for the long-term is round or has five or more walls in a regular polygon. Walls can be rectangles. Right angles where floors meet walls are fine. But not where walls meet ceilings or each other, as in orthogonal floor plans.
 
-Happily, a handful of elegant, cheap, quick, [round shelter designs](/other/links) exist for new buildings. My hygienic house [plan](/plan) below, is also one. 
+Happily, a handful of elegant, cheap, quick, [round shelter designs](/other/links) exist for new buildings. They include my hygienic house, below. 
 
 It turns out that rectilinear construction is not simpler or easier. It's just a frame of mind.
 
@@ -212,6 +212,6 @@ It turns out that rectilinear construction is not simpler or easier. It's just a
 
 Now, let's learn to make our prison cells into escape vehicles. The next chapter, design, gives detailed instructions and plans for your very own darkroom.
 
-![plan: conic / hygienic house](/img/plan/image/conic.png)
+![plan: hygienic house / conic](/img/plan/image/conic.png)
 
-See [plan](/plan) on my website for a color sketch, downloads, and budget.
+See [plan](/plan) on my website for a color sketch, downloads, and budget. Also in zip file.

@@ -80,7 +80,7 @@ $40.
 
 I design and build darkrooms as part of supporting [retreats](/back/services#retreat), from scratch or in existing buildings. [Email](/about#contact) me.
 
-See my [hygienic house](/plan) for some of my latest thinking. A vaulted mobile building is also in the works.
+See my [hygienic house](/plan) for some of my latest thinking. A vaulted mobile shelter is also in the works.
 
 $40/hr.
 

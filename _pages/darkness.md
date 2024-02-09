@@ -168,7 +168,7 @@ plan: door seal - [download](/img/plan/door-seal.pdf)
 I tried several methods of darkening windows in ~100 spaces. Two work well: double blind and panel. 
 Plans and instructions follow.
 
-Notes on others I tried—foil, velcro, roller blind—are below. Their descriptions, instructions, and drawings are archived in the [zip file](/darkroom-retreat.zip).
+Notes to others I tried—foil, velcro, roller blind—are below, with a link.
 
 If your room's air supply comes through your window, attach a helix vent to the back of the blind. If the recess doesn't allow this, attach the vent to the front. Test position of vent before cutting a slot for it to make sure it clears the window frame and handles. The slot jig usually works. See [helix vent parts](/air#helix).
 
@@ -333,7 +333,7 @@ Alas, most Americans, Canadians, and Australians miss them without knowing it. P
 
 #### zip
 
-Here are notes on techniques I don't use anymore. But I've kept their, photos, plans and instructions in the [zip file](/darkroom-retreat.zip)
+Here are notes on techniques I don't use anymore. I've archived their, photos, plans and instructions in the [zip file](/darkroom-retreat.zip).
 
 ##### foil
 

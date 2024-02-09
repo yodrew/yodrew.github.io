@@ -12,6 +12,6 @@ The book is an integrated whole. Every word aids comprehension, including front 
 
 ##### links
 
-- [colored](/) word: a link.
+- [colored](/) words are links
 - [*italicized*](https://foodnsport.com) link: a book title
 - if also [*asterisked*](/nhs.pdf)\*, download or read book for free
