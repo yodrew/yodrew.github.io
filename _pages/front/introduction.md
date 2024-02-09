@@ -100,7 +100,7 @@ psychic
 
 lifeway
 :	a way of life; everything that happens with people in a given group in the course of living.  
-&nbsp; &nbsp; I once used the word, culture, for this. Then my neighbor, [John&nbsp;Zerzan](https://johnzerzan.net), explained to me that culture is recent: an aspect of civilization. I wanted a single word which would include all approaches to man's existence. Lifeway compresses the phrase "way of life" into one word. It is common in anthropology.
+&nbsp; &nbsp; I once used the word, culture, for this. Then my neighbor, [John Zerzan](https://johnzerzan.net), explained to me that culture is recent: an aspect of civilization. I wanted a single word which would include all approaches to man's existence. Lifeway compresses the phrase "way of life" into one word. It is common in anthropology.
 
 ##### usage
 

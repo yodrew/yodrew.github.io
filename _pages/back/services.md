@@ -18,7 +18,7 @@ Instructions:
 
 1. read my book
 2. send me your completed [questionnaire](/prepare#questionnaire). 
-	- [Email](/about#contact) it with $40 fee (pay below)
+	- [Email](/about#contact) it with $40 fee ([pay](/back/services#pay) below)
 	- or use this [form](/resource/questionnaire)
 	- Fee is non-refundable, so [address concerns](/about#contact) beforehand
 	- I'll call soon for interview.
