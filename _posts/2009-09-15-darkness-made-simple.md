@@ -5,7 +5,7 @@ permalink: "/blog/2009/09/darkness-made-simple/"
 layout: post
 ---
 
-I have a friend that I want to tell about my work. But she speaks only some English, and I became concerned my multisyllabism in the conjecture would make it too difficult for her to understand. So I just wrote a simplified version of the [original conjecture](/darkness-conjecture/conjecture).
+I have a friend that I want to tell about my work. But she speaks only some English, and I became concerned my multisyllabism in the conjecture would make it too difficult for her to understand. So I just [simplified it](/conjecture).
 
 #### simple
 

@@ -2,7 +2,7 @@
 title: basics
 permalink: /conjecture/basics/
 layout: page
-navprev: conjecture
+navprev: 
 navnext: rapture
 ---
 

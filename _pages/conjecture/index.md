@@ -3,17 +3,22 @@ title: the darkness conjecture
 permalink: /conjecture/
 layout: page
 navprev: 
-navnext: conjecture/conjecture
+navnext: conjecture/basics
 ---
+
+Rapture, the natural human condition,  
+turns to suffering in a catastrophically injured psyche,  
+which, as an organic system,  
+will heal itself  
+with vital energy accumulated in the profound rest  
+available in an absolutely dark environment.
 
 ### a strifeless recovery of rapture
 
 Experiences, ideas, and implications of hygienic darkroom retreating. 
 
-- Intro
-	- [conjecture](./conjecture/)
-	- [basics](./basics/)
 - Health
+	- [basics](./basics/)
 	- [rapture](./rapture/)
 	- [hygiene notes](./hygiene-notes/)
 	- [dreamtime](./dreamtime/)

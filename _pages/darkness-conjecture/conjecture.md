@@ -2,8 +2,8 @@
 title: the conjecture
 permalink: /darkness-conjecture/conjecture/
 layout: redirect
-redirect: ../../conjecture/conjecture
+redirect: ../../conjecture
 ---
 
-Page moved to [conjecture > conjecture](/conjecture/conjecture)
+Page moved to [conjecture](/conjecture)
 

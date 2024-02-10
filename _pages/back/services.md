@@ -86,6 +86,8 @@ $40/hr.
 
 I plan to manufacture all my designs as well as jigs and tools for others to make them. Let me know if you have an interest in them.
 
+<!--pagebreak-->
+
 #### pay
 
 I accept payments by:

@@ -100,5 +100,5 @@ _The Continuum Concept_, Jean Liedloff (tribal relationship); _The Path of Least
         
 &nbsp;
 
-[**NOTE:** While the mechanics of Tribal Housing as described below are still mostly valid, my thinking about its social context has changed significantly. While I have slightly edited the article to reflect this change, please read [Sociality Undenied](/other/sociality-undenied/) for a full presentation of my new view of social organization]
+[**NOTE:** While the mechanics of Tribal Housing as described below are still mostly valid, my thinking about its social context has changed significantly. While I have slightly edited the article to reflect this change, please read [Sociality Undenied](/other/sociality) for a full presentation of my new view of social organization]
 [NOTE 2: Sociality Undenied was subsequently obsoleted by the ideas in [psychosis](/conjecture/psychosis/) and [hygiene](/hygiene#capacity) and even later, [individualism](/other/individualism)]

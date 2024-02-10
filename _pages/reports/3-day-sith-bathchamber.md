@@ -54,7 +54,7 @@ All in all, I had what I consider an extraordinarily valuable experience with th
 
 &nbsp;
 
-[1]: /conjecture/conjecture/
+[1]: /conjecture
 [2]: https://dropout50394.yuku.com/topic/1102?page=1
 [3]: https://web.archive.org/web/20120306230230/http://www.traditionaltao.com/index.html/html/site-subsection/ID/9
 [4]: https://web.archive.org/web/20110319125347/http://www.traditionaltao.com/index.html/html/site-subsection/ID/11

@@ -21,7 +21,7 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 ### Philosophy
 
 - [Existence Isn't Everything](./existence/) rethinking Objectivism's first axiom
-- [Sociality Undenied](./sociality-undenied/) the operative principle of band society
+- [Sociality Undenied](./sociality/) the operative principle of band society
 - [From Where?](./from-where/) understanding Daniel Quinn
 - [Nothing to Fear, Even Fear Itself](./nothing) 
 - [Individualism](./individualism) notes toward an individualist distributed hyperstate

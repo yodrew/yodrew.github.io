@@ -6,4 +6,5 @@ permalink: /front/links/
 navnext: 
 ---
 
-These are all the external links in the book, in order of appearance.
+External links in the book are collected here, in order of appearance, with addresses.
+
