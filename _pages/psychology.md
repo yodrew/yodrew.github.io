@@ -393,5 +393,5 @@ I discuss these implications further in [hygiene notes](/conjecture/hygiene-note
 [^5]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual book, [*In Search of the Miraculous*](/f/search.pdf)\*.
 [^6]: See my longer essay about cataclysm, [catastrophe](/conjecture/catastrophe)
 [^7]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
-[^8]: Bernarr Zovluck, [Alternative Healing: What Nobody Understands](http://towardsfreedom.com/iwrters/bernarr-zovluck/alternative-healing-what-nobody-understands/). Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. This comment would help me connect darkness with hygiene a decade later.
+[^8]: Bernarr Zovluck, [Alternative Healing](http://towardsfreedom.com/iwrters/bernarr-zovluck/alternative-healing-what-nobody-understands/): What Nobody Understands. Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. This comment would help me connect darkness with hygiene a decade later.
 [^9]: Panacea is, in Greek legend, the sister of Hygieia. 

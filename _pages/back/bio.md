@@ -3,7 +3,7 @@ title: bio
 layout: page
 navprev: services
 permalink: "/back/bio/"
-navnext: ../
+navnext: links
 ---
 
 Born 1971, Twin Falls, Idaho. 
