@@ -19,7 +19,7 @@ In 2008, I discovered darkness as the means nature provides us to heal from trau
 - giving talks and consulting for readers
 - refining and documenting my work at [darkroomretreat.com](/). 
 
-2013 brought [proof of concept](/reports/2x3-day) and a rewriting of the conjecture into this book. Development of the model of hygienic darkroom retreating ended in late 2019. All details of theory, protocol, and design were worked out. It became a practical solution. The phase of application began: bringing the solution to the world. 
+2013 brought [proof of concept](/report/2x3-day) and a rewriting of the conjecture into this book. Development of the model of hygienic darkroom retreating ended in late 2019. All details of theory, protocol, and design were worked out. It became a practical solution. The phase of application began: bringing the solution to the world. 
 
 The [ladder](/format#ladder) is a step toward it, as well as the expansion of my [services](/back/services).
 

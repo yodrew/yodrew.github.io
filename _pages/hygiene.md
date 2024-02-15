@@ -110,7 +110,7 @@ Hygiene became a mass movement in 1832 with the lectures of Sylvester Graham, ph
 
 Dr Russell Trall built on the efforts of Jennings and Graham. He had independently abandoned drugging. He boldly advanced hygienic theory and practice. He spread hygiene widely with publications, [lectures](/f/trall.pdf), and organization.
 
-Florence Nightingale, mother of modern nursing, spread hygiene perhaps more than anyone else, before nursing was co-opted by medicine. With help from Trall and James Jackson, Ellen G White imbued the Seventh Day Adventist Church with hygienic principles.[^2] Today, Adventists live an average of 10 years longer than those around them.
+Florence Nightingale, mother of modern nursing, spread hygiene perhaps more than anyone else, before nursing was co-opted by medicine. With help from Trall and James Jackson, Ellen G White imbued the Seventh-Day Adventist Church with hygienic principles.[^2] Today, Adventists live an average of 10 years longer than those around them.
 
 Many other bold men and women alike gave their lives to hygiene. They touched tens of thousands personally and affected hundreds of millions with their influence. To name some: William Alcott and his daughter, Louisa May Alcott, Emmet and Helen Densmore, Edward Dewey, Susanna Dodds, O S Fowler, Felix Oswald, Mary Gove, Edmond Moras, Thomas Nichols, Chas Page, Hermann Reinheimer, Harriet Shaw, Joel Shew, George Taylor, and Robert Walter.
 
@@ -307,7 +307,9 @@ Thus the organism constantly works for perfect health. As long as health is impe
 
 That it rarely does among us shows how incorrectly we live, not that life is unequal to the task.
 
-Genetic flaws do not prevent total healing. They exist as lesions on the DNA, ie, damage. Thus the unflawed genetic pattern is still present. Genes are self-healing like the rest of the organism. The organism made itself from a single cell. It can remake itself with 80 trillion. [Apparently](/reports/365-day-yogi), it takes about the same amount of time.
+Genetic flaws do not prevent total healing. They exist as lesions on the DNA, ie, damage. Thus the unflawed genetic pattern is still present. Genes are self-healing like the rest of the organism. The organism made itself from a single cell. It can remake itself with 80 trillion. [Apparently](/report/365-day-yogi), it takes about the same amount of time.
+
+This implication has several astonishing consequences itself, both personal and social. I touch on some of them in [protocol](/protocol) and in my [blog](/blog).
 
 ~/~
 
@@ -316,6 +318,6 @@ This is the general theory of hygiene 3.0. Now we can better apprehend our main 
 &nbsp;
 
 [^1]: Herbert Shelton, [*Natural Hygiene: Man's Pristine Way of Life*](https://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm)\*, elegantly paraphrased by TC Fry, [*Life Science Health System*](https://mojadrogadozdrowiablog.files.wordpress.com/2016/03/the-life-science-health-system-t-c-fry.pdf)\*.
-[^2]: Unfortunately, White abused people from the pulpit. It became a tradition in her church. I can't recommend visiting it. But Walter Veith's lecture series on video, ["Total Onslaught"](https://staging-adtv.aws.amazingdiscoveries.org/series/total-onslaught), is electrifying. It correlates the strange forces and major events of history with the Bible.
+[^2]: Sadly, White established a tradition of abusing people from the pulpits of Adventist churches. I recommend against visiting. But Walter Veith's lecture series, ["Total Onslaught"](https://staging-adtv.aws.amazingdiscoveries.org/series/total-onslaught), is electrifying. He correlates major historical figures, events, and ideas—and the strange forces often at work in them—with the Bible and its prophecies.
 [^3]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf)\*, back cover.
 [^4]: religion, Latin, re (_again_) + leg (_law_), an internal binding to law. It is mad act, making people strange.

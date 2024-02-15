@@ -15,7 +15,7 @@ I am not a spiritual person anymore. I am a realist, a hygienist, a scientist. I
 
 The biography is full of standard yogi adventures: heroic practices and resulting visions, astral travels, spontaneous healings of the devout, meetings with reincarnated deceased relatives, with other miraculous saints, and with immortals, scrapes with authorities, reproval of knaves, defeat of black magicians, etc. It is fun or uplifting or annoying or it makes your head spin, depending on your perspective. It is like Yogananda's autobiography.
 
-Some years ago, I read an [excerpt](/reports/365-day-yogi) of this book from the website of Rhio, a raw foodist. It struck me somehow. It gave me a measure of hope at the beginning of my physical decline in middle age. I republished it here after looking into the subject, Tapasviji. Here is what I found. 
+Some years ago, I read an [excerpt](/report/365-day-yogi) of this book from the website of Rhio, a raw foodist. It struck me somehow. It gave me a measure of hope at the beginning of my physical decline in middle age. I republished it here after looking into the subject, Tapasviji. Here is what I found. 
 
 I found websites with stories of and testimonies about Tapasviji by his many disciples. They seemed as sincere and authentic as any I had read about Gurdjieff or other significant teachers. 
 

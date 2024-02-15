@@ -10,9 +10,11 @@ There is darkness, and then there is _darkness_. We're going for the second kind
 
 Light is easier to deal with than ventilation. There are fewer factors involved, and they are visible.
 
-But light is relentless. It sneaks sideways through a single layer of clear plastic tape; through the fibers and weave of heavy fabric; around multiple, darkened corners; and at joints and edges of everything.
+But light is relentless. It sneaks sideways through a single layer of clear plastic tape and the hook and loop of black velcro; through the weave and fibers of heavy fabric; around multiple, darkened corners; and past all edges and joints.
 
-I have suffered many defeats at its hands. Eliminating it demanded equally formidable techniques. Now I bestow them upon you, oh, future [Conan the Barbarian](https://www.youtube.com/watch?v=Oo9buo9Mtos) of lightproofing.
+I suffered many defeats at the mighty hands of light. Eliminating it demanded equally formidable techniques. I wandered continents for years to find them. Now I bestow them upon you, oh, future [Conan the Barbarian](https://www.youtube.com/watch?v=Oo9buo9Mtos) of lightproofing.
+
+### technique
 
 Generally, to darken a space,
 
@@ -210,11 +212,13 @@ This is my favorite method. One layer goes inside the window recess and one goes
 - extremely effective and simplest overall
 - durable, adaptable, and cleanable for reuse and travel.
 
-It requires ordinary precision, much less than single-layer. Light can't leak past all its corners and narrow gaps. It blocks 99% of light even without taping the outer layer. This is much better than a mask for use at home.
+It requires ordinary precision, much less than with a single layer. Light can't leak past all its corners and narrow gaps. It blocks 99% of light even without taping the outer layer. This is much better than a mask for use at home.
 
-It is usually of flexible plastic. Plastic is lightweight, holds its shape, making taping easy. The inner layer can be lightweight board: cardboard, foam board, or corrugated plastic sign board. It is usually for temporary use.
+It is usually of flexible black plastic construction sheeting. It is the lightest weight lightproofing material. It is laterally static, holding its shape and making taping easy. 
 
-Fabric or paper could work. They are heavier. Fabric drapes. Paper warps. 
+The inner layer can be lightweight board: cardboard, foam board, or corrugated plastic sign board, always black. It is usually for temporary use. But it is easy enough to operate to use for months or years.
+
+Fabric or paper could work. But they are heavier. Fabric drapes. It requires a rod. Paper warps with heat or moisture.
 
 I use masking tape. It sticks to it really well and causes the least damage everywhere. Magnets, tacks, nails, staples, poster tack, etc could work. 
 
@@ -222,7 +226,7 @@ I'll talk about plastic. The technique is mostly the same for fabric and paper.
 
 North Americans: 1 mil = 0.025mm = 25µ(microns).
 
-Minimum total thickness of layers must be 0.25mm.
+Minimum total thickness of plastic layers must be 0.25mm. Fabric and paper would be thicker. Always use black. It absorbs the light as it tries to get through the material. 
 
 ##### materials
 
@@ -235,11 +239,11 @@ Minimum total thickness of layers must be 0.25mm.
 	- windows build up fierce heat when sealed with black plastic. It destroys the vacuum seal of dual or triple-pane windows. It even causes them to explode! The heat also damages paint and wood.
 	- black plastic looks spooky from the outside, attracting negative attention. White looks normal.
 - black-white
-	- easiest, coolest
 	- laminated agricultural plastic. Called "light deprivation" tarp, used in greenhouses and for "pit tarps". I once got some for free from an agricultural plastic supply house. It was the end of a 1-ton roll of 0.125mm plastic. It was still a huge amount.
+	- easiest. And it is cool. Not in temperature, but it is appealing and satisfying to use. It is technology at its best.
 	
-	Amazing stuff. White looks nice. Use one layer for traveling. Use two (white sides visible) for perfect darkness. 
-	- lumber unit covers, discarded daily at lumber yards. They are big black/white-laminated woven plastic tarps for shipping. Graphics are printed on them. Rinse or wipe clean if necessary. Find punctures and patch them. Make white sides visible.
+	It's amazing stuff. White looks nice. Use one layer for traveling. Use two (white sides visible) for perfect darkness. 
+	- lumber unit covers, discarded daily at lumber yards. They are big black/white-laminated woven plastic tarps for shipping. Graphics are printed on them. Rinse or wipe clean if necessary. Find punctures and patch them. Face/put/sandwich the black sides together, making white sides visible.
 
 ##### assembly
 
@@ -261,26 +265,26 @@ Minimum total thickness of layers must be 0.25mm.
 
 ##### tape
 
-1. use masking tape, 25mm wide. I like 3M construction grade, from a builder's supply. It is heavy and sticky. Masking tape is effective, cheap, sticks and conforms well to irregular wall surfaces, yet comes off easily without residue (unless you leave it up too long: months, maybe weeks). 
-2. black masking tape is interesting and fun. It is useful in some applications, but not essential. Brands and models are Intertape PF3 or PB1 and Shurtape T106<!-- from American Tape and Label-->. Local art and professional lighting supply stores carry it. For difficult surfaces, photographic masking tape or black kraft paper tape are stickier, thicker (more lightproof), stronger, and more expensive. Look for ProGaff (formerly Permacel) 743, Shurtape 724 or 743, and 3M 235. 
-3. avoid electrical tape and most duct and gaffer's tape. They are made of soft vinyl and obnoxious adhesives. They are toxic in their manufacture, handling, use, and disposal. One exception I know is Shurtape PC 657, a polyethylene coated gaffer's tape. Do research; the devil is in the details.
+1. use regular masking tape, 25mm wide. I like 3M construction grade, from a builder's supply. It is heavy and sticky. Masking tape is effective, cheap, sticks and conforms well to irregular wall surfaces, yet comes off easily without residue (unless you leave it up too long: months, maybe weeks). 
+2. black masking tape is not necessary for my standard techniques, but it is interesting and fun. It could be useful in special applications you dream up, so I want you to know about it. Brands and models are Intertape PF3 or PB1 and Shurtape T106<!-- from American Tape and Label-->. Local art and professional lighting supply stores carry it. For difficult surfaces, photographic masking tape or black kraft paper tape are stickier, thicker (more lightproof), stronger, and more expensive. Look for ProGaff (formerly Permacel) 743, Shurtape 724 or 743, and 3M 235. 
+3. avoid electrical and duct tapes. They are made of soft vinyl and obnoxious adhesives. They are toxic in their manufacture, handling, use, and disposal. Gaffer's tape has better adhesive for removal. But most are vinyl. One exception I know of is Shurtape PC 657, a polyethylene coated gaffer's tape. Always research and test. The devil is in the details.
 4. pro-tips
-	- let tape relax between unrolling it and pressing it in place. Stretched tape peels off by itself!
+	- let tape relax between unrolling it and pressing it in place. Don't apply while stretched. Stretched tape slowly peels off by itself!
 	- for temporary seal, press in place with pad of finger.
-	- for strong, more permanent seal, press in place with finger nail. You can see and feel the difference immediately
-	- use sticky side to grab edge of applied tape to remove it
+	- for strong, more permanent seal, press in place with finger nail or edge of guitar pick or credit card. You can see and feel the difference immediately.
+	- use sticky side of one piece to grab edge of another applied piece and remove it
 	- use small pieces to tack material in place, then long pieces to cover the whole edge
-	- except for tacking and overlapped ends, use one layer of tape. Then it flexes with material as it expands and contracts with heat and moisture. Multiple layers rigidify tape and cause it to peel.
+	- except for tacking and overlapped ends, use one layer of tape. Then it flexes as what it is taped to expands and contracts with heat and moisture. Multiple layers of tape are rigid and cause it to peel or open little cracks for light to get through.
 
 #### single
 
-Single-layer: extra-thick (0.25mm) black polyethylene construction sheeting, available at concrete supply houses, or EPDM rubber, used for pond lining and roofs.
+Single-layer: extra-thick (0.25mm) material, either black polyethylene construction sheeting, available at concrete supply houses, or EPDM rubber, used for pond lining and roofs.
 
-This is tricky. A single layer requires the most precision. You will need lightproof tape or especially careful taping. Maybe extend plastic far beyond trim (150-200mm) or fold edge under to create springy seal. Use fleece seals for rough surfaces. Avoid nicks and punctures. Repair with black tape or patch it.
+This is tricky. A single layer requires the most precision. You will need lightproof tape or especially careful taping. Extend plastic far beyond trim (150-200mm). Fold edge under to create a springy seal. Or use fleece seals, especially for rough surfaces. Avoid nicking and puncturing it. Repair with black tape or patches. The double blind is better in most cases.
 
 #### panel
 
-A panel is for permanent use. It has several benefits. It seals snugly inside a recess or outside as a shutter. 
+A panel is for permanent use. It has several benefits. It seals snugly inside a recess or outside like a shutter. 
 
 A panel is of exterior plywood inside or out, or melamine inside. These engineered woods are dimensionally stable. 
 
@@ -289,14 +293,14 @@ A panel:
 - is best for long-term use
 - is lightproof in one layer
 - seals well with fleece, which attaches well to the edges with various glues
+- adds soundproofing and thermal insulation
 - retains its shape and size
 - easily takes cutting for a hole or slot to attach a duct or vent (unlike glass). 
-- adds soundproofing and thermal insulation
 - looks good
 - is easy to get free material for from discarded furniture
 - removes with no trace, usually held in place by pressure.
 - installable with hinges
-- usable just for retreats or permanently
+- usable for retreats and nightly sleeping
 - adds security if installed outside and latches from the inside through the window
 
 <!--&nbsp;-->

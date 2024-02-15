@@ -1,8 +1,8 @@
 ---
 title: four darkness experiences
-permalink: "/reports/four-darkness-experiences/"
+permalink: /reports/four-darkness-experiences/
 layout: redirect
-redirect: ../five-darkness-experiences
+redirect: ../../report/five-darkness-experiences
 ---
 
-This report has been expanded, renamed, and moved to [five darkness experiences](/reports/five-darkness-experiences).
+This report has been expanded, renamed, and moved to [report > five darkness experiences](/report/five-darkness-experiences).

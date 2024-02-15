@@ -197,8 +197,7 @@ Ch. 20-  THE FIRST MOTION AFTER A FAST..<br>
 
 Ch. 21-  THE MENU AFTER A FAST  
 
-    IV
-
+   **IV**
     Can you feast after a fast…<br>
       Rich foods<br>
       Proteins after a fast...<br>
@@ -242,8 +241,7 @@ Ch. 24-  HOPELESS CASES &amp; LIFE THREATENING COMPLICATIONS<br>
 AT THE AUTHOR’S HOME<br>
       Summary of works by the same author.
 
-    V
-
+   **V**
 
 
     Photo of tongue
@@ -254,15 +252,14 @@ AT THE AUTHOR’S HOME<br>
 
 
 
-    VI
-
+   **VI**
 #### PREFACE**
 
 **BY DR   C. BANULS
 
-##### <u> </u>
+##### 
 
-##### <u> </u>
+##### 
 
 ###    Everything becomes clogged up.
 
@@ -292,8 +289,7 @@ From the most trivial tolerable illness to the most serious and painful, there i
 
 
 
-#### VII
-
+####**VII**
 
 
 
@@ -317,33 +313,33 @@ _If you are asked : “why fast  ?” do not try to reply or convince. Simply th
   _   “Why fast ?”_<br>
   _   You know the answer; and this is really the only thing that counts.
 
-<u> </u>
 
-<u> </u>
 
-<u> </u>
 
-<u> </u>
 
-<u> </u>
 
-<u>VIII</u>
 
-<u> </u>
 
-<u> </u>
 
-<u> </u>
 
-<u> </u>
 
-<u> </u>
+**VIII**
 
-<u> </u>
 
-<u> </u>
 
-<u> </u>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -356,13 +352,13 @@ FANTASTIC ADVENTURES
 
     9
 
-    <u> </u>
+    
 
-<u> </u>
 
-<u> </u>
 
-<u> </u>
+
+
+
 
 Ch. 1
 
@@ -1104,7 +1100,7 @@ I have had a biopsy,  but I wasn’t informed of the result. The word cancer has
 
 Mr. Mosseri then explained to my wife that the swollen ganglion resembled an abcess. The pain was caused by the arrival of blood to eliminate the toxins that had accumulated in that area. It is a task performed by Nature that should not be thwarted by medicines. The symptoms must not be suppressed, but encouraged,  through fasting, to help Nature do its work.
 
-<u>     </u>_<br>
+<br>
       **TRAGIC NOTE   by A.M.
 
 At this point in the story I learned from his wife that the patient had opted for the operation. No doubt the pressure exerted on him by the doctors was too strong and he gave way, not daring to stray off the beaten track. After the operation it will be a question of radiotherapy and chemotherapy, then an agonising death after several months, or perhaps a year or two if he is very resistant. And the doctors will say that he died of another illness, so 
@@ -1226,11 +1222,9 @@ I can say, then,  that it is a complete success and I thank Mr. Mosseri for havi
 
 ************
 
- Doctors who are ill, and incapable of curing themselves, should be struck off the medical register. –
+Doctors who are ill, and incapable of curing themselves, should be struck off the medical register. –
 
-    _     **H   **ere is the story of a patient suffering from multiple sclerosis. The destruction of his
-
-   intestinal flora over several years has evidently been the cause of the slow and insidious evolution of this terrible paralysis.
+Here is the story of a patient suffering from multiple sclerosis. The destruction of his intestinal flora over several years has evidently been the cause of the slow and insidious evolution of this terrible paralysis.
 
 In hospital he was given an immunosuppressant to suppress his natural defences. A curious way of treating illness – attack the body’s natural defences so it can’t show any symptoms ! But why not kill the illness so there is no longer any symptom at all ?  Isn’t it the collapse of these defences that have caused Aids and paralysis ?  And at the same time doctors prescribe yeast to redevelop the intestinal flora which have been destroyed. Insane:  the yeast is also destroyed by the same drugs which destroyed the flora. -
 
@@ -3224,7 +3218,7 @@ Some think that the exercise hastens elimination. They are mistaken enormously. 
     <h3>_Ch. 14   Stimulation   and elimination_</h3>
     <p align="right">p 105
 
-  It’s Aubrou, the physician, who had Mary to eat, in order she did’nt weaken. It’s him who killed her  .._ François Mauriac  <u>Le noeud de vipères</u>_  ( The nest of vipers).<br>
+  It’s Aubrou, the physician, who had Mary to eat, in order she did’nt weaken. It’s him who killed her  .._ François Mauriac  _Le noeud de vipères_  ( The nest of vipers).<br>
       _Methods of stimulation_
 
   « There are years that I oppose the use of all the methods of stimulation, because they tend to exhaust energies of the patients.
@@ -3864,14 +3858,14 @@ The medical profession begins more and more to represent, not science, but what 
 
 The medical profession is the worst of all the professions. It is in delay of one hundred years on the scientific side. Its past is infamous… It is made of superstitions, of ignorance… statistics of amateur, faked, percentages based on two or three cases, which one passes off as mathematical certainties. 
 
-_<u>The dilemma of the doctor</u>_  
+_The dilemma of the doctor_  
 -- George Bernard SHAW 
     <p align="right">p 127
 
   
     <h3>_Ch. 17 --  Daily weighing _</h3>
     It is what arrives of almost all the diseases that one flatters oneself to have cured. One has only passed them on, as one says in medicine, and one substitutes others for them.  
--- SAINTE-BEUVE    <u>Mondays, I,</u>  p. 19
+-- SAINTE-BEUVE    _Mondays, I,_  p. 19
 
 
     <div>
@@ -4198,7 +4192,7 @@ That appears by the deceleration of the fall of weight.       p 134
 
 But the body is not caught unaware. It manages to work out biological transmutations which transform existing elements into those which miss.
 
-For example, when the body misses calcium, it takes potassium and transforms it into calcium. See to this end the work of Louis Kervran : _<u>Biological transmutations</u>_ ( Courrier du Livre  ). One will read there especially that hens to which one gave a food devoid of any calcium, continued to lay eggs, as if nothing had happened. However it is known that the shell is very rich in calcium. From where do they have drawn this calcium? From their reserves, surely. And how long these reserves will last ?
+For example, when the body misses calcium, it takes potassium and transforms it into calcium. See to this end the work of Louis Kervran : _Biological transmutations_ ( Courrier du Livre  ). One will read there especially that hens to which one gave a food devoid of any calcium, continued to lay eggs, as if nothing had happened. However it is known that the shell is very rich in calcium. From where do they have drawn this calcium? From their reserves, surely. And how long these reserves will last ?
 
 The capacity of the organization to operate biological transmutations ends up decreasing about the 20th day of the fast, and the weight is stabilized again. It is useless to continue the fast then, because the body does not have any more this capacity of transmutation. It is necessary to reach the second level, that of the half-fast. Thus after 2 levels one will pass to the half-fast.
 
@@ -4213,7 +4207,7 @@ Indeed, the number of the professors does not equalize that of their subordinate
 ____________
 
 In the schools of the Paradise,  the children were taught that an atomic bomb having destroyed all humanity, or almost, the Earth was put out of axis by the terrible shock, and its course modified around the sun. The result was that in the North and South Poles, there was no more summer left, but one perpetual winter. The ground was constantly covered with ice and not livable giant icebergs . Agriculture was impossible,  and the Eskimos, obliged to eat on fish, lived on average only 27 years. The gardens and the orchards, formerly flourishing, had been transformed into icy desert. Hadn't one discovered, indeed, mammoths buried in the ice, and which had not had time to digest their meal, found intact in their stomach? Cataclysm had surprised them suddenly. Hadn't one as discovered, in the North Pole, coal under the ground, proving as there was formerly a flourishing vegetation ? It was the hell the wrong way, by the ice and the cold, whereas now, in the Paradise, the North Pole and the South Pole are marvellous places, where spring is permanent with flourishing orchards, giving all the succulent fruits, on a fertile and welcoming ground.<br>
-      _<u>The MAN, the MONKEY and the PARADISE</u>_
+      _The MAN, the MONKEY and the PARADISE_
 
 ____________
 
@@ -4225,7 +4219,7 @@ THE LEGISLATOR OF TOMORROW
 ____________
 
 While speculating on the ignorance of people and their fear of pain and disease, helped by the mass-media, the pseudo-science  (medicine) was created the illusion that it held unlimited and mysterious capacities whose humanity is supposed to depend. Thus the people of the Western hemisphere are prostrate servilely at its feet, imagining it like a very powerful goddess, sparkling in its brocades and its ornaments of gold.  
--- Hans RUESCH    _T<u>he massacre of the innocents</u>_
+-- Hans RUESCH    _The massacre of the innocents_
     <p align="right">    _p 135_
     <h3>_Ch. 19    Second phase__ __The half-fast_</h3>
     <h3>_the coloured tongue     _</h3>
@@ -4485,9 +4479,9 @@ I answer
 
 Since the beginning of humanity the men had recourse to the fast, instinctively, to recover from acute affections, such as fever,  indigestion, pain, etc.. But it was only one short fast, which did not exceed a few days. 
 
-In addition, much longer fasts were practised, but with a spiritual aim, which does not interest us here. Moses, Mohammad and Jesus-Christ, fasted 40 days with a spiritual aim. Only among these three prophets, Mohammad advised with Moslems to fast to recover health ( <u>The Coran </u>), but it does not seem that he is heard. It was at the 7th century. 
+In addition, much longer fasts were practised, but with a spiritual aim, which does not interest us here. Moses, Mohammad and Jesus-Christ, fasted 40 days with a spiritual aim. Only among these three prophets, Mohammad advised with Moslems to fast to recover health (_The Coran_), but it does not seem that he is heard. It was at the 7th century. 
 
-But before, little before the birth of Jesus-Christ,  at the time of Hippocrates, there were houses of fast in ancient Greece.  The patients ran up to look after themselves of all the diseases and cured. One will read the chapter which I devoted to this, at the beginning of volume I of my book  <u>Eat Nature, Health Nature</u>. 
+But before, little before the birth of Jesus-Christ,  at the time of Hippocrates, there were houses of fast in ancient Greece.  The patients ran up to look after themselves of all the diseases and cured. One will read the chapter which I devoted to this, at the beginning of volume I of my book  _Eat Nature, Health Nature_. 
 
 Then to the nineteenth century, in 1822, Doctor Jennings, hygienist pioneer in the U.S.A., discovered and had recourse to the long fast to make it possible for the patients to recover.
 
@@ -5098,7 +5092,7 @@ Doctor Méphistophélès was a medical genius, just like Pasteur. He had discove
 -- Albert MOSSERI, _Man,  the Monkey and the Paradise_ p16   
 
 Doctor Méphistophélès, having patented his invention - that to cancel the Natural laws -, it created the monopoly of medicine. 
- PROLOGUE   <u>Man, the Monkey and the Paradise</u>    
+ PROLOGUE   _Man, the Monkey and the Paradise_    
 
 Doctor J.H. Tilden had said that medicine is the greatest swindle of all times, but unfortunately, and height of the bitterness, it is practised on a public whose crushing majority agree !    A. M.
 
@@ -5138,13 +5132,13 @@ The pure joys never weary : the uniformity becomes uniform happiness if the cour
 --Felix O.  OSWALD 
 
 Diseases of childhood, diseases of old age, disorders of the menopause and finally the medical childbirth. - here is, depending on medicine, the normal state the human being! Tall stories, i.e. medical designs. –<br>
--- Albert MOSSERI    <u>Man,  the Monkey and the Paradise</u>    _p 15_   
+-- Albert MOSSERI    _Man,  the Monkey and the Paradise_    _p 15_   
 
 The doctors call help what generally is obstacle.  
 -- MONTAIGNE
 
 The doctors counted that the patient would be cured while they would look after him and that this coincidence would be noted of their advantage. – <br>
--- Anatole FRANCE, <u>The seven women of Blue Beard and other Marvellous Tales</u>.  
+-- Anatole FRANCE, _The seven women of Blue Beard and other Marvellous Tales_.  
 
 The doctors conspire with the surgeons to favour an operation.  
 -- George Bernard SHAW
@@ -5241,7 +5235,7 @@ p 166
 
 One gains nothing to eat too much after a fast. One is in a hurry to regain the lost weight and the force, and one goes too far with food, thinking that it is used proportionally, especially with regard to proteins. Nothing of the sort.
 
-In his work <u>The Nutrition of Man</u> (1907), the professor Russell H. Chittenden, University of Yale, makes the detail of his experiments in the field of the establishment and the maintenance of the balance nitrogenized on several levels of the nitrogenized absorption.
+In his work _The Nutrition of Man_ (1907), the professor Russell H. Chittenden, University of Yale, makes the detail of his experiments in the field of the establishment and the maintenance of the balance nitrogenized on several levels of the nitrogenized absorption.
 
 “The faster, Chittenden writes, having lost a good part of his nitrogenized reserves, can replace them only slowly, even if he, abundantly, eats nitrogenized food. The human body does not keep proteins reserves, and that is true whatever the needs for the tissues which need to be set afloat again, even very much so.
 
@@ -5324,7 +5318,7 @@ Luigi CORNARO was an Italian aristocrat, alive in XV th century. At 40 years, he
 
 However, still wishing to live, he had the brilliant idea to eat very little of all, without changing anything with his food. 
 
-Surprising everyone, he recovered from all his supposedly incurable diseases. He even survived all his doctors who had condemned him. He lived for 104 years with a radiant health, an incredible endurance and force. His spirit was of a great lucidity and a rare clarity, so much so that he wrote several volumes of philosophy. In the 102 years of age, he published a booklet entitled _<u>How To live Hundred Years</u> _, that he sent to all the kings, ministers, presidents, priests and eminent men of the world. It was since then translated in almost all the languages, considering its great range.
+Surprising everyone, he recovered from all his supposedly incurable diseases. He even survived all his doctors who had condemned him. He lived for 104 years with a radiant health, an incredible endurance and force. His spirit was of a great lucidity and a rare clarity, so much so that he wrote several volumes of philosophy. In the 102 years of age, he published a booklet entitled _How To live Hundred Years_, that he sent to all the kings, ministers, presidents, priests and eminent men of the world. It was since then translated in almost all the languages, considering its great range.
 
 The day of his birthday, at 100 years, he danced, did he tell us, the all night with a 20 year old girl and without being tired.  
 
@@ -5581,7 +5575,7 @@ Any claim or promise to cure, whatever therapeutic, medical or natural one, are 
 -- Dr. J.H. TILDEN 
 
 _There was also in Gulag, the chief Satan,  represented by Goethe in Faust. This devil promised health, force, strength,  youth, by a fraudulent means : that of stimulation. However nobody in Gulag suspected that stimulation exhausted energies, instead of increasing them.  Nobody suspected that the lift, instead of adding forces, ended up drying them up. The citizens of Gulag devoted themselves thus to all the stimulants to live artificial paradises: tobacco, coffee, alcohol, amphetamines, anabolics. -_<br>
-    <u>Man,  the Monkey and the Paradise</u>    Albert MOSSERI 
+    _Man,  the Monkey and the Paradise_    Albert MOSSERI 
 
 
     <h3>_Ch. 22**  **Purgings and rectal injections_ p 177
@@ -5969,12 +5963,12 @@ To cure the faults in feeding, altogether very human, one will fast one fixed da
 Famous writers quotations
 
 In Medical Gulag, Doctor Méphistophélès was a genius which had discovered the means of cancelling the _Law of Cause and Effect_, and was honoured with the Nobel Prize of medicine. The tobacco was not to cause bronchitis any more, nor lung cancer;  alcohol did not attack any more the liver and did not generate any more cirrhosis ; the coffee did not cause any more insomnia and did not ruin any more the nervous system ; the fermented cheeses did not give any more infection nor cancer. One could thus throw oneself from the top of the Eiffel tower without breaking one’s neck and without parachute, if you please. The laws of gravity were suspended, cancelled by this brilliant doctor.<br>
-    <u>Man,  the Monkey and the Paradise</u>    _p 16_   Albert MOSSERI
+    _Man,  the Monkey and the Paradise_    _p 16_   Albert MOSSERI
 
 It comes back to us the case of an American rich person, diagnosed by his doctor like incurable, then condemned to die in the anguish and the suffering. - The poor patient liquidated his terrestrial businesses with great loss, wrote his will and awaited death.  However, on the council of a benevolent friend, he gave up his doctor, threw the drugs in the dustbin, and went to be looked after by an expert of the natural methods. In a few months, he was completely restored. However, he did not forget his doctor who had condemned him to die and who had carried him to liquidate his business. He sued him and claimed to him several tens of thousands of dollars, as damages. The case was pled in front of the court, but the judges found that miraculous recovery had had the wrong to cure, and thus,  to contradict with a roar the medical, honourable and honoured prognosis. He lost the lawsuit!
 
 In Gulag, a responsible company had taken on for goal to advise the suicide as honourable exit for the old patients. Several had adhered to it. Famous authors had thus put an end to their days, to die in dignity, as they said. It was a kind of euthanasia or self-euthanasia. A law was promulgated which gave to this company a non-lucrative goal. And a statute. It was very nearly that Beethoven,  deaf person, had not adhered too. Only, their disability and the disease were not inescapable. How many deaf persons had recovered the hearing following a fast and by a return to a natural food. Montherlant, Romain Gary, and as well of others had committed suicide not knowing that Nature could cure them. –<br>
-    <u>Man,  the Monkey and the Paradise</u>    
+    _Man,  the Monkey and the Paradise_    
 
 I thus went to see the guard of the Paradise, named Methuselah, old a 740 years old patriarch, who played with his grandson 90 years old, hardly left puberty. His own 120 years old son indeed had just married with a lady friend of the same age. <br>
       - Where are they ? I asked him.<br>
@@ -5983,7 +5977,7 @@ I thus went to see the guard of the Paradise, named Methuselah, old a 740 years 
       - Yes,  next door, it is the Hell and all its departments : atomic Gulag,  medical Gulag, the Gulag of the religious sects, the Gulag of the priests, the Gulag of the doped, the Gulag of the slaves of the international high finance and of famished, the Gulag of the communist proletarians. <br>
       - Do you want to visit ?<br>
       - Yes. This world appears strange to me and worthy of a fiction novel of anticipation. I did not think that it could still exist. I will make it the subject of my next book on the destiny of Humanity and the Men on Earth. It will impassion children which are usually avid of incredible stories, which love and admire Dracula, Blue Beard and Frankenstein. –<br>
-      <u>Man,  the Monkey and the Paradise</u>    _p 13  / 14_   Albert MOSSERI
+      _Man,  the Monkey and the Paradise_    _p 13  / 14_   Albert MOSSERI
 
     
 
@@ -6404,7 +6398,7 @@ The health of a living being is dependent on the necessary factors of which it i
       _But as Dr. Rodrigue _took pleasure in _excluding from his therapy, products of laboratory and the pharmaceutical offices preparations,  as he was not observing ever codex formulas, his curative means showed a disconcerting quirk and inimitable singularities.      _Anatole France
 
 Eat, but do not abuse, because God does not like those who abuse.  
--- The Prophet Mohammad  (<u>Koran</u>)
+-- The Prophet Mohammad  (_Koran_)
 
 Gentlemen, 99% of medical facts are lies medical and medical doctrines are, for the most part, an absurdity quite obvious.  
 -- Prof. GREGORY 

@@ -84,7 +84,7 @@ Each of you gave me the world.
 	- Brad Crutchfield: friend, always-interested supporter, and deep well-wisher
 	- &Aring;sa Ringstrom and Johan L&ouml;rne: friends and supporters
 	- Richard N&ouml;jd for hard-won darkroom design ideas
-	- A woman, unnamed, who initiated me in an essential part of my lost self, leading to the [conclusive test](/reports/2x3-day/) of this idea
+	- A woman, unnamed, who initiated me in an essential part of my lost self, leading to the [conclusive test](/report/2x3-day/) of this idea
 	- Marcus Ivarsson and Emma Sofie Berg: connectors
 	- Stisse and Carina Gilgren: Swedish godparents
 	- The people and place of Skattungbyn, Sweden 

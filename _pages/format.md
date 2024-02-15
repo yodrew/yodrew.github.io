@@ -287,7 +287,7 @@ One of my clients has been considering this for awhile. In his early experiments
 
 A long retreat lasts 3-12 months. I have heard reports of retreats like this. They had results we would consider miraculous. But they are within man's potential. The organism made itself to begin with. Under good conditions, it is able to remake itself, perhaps better than new.
 
-[Stories persist](/reports/365-day-yogi) of astonishing physical healing occurring in Ayurvedic darkroom retreats lasting 3-12 months: growing new teeth; recovering lost hair and eyesight, even youth itself. It is worth looking into.
+[Stories persist](/report/365-day-yogi) of astonishing physical healing occurring in Ayurvedic darkroom retreats lasting 3-12 months: growing new teeth; recovering lost hair and eyesight, even youth itself. It is worth looking into.
 
 The hygienic protocol for long retreats is yet to be determined. Short retreats give us clues about medium ones. Medium retreats will give us clues about long ones. Reports from other traditions are useful. 
 

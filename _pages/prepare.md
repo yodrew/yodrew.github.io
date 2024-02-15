@@ -165,7 +165,7 @@ These substances imbalance, overload, or destroy digestive chemistry, bacteria, 
 
 If you would like to know more about this menu before trying it, see:
 
-- [food](/darkroom-retreat#food) and [food](/protocol#food2)
+- [food](/darkroom-retreat#food) and [food](/protocol#food)
 - Dr Douglas Graham's masterful [*80/10/10 Diet*](https://foodnsport.com)
 - [Loren Lockman's videos](https://www.youtube.com/user/LorenLockman)
 

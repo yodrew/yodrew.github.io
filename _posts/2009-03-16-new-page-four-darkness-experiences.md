@@ -5,5 +5,5 @@ permalink: "/blog/2009/03/new-page-four-darkness-experiences/"
 layout: post
 ---
 
-I made a new page about my [four darkness experiences](/reports/four-darkness-experiences/).
+I made a new page about my [four darkness experiences](/report/four-darkness-experiences/).
 

@@ -93,7 +93,7 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 - durable (protected by cardboard shell or silencer){protected by wood reinforcement, subject to damage by kicking but easily rebuilt, could be made of sheet metal or shielded with cardboard or thin wooden boards}
 - thin enough to fit between blind and window (<80mm) or door and threshold {adjustable}
-- cross-sectional area >75cm<sup>2</sup> (90cm<sup>2</sup>){60--120cm<sup>2</sup>} to equal standard 100mm diameter ducting
+- cross-sectional area >78cm<sup>2</sup> (85cm<sup>2</sup>){60--120cm<sup>2</sup>} to equal standard 100mm diameter ducting
 - fully traps light, sending light around at least 5 corners (7 corners / 5 corners){2-6 fabric-covered corners} 
 - short airway (240mm / 160){140mm} 
 - minimal size (220 x 77 x 290 / 140 x 67 x 281){fits under door, sticks out 20mm each side and up 60mm}

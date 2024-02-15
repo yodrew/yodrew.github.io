@@ -1,5 +1,5 @@
 ---
-title: 5 &nbsp; protocol 
+title: 5 &nbsp; protocol
 layout: page
 navprev: format
 permalink: /protocol/
@@ -82,7 +82,7 @@ I make sure I do two things in darkness:
 
 Eat meals rather than snacks. When you are hungry, focus on eating until you feel full and satisfied. The human alimentary tract processes food in batches, not continuously. A constant stream of food (often eaten in boredom) disrupts and distresses digestion. Thus it disrupts sleep, attention, and healing.
 
-You will probably need 25-50% less food, by calories, than usual. I recommend keeping it to fresh, raw, ripe fruit and leafy greens to maximize nutrition, elimination, and psychic agility. Keep food in a cooler with a block of ice. Eat as much as you like. It is likely that your appetite will be diminished due to extra [melatonin](https://en.wikipedia.org/wiki/Melatonin‎) in the blood (a reason we do not get hungry when we sleep). This was especially noticeable in my [first retreat](/reports/five-darkness-experiences#2006-Feb-10). 
+You will probably need 25-50% less food, by calories, than usual. I recommend keeping it to fresh, raw, ripe fruit and leafy greens to maximize nutrition, elimination, and psychic agility. Keep food in a cooler with a block of ice. Eat as much as you like. It is likely that your appetite will be diminished due to extra [melatonin](https://en.wikipedia.org/wiki/Melatonin‎) in the blood (a reason we do not get hungry when we sleep). This was especially noticeable in my [first retreat](/report/five-darkness-experiences#2006-Feb-10). 
 
 As much as 10% of your food, by mass, can be tender leafy greens like leaf lettuce (not iceberg) and baby spinach. Celery, too. This is the equivalent of 1 large head or bunch of greens per day total.
 
@@ -104,7 +104,7 @@ I believe in fasting. It is a significant part of hygiene. But it seems best to 
 
 They seem to have opposite metabolic requirements. The organism focuses its healing efforts wherever food is absent. It gains energy—or at least internal comfort and support—from wherever food is present. The organism heals the body when physical food is absent. It heals the soul when the psychic food of sensation, especially vision, is absent. 
 
-I have tried both at the same time and it is very good but intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive a strong clear signal from your organism to combine them. I recommend Shelton's books, _Fasting Can Save Your Life_ and _The Science and Fine Art of Fasting_ and Albert Mosseri's [*Fasting: Nature's Best Remedy*](/f/fasting)\*.
+I have tried both at the same time and it is very good but intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive a strong clear signal from your organism to combine them. I recommend Shelton's books, _Fasting Can Save Your Life_ (short, popular) and _The Science and Fine Art of Fasting_ (long, thorough), and Albert Mosseri's [*Fasting: Nature's Best Remedy*](/f/fasting)\*.
 
 #### conservation
 
@@ -187,7 +187,7 @@ It is quite possible to have a specific internal goal for a retreat and make pro
 
 Such over-purposefulness interferes with the organism's priorities. Which cannot be improved upon. Life always knows what is most important, millisecond by millisecond. I recommend retreating with this as a hypothesis.
 
-My [pivotal retreat](/reports/2x3-day) happened when I felt sure it would not work and I gave up on any specific aim I might have had besides just to rest. I only continued out of sheer logic. My own arguments still seemed airtight and unavoidable. I could not see anything else to do, so I stuck with the plan. Then I witnessed a marvel of self-healing.
+My [pivotal retreat](/report/2x3-day) happened when I felt sure it would not work and I gave up on any specific aim I might have had besides just to rest. I only continued out of sheer logic. My own arguments still seemed airtight and unavoidable. I could not see anything else to do, so I stuck with the plan. Then I witnessed a marvel of self-healing.
 
 This process is as foolproof as possible. Given the conditions of rest---most of which are built into the room itself---you will heal.
 
@@ -252,7 +252,7 @@ Try it right now for a minute or two. Put your palms over your eyes. Slightly ov
 	
 You can also do this in the middle of a regular day to rapidly collect yourself, to feel centered and in your body again. It is restful for the eyes. It is an old practice from hygiene called _palming_.
 
-I used to look at darkness for hours at a time for days. This was way too much. You can read the trouble I got into for this in my [7-day retreat](/reports/7-day). Increasingly clear images of a subjective nature play on the "screen" of darkness. In other words, the images are coming from the mind. At first, I found this fascinating. Then it became torturous and nightmarish. There is no point to this.
+I used to look at darkness for hours at a time for days. This was way too much. You can read the trouble I got into for this in my [7-day retreat](/report/7-day). Increasingly clear images of a subjective nature play on the "screen" of darkness. In other words, the images are coming from the mind. At first, I found this fascinating. Then it became torturous and nightmarish. There is no point to this.
 
 Yet it is not meaningless. I think it reflects what is repressed or denied in oneself. There is no need to seek this out. The unconscious will show us what we need to know of it. So just look at darkness for 5-10 minutes. 
 
@@ -266,7 +266,7 @@ Breathing is normally through the nose. The tongue rests, sucked against the roo
 
 #### beyond
 
-Beyond these ordinary objects of attention, I have often seen unusual images. Vaulted ceilings often appear. Sometimes they are low, dark, and grey or brown; sometimes high, airy, lit, and colored. Once I saw a vivid [still life mural](/reports/four-darkness-experiences#2008-Oct-25). 
+Beyond these ordinary objects of attention, I have often seen unusual images. Vaulted ceilings often appear. Sometimes they are low, dark, and grey or brown; sometimes high, airy, lit, and colored. Once I saw a vivid [still life mural](/report/four-darkness-experiences#2008-Oct-25). 
 
 Such images often come in dreams and stay upon waking up. Clients have reported them, too. They are different than the imagery when looking at darkness. They come spontaneously. They have an objective quality, as if one is looking at something outside oneself. They are hyper-real: they are extremely vivid and feel more real than things in daily life. They are bracing and compelling. 
 
@@ -298,7 +298,7 @@ Sexuality lies close to the base of organic existence and its power. We all come
 
 Thus civilization's centralizers of power, the state and religion, whether sacred or secular, rabidly suppress sexuality. Violence and the need for more artificial controls result.
 
-Over several retreats, and [one in particular](/reports/7x1-day), I felt my sexuality begin to return to me. Shut out for a long time, a part of it found a way back in. An unfamiliar feeling of self-satisfaction accompanied it, taking a place next to my accustomed longing. I have related more of the initial, liberating effects of retreating on my sexuality in my [reports](/reports) online.
+Over several retreats, and [one in particular](/report/7x1-day), I felt my sexuality begin to return to me. Shut out for a long time, a part of it found a way back in. An unfamiliar feeling of self-satisfaction accompanied it, taking a place next to my accustomed longing. I have related more of the initial, liberating effects of retreating on my sexuality in my [reports](/report) online.
 
 Before his retreat, one of my early clients tried to lure his giggling girlfriend into darkness for "conjugal visits". This was funny. But I recommend hanging in there alone. In darkness, the reality and fullness of sexuality is just for the retreater. The point is to recover sexual power. Sexually powerful people have what they need. They don't seek it from others. They express it with others at the right opportunity.
 

@@ -334,7 +334,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -365,7 +365,7 @@
          x="23.722832"
          y="255.92052"
          style="font-size:6.77335px;line-height:1.05"
-         id="tspan2571">dimensions (Width x Height x Depth ; x,y,z)</tspan><tspan
+         id="tspan2571">dimensions (width x height x depth ; x,y,z)</tspan><tspan
          sodipodi:role="line"
          x="23.722832"
          y="263.03253"

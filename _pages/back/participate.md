@@ -11,7 +11,7 @@ Join the dolphin economy: help me help you help me help you...
 #### how
 
 - read
-	- my book and retreat [reports](/reports)
+	- my book and retreat [reports](/report)
 	- Herbert Shelton's masterwork, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf)
 	- other books in my [bibliography](/back/bibliography-influences)
 - apply

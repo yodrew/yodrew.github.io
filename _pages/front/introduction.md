@@ -124,7 +124,7 @@ Spiritual traditions have used darkness for millennia. They tend to view it as t
 
 Indigenous traditions do likewise: Amazonian shamanism uses darkness in ayahuasca ceremony. Welsh shamans and Navajo, Maya, and Kogi Indians build special dark structures. They hold darkness in high regard as essential to self-discovery. They also use caves for healing. 
 
-Western science has studied sensory destimulation since the 1950s for astronautics, health, and mind-control. Ayurveda, India's ancient healing tradition, uses extended periods of darkness for rejuvenation. By [reports](/reports/365-day-yogi), a darkroom retreat is nothing less than the fountain of youth.
+Western science has studied sensory destimulation since the 1950s for astronautics, health, and mind-control. Ayurveda, India's ancient healing tradition, uses extended periods of darkness for rejuvenation. By [reports](/report/365-day-yogi), a darkroom retreat is nothing less than the fountain of youth.
 
 Unfortunately, the partially or completely active nature of these approaches to darkroom retreating compromises them. This means they depend on an active will, the faculty most in need of rest. Hygiene is passive, allowing the distressed will to finally rest and recover. Hygiene primarily depends on the autonomic self---omniscient, omnipotent, and infallible---to accomplish the work of healing. This removes structural conflict in the method, promising [limitless](/blog/2011/05/limitless) results. 
 
@@ -174,7 +174,7 @@ A year later, I moved to an ecovillage in Oregon. I met the village maintenance 
 
 He had inspired the village's youth to try darkness. After listening to him about it that winter, I did, too.
 
-[Wow](/reports/four-darkness-experiences).
+[Wow](/report/four-darkness-experiences).
 
 But as Harold liked to say, I was just getting started. It would take two more years, the shock of leaving my guru, and another successful retreat for me to grasp the significance of retreating in darkness.
 
@@ -267,7 +267,7 @@ Chapters are grouped in three parts:
 
 This book is at [leanpub.com/darkroomretreat/](https://leanpub.com/darkroomretreat) as an ebook for sale. It is free at [darkroomretreat.com](/), where you can also read: 
 
-- a series of my retreat [reports](/reports)
+- a series of my retreat [reports](/report)
 - [early essays](/conjecture) linked to in this book
 - elaborative [blog](/blog) posts
 - related [myths](/other/myths) and

@@ -21,14 +21,14 @@ conception - [darkroomretreat.com/conjecture](https://darkroomretreat.com/conjec
 #### introduction
 
 John Zerzan - [johnzerzan.net](https://johnzerzan.net)
-reports - [darkroomretreat.com/reports/365-day-yogi](https://darkroomretreat.com/reports/365-day-yogi)
+reports - [darkroomretreat.com/report/365-day-yogi](https://darkroomretreat.com/report/365-day-yogi)
 Frederic Patenaude - [fredericpatenaude.com](https://fredericpatenaude.com)
-Wow - [darkroomretreat.com/reports/four-darkness-experiences](https://darkroomretreat.com/reports/four-darkness-experiences)
+Wow - [darkroomretreat.com/report/four-darkness-experiences](https://darkroomretreat.com/report/four-darkness-experiences)
 rapture - [darkroomretreat.com/conjecture/rapture](https://darkroomretreat.com/conjecture/rapture)
 backpack - [mchalepacks.com](https://mchalepacks.com)
 *Science and Fine Art of Natural Hygiene* - [darkroomretreat.com/nhs.pdf](https://darkroomretreat.com/nhs.pdf)
 zip file - [darkroomretreat.com/darkroom-retreat.zip](https://darkroomretreat.com/darkroom-retreat.zip)
-reports - [darkroomretreat.com/reports](https://darkroomretreat.com/reports)
+reports - [darkroomretreat.com/report](https://darkroomretreat.com/report)
 early essays - [darkroomretreat.com/conjecture](https://darkroomretreat.com/conjecture)
 blog - [darkroomretreat.com/blog](https://darkroomretreat.com/blog)
 myths - [darkroomretreat.com/other/myths](https://darkroomretreat.com/other/myths)
@@ -42,7 +42,8 @@ Frederic Patenaude - [fredericpatenaude.com](https://fredericpatenaude.com)
 *The 80/10/10 Diet* - [foodnsport.com](https://foodnsport.com)
 Loren Lockman - [tanglewoodwellnesscenter.com](https://tanglewoodwellnesscenter.com)
 Shelton - [darkroomretreat.com/nhs.pdf](https://darkroomretreat.com/nhs.pdf)
-Apparently - [darkroomretreat.com/reports/365-day-yogi](https://darkroomretreat.com/reports/365-day-yogi)
+Apparently - [darkroomretreat.com/report/365-day-yogi](https://darkroomretreat.com/report/365-day-yogi)
+blog - [darkroomretreat.com/blog](https://darkroomretreat.com/blog)
 *Natural Hygiene: Man's Pristine Way of Life* - [soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm](https://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm)
 *Life Science Health System* - [mojadrogadozdrowiablog.files.wordpress.com/2016/03/the-life-science-health-system-t-c-fry.pdf](https://mojadrogadozdrowiablog.files.wordpress.com/2016/03/the-life-science-health-system-t-c-fry.pdf)
 "Total Onslaught" - [staging-adtv.aws.amazingdiscoveries.org/series/total-onslaught](https://staging-adtv.aws.amazingdiscoveries.org/series/total-onslaught)
@@ -56,7 +57,7 @@ melatonin - [en.wikipedia.org/wiki/melatonin](https://en.wikipedia.org/wiki/mela
 many aspects - [en.wikipedia.org/wiki/Sense](https://en.wikipedia.org/wiki/Sense)
 Shelton's - [darkroomretreat.com/nhs.pdf](https://darkroomretreat.com/nhs.pdf)
 Douglas Graham's - [foodnsport.com](https://foodnsport.com)
-five darkness experiences - [darkroomretreat.com/reports/five-darkness-experiences](https://darkroomretreat.com/reports/five-darkness-experiences)
+five darkness experiences - [darkroomretreat.com/report/five-darkness-experiences](https://darkroomretreat.com/report/five-darkness-experiences)
 *The 80/10/10 Diet* - [foodnsport.com](https://foodnsport.com)
 Loren Lockman - [youtube.com/user/LorenLockman](https://www.youtube.com/user/LorenLockman)
 *Science and Fine Art of Natural Hygiene* - [darkroomretreat.com/nhs.pdf](https://darkroomretreat.com/nhs.pdf)
@@ -65,7 +66,7 @@ Loren Lockman - [youtube.com/user/LorenLockman](https://www.youtube.com/user/Lor
 *God Control Matrix* - [youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1)
 *Political Ponerology* - [darkroomretreat.com/f/ponerology.pdf](https://darkroomretreat.com/f/ponerology.pdf)
 excellent introductory interview - [sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
-Psychopaths Among Us - [hare.org/links/saturday.html](http://www.hare.org/links/saturday.html)
+"Psychopaths Among Us" - [hare.org/links/saturday.html](http://www.hare.org/links/saturday.html)
 
 #### psychology
 
@@ -74,7 +75,7 @@ summary - [web.archive.org/web/20180509194442/naturalhygienesociety.org/past3.ht
 Koch's Postulates - [en.wikipedia.org/wiki/Koch%27s_postulates](https://en.wikipedia.org/wiki/Koch%27s_postulates)
 general pathology - [soilandhealth.org/book/the-hygienic-system-vol-vi-orthopathy/](https://soilandhealth.org/book/the-hygienic-system-vol-vi-orthopathy/)
 symptoms and responses - [health4thebillions.org/product.php?id_product=91](https://health4thebillions.org/product.php?id_product=91)
-reports - [darkroomretreat.com/reports](https://darkroomretreat.com/reports)
+reports - [darkroomretreat.com/report](https://darkroomretreat.com/report)
 psychosis - [darkroomretreat.com/conjecture/psychosis](https://darkroomretreat.com/conjecture/psychosis)
 hygiene notes - [darkroomretreat.com/conjecture/hygiene-notes](https://darkroomretreat.com/conjecture/hygiene-notes)
 *Science and Fine Art of Natural Hygiene* - [darkroomretreat.com/nhs.pdf](https://darkroomretreat.com/nhs.pdf)
@@ -88,22 +89,22 @@ Alternative Healing - [towardsfreedom.com/iwrters/bernarr-zovluck/alternative-he
 
 segmented sleep - [en.wikipedia.org/wiki/Segmented_sleep](https://en.wikipedia.org/wiki/Segmented_sleep)
 how not to retreat - [darkroomretreat.com/blog/2013/05/how-not-to-retreat](https://darkroomretreat.com/blog/2013/05/how-not-to-retreat)
-Stories persist - [darkroomretreat.com/reports/365-day-yogi](https://darkroomretreat.com/reports/365-day-yogi)
+Stories persist - [darkroomretreat.com/report/365-day-yogi](https://darkroomretreat.com/report/365-day-yogi)
 method - [darkroomretreat.com/f/fasting](https://darkroomretreat.com/f/fasting)
 
 #### protocol
 
 Variable resistance - [youtube.com/watch?v=qv_KJGTvmg8](https://www.youtube.com/watch?v=qv_KJGTvmg8)
 melatonin - [en.wikipedia.org/wiki/Melatonin‎](https://en.wikipedia.org/wiki/Melatonin‎)
-first retreat - [darkroomretreat.com/reports/five-darkness-experiences#2006-Feb-10](https://darkroomretreat.com/reports/five-darkness-experiences#2006-Feb-10)
+first retreat - [darkroomretreat.com/report/five-darkness-experiences#2006-Feb-10](https://darkroomretreat.com/report/five-darkness-experiences#2006-Feb-10)
 *The 80/10/10 Diet* - [foodnsport.com](https://foodnsport.com)
 Loren Lockman's videos - [youtube.com/user/LorenLockman](https://youtube.com/user/LorenLockman)
 *Fasting: Nature's Best Remedy* - [darkroomretreat.com/f/fasting](https://darkroomretreat.com/f/fasting)
 post-retreat protocol - [darkroomretreat.com/blog/2012/12/post-retreat-protocol](https://darkroomretreat.com/blog/2012/12/post-retreat-protocol)
 *The Continuum Concept* - [continuum-concept.org](https://continuum-concept.org)
-7-day retreat - [darkroomretreat.com/reports/7-day](https://darkroomretreat.com/reports/7-day)
-still life mural - [darkroomretreat.com/reports/four-darkness-experiences#2008-Oct-25](https://darkroomretreat.com/reports/four-darkness-experiences#2008-Oct-25)
-reports - [darkroomretreat.com/reports](https://darkroomretreat.com/reports)
+7-day retreat - [darkroomretreat.com/report/7-day](https://darkroomretreat.com/report/7-day)
+still life mural - [darkroomretreat.com/report/four-darkness-experiences#2008-Oct-25](https://darkroomretreat.com/report/four-darkness-experiences#2008-Oct-25)
+reports - [darkroomretreat.com/report](https://darkroomretreat.com/report)
 *Objectivism* - [objectivismphilosophyaynrand.com/](https://objectivismphilosophyaynrand.com/)
 
 #### prepare
@@ -119,7 +120,7 @@ Heat Recovery Ventilator - [en.wikipedia.org/wiki/Heat_recovery_ventilation](htt
 Fresh-R - [fresh-r.eu](https://fresh-r.eu)
 Renewaire - [renewaire.com](https://www.renewaire.com)
 filial attachment - [continuum-concept.org](https://continuum-concept.org)
-December 2011 - [darkroomretreat.com/reports/6-day](https://darkroomretreat.com/reports/6-day)
+December 2011 - [darkroomretreat.com/report/6-day](https://darkroomretreat.com/report/6-day)
 *A Fuller Explanation* - [arvindguptatoys.com/arvindgupta/synergy-fuller.pdf](https://www.arvindguptatoys.com/arvindgupta/synergy-fuller.pdf)
 round shelter designs - [darkroomretreat.com/other/links](https://darkroomretreat.com/other/links)
 plan - [darkroomretreat.com/plan](https://darkroomretreat.com/plan)
@@ -152,7 +153,7 @@ zip file - [darkroomretreat.com/darkroom-retreat.zip](https://darkroomretreat.co
 
 #### water
 
-vented urinal - [darkroomretreat.com/reports/2x3-day#mechanical-report](https://darkroomretreat.com/reports/2x3-day#mechanical-report)
+vented urinal - [darkroomretreat.com/report/2x3-day#mechanical-report](https://darkroomretreat.com/report/2x3-day#mechanical-report)
 gridbeam.com - [gridbeam.com](https://gridbeam.com)
 
 #### faq
@@ -187,11 +188,11 @@ Arnaud Desjardins - [arnauddesjardinsdvds.com](https://arnauddesjardinsdvds.com)
 #### acknowledgments
 
 Hannah Christina Torres - [hannahtorres.massagetherapy.com](https://hannahtorres.massagetherapy.com)
-conclusive test - [darkroomretreat.com/reports/2x3-day/](https://darkroomretreat.com/reports/2x3-day/)
+conclusive test - [darkroomretreat.com/report/2x3-day/](https://darkroomretreat.com/report/2x3-day/)
 
 #### participate
 
-reports - [darkroomretreat.com/reports](https://darkroomretreat.com/reports)
+reports - [darkroomretreat.com/report](https://darkroomretreat.com/report)
 *Science and Fine Art of Natural Hygiene* - [darkroomretreat.com/nhs.pdf](https://darkroomretreat.com/nhs.pdf)
 study - [t.me/darkroombookstudy](https://t.me/darkroombookstudy)
 makers - [t.me/darkroommakers](https://t.me/darkroommakers)
@@ -221,4 +222,4 @@ PayPal - [paypal.com/donate?token=aa7Yi4BeH9QEQlF0uONZowYEckaUtuDb2u1ZIwDisK3YVv
 
 joy overwhelmed me - [darkroomretreat.com/conjecture/rapture](https://darkroomretreat.com/conjecture/rapture)
 *darkness conjecture* - [darkroomretreat.com/conjecture/](https://darkroomretreat.com/conjecture/)
-proof of concept - [darkroomretreat.com/reports/2x3-day](https://darkroomretreat.com/reports/2x3-day)
+proof of concept - [darkroomretreat.com/report/2x3-day](https://darkroomretreat.com/report/2x3-day)

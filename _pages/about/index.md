@@ -13,8 +13,8 @@ navnext: /back/faq
 
 Welcome. This website contains:
 
-- my book, <em>hygienic darkroom retreat</em>, in full
-- retreat [reports](/reports) and the earlier [darkness conjecture](/conjecture)
+- my book, _hygienic darkroom retreat_, in full
+- retreat [reports](/report) and the earlier [darkness conjecture](/conjecture)
 - [other writings](/other), mostly earlier
 - a [blog](/blog), added to every year or so
 

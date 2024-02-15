@@ -173,7 +173,7 @@ Meanwhile, we suffer from three other epidemics: stupidity, callousness, clumsin
 In darkness, damage begins to heal. Denial begins to lift. Traumatic events are remembered or acknowledged. As the capacity for feeling is restored, frozen feelings resurface. Insight comes. Stupidity and uncoordination lift. The energy to recover strength flows back in. The organism paces this sometimes intense process with great care. It never goes too fast or does too much. The fact that it is happening means one has the capacity to handle it. 
 
 Gaining confidence in this capacity takes time. In the section, 
-[discomfort](/protocol#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness in the meantime. Soon, one gets the hang of it and lets go. The autonomic self rushes in to catch one's fall. In a series of [reports](/reports), I have recorded my experiences in darkness of beginning to heal from major trauma.
+[discomfort](/protocol#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness in the meantime. Soon, one gets the hang of it and lets go. The autonomic self rushes in to catch one's fall. In a series of [reports](/report), I have recorded my experiences in darkness of beginning to heal from major trauma.
 
 What trauma? I mean the routine brutality of our lifeway. It touches virtually everyone from before birth. I mean not just the bad things we condemn, but common atrocities we mistakenly accept. I mean our many offenses to nature. It already worked out every detail of a happy existence from the beginning of time. In our pathological lifeway, we transgress them continually.
 

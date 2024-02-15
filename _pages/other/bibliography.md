@@ -30,11 +30,11 @@ I have just started to study Graham. I sought his crystalline book on diet for o
 
 - _Introduction to Human Technology_ by [_William Arthur Evans_](/blog/2009/08/william-arthur-evans/). This gets my honorable mention. It was a highly catalytic book that came at a critical moment in late 2006. It is a rare book, discovered by my friend, Sterling.
 
-- [_Confessions of an Economic Hit Man_](https://www.amazon.com/dp/0452287081?tag=thedarknessco-20&amp;camp=14573&amp;creative=327641&amp;linkCode=as1&amp;creativeASIN=0452287081&amp;adid=1CKF7AZ7XHPKT5B97ZD5&amp;) by John Perkins concretely sums up for me the diabolical process of this culture. It enabled me to finally wash my hands of trying to remediate it, at least in ordinary ways.
+- _Confessions of an Economic Hit Man_ by John Perkins concretely sums up for me the diabolical process of this culture. It enabled me to finally wash my hands of trying to remediate it, at least in ordinary ways.
 
-- [_Our Universal Journey_](/f/journey.pdf) by George Kavassilas is a strange and fulfilling book about ontology and the soul. I found the style difficult but the ideas astounding.
+- [_Our Universal Journey_](https://www.ourjourneyhome.earth/market-place#section-1592035487385), by George Kavassilas is a unusual and profoundly satisfying book about ontology, the soul, and the cosmic-scale God Control Matrix we live under. I found the style difficult but the ideas astounding and well worth it. See [George on YouTube](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1).
 
-- [_Total Onslaught_](https://www.youtube.com/watch?v=LTSKfXzdiuE&list=PL95B1BB23B7A3C795) by Walter Veith is a 50-hour, 35-video series about "The Great Controversy" between Christ and Satan. It presents the Bible coherently. Veith exposes the the light and dark forces in the world throughout history, up to the present. I watched about 15 videos. Compelling.
+- [_Total Onslaught_](https://adtv.watch/series/total-onslaught) by Walter Veith is a 50-hour, 36-video series about "The Great Controversy" between Christ and Satan. It presents the Bible coherently. Veith exposes the the light and dark forces in the world throughout history, up to the present. I watched about 15 videos. Compelling.
 
 ### youth
 

@@ -7,4 +7,4 @@ layout: post
 
 All my retreat reports are now blog posts, arranged chronologically in their own category, report.
 
-EDIT: this has changed again. [Reports](/reports/) are now a main menu item.
+EDIT: this has changed again. [Reports](/report/) are now a main menu item.

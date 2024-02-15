@@ -64,7 +64,7 @@ Here are two similar toilet designs. The first is non-separating for sitting and
 
 The first is a wooden box with a hole in the top and maybe a toilet seat attached over the hole. A 20L bucket sits inside to poop and pee into. The room's ventilation return duct attaches to a hole in the side of the box. So all air exits the room through the toilet, removing all odor. Empty it every 3-5 days.
 
-A [vented urinal](/reports/2x3-day#mechanical-report) works for men and adventurous women (or is adaptable). A toilet that separates liquid from solids is ideal. The styrofoam "Separet" seat is common in Swedish outhouses. I saw a porcelain separating composting toilet there, too. It was simple. It cost about the same as a flushing system. It was 1000x cheaper and less trouble than a septic system (one of industrial design's most disastrous failures, a Freudian direct descendant of the crib).
+A [vented urinal](/report/2x3-day#mechanical-report) works for men and adventurous women (or is adaptable). A toilet that separates liquid from solids is ideal. The styrofoam "Separet" seat is common in Swedish outhouses. I saw a porcelain separating composting toilet there, too. It was simple. It cost about the same as a flushing system. It was 1000x cheaper and less trouble than a septic system (one of industrial design's most disastrous failures, a Freudian direct descendant of the crib).
 
 <!--&nbsp;-->
 
