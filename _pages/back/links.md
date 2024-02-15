@@ -138,7 +138,7 @@ high oxygen producers - [ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fre
 zip file - [darkroomretreat.com/darkroom-retreat.zip](https://darkroomretreat.com/darkroom-retreat.zip)  
 removable partition - [andrewdurham.shutterfly.com/313](https://andrewdurham.shutterfly.com/313)  
 Soundproofing tutorials - [bit.ly/soundproofingtutor](https://bit.ly/soundproofingtutor)  
-DIY straight tube design - [420magazine.com/community/threads/diy-duct-silencer-muffler-super-cheap.176589/](https://www.420magazine.com/community/threads/diy-duct-silencer-muffler-super-cheap.176589/)  
+DIY straight tube - [bit.ly/diysilencer](https://bit.ly/diysilencer)  
 for sound booths - [bit.ly/silencerbooth](https://bit.ly/silencerbooth)  
 Heat Recovery Ventilator - [wikipedia.org/wiki/Heat_recovery_ventilation](https://en.wikipedia.org/wiki/Heat_recovery_ventilation)  
 Viking House - [viking-house.ie](http://viking-house.ie)  

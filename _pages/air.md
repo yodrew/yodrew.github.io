@@ -290,7 +290,7 @@ A silencer is an larger duct section lined with insulation. Its greater volume d
 You can make or buy silencers. 
 
 - my double-turn box design is below, $2-$10 depending on your material salvaging skills.
-- [DIY straight tube design](https://www.420magazine.com/community/threads/diy-duct-silencer-muffler-super-cheap.176589/) 
+- [DIY straight tube](https://bit.ly/diysilencer) 
 - [for sound booths](https://bit.ly/silencerbooth). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
 - manufactured silencers are made of metal and other super durable materials and cost $100-200.
 - [acoustic ducting](https://www.google.com/search?q=acoustic+ducting), at least 3m of 100mm with 2-3 bends
