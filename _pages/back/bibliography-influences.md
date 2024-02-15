@@ -12,7 +12,7 @@ navnext: acknowledgments
 	- _Earth in Upheaval_, [Immanuel Velikovsky](https://www.velikovsky.info)
 	- _Ishmael_, [Daniel Quinn](https://ishmael.org)
 	- _Where White Men Fear to Tread_, [Russel Means](https://www.russellmeansfreedom.com)
-	- [Prosper Waukon](https://web.archive.org/web/20180808115113/http://waukonassociates.com), Winnebago entrepreneur and ambassador
+	- [Prosper Waukon](https://bit.ly/prosperwaukon), Winnebago entrepreneur and ambassador
 	- _Running on Emptiness: The Pathology of Civilization_, [John Zerzan](https://www.johnzerzan.net)
 - psychology
 	- _The Continuum Concept_, [Jean Liedloff](https://continuum-concept.org) (also anthropology)
@@ -30,7 +30,7 @@ navnext: acknowledgments
    - [Tantric Hinduism](https://www.hohmpress.com/products/the-alchemy-of-transformation) with my former guru, [Purna Steinitz](https://goo.gl/dEcMwg)
 	- _In Search of the Miraculous_, PD Ouspensky (GI Gurdjieff's basic teachings)
 	- The Bible as law, with DeWaynn Rogers (late legal counsel, enigma, and possibly Teacher of the Age)
-	- Christianity, the Bible as it is, and Satan's rule of the world in ["Total Onslaught"](https://staging-adtv.aws.amazingdiscoveries.org/series/total-onslaught) video series on YouTube, Walter Veith
+	- Christianity, the Bible as it is, and Satan's rule of the world in ["Total Onslaught"](https://adtv.watch/series/total-onslaught) video series on YouTube, Walter Veith
 	- [_Our Universal Journey_](https://ourjourneyhome.earth), George Kavassilas + [YouTube interviews](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1)
 	- animism from nature, books (above, especially by Quinn), elders (scoutmaster Jack Asher; godfather and mentor, [John Boyer](https://www.facebook.com/boyerjewelry/)), extended family, and friends
 - health
@@ -47,7 +47,7 @@ navnext: acknowledgments
 	- my parents and brother
 	- grandelder and grandmaster craftsman and engineer, [Jack Nuckols](https://rockcreekmetalcraft.com)
 	- childhood teacher, Steve Parks (Horizons School, Twin Falls)
-	- accompanist and mentor, [Willetta Warberg](https://web.archive.org/web/20190421065127/http://willettawarberg.com:80/)
+	- accompanist and mentor, [Willetta Warberg](https://bit.ly/willettawarberg)
 	- _The Dark is Rising_, Susan Cooper
 	- _BuckyWorks_, Jay Baldwin (about Buckminster Fuller)
 	- _The Natural House_, Frank Lloyd Wright

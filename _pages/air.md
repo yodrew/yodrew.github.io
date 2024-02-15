@@ -275,7 +275,7 @@ The four principles of soundproofing are:
 3. dampening: using rubbery material to dampen vibration in resonant materials like metal, wood, masonry, glass
 4. decoupling: disconnect structures and airspaces to prevent transmission of sound vibration from source to receiver
 
-[Soundproofing tutorials](https://www.soundproofingcompany.com/soundproofing101) abound online. 
+[Soundproofing tutorials](https://bit.ly/soundproofingtutor) abound online. 
 
 These principles apply to ventilation as well. Dampening and decoupling figure in the fan mount, mass and absorption, in the silencer. The silencer eliminates most noise, including from the fan.
 
@@ -291,9 +291,9 @@ You can make or buy silencers.
 
 - my double-turn box design is below, $2-$10 depending on your material salvaging skills.
 - [DIY straight tube design](https://www.420magazine.com/community/threads/diy-duct-silencer-muffler-super-cheap.176589/) 
-- [acoustic ducting](https://www.google.com/search?q=acoustic+ducting), at least 3m of 100mm with 2-3 bends
-- [silencer for sound booths](https://whisperroom-shop.com/collections/frontpage/products/ventilation-silencing-system). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
+- [for sound booths](https://bit.ly/silencerbooth). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
 - manufactured silencers are made of metal and other super durable materials and cost $100-200.
+- [acoustic ducting](https://www.google.com/search?q=acoustic+ducting), at least 3m of 100mm with 2-3 bends
 
 Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. Thanks to Richard Nöjd of Skattungbyn, Sweden, for pointing out these cool solutions. 
 

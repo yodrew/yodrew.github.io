@@ -66,7 +66,7 @@ In the 1930s, hygienist, Dr John Tilden formulated the seven stages of all chron
 
 Hygiene proves in theory and repeatedly demonstrates in practice the reversibility of the trend. This pathology has aided millions of people in understanding and reversing the sicknesses that medicine gave up on helping them with. 
 
-[Victoria Bidwell](https://getwellstaywellamerica.com) is a longtime, tireless hygienist. We have her to thank for this cogent [summary](https://web.archive.org/web/20180509194442/naturalhygienesociety.org/past3.html). It is from her work, _The Health Seekers Yearbook_. It is based on Dr Tilden's analysis of disease from his book, _Toxemia_.
+[Victoria Bidwell](https://getwellstaywellamerica.com) is a longtime, tireless hygienist. We have her to thank for this cogent [summary](https://bit.ly/pathsummary). It is from her work, _The Health Seekers Yearbook_. It is based on Dr Tilden's analysis of disease from his book, _Toxemia_.
 
 1. **Enervation**: Nerve energy is so reduced or exhausted that all normal bodily functions are greatly impaired, especially the elimination of endogenous and exogenous poisons. Stage one thus begins the progressive and chronic process of "toxemia toleration" that continues through all of the following stages. The toxic sufferer does not feel his "normal self." He feels either stimulated or depressed by the poisonous overload.
 2. **Toxemia**: Nerve energy is too low to eliminate metabolic wastes and ingested poisons. These toxic substances begin to saturate first the bloodstream and lymphatic fluids and then the cells themselves. The toxic sufferer feels inordinately tired, run-down, and "out of it."
