@@ -242,10 +242,10 @@ plan: double-blind with vent - [download](/img/plan/double-blind-vent.pdf)
 		- windows build up fierce heat when sealed with black plastic. It destroys the vacuum seal of dual or triple-pane windows. It even causes them to explode! The heat also damages paint and wood.
 		- black plastic looks spooky from the outside, attracting negative attention. White looks normal.
 	- black-white
-		- laminated agricultural plastic. Called "light deprivation" tarp, used in greenhouses and for "pit tarps". I once got some for free from an agricultural plastic supply house. It was the end of a 1-ton roll of 0.125mm plastic. It was still a huge amount.
-		- easiest. And it is cool. Not in temperature, but it is appealing and satisfying to use. It is technology at its best.
-
-		It's amazing stuff. White looks good. Use one layer for traveling. Use two layers, white sides visible, for perfect darkness. 
+		- laminated agricultural plastic
+			- called "light deprivation" tarp, used in greenhouses and for "pit tarps". I once got some for free from an agricultural plastic supply house. It was the end of a 1-ton roll of 0.125mm plastic. For them it was unusable. It was a huge amount for my purpose.
+			- easiest. And it is cool. Not in temperature, but it is appealing and satisfying to use. It is technology at its best. It's amazing stuff. White looks good.
+			- use one layer for traveling. Use two layers, white sides visible, for perfect darkness. 
 		- lumber unit covers, discarded daily at lumber yards. They are big black/white-laminated woven plastic tarps for shipping. Graphics are printed on them. Rinse or wipe clean if necessary. Find punctures and patch them. Face/put/sandwich the black sides together, making white sides visible.
 - fabric
 	- black twill or similar tight weave.

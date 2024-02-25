@@ -64,7 +64,13 @@ Here are two similar toilet designs. The first is non-separating for sitting and
 
 The first is a wooden box with a hole in the top and maybe a toilet seat attached over the hole. A 20L bucket sits inside to poop and pee into. The room's ventilation return duct attaches to a hole in the side of the box. So all air exits the room through the toilet, removing all odor. Empty it every 3-5 days.
 
-A [vented urinal](/report/2x3-day#mechanical-report) works for men and adventurous women (or is adaptable). A toilet that separates liquid from solids is ideal. The styrofoam "Separet" seat is common in Swedish outhouses. I saw a porcelain separating composting toilet there, too. It was simple. It cost about the same as a flushing system. It was 1000x cheaper and less trouble than a septic system (one of industrial design's most disastrous failures, a Freudian direct descendant of the crib).
+A [vented urinal](/report/2x3-day#mechanical-report) works for men and adventurous women (or is adaptable). A toilet that separates liquid from solids is ideal. The styrofoam "Separett" seat is common in outhouses in Sweden. 
+
+I used a porcelain separating composting toilet there, too. It looked like a regular toilet. It cost about the same to install. It had no ongoing costs and produced high-grade fertilizer. It was 1000x cheaper than a septic system. 
+
+Which is one of industrial design's most disastrous failures. It wastes water. It wastes nutrients, turning them into poison for ground water. 
+
+Composting toilets are the future. 
 
 <!--&nbsp;-->
 
@@ -72,13 +78,15 @@ A [vented urinal](/report/2x3-day#mechanical-report) works for men and adventuro
 
 plan: toilet top - [download](/img/plan/toilet-top.pdf)
 
-<!--&nbsp;-->
+<!--pagebreak-->
 
 - top
 	- platform made of 15--20 tongue and groove boards or 12--20 plywood
 	- left and right boards, attach to bottom of platform and fit on top of left and right frame pieces between frame legs
 	- hole is at least 20mm smaller than bucket opening all the way around 
 	- attach toilet seat to top 
+
+<!--nbsp;-->
 
 ![plan: toilet frame](/img/plan/image/toilet-frame.png)
 
@@ -92,9 +100,13 @@ plan: toilet frame - [download](/img/plan/toilet-frame.pdf)
 	- black dots indicate heads of screws. Always drill pilot holes for screws.
 	- adjust leg height to allow a 15mm space between top of bucket and underside of toilet top
 	
+<!--nbsp;-->
+
 ![plan: squatting toilet ](/img/plan/image/toilet-squat.png)
 
 plan: squatting toilet - [download](/img/plan/toilet-squat.pdf)
+
+<!--nbsp;-->
 
 - liner
 	- it is a skirt with no bottom, cut at floor level. Put a pan, tray, towel, or paper on the floor under the bucket to catch spills.
