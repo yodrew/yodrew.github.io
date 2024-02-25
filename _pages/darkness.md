@@ -226,13 +226,13 @@ North Americans: 1 mil = 0.025mm = 25µ(microns).
 
 Minimum total thickness of plastic layers must be 0.25mm. Fabric and paper would be thicker. Always use black for your main layers. It absorbs light as it tries to get through the material. 
 
-![plan: double-blind with vent](/img/plan/image/blind-vent.png)
+![plan: double-blind with vent](/img/plan/image/double-blind.png)
 
-plan: double-blind with vent - [download](/img/plan/blind-vent.pdf)
+plan: double-blind with vent - [download](/img/plan/double-blind.pdf)
 
 ##### materials
 
--plastic
+- plastic
 	- black
 		- most common
 		- construction sheeting, black polyethylene, 0.15 thick. Widely available in rolls or by the meter at building supply, variety, and department stores.

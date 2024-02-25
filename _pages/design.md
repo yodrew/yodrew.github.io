@@ -154,21 +154,29 @@ I welcome everyone's improvements to these specifications judged by the objectiv
 
 Silence is critical to retreating. I was in denial about this for years. It is even more difficult than ventilation. An unacceptable noise level is more common than air pollution and less controllable.
 
-Regarding shared buildings: others inevitably make noise. Even if not, you will know someone is there, able to hear you. Like me, you may need to scream and cry in darkness. It's nobody's business. The process is strictly for oneself. A darkroom minimizes the influence of others and consideration needed for and from them. This gives the autonomic self the maximum support to perform its awesome task. Contact with people during a retreat should be brief and intentional, not incidental.
+Regarding shared buildings: others inevitably make noise. Even if not, you will know someone is there, able to hear you. Like me, you may need to scream and cry in darkness. It's nobody's business. The process is strictly for oneself.
+
+A darkroom must minimize the influence of others and consideration needed for and from them. This gives the autonomic self the maximum support to perform its awesome task. Contact with people during a retreat should be brief and intentional, not incidental.
 
 A clear exception is if you are a parent of a child. The child can be with you in darkness as long as you both like. I have never facilitated such a retreat, but I definitely would. Nothing is more important to sanity, happiness, and avoidance of retraumatization of new generations than [filial attachment](https://continuum-concept.org). If you find your capacity for attachment wanting, you will likely begin to recover it.
 
-The weirdest thing that happened to me with regards to noise from other people was in an apartment building in [December 2011](/report/6-day). I kept waking up exhausted from hundreds of short, meaningless dreams. After days of this, I realized in a fury that I was dreaming the mind chatter of others in the building. I stopped the retreat. I'm rarely "psychic"; this never happened to me before. But I am a canary in a coalmine. When something goes wrong, I notice.
+The weirdest thing that happened to me with regards to noise from other people was in an apartment building in [December 2011](/report/6-day). I kept waking up exhausted from hundreds of short, meaningless dreams. After days of this, I realized in a fury that I was dreaming the mind chatter of others in the building. I stopped the retreat. 
+
+I'm rarely "psychic". This never happened to me before. But I am a canary in a coalmine. When something goes wrong, I notice.
 
 Yet two years later, in December, 2013, I successfully retreated in another apartment building. I believe this was due to three factors: The building was fairly quiet. I was less fragile than before. And my sympathetic, wise, older host had a strong, benevolent presence and stayed in the apartment like a guardian while I retreated. I was very lucky.
 
-As always, I had the darkroom to myself. I had tested my comfort in the apartment beforehand, finding I could sleep and dream easily enough. During my retreat, I could feel others' presence in the building, but their thoughts did not invade my dreams like before. I got the deep rest I needed. I would not have done a long retreat there, but the short one I did nearly saved my life. It bought me two more months of internal stability to work on this book. And it revealed a widely available setting for short retreats.
+As always, I had the darkroom to myself. I had tested my comfort in the apartment beforehand, finding I could sleep and dream easily enough. During my retreat, I could feel others' presence in the building, but their thoughts did not invade my dreams like before. I got the deep rest I needed. 
+
+I would not have done a long retreat there, but the short one I did nearly saved my life. It bought me two more months of internal stability to work on this book. And it revealed a widely available setting for short retreats.
 
 The worst noise comes from the relentless grinding of machines: stereos, traffic, ventilation and refrigeration equipment on buildings, and construction. It seems fine at first but soon becomes intolerable, like a drill to the skull. Fortunately, a [silencer](/air#silencer) is amazingly effective at neutralizing external noise. 
 
 Then, the larger the building and the more electrical wiring and steel framing and reinforcement it has, the more it disturbs electromagnetically. Finally, there is high-frequency wireless radiation, that planet-size microwave oven we now live inside of. Fortunately, it exponentially decreases in intensity with distance from the source. At least you can turn off all wireless devices under your power. Long term, you can move or install shielding.
 	
-One can become so vulnerable in profound rest that the wrong setting can become harmful. Make sure you feel comfortable in a large or occupied building and confident you will be ok when retreating there. If the influence of the building undermines the restfulness of the retreat too much, stop the retreat and try again elsewhere. Make extra preparations to doubly protect yourself from distress on your transition days: no shopping, visitors, media, or travel. Following my weird retreat in 2011, I was not thinking straight. I moved to an even less restful location a day after exiting the darkroom. This proved even more harmful than the poor location. Post-retreat planning is critical. See [post-retreat](/protocol#post-retreat).
+One can become so vulnerable in profound rest that the wrong setting can become harmful. Make sure you feel comfortable in a large or occupied building. Be confident you will be ok when retreating there. If the influence of the building undermines the restfulness of the retreat too much, stop the retreat and try again elsewhere.
+
+Make extra preparations to doubly protect yourself from distress on your transition days: no shopping, visitors, media, or travel. Following my weird retreat in 2011, I was not thinking straight. I moved to an even less restful location only one day after. This proved even more harmful than the first location. Post-retreat planning is critical. See [post-retreat](/protocol#post-retreat).
 
 ### round
 

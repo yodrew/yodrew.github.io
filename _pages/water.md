@@ -85,29 +85,11 @@ plan: toilet top - [download](/img/plan/toilet-top.pdf)
 	- left and right boards, attach to bottom of platform and fit on top of left and right frame pieces between frame legs
 	- hole is at least 20mm smaller than bucket opening all the way around 
 	- attach toilet seat to top 
-
-<!--nbsp;-->
-
-![plan: toilet frame](/img/plan/image/toilet-frame.png)
-
-plan: toilet frame - [download](/img/plan/toilet-frame.pdf)
-
-<!--&nbsp;-->
-
 - frame
 	- made of 24 x 36 lumber
 	- joint is extra strong, non-planar joint (see [gridbeam.com](https://gridbeam.com))
 	- black dots indicate heads of screws. Always drill pilot holes for screws.
 	- adjust leg height to allow a 15mm space between top of bucket and underside of toilet top
-	
-<!--nbsp;-->
-
-![plan: squatting toilet ](/img/plan/image/toilet-squat.png)
-
-plan: squatting toilet - [download](/img/plan/toilet-squat.pdf)
-
-<!--nbsp;-->
-
 - liner
 	- it is a skirt with no bottom, cut at floor level. Put a pan, tray, towel, or paper on the floor under the bucket to catch spills.
 	- made of thick plastic sheeting (0.15mm)
@@ -115,9 +97,17 @@ plan: squatting toilet - [download](/img/plan/toilet-squat.pdf)
 	- top edges fold over horizontal frame pieces and get thumb-tacked or taped in place on outside
 	- toilet bucket goes inside
 	- cut hole for return duct: 
-		- 20-30 smaller than return duct to stretch and fit over it snugly
-		- 50--100 off floor
 		- next to a frame leg, to attach a wire or bracket to support duct
+		- 50--100 off floor
+		- 20-30 smaller than return duct to stretch and fit over it snugly
+
+![plan: toilet frame](/img/plan/image/toilet-frame.png)
+
+plan: toilet frame - [download](/img/plan/toilet-frame.pdf)
+
+![plan: squatting toilet ](/img/plan/image/toilet-squat.png)
+
+plan: squatting toilet - [download](/img/plan/toilet-squat.pdf)
 
 ### bath
 
