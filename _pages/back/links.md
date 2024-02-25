@@ -2,13 +2,13 @@
 title: links
 layout: page
 navprev: bio
-permalink: /front/links/
+permalink: /back/links/
 navnext: 
 ---
 
-External links in the book are collected here, in order of appearance, with addresses.
+Here are external links with addresses, in order of appearance.
 
-###### notes
+#### notes
 
 underlined - [darkroomretreat.com/](https://darkroomretreat.com/)  
 *italicized* - [foodnsport.com](https://foodnsport.com)  
