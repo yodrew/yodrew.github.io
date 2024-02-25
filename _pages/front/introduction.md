@@ -174,7 +174,7 @@ A year later, I moved to an ecovillage in Oregon. I met the village maintenance 
 
 He had inspired the village's youth to try darkness. After listening to him about it that winter, I did, too.
 
-[Wow](/report/four-darkness-experiences).
+[Wow](/report/five-darkness-experiences).
 
 But as Harold liked to say, I was just getting started. It would take two more years, the shock of leaving my guru, and another successful retreat for me to grasp the significance of retreating in darkness.
 

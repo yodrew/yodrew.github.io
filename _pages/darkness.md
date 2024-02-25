@@ -226,9 +226,9 @@ North Americans: 1 mil = 0.025mm = 25µ(microns).
 
 Minimum total thickness of plastic layers must be 0.25mm. Fabric and paper would be thicker. Always use black for your main layers. It absorbs light as it tries to get through the material. 
 
-![plan: double-blind with vent](/img/plan/image/double-blind-vent.png)
+![plan: double-blind with vent](/img/plan/image/blind-vent.png)
 
-plan: double-blind with vent - [download](/img/plan/double-blind-vent.pdf)
+plan: double-blind with vent - [download](/img/plan/blind-vent.pdf)
 
 ##### materials
 

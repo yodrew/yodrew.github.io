@@ -23,7 +23,7 @@ conception - [darkroomretreat.com/conjecture](https://darkroomretreat.com/conjec
 John Zerzan - [johnzerzan.net](https://johnzerzan.net)  
 reports - [darkroomretreat.com/report/365-day-yogi](https://darkroomretreat.com/report/365-day-yogi)  
 Frederic Patenaude - [fredericpatenaude.com](https://fredericpatenaude.com)  
-Wow - [darkroomretreat.com/report/four-darkness-experiences](https://darkroomretreat.com/report/four-darkness-experiences)  
+Wow - [darkroomretreat.com/report/five-darkness-experiences](https://darkroomretreat.com/report/five-darkness-experiences)  
 rapture - [darkroomretreat.com/conjecture/rapture](https://darkroomretreat.com/conjecture/rapture)  
 backpack - [mchalepacks.com](https://mchalepacks.com)  
 *Science and Fine Art of Natural Hygiene* - [darkroomretreat.com/nhs.pdf](https://darkroomretreat.com/nhs.pdf)  
