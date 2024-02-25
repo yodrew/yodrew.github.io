@@ -286,11 +286,11 @@ I built silencers into window recesses on two occasions. They were simpler and m
 
 The design below is a zig-zag channel through insulation inside a wooden box with a hole at each end. Each hole has 4 possible locations: face, sides, or end. Cut a circle for ducting or fan, a slot for a universal vent. The fan mount adapts to all 4 locations, inside or out.
 
-The box is lined with porous non-toxic insulation. clean wool, shredded fabric, wood fiber could all work. Note, the shredded fabric and wood fiber I've tried had faint smells that I disliked. 
-
 ![plan: silencer](/img/plan/image/silencer.png)
 
 plan: silencer - [download](/img/plan/silencer.pdf)
+
+The box is lined with porous non-toxic insulation. clean wool, shredded fabric, wood fiber could all work. Note, the shredded fabric and wood fiber I've tried had faint smells that I disliked. 
 
 Rockwool works. It is unpleasant to work with, but it is fairly odorless. Polyester pillow filling and quilt batting and acoustic foam work. But I don't like my air going through plastic.
 
