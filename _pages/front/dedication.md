@@ -2,7 +2,7 @@
 title: dedication
 layout: page
 navprev: disclaimer
-permalink: "/front/dedication/"
+permalink: /front/dedication/
 navnext: notes
 ---
     

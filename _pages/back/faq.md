@@ -157,12 +157,12 @@ You read it:
 	It only takes 5 minutes to learn the essence of it. But it takes 4 hours of reading to counter your conditioning to sabotage it. 
 2. to qualify as a suitable client. It shows you will use what I have already given before seeking more.
 
-	Reading gives you credibility with me. It shows your diligence and sincerity. It begins building a structure inside you that makes our conversation vastly more profitable for both of us.
+	Reading gives you credibility with me. It shows your diligence and sincerity. It makes our conversation vastly more profitable for both of us.
 
-	My time must be paid for, either in understanding and sincerity, or with money. Take your pick.
-3. to assist me. Someday, I will be set up to support retreats for people who have not read my book. In the meantime, some of the structure necessary for a successful retreat must exist in the mind of the retreater. Reading the book builds that structure.
+	My time must be paid for, both in understanding, sincerity, and money. 
+3. to assist me. Someday, I may be able to set things up to support retreats for people who have not read my book. In the meantime, some of the structure necessary for a successful retreat must exist in the being of the retreater. Reading the book builds that structure.
 
-	Getting in on the ground floor of anything takes vision and guts. Fellow innovators and early adopters of hygienic darkroom retreating will rise to the challenge.
+	Getting in on the ground floor of anything takes vision and guts. Fellow innovators and early adopters of hygienic darkroom retreating will rise to the challenge. Everyone else will wait.
 
 <!--&nbsp;-->
 
@@ -182,9 +182,7 @@ Our obsession with building---the principle activity of civilization for 13,000 
 
 Some Christians who have encountered this idea have attempted to equate physical darkness with the spiritual darkness the Bible speaks against, and is thus Satanic. 
 
-This would mean that nighttime is Satanic and people who sleep in darkness are willfully submitting to evil. Good people should sleep with the light on, preferably with eyes open.
-
-It would mean that physical light is spiritual light. This amounts to sun worship... which is itself Satanism. 
+This would mean that physical light is spiritual light. This amounts to sun worship... which is itself Satanism. 
 
 Taking metaphors literally is precisely the abysmal stupidity that rational people rightly mock fundamentalists for. Real Biblical expositors like John MacArthur and Walter Veith warn against it. The Bible is rich with symbols. Their meanings have all been worked out for those who will bother to study.
 
@@ -228,15 +226,14 @@ Reality is not what they told you it was in college. They defrauded you of a lot
 
 <!--&nbsp;-->
 
-**6 - If hygienic darkroom retreating is so great, why are you still sick?**
+**6 - If hygienic darkroom retreating is so great for healing, why are you still sick?**
 
-Recovery of health through profound rest in darkness requires full application of the hygienic method. This, in turn, requires a team, a proper facility, and a complete method. 
+Complete healing through profound rest in darkness requires full application of this method. This, in turn, requires a team, a proper facility, and a complete method. 
 
-I had none of these. Meanwhile, I was using up my reserves. I made damaging errors in my trials of it. 
+I had none of these. First, the idea had to be developed into a practical solution. Meanwhile, I was using up my reserves. I made damaging errors.
 
-I was saved twice by resting in darkness. I figured out why it had sometimes gone wrong. Mostly alone, and in various substandard facilities, I worked out the details of the method, completing its development. That is all I can claim.
+By resting in darkness, I was saved from suicide twice. I am very healthy compared to a corpse.
 
-It is one thing to be curious about my circumstances. It is quite another to dismiss my thesis because of my condition. Ad hominem is very popular these days. But refuting my thesis requires addressing it point by point on its own terms. 
+This book is the result of what I have seen, induced, and deduced, not just what I have done. It is up to you to reason it through and decide for yourself whether you will try it or not. I do not replace your own judgment.
 
-So far, no one has been able to do it.
-
+It is natural to be curious about my circumstances. It is a mistake to dismiss my thesis because of them. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded. 

@@ -6,7 +6,7 @@ permalink: /water/
 navnext: back/faq
 ---
 
-If you already have a bathroom and kitchen you can darken easily or mostly, and you can get to it, at least with a blindfold, great. If not, make the quick, cheap, portable fixtures below. If basic versions are too punk rock for you, try the upgrades. You can incrementally improve them as you find out for yourself the value of retreating.
+If you already have a bathroom and kitchen, great. If not, make the fixtures below. They are quick, cheap, portable, like everything I design. If basic versions are too punk rock for you, try the upgrades. Improve them incrementally as you find out the value of retreating for yourself.
 
 ### sink
 
@@ -60,7 +60,7 @@ It's a 20L bucket with a toilet seat on top (balanced or hooked somehow). No kid
 
 #### upgrade
 
-Here are two similar toilet designs. The first is non-separating for sitting and squatting. The second is separating and just for squatting. Features could be combined. Many instructions for first apply to second. More for second are in drawing.
+Here are two similar toilet designs. The first is non-separating for sitting and squatting. The second is separating and (probably) just for squatting. Features could be combined. Many instructions for first apply to second. More for second are in drawing.
 
 The first is a wooden box with a hole in the top and maybe a toilet seat attached over the hole. A 20L bucket sits inside to poop and pee into. The room's ventilation return duct attaches to a hole in the side of the box. So all air exits the room through the toilet, removing all odor. Empty it every 3-5 days.
 
@@ -92,29 +92,18 @@ plan: toilet frame - [download](/img/plan/toilet-frame.pdf)
 	- black dots indicate heads of screws. Always drill pilot holes for screws.
 	- adjust leg height to allow a 15mm space between top of bucket and underside of toilet top
 
-![plan: toilet liner](/img/plan/image/toilet-liner.png)
-
-plan: toilet liner - [download](/img/plan/toilet-liner.pdf)
-
-<!--&nbsp;-->
-
 - liner
-	- made of thick plastic sheeting (0.006" or 0.02mm)
-	- folds into an open box
-	- resulting triangular gussets in corners **A** fold against outside of liner
-	- liner fits inside frame
+	- it is a skirt with no bottom, cut at floor level. Put a pan, tray, towel, or paper on the floor under the bucket to catch spills.
+	- made of thick plastic sheeting (0.15mm)
+	- fits inside frame
 	- top edges fold over horizontal frame pieces and get thumb-tacked or taped in place on outside
-	- toilet bucket goes inside 
+	- toilet bucket goes inside
 	- cut hole **B** for return duct: 
 		- 30mm smaller than return duct to stretch and fit over it snugly
 		- so duct is 50--100mm off floor and next to a frame leg (to attach a bracket to to support duct if necessary) 
-		- fold nearest gusset away from hole
 		- hole **B** in plan is just an example: 70mm diameter hole for 100mm diameter duct
-	- liner can also just be a skirt with no bottom, cut exactly at floor level. Put a pan, tray, paper, or towel on the floor under the bucket to catch spills.
 	
-<!--&nbsp;-->
-
-![plan: toilet liner](/img/plan/image/toilet-squat.png)
+![plan: squatting toilet ](/img/plan/image/toilet-squat.png)
 
 plan: squatting toilet - [download](/img/plan/toilet-squat.pdf)
 

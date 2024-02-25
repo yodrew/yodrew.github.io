@@ -109,7 +109,7 @@ At last we are prepared to understand the secret of why hygienic darkroom retrea
 			- thinking becomes _less interesting_ (!)
 			- directing attention restfully becomes *much* easier. (See [attention](/protocol#attention))
 
-		- Balance: the remaining sensations feed the feeling and moving centers of intelligence. Outwardly undistracted, the internal sense of touch sharpens in its [many aspects](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, aspects of consciousness suppressed in civilization, reactivate. They balance the psychic workload, making it more efficient, saving energy and internal activity.
+		- Balance: the remaining sensations feed the feeling and moving centers of intelligence. Outwardly unoccupied, the internal sense of touch sharpens in its [many aspects](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, aspects of consciousness suppressed in civilization, reactivate. They balance the psychic workload, making it more efficient, saving energy and internal activity.
 	3. Inactivity
 		- Resting causes rapid recovery of homeostasis, the foundation of healing
 	- It induces the stillness required for repair

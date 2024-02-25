@@ -62,25 +62,25 @@ Sometimes, supply and return vents exist in the same room. This is the fanciest 
 
 More commonly, balanced systems put supplies in bedrooms and living rooms, and returns in kitchens and bathrooms. This means air escapes a bedroom around the door. Unless the space outside the door is totally dark, this calls for a _threshold_ lightproof vent (plans below).
 
-Balanced systems are rare. More common are negative pressure systems: bedroom and living room windows act as passive supplies and bathroom and kitchen exhaust fans as active returns. In this case, a lightproof multi-purpose _helix_ vent, built into a window blind, is the supply. Or a silencer if noise surrounds your dwelling. A threshold vent is the return, letting stale air escape the bedroom to the exhaust fan.
+Balanced systems are rare. More common are negative pressure systems: bedroom and living room windows act as passive supplies and bathroom and kitchen exhaust fans as active returns. In this case, a lightproof universal vent, built into a window blind, is the supply. Or a silencer if noise surrounds your dwelling. A threshold vent is the return, letting stale air escape the bedroom to the exhaust fan.
 
-Rooms with totally passive ventilation rely on open windows, exterior vents, and infiltration through cracks. These will get sealed against light. Such rooms will need helix vents in blinds at different heights to take advantage of convection. But they probably call for a fan and a silencer, maybe ducting.
+Rooms with totally passive ventilation rely on open windows, exterior vents, and infiltration through cracks. These will get sealed against light. Such rooms will need universal vents in blinds at different heights to take advantage of convection. But they probably call for a fan and a silencer, maybe ducting.
 
 By closely observing buildings I have discovered some simple ways to ventilate them. Sometimes rooms have lightproof and sound-dampened holes built into them in unexpected places:
 
 - unused holes for pipes, wires, chimneys, and ventilation. 
-- behind a cupboard or inside a closet
+- behind a cupboard or piece of furniture, or inside a closet
 - a removable panel or wide piece of trim that could be temporarily replaced with a panel with a hole in it. 
 
-For example, I once salvaged a cosmetically damaged door from the garbage at a building supply store exactly the same size as my darkroom's door. So I stored the original door and cut holes in the damaged door for ventilation. 
+Once, a new door exactly the same size as my darkroom's door caught my eye. It was in the garbage at a building supply store because of cosmetic damage. We were buying other materials, so they let us take it. I stored the original door and cut supply and return holes in the salvaged door for ventilation. 
 
-Another darkroom had no ventilation or suitable holes anywhere. It also had no door. So we built a frame inside the doorway with a narrow door on one side and a narrower panel on the other. We cut holes in the panel for ventilation ducts. We fixed the frame in the existing doorway with metal straps screwed into old hinge holes. When dismantling the darkroom, we left no trace.
+Another darkroom had no ventilation or suitable holes anywhere. But it also had no door. So we built a frame inside the doorway with a narrow door on one side and a narrower panel on the other. We cut holes in the panel for ventilation ducts. We fixed the frame in the existing doorway with metal straps screwed into old hinge holes. When dismantling the darkroom, we left no trace.
 
-Similarly, we hung 7m of ducting that ran through three rooms; attached a silencer to it; made three window panels; and imperfectly covered five more windows with only one new screw hole in the entire rented house. And that hole was invisible behind a loose piece of trim. "Leave no trace" is a fun game that often improves design.
+Similarly, we hung 7m of ducting that ran through three rooms; attached a silencer to it; made three window panels; and covered five more windows in the building on the way to the bathroom---all with only one new screw hole in the entire rented house. And that hole was invisible behind a loose piece of trim. "Leave no trace" is a fun game that often improves design.
 
 Sewage pipes drain downward but are ventilated upward. Once, friends and I replaced a flush toilet with a composting toilet. The exposed drain pipe, being oversize and in a single-story house, wasn't subject to backflow. So it proved a perfect exhaust duct for a case fan at floor level. Imagination conquers all obstacles (and renews itself in darkness).
 
-If you are building a new house or are at liberty with an existing one, separate ventilation from windows. Give it its own holes in walls. This improves many attributes of a shelter: security, economy, comfort, silence, darkenability, and overall control.
+Separate ventilation from windows whenever possible. Give it its own holes in walls. This improves many attributes of a shelter: security, economy, comfort, silence, darkenability, and overall control.
 
 ### vent
 
@@ -88,180 +88,165 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 #### constraints
 
-(helix / helix-z  specifications in parentheses)  
+(universal / uv-short  specifications in parentheses)  
 {threshold vent specifications in curly braces}
 
-- durable (protected by cardboard shell or silencer){protected by wood reinforcement, subject to damage by kicking but easily rebuilt, could be made of sheet metal or shielded with cardboard or thin wooden boards}
+- durable (protected by cardboard shell){protected by wood reinforcement, subject to damage by kicking but easily rebuilt, could be made of sheet metal or shielded with cardboard or thin wooden boards}
 - thin enough to fit between blind and window (<80mm) or door and threshold {adjustable}
 - cross-sectional area >78cm<sup>2</sup> (85cm<sup>2</sup>){60--120cm<sup>2</sup>} to equal standard 100mm diameter ducting
-- fully traps light, sending light around at least 5 corners (7 corners / 5 corners){2-6 fabric-covered corners} 
+- fully traps light, sending light around at least 5 corners (6 corners / 4 corners + enclosure's corners){2-6 fabric-covered corners} 
 - short airway (240mm / 160){140mm} 
 - minimal size (220 x 77 x 290 / 140 x 67 x 281){fits under door, sticks out 20mm each side and up 60mm}
-- easy to make (so-so){yes}
-- elegant (yes: simple compact form, uses common materials, zig-zag-shaped passage accommodates natural helical movement of air){yes}
+- easy to make (medium){medium}
+- elegant (yes: simple compact form, uses common materials){yes: adapts to nearly all swinging doors}
 - cheap ($4 in materials, 2-hour assembly time){$2 in materials, 1-hour assembly time}
 
-#### helix
+#### universal
 
-I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But air is a fluid like water. It takes the path of least resistance. It maintains the same curved trajectory by _helixing_ through. The helix is the natural form of fluids in motion under any circumstance. So this minimizes friction within the airstream as well. 
+The universal vent works nearly anywhere. It attaches by its face or side to a slot in any material. It can be made of cardboard or wood. Its principle adapts to any size. Walls and baffles can be thinner or thicker. It can be shortened for enclosure, eg, inside a silencer. All its rigid parts are rectangles, easily cut with a knife or table saw. It can be either for supply or return air.
 
-![plan: helix vent, assembly elevation](/img/plan/image/helix-vent-assembly-elevation.png)
+![plan: universal vent, elevation](/img/plan/image/universal-vent-elevation.png)
 
-plan: helix vent assembly elevation - [download](/img/plan/helix-vent-assembly-elevation.pdf)
+plan: universal vent, elevation - [download](/img/plan/universal-vent-elevation.pdf)
 
-![plan: helix vent, assembly](/img/plan/image/helix-vent-assembly.png)
+![plan: universal vent, plan](/img/plan/image/universal-vent-plan.png)
 
-plan: helix vent assembly - [download](/img/plan/helix-vent-assembly.pdf)
+plan: universal vent, plan - [download](/img/plan/universal-vent-plan.pdf)
 
-![plan: helix vent, channels](/img/plan/image/helix-vent-channels.png)
+![plan: universal vent, walls](/img/plan/image/universal-vent-wall.png)
 
-plan: helix vent channels - [download](/img/plan/helix-vent-channels.pdf)
+plan: universal vent, walls - [download](/img/plan/universal-vent-wall.pdf)
 
-![plan: helix vent, shell](/img/plan/image/helix-vent-shell.png)
+![plan: universal vent, parts](/img/plan/image/universal-vent-part.png)
 
-plan: helix vent shell - [download](/img/plan/helix-vent-shell.pdf)
-
-![plan: helix vent, parts](/img/plan/image/helix-vent-parts.png)
-
-plan: helix vent parts - [download](/img/plan/helix-vent-parts.pdf)
+plan: universal vent, parts - [download](/img/plan/universal-vent-part.pdf)
 
 <!--pagebreak-->
 
-The helix vent can go anywhere: a blind, a door, a wall, etc. Flaps of either opening poke through a slot and get taped or glued down. Mostly it attaches to a blind with the face opening. Put fleece seal on the side opening if attaching it there.
+The universal vent can go anywhere: a blind, a door, a wall, etc. Flaps and seal attach to either opening. They poke through a slot and get taped or glued down. Mostly it attaches to a blind with the face opening.
 
 - blind: attach it to a blind and slightly open the window behind it. 
-- door: cut slot in it and use helix vent instead of a threshold vent. 
-- existing vent through a wall: in a cardboard box, cut hole the same size as the existing vent. Cut a slot on the opposite side of the box for a helix vent. Attach helix vent to box and box to wall over existing vent. Vent can be either supply or return.
-- silencer
-	- inside or outside, attached at face or side opening. 
-	- z version: simpler, more efficient, higher capacity version especially for inside the silencer. Short and straight, it has fewer light-stopping corners and no shell. It is only for installing inside the silencer or other enclosure with two or more corners for light to go around. See drawings in next section.
+- door: cut slot in it and use universal vent instead of a threshold vent. 
+- existing vent in a wall: cut a hole in a cardboard box the same size as existing vent hole. Cut a slot on the opposite side of the box for a universal vent. Attach universal vent to box and box to wall over existing vent.
+- enclosure (like silencer): use shortened version inside or out. It has fewer light-stopping corners because enclosure already has two or more. Attaches at side wall. See note in drawing and dash-dotted lines and measurements.
 
 If your darkroom's ventilation is passive, put vents both low and high in room to enable convection. This works better the greater the inside and outside temperature difference; the greater the vertical distance between vents; and the more vents. 
 
-Do you wish to manufacture vents? A set of simple wooden or sheet metal templates and jigs can speed production tremendously while keeping equipment and investment to a minimum. Start in your garage.
-
-Materials are simple and non-toxic: heavy black acid-free paper, cardboard, fabric, and wood glue. Look in art or office supply shops for the paper. North Americans, common posterboard meets the standard. If unsure, use this paper weight and size [conversion chart](https://www.paper-paper.com/weight.html). If large sheets are unavailable, glue small sheets together between folds in plan. Wood glue has high tack and quick drying time, easing assembly. School glue works, too.
+Do you wish to manufacture vents? A set of simple wooden or sheet metal templates and jigs, maybe a table saw with a sled, can speed production tremendously while keeping equipment and investment to a minimum. Start in your garage.
 
 Read through instructions once while studying plans.
 
-1. materials (see plans for quantities)
-	1. paper (for channels and walls)
-		- black, acid-free bond, coverstock
-		- available at art supply, stationery, and book shops. In Europe, common posterboard is usually acid-free, Canson Iris, for example.
-		- 2 sheets (550 x 700) per vent
-		- weight: 120--400gsm (200 ideal)
-	2. cardboard, 5mm thick for shell (plan must be adjusted for different thickness)
-	3. fabric: polar fleece, black, medium weight for seal. (Quality check: 10 layers of it in a stack should measure 30-35mm high)
-2. follow instructions in [fabricate](/make#fabricate) 
-3. glue channels to inner and outer shells
-		1. figure out how parts go together. Note that channel plan is oriented to shell plan, including the direction of folds and lettered joint points and lines
-		3. mock up assembly by taping parts together till you've got everything right.
-		4. glue lettered lines first. Use a 2mm bead, ie, as little glue as possible, minimizing warping  
-3. glue ends to channel tabs
-5. assemble
-	1. bend shell ends up. Trim them to match outer ends.
-	2. position halves for joining
-	3. test joints
-		- align corners of inner and outer shells
-		- match letters
-		- inner ends go inside outer ends
-		- note how notches of inner ends fit around outer ridges
-		- practice using table knife to press ends together when you glue them
-	4. glue inner ends to outer ends, using table knives
-	5. glue shell seals on shell corners
-	6. glue halves together, one end at a time using table knives
-	7. glue long shell seals on joints between halves
-5. shell
-	- glue on fleece seal 
-	- before installation, tape flaps over openings
-6. installation
-	1. determine vent location 
-		- in blind, panel, or silencer
-		- whether it will attach at side or face opening
-		- shell is unnecessary when installed inside silencer or other enclosure
-		- vent should not touch window handles, locks, or frame 
-	2. mark slot with slot plan
-		- the slot plan spaces slot correctly on most blinds and panels
-		- face opening, 35 x 281, on blinds, panels, or outside silencer, with shell
-		- side opening, 32 x 281, inside silencer or other enclosure, without shell
+1. materials:
+	1. walls, 4-8mm thick
+		1. cardboard: double-layer is stable if kept dry and out of direct sun and intense heat.
+		2. wood: thin tongue and groove boards, masonite, exterior plywood aged 3+ months, or marine plywood. Avoid interior plywood. Its especially toxic glue outgasses a long time.
+	2. flaps: black acid-free posterboard/cardstock/coverstock, 250-400gsm or thin tightly woven fabric like poplin or twill
+	3. seal: black polar fleece, medium weight. Quality check: a 10-layer stack should measure 30-35mm high.
+	4. tricot or no-see-um netting
+	5. wood glue
+2. follow instructions in [fabricate](/make#fabricate)
+3. determine exact vent location
+	- in blind, panel, or silencer
+	- whether it will attach at side or face opening
+	- vent must clear window handles, locks, and frame
+	- if used with a double blind, shade hole in insert from direct sunlight
+3. the plan adapts to walls between 4-8mm thick. Just move walls and baffles slightly using these rules:
+	- keep inner wall flush with inner and left edges of end
+	- keep baffle _a_ flush with left edge of end
+	- move outer wall inward
+	- keep inner and outer walls 68mm apart (with spacers)
+	- keep baffle _f_ flush with right edge of inner wall (thin dash-dotted line)
+	- keep baffles _b, c, d, e_ centered on dash-dotted lines, shifting them downward (in short version, keep _e_ flush with right edge of end and outer wall)
+	- keep side wall against outer wall
+
+		Ends will protrude rightward and, with side wall, outward.
+4. join pieces in this order:
+	1. inner half
+		1. inner wall
+		2. top end
+		3. long folded flap, 1 short flap 
+		4. baffles b, d, f
+		5. side wall
+		6. 2 spacers with only 2 dots of glue each for removability
+	2. outer half
+		1. outer wall
+		2. baffles a, c, e	
+	3. spray-paint insides matte black.
+	4. glue halves together
+		1. inner half
+		2. outer half
+		3. bottom end
+		4. 3 other flaps
+		5. seal
+8. until installation, put it in a dust-proof bag. 
+9. installation
+	2. mark slot with slot jig
+		- it spaces slot correctly on most blinds and panels. It can be further from corner but only 20 closer on panels.
+		- face opening, 35 x 248, on blinds, panels, or outside silencer, with shell
+		- side opening, 32 x 248, inside silencer or other enclosure, without shell
 	3. cut out slot
 	4. position vent over slot and fit vent flaps through it
-	5. when attaching to soft window covering like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
-	6. fold flap at crease and tape it to cover. Tape makes vent removable. Only glue it in place if you are certain of not moving it for years.
+	5. when attaching to soft material like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
+	6. fold flap at crease and tape it down. Tape makes vent removable. Only glue it in place if you are certain of not moving it for years.
 	7. repeat with other long flap, then with short flaps
-	8. tape or 
-	9. cover shell with foil and/or white paper to minimize warping by sun
+	8. secure side opening with screws. Screw through inner wall into panel or blocks. Or screw from other side into inner wall. If blind material is soft (plastic, fabric, paper, cardboard), use fender washers.
+	9. vent must be shaded to minimize fading of black paper and warping. Usually, insert of double-blind or white material over window will do this. Otherwise, cover shell with white paper. If in direct sun, shade it somehow.
 
-#### helix-z
+##### short
 
-This is a shorter version of the helix vent with no shell. It goes inside a silencer or other enclosure. Which gives it protection and two or more corners that light must go around. Follow instructions for helix vent above, adapting as necessary. 
+The universal vent can be shortened for use inside a silencer or other enclosure. The enclosure must have two or more blackened corners that light must go around. Follow instructions in wall drawing. Also note dash-dotted lines in plan and elevation views. 
 
-Only assembly is shown. Click links to get full size plans of elevation, channel, inner wall, and outer wall. They are also in the [zip file](/darkroom-retreat.zip).
+The short version is 168 x 266 x 84 thick. If an even smaller vent is required:
 
-![plan: helix vent-z, assembly](/img/plan/image/helix-vent-z-assembly.png)
+- use thin cardboard and trim the protruding walls
+- use black posterboard for walls instead of cardboard
+- shrink the design proportionally
+- use my old helix-z vent in the zip file
 
-plan: helix vent-z assembly - [download](/img/plan/helix-vent-z-assembly.pdf)
-
-plan: helix vent-z assembly-elevation - [download](/img/plan/helix-vent-z-assembly-elevation.pdf)
-
-plan: helix vent-z channels - [download](/img/plan/helix-vent-z-channels.pdf)
-
-plan: helix vent-z inner wall - [download](/img/plan/helix-vent-z-inner-wall.pdf)
-
-plan: helix vent-z outer wall - [download](/img/plan/helix-vent-z-outer-wall.pdf)
+With thought and experiment, every engineering problem can be solved. This is the awesome and terrifying power of technique: of physics and engineering. Let us use it to our advantage, for the purpose of coming back to life.
 
 #### threshold
 
-A bedroom door often has a gap at the bottom---the threshold---for ventilation. The threshold vent lets air through there but no light in. Its design adapts to door width, door thickness, and gap under the door between 12-33.
+A bedroom door often has a gap under it, at the threshold, for ventilation. A threshold vent uses this gap to let air through but not light. The design adapts to door width, door thickness, and gap under the door. Also, it adapts to how much light is outside the door.
 
-If the gap is greater than 33, add cardboard or wood to bottom of door or build up threshold with boards. Or modify the design. If less than 12, trim bottom of door. Otherwise, or if bottom of door fits into a stepped threshold, vent will not work. 
+If the gap is greater than 40, add wood to bottom of door or build up threshold with boards. Or modify the vent's design using its principles. If less than 13, use black paper in place of fleece for the vent baffle, along with black paper over the threshold. If less than 6, consider trimming the bottom of the door. Or find another way to ventilate the room.
 
-I once adapted the idea by splitting the vent in half so it was on one side of a door. On the other was a 100 wide board on edge across a hallway floor 20 away from bottom of door. 
+Just the vent walls are enough if the light outside the door is dim. If bright, use one or two hoods as well. 
 
-Block light outside the door as much as possible. Maybe you need to darken a path between darkroom and bathroom. Cover windows in the hallway. Make a curtain across it with a dark blanket fixed to the walls and ceiling with tape or tacks.
+Usually, you need to darken it anyway. Either you need a path to a bathroom. Or your supporter need to get in without lighting you up. Cover windows in the hallway. Make a curtain across the hallway with a dark blanket fixed to the walls and ceiling with tape or tacks.
 
-Or make a [removable partition](https://andrewdurham.shutterfly.com/313). It's a wooden frame a little wider than the hallway so it wedges in place at an angle. It has a fleece seal around the frame. It is filled with black plastic sheeting. It is penetrated by ducting or helix vents as needed.
+Or make a [removable partition](https://andrewdurham.shutterfly.com/313). It's a wooden frame a little wider than the hallway so it wedges in place at an angle. It has a fleece seal around the frame. It is filled with black plastic sheeting. It is penetrated by ducting or universal vents as needed.
 
-The drawings below are of a vent for a typical door, 750 *w*ide x 40 *t*hick, and a *g*ap underneath of 20.
+![plan: threshold vent](/img/plan/image/threshold-vent.png)
 
-![plan: threshold vent perspective](/img/plan/image/threshold-vent-perspective.png)
-
-plan: threshold vent perspective - [download](/img/plan/threshold-vent-perspective.pdf)
-
-![plan: threshold vent pattern](/img/plan/image/threshold-vent.png)
-
-plan: threshold vent pattern - [download](/img/plan/threshold-vent.pdf)
+plan: threshold vent - [download](/img/plan/threshold-vent.pdf)
 
 <!--pagebreak-->
 
 1. materials
-	- paper, black, acid-free, 400-600gsm
-	- dowel or stick, 10 diameter, or popsicle sticks
-	- fabric, black: muslin and fleece
+	- cardboard, double-wall, 4-6mm thick (400 x 600 strawberry flat box is perfect) 
+	- fleece, black, 200 x 1000
+	- muslin, black, 500 x 700
+	- cardstock (posterboard), black, acid-free, 180-300gsm, 550 x 700, for hood, maybe threshold.
+	- thin double-sided tape
+	- double-sided foam mounting tape or 3M Command strips
 2. prepare pattern with instructions in [fabricate](/make#fabricate)
-3. blacken interior of ends (grey area) with marker
-4. key (example measurements in parentheses)
-	- _w_: width of door (750)
-	- _t_: thickness of door (40)
-	- _g_: gap under door (20)
-	- _h_: g -- 3
-	- _v_: vent width (426)
-	- _e_: end of vent to edge of door (162)
-5. cover threshold with black paper: _w_ + 40 x _t_ + 70; trim ends (790 x 110)
-6. cover part of door inside vent with black muslin: _v_ + 20 x _t_ + 150 (446 x 190)
-7. cover underside of vent with black fleece + 20mm up the walls: _v_ + 40 x _t_ + 80 (486 x 140). Glue it just to the walls, not the bottom for best seal.
-8. attach fabric/paper
-	- to door and threshold with tape
-	- to vent with glue 
-9. glue dowel or stick, or popsicle sticks in 2 offset layers, to tops of walls under flanges. Press flat with a board and weights till dry. Fold flanges down over sticks and glue.
-10. fold up walls and ends to make a box
-11. tape flaps to outside of vent body (undo to store vent flat)
-12. tape vent to door at triangular flaps
-13. make fleece baffle: _e_ + 10 x _t_/2 + 2*g* + 40 (172 x 100)  
-The baffle fills in spaces at ends of vent. Tape top edges of fleece 20mm above bottom of door. Baffle is 5 wider than the space on each end to seal against vent and door jam. Cut away any fleece that interferes with [door seal](/darkness#door-seal). If baffle drags out of position, weight it with a strip of cardboard inside:  
-_e_ x _t_/3. (162 x 13)
-14. if light comes through vent, make a roof for one or both openings. Line with black fabric. Glue stick over flange. Tape to door by the flaps.
-
+3. cardboard
+	- fold at creases a little past 90° 
+	- edges of hood that fold into each other: crush to 45° so that edges of outer facing of cardboard touch
+	- put glue into creases before folding cardboard into final shape. Hold vent pieces in position with books and boards while glue dries.
+	- glue the seals onto hood, long skinny ones first
+4. line wall and hood pieces with muslin, except on flaps, gluing it on
+5. position one vent wall on door so that it is 5 above high point of floor in swing area of door. Tack in place with masking tape. Once it is perfect, mark its position with tape. Duplicate marks on the other side of the door.
+6. attach muslin over area of door that vent will cover. Width: 420. Length: from 20 above wall on one side to same height on other, wrapped under the door. Use double-sided tape. Seal with finger nail. If no hood is needed, masking tape works, too. Use wall as guide or remove it and use tape marks. Remove wall afterward.
+7. vent baffle
+	- cut piece of fleece 470 x (80 + door thickness)
+	- glue to undersides of flanges of walls
+	- glue extra fabric at sides up the sides of the walls. Cut slit where flaps are.
+8. attach vent walls to door at marks. Use double-sided foam tape or 3M Command strips.
+9. measure and cut door baffles wide enough to seal door where there is no vent. Add 10 + half the door thickness. Length= 46 + thickness of door. Attach them to door 20 above bottom of door. Use masking tape.
+10. add black paper threshold cover if light leaks through
+	
 ### soundproofing
 
 #### principles
@@ -299,7 +284,7 @@ Silencers and acoustic ducting are standard industrial components, making buildi
 
 I built silencers into window recesses on two occasions. They were simpler and more effective than I hoped. They swallowed up sound. The window, open at one end, provided one face of the box. The thick wall provided 4 sides. Boards against the inside of security bars formed the box's outer face, about 20cm from the glass. Shredded fabric insulation lined the box. This technique disables the window as a light source. It is a temporary solution. It works if you have other windows you can uncover during transition days.
 
-The design below is a zig-zag channel through insulation inside a wooden box with a hole at each end. Each hole has 4 possible locations: face, sides, or end. Cut a circle for ducting or fan, a slot for a helix vent. The fan mount adapts to all 4 locations, inside or out.
+The design below is a zig-zag channel through insulation inside a wooden box with a hole at each end. Each hole has 4 possible locations: face, sides, or end. Cut a circle for ducting or fan, a slot for a universal vent. The fan mount adapts to all 4 locations, inside or out.
 
 The box is lined with porous non-toxic insulation. clean wool, shredded fabric, wood fiber could all work. Note, the shredded fabric and wood fiber I've tried had faint smells that I disliked. 
 
@@ -440,7 +425,7 @@ In some cases, an air purifier becomes necessary. If your house is near a factor
 - activated carbon
 - HEPA
 - Photo Catalytic Oxidation ([PCO](https://www.sciencedirect.com/science/article/pii/S0926337316308001)) is a new, interesting technology that destroys pollutants at the molecular level. Several companies make filters with it. Prices vary widely. 
-- UV-C light bulbs with 253.7nm wavelength destroys VOCs and germs and cost less than $10. These would use the regular case fan and just need a helix vent to stop light.
+- UV-C light bulbs with 253.7nm wavelength destroys VOCs and germs and cost less than $10. These would use the regular case fan and just need a universal vent to stop light.
 
 Do not use an ionizer. It produces toxic levels of ozone.
 

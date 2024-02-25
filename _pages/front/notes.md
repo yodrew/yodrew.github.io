@@ -13,8 +13,8 @@ The book is an integrated whole. Every word aids comprehension, including front 
 ##### links
 
 - [colored](/) words are links<!--notes-->
-- [*italicized*](https://foodnsport.com) link: a book title
-- if also [*asterisked*](/nhs.pdf)\*, download or read book for free
+- [*italicized*](https://foodnsport.com) links are book titles
+- if also [*asterisked*](/nhs.pdf)\*, book is free to download or read online
 
 ##### media
 

@@ -1,9 +1,9 @@
 ---
 title: introduction
-permalink: "/front/introduction/"
 layout: page
 navprev: preface
-navnext: "../hygiene"
+permalink: /front/introduction/
+navnext: ../hygiene
 ---
 
 In civilization, we are over-stimulated and distressed. We need relief.

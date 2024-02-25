@@ -40,6 +40,14 @@ When arches exist from the first pieces, individual pieces of material pass most
 
 Frames should not be used to hold up materials that can hold up themselves (or shoddy materials like drywall.) This approach has no integrity. It doesn't respect the nature of the materials. One puts up a frame, then hangs on it a rigid or semi-rigid material which can hold up itself and the whole building. It _does_ have the advantages of requiring no imagination or economy on the part of the owner, builder, or designer.
 
+Here's another way to look at shell vs framed construction.
+
+When you stand on a construction site, you face only one hole that has to be filled: the one between the future occupants and the surrounding space.
+
+When you put up a frame, you create hundreds of little holes to fill. Filling them makes cracks you have to fill. All the pieces want to come apart. It's a tedius, brutalizing nightmare.
+
+Shell construction just starts filling the one hole. Pieces push each other together. It is not only more elegant, but it is more practical in every way. Cheaper, faster, simpler, more durable, resilient, lighter (requiring a simpler foundation), 
+
 I have chosen frameless designs that embody: a dynamic elegance bordering on anti-gravity; simplicity any 5 year-old can grasp; and an economy any schmuck can achieve.
 
 #### frame-and-skin

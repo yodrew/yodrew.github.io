@@ -226,12 +226,11 @@ These instructions apply to all components, or as indicated. Read further instru
 	2. cut out tape holes approximately on dash-dotted lines 
 	3. skip to [3 - make parts](/make#make-parts) below
 2. customize [threshold vent](/air#threshold) with instructions in drawing
-
 #### 2 &nbsp; transfer plans to materials
 
-1. where necessary, make small v-cuts in outlines of plans to see where to align them with edges of materials.
+1. where necessary, make small v-cuts in outlines of plans to see where to align them with edges of materials
 2. tape plans to materials
-	- [helix vent shell](/air#helix): skew plan roughly diagonally (20°-70°) to rectangles of cardboard
+	- [universal vent](/air#universal): skew patterns to cardboard, 15°
 3. put three layers of cardboard on work surface
 4. transfer plan with straight pin
 	- use magnifying glass for ease of marking and geeky precision thrills
@@ -263,27 +262,16 @@ These instructions apply to all components, or as indicated. Read further instru
 		 - 2 mask center seals
 		 - 4 mask covers. For the 4th cover, use optional cotton fabric, add 20mm on side for seam allowance, and leave plan taped to fabric.
 	7. skip remaining steps 3-4 and resume special instructions
-3. cardboard shell of helix vent
-	1. trim excess cardboard around pattern but don't cut its edges yet (between squared holes)
-	2. with straight edge and razor, score between circled-asterisked holes, cutting through top face and most of corrugations, but not the bottom face.
-	3. press 90° edge of board into scores at 45°
-	4. lightly crease between circled holes with back of table knife tip, avoiding breaking the surface of cardboard 
-	5. press straight edge into creases to deepen them
-	6. turn cardboard over and repeat steps 3 & 4 with double-circled holes
-	7. cut between squared holes
-	8. fold cardboard at creases, bending it well past 90&deg;
-4. paper parts
-	1. between holes with asterisks
-		- circled pairs, score back, fold forward
-		- double-circled pairs, score front, fold backward
-	2. between circled and double-circled holes
-		- crease front side with back of table knife tip
-		- fold at creases forward
-		- then, fold double-circled creases backward
+3. paper/cardboard parts
+	1. between holes in cardboard
+		- circled pairs: crease front, fold forward
+		- double-circled pairs, crease back, fold backward
+		- press hard into creases with sharp edge of straight board at 45° angle
+	2. between circled and double-circled holes in paper:
+		- crease front side
+		- fold forward
+		- refold backward between double-circled holes
 	3. between squared holes: cut with razor knife
-	4. between starred holes 
-		- expand to diameter indicated in plan
-		- use a pointed dowel of appropriate diameter
-		- spin it with your fingers or a power drill as you gently push it into hole
+4. wood: cut parts on a table saw
 
 Voila. You've got the basics of all darkroom components. You've prepared their plans and parts. Now, let's see how those in the air chapter come together.

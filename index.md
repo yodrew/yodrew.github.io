@@ -18,7 +18,7 @@ _continue reading for free_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt
 		- adjustable price
 		- no spam
 	- [send me](/about#contact) your email and [$12+](/back/services#pay)), and I'll send it to you.
-- [paper](/back/services#write) copies available
+- paper copies [available](/back/services#write)
 
 #### newsletter
 

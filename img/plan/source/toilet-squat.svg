@@ -13,12 +13,85 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870, 2021-01-15)"
-   sodipodi:docname="toilet-squatting.svg"
+   sodipodi:docname="toilet-squat.svg"
    inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-squatting.png"
    inkscape:export-xdpi="33.34845"
    inkscape:export-ydpi="33.34845">
   <defs
      id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1703"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1701" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1617"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1615" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1607"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1605" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1535"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1533" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1237" />
+    </marker>
     <rect
        x="818.42065"
        y="404.19388"
@@ -364,9 +437,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17997246"
-     inkscape:cx="1994.5456"
-     inkscape:cy="1493.5156"
+     inkscape:zoom="0.18319757"
+     inkscape:cx="2407.6132"
+     inkscape:cy="2020.4839"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -440,7 +513,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -684,14 +757,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:0%;font-family:sans-serif;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="852.34991"
-       y="142.632"
+       x="868.34991"
+       y="182.632"
        id="text867"><tspan
          sodipodi:role="line"
-         x="852.34991"
-         y="142.632"
+         x="868.34991"
+         y="182.632"
          style="font-size:14.1111px;line-height:90%;letter-spacing:-0.264583px;word-spacing:-0.529167px;fill:#000000;fill-opacity:1;stroke-width:0.282222px"
-         id="tspan865">86°</tspan></text>
+         id="tspan865">86°</tspan><tspan
+         sodipodi:role="line"
+         x="868.34991"
+         y="188.98199"
+         style="font-size:14.1111px;line-height:90%;letter-spacing:-0.264583px;word-spacing:-0.529167px;fill:#000000;fill-opacity:1;stroke-width:0.282222px"
+         id="tspan1227" /></text>
     <g
        id="g887"
        transform="translate(20,-30.200002)">
@@ -1992,5 +2070,41 @@
          x="818.41992"
          y="813.82145"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none">switched off between uses.</tspan></tspan></text>
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart);stop-color:#000000;stop-opacity:1"
+       d="m 852.11798,131.92998 17.8496,36.24042"
+       id="path1229"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker1535);stop-color:#000000;stop-opacity:1"
+       d="m 857.11798,218.24223 15.8496,-33.24042"
+       id="path1531"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:0%;font-family:sans-serif;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="838.34991"
+       y="-307.36798"
+       id="text1599"><tspan
+         sodipodi:role="line"
+         x="838.34991"
+         y="-307.36798"
+         style="font-size:14.1111px;line-height:90%;letter-spacing:-0.264583px;word-spacing:-0.529167px;fill:#000000;fill-opacity:1;stroke-width:0.282222px"
+         id="tspan1595">86°</tspan><tspan
+         sodipodi:role="line"
+         x="838.34991"
+         y="-301.01797"
+         style="font-size:14.1111px;line-height:90%;letter-spacing:-0.264583px;word-spacing:-0.529167px;fill:#000000;fill-opacity:1;stroke-width:0.282222px"
+         id="tspan1597" /></text>
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker1617);stop-color:#000000;stop-opacity:1"
+       d="m 817.91526,-341.65214 21.8496,23.24042"
+       id="path1601"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker1703);stop-color:#000000;stop-opacity:1"
+       d="m 819.91526,-322.65214 17.8496,9.24042"
+       id="path1699"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

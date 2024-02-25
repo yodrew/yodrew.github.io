@@ -135,7 +135,6 @@ Incra ruler - [incra.com](https://incra.com)
 #### air
 
 high oxygen producers - [ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air/transcript?language=en](https://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air/transcript?language=en)  
-zip file - [darkroomretreat.com/darkroom-retreat.zip](https://darkroomretreat.com/darkroom-retreat.zip)  
 removable partition - [andrewdurham.shutterfly.com/313](https://andrewdurham.shutterfly.com/313)  
 Soundproofing tutorials - [bit.ly/soundproofingtutor](https://bit.ly/soundproofingtutor)  
 DIY straight tube - [bit.ly/diysilencer](https://bit.ly/diysilencer)  

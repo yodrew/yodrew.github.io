@@ -144,7 +144,7 @@ Black polar fleece makes darkening a door easy and quick. Use masking tape at fi
 
 If door has a window, cover it with plastic or a panel, described below. 
 
-![plan: door seal section](/img/plan/image/door-seal.png)
+![plan: door seal](/img/plan/image/door-seal.png)
 
 plan: door seal - [download](/img/plan/door-seal.pdf)
 
@@ -204,64 +204,71 @@ Now for a quick lesson on window types and anatomy.
 	6. trim: wooden border around window. Attaches to wall and edge of sill, covering the crack between them. Not always present. 40-100 wide, 10-20 deep. 
 	7. wall
 
-#### double blind
+#### double-blind
 
-This is my favorite method. One layer goes inside the window recess and one goes over. It is 
+This is my favorite method. One layer is inserted into the recess and one covers it. Light can't get past all the corners and narrow gaps. The double-blind is: 
 
-- cheap, easy, fast to find materials for and do
+- cheap, easy, fast to find materials for and to do
 - extremely effective and simplest overall
 - durable, adaptable, and cleanable for reuse and travel.
 
-It requires ordinary precision, much less than with a single layer. Light can't leak past all its corners and narrow gaps. It blocks 99% of light even without taping the outer layer. This is much better than a mask for use at home.
+It blocks 99% of light even without taping the outer layer. It requires ordinary precision, much less than with a single layer. It is more effective and comfortable than a mask.
 
-It is usually of flexible black plastic construction sheeting. It is the lightest weight lightproofing material. It is laterally static, holding its shape and making taping easy. 
+It is usually of flexible black plastic construction sheeting. Plastic is the lightest weight lightproofing material. It is laterally static, holding its shape and making taping easy. 
 
-The inner layer can be lightweight board: cardboard, foam board, or corrugated plastic sign board, always black. It is usually for temporary use. But it is easy enough to operate to use for months or years.
+The inner layer can also be a lightweight board: cardboard, foam-core board, or corrugated plastic sign board. It is easy to use for weeks, months, maybe years.
 
-Fabric or paper could work. But they are heavier. Fabric drapes. It requires a rod. Paper warps with heat or moisture.
+The design principles apply to fabric and paper, too. They look better. But they are heavier. Fabric requires a rod. Paper warps with heat or moisture. 
 
-I use masking tape. It sticks to it really well and causes the least damage everywhere. Magnets, tacks, nails, staples, poster tack, etc could work. 
-
-I'll talk about plastic. The technique is mostly the same for fabric and paper.
+I use masking tape. It sticks to plastic and most other things very well and causes the least damage when removed. Heat from a blow dryer can help remove it. Magnets, tacks, nails, staples, poster tack, etc could also work. 
 
 North Americans: 1 mil = 0.025mm = 25µ(microns).
 
-Minimum total thickness of plastic layers must be 0.25mm. Fabric and paper would be thicker. Always use black. It absorbs the light as it tries to get through the material. 
+Minimum total thickness of plastic layers must be 0.25mm. Fabric and paper would be thicker. Always use black for your main layers. It absorbs light as it tries to get through the material. 
+
+![plan: double-blind with vent](/img/plan/image/double-blind-vent.png)
+
+plan: double-blind with vent - [download](/img/plan/double-blind-vent.pdf)
 
 ##### materials
 
-- black
-	- most common
-	- construction sheeting, black polyethylene, 0.15 thick. Widely available in rolls or by the meter at building supply, variety, and department stores.
-	- garbage bags. Package usually shows thickness in microns. Make two stacks, 0.125 each. Join with staples, tape, melting, or sewing
-- white **important**
-	- with black plastic, attach white material to outside layer. Use any thickness of plastic, fabric, paper. Leave 30-50mm of black edges exposed.
-	- windows build up fierce heat when sealed with black plastic. It destroys the vacuum seal of dual or triple-pane windows. It even causes them to explode! The heat also damages paint and wood.
-	- black plastic looks spooky from the outside, attracting negative attention. White looks normal.
-- black-white
-	- laminated agricultural plastic. Called "light deprivation" tarp, used in greenhouses and for "pit tarps". I once got some for free from an agricultural plastic supply house. It was the end of a 1-ton roll of 0.125mm plastic. It was still a huge amount.
-	- easiest. And it is cool. Not in temperature, but it is appealing and satisfying to use. It is technology at its best.
+-plastic
+	- black
+		- most common
+		- construction sheeting, black polyethylene, 0.15 thick. Widely available in rolls or by the meter at building supply, variety, and department stores.
+		- garbage bags. Package usually shows thickness in microns. Make two stacks, 0.125 each. Join with staples, tape, melting, or sewing
+	- white **important**
+		- with black plastic, attach white material to outside layer. Use any thickness of plastic, fabric, paper. But leave 30-50mm of black edge exposed.
+		- windows build up fierce heat when sealed with black plastic. It destroys the vacuum seal of dual or triple-pane windows. It even causes them to explode! The heat also damages paint and wood.
+		- black plastic looks spooky from the outside, attracting negative attention. White looks normal.
+	- black-white
+		- laminated agricultural plastic. Called "light deprivation" tarp, used in greenhouses and for "pit tarps". I once got some for free from an agricultural plastic supply house. It was the end of a 1-ton roll of 0.125mm plastic. It was still a huge amount.
+		- easiest. And it is cool. Not in temperature, but it is appealing and satisfying to use. It is technology at its best.
 	
-	It's amazing stuff. White looks nice. Use one layer for traveling. Use two (white sides visible) for perfect darkness. 
-	- lumber unit covers, discarded daily at lumber yards. They are big black/white-laminated woven plastic tarps for shipping. Graphics are printed on them. Rinse or wipe clean if necessary. Find punctures and patch them. Face/put/sandwich the black sides together, making white sides visible.
+			It's amazing stuff. White looks good. Use one layer for traveling. Use two layers, white sides visible, for perfect darkness. 
+		- lumber unit covers, discarded daily at lumber yards. They are big black/white-laminated woven plastic tarps for shipping. Graphics are printed on them. Rinse or wipe clean if necessary. Find punctures and patch them. Face/put/sandwich the black sides together, making white sides visible.
+- fabric
+	- black twill or similar tight weave.
+	- white muslin or bed sheeting for outer layer
+- paper
+	- kraft paper off a roll, black, white, brown
+	- white backside of gift wrapping paper
 
 ##### assembly
 
-1. measure, cut, and tape first layer inside the recess against the sash or frame. Second, outer layer extends 100-200mm past recess and any trim. This catches light leaks between sill and wall.
+1. measure, cut, and tape first layer inside the recess against the sash or frame. Second, cover layer extends 100-200mm past recess and any trim. This catches light leaks between sill and wall.
 2. When using 2 layers of black-white plastic, fold back edge of outside layer 20-50mm. This exposes black side for sealing against frame or wall.
-3. first layer can also be cardboard or black foam board. 
+3. inserted layer can also be cardboard, black foam-core board or black corrugated plastic
 	- join multiple boards with 50mm wide strips of the same material.
 	- fit a window perfectly with no measuring: enlarge the thick board with 50-200 wide strips of black posterboard glued to edge, extending to the sash or sill.
 4. temperature control: protect your windows from heat damage!
-	- reflect heat with white paper, posterboard or fabric on outside, except 30-50 from edges to absorb light at the contact surface
-	- if window receives direct sun and gets especially hot, tape or glue aluminum foil to one side of it. Leave 10mm spaces between the strips of foil. Glue white fabric loosely over the foil at these strips. Set the cardboard in recess, white fabric and foil facing outward. 
-	- if it is a cold room, face the foil inwardly to reflect heat back in
+	- reflect heat with white paper, posterboard or fabric that faces outside. At the edges, leave 30-50mm black to absorb light where it makes contact with frame
 	- in extremely hot areas, install an awning, exterior blind or shutters
-5. For a handle, screw a small block of wood on the front from the back. Use a fender washer or stiff piece of plastic, like a bottle cap. Use as insulating insert described in #4 below.
+5. For a handle, use a small block of wood. Screw it in from the back through a fender washer or stiff piece of plastic, like a bottle cap.
 6. For daily use till you make a panel
-	- use tape just at top corners. Tape and untape blind layers in place
-	- put a patch of tape on wall to tape to for longevity of adhesive
-	- tape plastic to long board. Rest board on nails or screws beyond top corners of window
+	- tape it up just at top corners. Tape and untape blind layers in place daily
+	- put a patch of tape on wall to tape to to protect wall and extend life of tape
+	- make a curtain rod with a 19 x 38 board. Tape plastic to the back of it. Rest board on nails or screws beyond top corners of window and, during the day, below bottom corners.
 
 ##### tape
 
@@ -337,7 +344,7 @@ Alas, most Americans, Canadians, and Australians miss them without knowing it. P
 
 #### zip
 
-Here are notes on techniques I don't use anymore. I've archived their, photos, plans and instructions in the [zip file](/darkroom-retreat.zip).
+Here are notes on techniques I don't use anymore. I've archived their photos, plans and instructions in the [zip file](/darkroom-retreat.zip).
 
 ##### foil
 
@@ -351,12 +358,16 @@ Blackout fabric + adhesive velcro = 1-hour blind. This technique isn't bad. It i
 
 Custom blackout roller blinds with lightproof rails are cool, especially with automating motors. Watch them on YouTube. 
 
-They are pricey! I wanted to see how cheaply I could do it. I reduced the cost of materials 90%. But labor was too much. The result was not as durable, effortless, or sleek as a high-quality manufactured blind. Compatibility with motors is uncertain.
+But even a basic blind is pricey! I wanted to see how cheaply I could do it. I reduced the cost of materials 90%. But labor was too much. The result was not as durable, effortless, or sleek as a high-quality manufactured blind. Compatibility with motors is uncertain.
 
-If you want a roller blind, buy one custom made from an established local blind shop. Let a technician come and measure your windows. Buy only top-quality national or international brands. These cause the least complaints.
+If you want a roller blind, I suggest you save up and buy one from an established local blind shop. Let a technician come and measure your windows. Buy only top-quality national or international brands. These cause the least complaints.
 
 Get a guarantee of absolute lightproofness of the entire installation. Tell them you will be testing it with advanced sensors: eyes adjusted to darkness for days.
 
-Foamed acrylic coating is the industry standard. Look for it. Avoid fabric with PVC (polyvinyl chloride) coatings. It is toxic. Get full disclosure of material content.
+Foamed acrylic coating is the industry standard. The label must say, acrylic. Not "polymer". Polymer is another word for plastic. It could include PVC (polyvinyl chloride). Which is toxic. Get full disclosure of material content. 
+
+~/~
+
+One more element to go: water.
 
 

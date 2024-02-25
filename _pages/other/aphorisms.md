@@ -44,5 +44,9 @@ _It is useless to try to willfully change ourselves. We are much too entrenched 
 _My daughter will teach you our ways. Learn well, Jake Sully. Then we will see if your insanity can be cured._
  --Mo'At the shamaness in _Avatar_
 
+_There’s always a purpose in nonsense. Don’t bother to examine a folly--ask yourself only what it accomplishes._
+ --Ellsworth Monkton Toohey in _The Fountainhead_
+
 _You're free to change your course, but so long as you follow it, you're not free to escape its logic._
- --"John Galt" in _Atlas Shrugged_ by Ayn Rand
+ --John Galt in _Atlas Shrugged_ 
+ --by Ayn Rand
