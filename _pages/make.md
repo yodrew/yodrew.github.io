@@ -171,12 +171,12 @@ Download all plans at once with the darkroom retreat [zip file](/darkroom-retrea
 1. large format
 	1. large format printing is cheap, extremely accurate, and much faster and easier than desktop printing. Most print shops, including Staples and Office Depot, now offer large format printing.
 	2. email your files to print shop or take them on a USB flash drive
-	3. paper
-		1. specify cheapest option
-		2. if print shop has 300gsm acid-free black paper on a roll for large format printing, print the helix vent's channels and walls directly onto it. Yes, black ink on black paper is visible enough to work with.
+	3. paper: specify cheapest option
 	4. have files printed in actual size, with no scaling. Before paying, check measurements with ruler or measuring tape. Distortion should not exceed 1mm over a 250mm span.
 
-		After resigning myself to 2mm distortion per 250mm (0.8%) with desktop printers, I was shocked to find almost no distortion with large format printing, maybe 0.5mm/500mm (0.1%). But then it made sense because architects, engineers, and builders depend on this service for their blueprints. [Note: it turns out that machine was very well maintained. Another large format print job I had done was quite distorted. So, get a guarantee of accuracy and check before paying.] 
+		After resigning myself to 2mm distortion per 250mm (0.8%) with desktop printers, I was shocked to find almost no distortion with large format printing, maybe 0.5mm/500mm (0.1%). But then it made sense because architects, engineers, and builders depend on this service for their blueprints. 
+		
+		[Note: it turns out that machine was very well maintained. Another large format print job I had done was quite distorted. So, get a guarantee of accuracy and check before paying.] 
 2. desktop
 	1. only do this if you are absolutely broke or can't find a large format printing service on your desert island. Desktop printing of plans takes a lot of time and yields imperfect results.
 	2. print
@@ -221,7 +221,7 @@ These instructions apply to all components, or as indicated. Read further instru
 
 #### 1 &nbsp; prepare plans
 
-1. for fabric parts of ([helix vent](/air#helix) and [mask](/darkness#mask)):
+1. for fabric parts of ([universal vent](/air#universal) and [mask](/darkness#mask)):
 	1. using ruler and razor knife, cut out parts on solid outlines
 	2. cut out tape holes approximately on dash-dotted lines 
 	3. skip to [3 - make parts](/make#make-parts) below
