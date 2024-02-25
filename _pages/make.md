@@ -26,7 +26,7 @@ Whether or not you build a darkroom, reading these chapters will give you a sens
 This chapter provides basic information that applies to all components of a darkroom. The next three chapters provide blueprints and instructions for components related to three elements: 
 
 - air
-	- vents: helix and threshold
+	- vents: universal and threshold
 	- silencer
 	- fan mount
 	- power sources, heating, air purification are discussed 
@@ -152,7 +152,7 @@ A drawing has one or two _views_, depending on the best way to communicate its i
 - _perspective:_ from a non-right-angled point of view to capture more sides (3D)
 - _exploded:_ all parts separated but in correct order and linear relation (3D)
 
-For example, the [helix vent](/air#helix) has pattern views of its parts and a section + elevation view showing how parts are assembled. The [toilet frame](/water#upgrade2) has both plan and elevation views, while the [shower](/water#upgrade3) has an exploded view. The [threshold vent](/air#threshold) has a perspective view.
+For example, the [universal vent](/air#universal) has pattern views of its parts and a section + elevation view showing how parts are assembled. The [toilet frame](/water#upgrade2) has both plan and elevation views, while the [shower](/water#upgrade3) has an exploded view. The [threshold vent](/air#threshold) has a perspective view.
 
 All plans can be reused except the [mask](/darkness#mask) plan, which is destroyed as you make it. So make as many prints of it as masks you intend to make. 
 

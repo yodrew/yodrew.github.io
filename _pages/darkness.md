@@ -172,7 +172,7 @@ Plans and instructions follow.
 
 Notes to others I tried—foil, velcro, roller blind—are below, with a link.
 
-If your room's air supply comes through your window, attach a helix vent to the back of the blind. If the recess doesn't allow this, attach the vent to the front. Test position of vent before cutting a slot for it to make sure it clears the window frame and handles. The slot jig usually works. See [helix vent parts](/air#helix).
+If your room's air supply comes through your window, attach a universal vent to the back of the blind. If the recess doesn't allow this, attach the vent to the front. Test position of vent before cutting a slot for it to make sure it clears the window frame and handles. The slot jig usually works. See [universal vent parts](/air#universal).
 
 If both your supply and return air pass through your window, use two lightproof vents, one at the top, one at the bottom of a blind. Use fan mounts and silencers if necessary. Test without them at first. Some buildings have mysteriously good ventilation. Convection works in winter, when temperatures inside and out are different enough.
 
