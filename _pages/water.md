@@ -58,6 +58,8 @@ It's a 20L bucket with a toilet seat on top (balanced or hooked somehow). No kid
 	- wet fingers of free hand and wash anus
 	- wonder how you ever accomplished this task any other way
 
+<!--pagebreak-->
+
 #### upgrade
 
 Here are two similar toilet designs. The first is non-separating for sitting and squatting. The second is separating and (probably) just for squatting. Features could be combined. Many instructions for first apply to second. More for second are in drawing.
@@ -95,15 +97,15 @@ plan: toilet frame - [download](/img/plan/toilet-frame.pdf)
 <!--&nbsp;-->
 
 - frame
-	- made of 24 x 36 lumber
+	- made of 19-24 x 36-88 lumber
 	- joint is extra strong, non-planar joint (see [gridbeam.com](https://gridbeam.com))
 	- black dots indicate heads of screws. Always drill pilot holes for screws.
 	- adjust leg height to allow a 15mm space between top of bucket and underside of toilet top
-- liner
-	- it is a skirt with no bottom, cut at floor level. Put a pan, tray, towel, or paper on the floor under the bucket to catch spills.
+- skirt
 	- made of thick plastic sheeting (0.15mm)
 	- fits inside frame
-	- top edges fold over horizontal frame pieces and get thumb-tacked or taped in place on outside
+	- top edge folds over horizontal frame pieces and get thumb-tacked or taped in place on outside
+	- bottom edge runs to floor level. Put a pan, tray, towel, or paper on the floor under the bucket to catch spills.
 	- toilet bucket goes inside
 	- cut hole for return duct: 
 		- next to a frame leg, to attach a wire or bracket to support duct
