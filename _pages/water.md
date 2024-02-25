@@ -72,19 +72,28 @@ Which is one of industrial design's most disastrous failures. It wastes water. I
 
 Composting toilets are the future. 
 
-<!--&nbsp;-->
+<!--pagebreak-->
 
 ![plan: toilet top](/img/plan/image/toilet-top.png)
 
 plan: toilet top - [download](/img/plan/toilet-top.pdf)
 
-<!--pagebreak-->
+<!--&nbsp;-->
 
 - top
 	- platform made of 15--20 tongue and groove boards or 12--20 plywood
 	- left and right boards, attach to bottom of platform and fit on top of left and right frame pieces between frame legs
 	- hole is at least 20mm smaller than bucket opening all the way around 
 	- attach toilet seat to top 
+
+<!--pagebreak-->
+
+![plan: toilet frame](/img/plan/image/toilet-frame.png)
+
+plan: toilet frame - [download](/img/plan/toilet-frame.pdf)
+
+<!--&nbsp;-->
+
 - frame
 	- made of 24 x 36 lumber
 	- joint is extra strong, non-planar joint (see [gridbeam.com](https://gridbeam.com))
@@ -101,13 +110,13 @@ plan: toilet top - [download](/img/plan/toilet-top.pdf)
 		- 50--100 off floor
 		- 20-30 smaller than return duct to stretch and fit over it snugly
 
-![plan: toilet frame](/img/plan/image/toilet-frame.png)
-
-plan: toilet frame - [download](/img/plan/toilet-frame.pdf)
+<!--&nbsp;-->
 
 ![plan: squatting toilet ](/img/plan/image/toilet-squat.png)
 
 plan: squatting toilet - [download](/img/plan/toilet-squat.pdf)
+
+<!--pagebreak-->
 
 ### bath
 
