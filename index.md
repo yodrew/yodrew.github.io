@@ -2,8 +2,6 @@
 layout: page
 ---
 
-### blurb
-
 {% include blurb.md %}
 
 _continue reading for free_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt;](/front/disclaimer)
