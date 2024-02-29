@@ -1,8 +1,8 @@
 ---
 title: economy
 layout: redirect
-redirect: ../../other/economy
 permalink: /other-writings/economy/
+redirect: ../../other/economy
 ---
 
 Page moved to [other > economy](/other/economy)

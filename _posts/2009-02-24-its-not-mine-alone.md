@@ -1,8 +1,8 @@
 ---
 title: it's not mine alone
+layout: post
 date: 2009-02-24 00:00:00 Z
 permalink: "/blog/2009/02/its-not-mine-alone/"
-layout: post
 ---
 
 I have long felt like I could not impose the demands of my [quest](/darkness-conjecture/rapture/) on others, could not trouble them with it. But today, it occurred to me that my quest is not really just mine. There are plenty of people who are in the same boat as I, having declined/rejected/imploded the roles we were offered in this cancerous culture.

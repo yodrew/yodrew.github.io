@@ -1,8 +1,8 @@
 ---
 title: design bonanza
+layout: post
 date: 2009-07-04 00:00:00 Z
 permalink: "/blog/2009/07/design-bonanza/"
-layout: post
 ---
 
 Still here in Kansas City, MO. It is design bonanza day due to my friend's computer's webcam, which is an absurd but effective way of taking pictures. (edit: I retook 3 photos with a real camera. More photos soon.)

@@ -120,7 +120,7 @@ At last we are prepared to understand the secret of why hygienic darkroom retrea
 
 	Active practices do not compensate for deficient conditions. The passive attitude inspires great care in providing proper conditions. The best darkroom and best retreats result. 
 
-	The attitude rests on knowledge of hygiene, physiology, and the complimentary roles of the conscious and unconscious. This calls for study. For hygiene, I recommend my book, [Shelton's](/nhs.pdf), and [Douglas Graham's](https://foodnsport.com). For psychology, choose among those in my [bibliography](/back/bibliography-influences).
+	The attitude rests on knowledge of hygiene, physiology, and the complimentary roles of the conscious and unconscious. This calls for study. For hygiene, I recommend my book, [Shelton's](/f/hygiene.pdf), and [Douglas Graham's](https://foodnsport.com). For psychology, choose among those in my [bibliography](/back/bibliography-influences).
 3. Environment: a retreat provides the organism all the conditions of profound rest:
 	- social: security, solitude, silence, support, time
 	- mechanical: darkness, warmth, fresh air, comfort, electromagnetic neutrality, safety
@@ -296,7 +296,7 @@ Buckle up. We are heading into the psychological implications of hygienic darkro
 
 &nbsp;
 
-[^1]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf)\*, p35
+[^1]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*, p35
 [^2]: Ibid, p139
 [^3]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
 [^4]: Walter Veith, Adventist evangelist and former biology professor, exposes most spiritual activity as Satanism, ie, the lie of works-based salvation. In his sing-song voice, he makes crystal clear the unified story arc of the Bible and the meaning of Christ's message of salvation by grace. (Hygiene's restful approach to healing translates this message into biological terms.) See his astonishing video series, ["Total Onslaught"](https://adtv.watch/series/total-onslaught).

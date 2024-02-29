@@ -1,8 +1,8 @@
 ---
 title: rapture
-permalink: /conjecture/rapture/
 layout: page
 navprev: basics
+permalink: /conjecture/rapture/
 navnext: hygiene-notes
 ---
 

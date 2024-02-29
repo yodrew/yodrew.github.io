@@ -1,7 +1,7 @@
 ---
 title: Just Living
 layout: page
-navprev: sanity
+navprev: laws
 permalink: /other/just-living/
 navnext: mechanics
 ---

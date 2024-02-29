@@ -1,7 +1,7 @@
 ---
 title: catastrophe
-permalink: /darkness-conjecture/catastrophe/
 layout: redirect
+permalink: /darkness-conjecture/catastrophe/
 redirect: ../../conjecture/catastrophe
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: project
-permalink: /darkness-conjecture/project/
 layout: redirect
+permalink: /darkness-conjecture/project/
 redirect: ../../conjecture/project
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: gift economy basics
+layout: post
 date: 2012-04-01 00:00:00 Z
 permalink: "/blog/2012/04/gift-economy-basics/"
-layout: post
 ---
 
 Here's a letter I just wrote an associate about the gift economy.

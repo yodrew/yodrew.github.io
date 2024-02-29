@@ -1,8 +1,8 @@
 ---
 title: serious darkness
+layout: post
 date: 2010-01-15 00:00:00 Z
 permalink: "/blog/2010/01/serious-darkness/"
-layout: post
 ---
 
 Shortly after returning to San Marcos La Laguna from my seventh attempt at a long retreat in San Pedro La Laguna, several doors opened for me.

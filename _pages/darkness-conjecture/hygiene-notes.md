@@ -1,7 +1,7 @@
 ---
 title: hygiene notes
-permalink: /darkness-conjecture/hygiene-notes/
 layout: redirect
+permalink: /darkness-conjecture/hygiene-notes/
 redirect: ../../conjecture/hygiene-notes
 ---
 

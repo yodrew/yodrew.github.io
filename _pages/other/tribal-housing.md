@@ -3,7 +3,7 @@ title: Tribal Housing
 layout: page
 navprev: ordo
 permalink: /other/tribal-housing/
-navnext: myths
+navnext: building
 ---
 
 #### a design for a full life on $250 a month
@@ -12,7 +12,7 @@ navnext: myths
 
 ### Introduction
 
-After people, shelter is our most immediate need. In our culture, it is also the greatest of our obscene expenses and a heartbreaking damper on our tribal sociality. In this article, I present a design for a new kind of house, which reverses this condition and restores our people, our shelter, and our work to their natural places in our lives.
+After people, shelter is our most immediate need*. In our culture, it is also the greatest of our obscene expenses and a heartbreaking damper on our tribal sociality. In this article, I present a design for a new kind of house, which reverses this condition and restores our people, our shelter, and our work to their natural places in our lives.
 
 Tribal Housing is subsistence-scale shelter which a group of people makes together for itself. In other words, it is exactly like the forts you built with your childhood friends, except it takes a bit more time, you can actually live in it, and your friends do not have to go home after dinner. The house's design is a set of principles, attributes, and measurements you can adapt to any setting. A small group can itself plan and build it quickly and for an astonishingly small amount of money. It works in the city and country, with buildings existing and new, owned and rented, and with any material and method of construction.
 
@@ -102,3 +102,6 @@ _The Continuum Concept_, Jean Liedloff (tribal relationship); _The Path of Least
 
 [**NOTE:** While the mechanics of Tribal Housing as described below are still mostly valid, my thinking about its social context has changed significantly. While I have slightly edited the article to reflect this change, please read [Sociality Undenied](/other/sociality) for a full presentation of my new view of social organization]
 [NOTE 2: Sociality Undenied was subsequently obsoleted by the ideas in [psychosis](/conjecture/psychosis/) and [hygiene](/hygiene#capacity) and even later, [individualism](/other/individualism)]
+[NOTE 3: Find a budget adjusted for 2023 inflation in [economy](/other/economy).]
+
+*Obviously, security, air, and warmth come before both people and shelter. They are all bound up in one another. I was still in the process of making such distinctions at the time I wrote this. It was also an attempt to bring more and better attention to the issue of shelter.

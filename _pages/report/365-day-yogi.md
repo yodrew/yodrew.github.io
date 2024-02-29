@@ -1,7 +1,7 @@
 ---
 title: 365-day retreat of a 150 year-old yogi
-permalink: /report/365-day-yogi/
 layout: page
+permalink: /report/365-day-yogi/
 navprev: 14-day-lindsey-vona
 navnext: 3-day-sith-bathchamber
 ---

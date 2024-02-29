@@ -1,7 +1,7 @@
 ---
 title: health proposal
-permalink: /darkness-conjecture/health-proposal/
 layout: redirect
+permalink: /darkness-conjecture/health-proposal/
 redirect: ../../conjecture/health-proposal
 ---
 

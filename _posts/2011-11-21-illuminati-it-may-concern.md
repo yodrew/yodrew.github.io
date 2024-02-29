@@ -1,8 +1,8 @@
 ---
 title: illuminati it may concern
+layout: post
 date: 2011-11-21 00:00:00 Z
 permalink: "/blog/2011/11/illuminati-it-may-concern/"
-layout: post
 ---
 
 Dear Illuminati,

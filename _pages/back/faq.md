@@ -1,8 +1,8 @@
 ---
 title: faq
 layout: page
-navprev: "../water"
-permalink: "/back/faq/"
+navprev: ../water
+permalink: /back/faq/
 navnext: bibliography-influences
 ---
 
@@ -18,7 +18,7 @@ Some people view this book as fiction. Think of it as a story you can enter and 
 -->
 **1 - Where can I go for a hygienic darkroom retreat?**
 
-I offer [retreats](/back/services#retreat) in America. My collaborators, [Marion Abbott](https://profoundrest.wordpress.com) of Australia and Simen Kirker&oslash;d of Norway are preparing to.
+I offer [retreats](/back/services#retreat) in America. My collaborators, [Marion Abbott](https://profoundrest.wordpress.com) of Australia and Simen Kirkerød of Norway are preparing to.
 
 None of the other 130 dark retreat providers support hygienic retreats. None can. Hygiene is a total commitment. It doesn't mix with other ideas. It is exclusive. Pure truth belies everything else. By the time someone opens a darkroom, he already has a philosophy, program, and business model. His investments in them have become too big to change.
 
@@ -150,19 +150,15 @@ At the moment, your doing a retreat is out of the question. You cannot do it if 
 
 **2 - Why must I read a whole book just to retreat or even talk to you?**
 
-You read it:
-
-1. to prepare. You must know how to retreat hygienically to succeed. This is the book on it.
-
-	It only takes 5 minutes to learn the essence of it. But it takes 4 hours of reading to counter your conditioning to sabotage it. 
-2. to qualify as a suitable client. It shows you will use what I have already given before seeking more.
+1. I like talking to serious people. They use what I have already given before seeking more.
 
 	Reading gives you credibility with me. It shows your diligence and sincerity. It makes our conversation vastly more profitable for both of us.
+	
+	My time must be paid for, not just in money, but in understanding and sincerity. 
+2. You read to prepare. You must know how to retreat hygienically to succeed. This is the book on it.
 
-	My time must be paid for, both in understanding, sincerity, and money. 
-3. to assist me. Someday, I may be able to set things up to support retreats for people who have not read my book. In the meantime, some of the structure necessary for a successful retreat must exist in the being of the retreater. Reading the book builds that structure.
-
-	Getting in on the ground floor of anything takes vision and guts. Fellow innovators and early adopters of hygienic darkroom retreating will rise to the challenge. Everyone else will wait.
+	It only takes 5 minutes to learn the essence of it, another 15 to learn important details. But it takes 4 hours of reading to begin countering the conditioning to sabotage it. We are not just broken but imprisoned, as well.
+3. You read to assist me. Someday, I may be able to structure retreats for those who have not read my book. Meanwhile, some of the structure necessary must exist inside a retreater. Reading the book builds that structure.
 
 <!--&nbsp;-->
 
@@ -172,9 +168,9 @@ No. First, our natural habitat is tropical forest. Its dense canopy makes the fo
 
 Second, covering our eyes, seeking solitude, and taking cover when traumatized is a reflex. Taking extended shelter in darkness merely supports this reflex when the trauma is great. The sheltering instinct intensifies with trauma. The only way to condition us out of it is by force.
 
-Large uncovered windows came to popular architecture very recently. Traditional shelter, civilized and indigenous, is dark or easily darkenable. Traditional people spend more time outside in the bright sun.
+Large uncovered windows came to popular architecture very recently. Traditional shelter, civilized and indigenous, is dark or easily darkenable. Traditional people also spend more time outside in the bright sun.
 
-Our obsession with building---the principle activity of civilization for 13,000 years---indicates a people in search of extreme sanctuary to self-heal from cataclysmic trauma. When we get especially frustrated, we even have wars, destroy countries full of buildings, then build new ones. Nothing could be more natural to us in our damaged state than extended total darkness.
+Our obsession with building---the principle activity of civilization for 13,000 years---indicates a natural need for extreme sanctuary to self-heal from cataclysmic trauma. When we get especially frustrated, we even have wars, destroy countries full of buildings, then build new ones. Nothing could be more natural to us in our damaged state than extended total darkness.
 
 <!--&nbsp;-->
 
@@ -182,17 +178,17 @@ Our obsession with building---the principle activity of civilization for 13,000 
 
 Some Christians who have encountered this idea have attempted to equate physical darkness with the spiritual darkness the Bible speaks against, and is thus Satanic. 
 
-This would mean that physical light is spiritual light. This amounts to sun worship... which is itself Satanism. 
-
 Taking metaphors literally is precisely the abysmal stupidity that rational people rightly mock fundamentalists for. Real Biblical expositors like John MacArthur and Walter Veith warn against it. The Bible is rich with symbols. Their meanings have all been worked out for those who will bother to study.
+
+This would mean that physical light is spiritual light. This amounts to sun worship... which is itself Satanism. It shows how stupidity, at some point, becomes evil.
 
 Satan lies about everything. The defining lie of Satanism is that salvation comes by work. Jesus said that salvation comes only by grace, not works. The idea of hygienic darkroom retreating is that healing (a kind of salvation) comes by rest. Rest is the opposite of work and a corollary of grace.
 
 If a single Biblical passage speaks against extended rest in physical darkness, I'd like to know it. The Bible does tell of several extremely good things that happened during or immediately after people had extended stays in darkness. I demand explanations for them. For example, Elijah in the cave, Jonah in the whale, Lazarus and Jesus in their tombs—not to mention the creation of the world and prayer in closets.
 
-Myself, I began to sense Christ in physical darkness. If darkness were evil, it should have driven me further away from that sense. The psychopaths I have met, including some Christians, hate and fear darkness. I think _the One_ they serve fears it, too. 
+Myself, I began to sense Christ during my dark retreats. If darkness were evil, it should have driven me further away from that sense. It should have inclined me toward greater evil. The psychopaths I have met, including some Christians, hate and fear darkness. I think _the One_ they serve fears it, too.
 
-The God of Psalm 139:13 fears nothing. “If I ascend to heaven, you are there; if I make my bed in Sheol, you are there... Even the darkness is not dark to you.” David was capable of using two different senses of the same word in the same sentence. Like most of his readers, you probably can, too.
+The God of Psalm 139:13 fears nothing. “If I ascend to heaven, you are there; if I make my bed in Sheol, you are there... Even the darkness is not dark to you.” King David was capable of using two different senses of the same word in the same sentence. Like most of his readers, you probably can, too.
 
 <!--&nbsp;-->
 

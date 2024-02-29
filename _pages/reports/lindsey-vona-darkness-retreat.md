@@ -1,7 +1,7 @@
 ---
 title: lindsey vona&#8217;s 14-day darkness retreat
-permalink: /reports/lindsey-vona-darkness-retreat/
 layout: redirect
+permalink: /reports/lindsey-vona-darkness-retreat/
 redirect: ../../report/14-day-lindsey-vona
 ---
 

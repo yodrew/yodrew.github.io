@@ -1,8 +1,8 @@
 ---
 title: strifeless
-permalink: /conjecture/strifeless/
 layout: page
 navprev: catastrophe
+permalink: /conjecture/strifeless/
 navnext: project
 ---
 

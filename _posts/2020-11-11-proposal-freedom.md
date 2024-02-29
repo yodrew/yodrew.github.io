@@ -1,8 +1,8 @@
 ---
 title: "proposal: freedom"
+layout: post
 date: 2020-11-11 00:00:00 Z
 permalink: "/blog/2020/11/proposal-freedom/"
-layout: post
 published: true
 ---
 

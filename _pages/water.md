@@ -44,19 +44,23 @@ It's a 20L bucket with a toilet seat on top (balanced or hooked somehow). No kid
 - put 2 liters of sawdust in the bottom
 - put 15 liters more sawdust in another bucket by the toilet
 - with a scoop, put a 0.5L of sawdust in toilet after each use
-- place toilet away from bed and close to return vent
-- dispose of in a covered compost pile:
-	- include food scraps 
-	- alternate with layers of carbonaceous material like leaves, straw, sawdust
-	- cover with dirt and plenty of carbonaceous material
-	- let it sit for a year before use
+- place toilet by return vent, away from bed
+- disposal:
+	- pour off liquid under trees and bushes
+	- dump solids in a covered compost pile enclosed with wire fencing or plywood
+	- dust it with dirt and cover with a 3-5cm layer of carbonaceous material like leaves, straw, sawdust	
+	- also put food scraps in pile 
+	- let it sit for a year before use. Make a second pile meanwhile.
+	- It's that simple, but I wrote more about [composting toilets](/blog/2024/02/compost-toilet) to allay any concerns and provide more details
 - replace toilet paper with water to ensure cleanliness and prevent abrasion and infection
-	- fill a 0.5--1.5L soda bottle with water
-	- loosen the lid slightly
-	- hold upside down, with lid against lower back
-	- squeeze to get a small stream of water that runs straight down crack over anus
-	- wet fingers of free hand and wash anus
-	- wonder how you ever accomplished this task any other way
+	- get a 0.5--1L soda bottle and wash it out 
+	- poke a hole through the cap at an angle with a large sewing needle
+	- fill bottle with water and cap it
+	- while squatting, hold bottle upside down against lower back
+	- point stream forward, squeeze, and wet other hand
+	- point stream at anus and wash it with wet fingers
+	- realize paper never cleaned you and wonder why you ever tried performing this task that way
+	- pat yourself dry with cloth or paper and be happy
 
 <!--pagebreak-->
 
@@ -68,9 +72,9 @@ The first is a wooden box with a hole in the top and maybe a toilet seat attache
 
 A [vented urinal](/report/2x3-day#mechanical-report) works for men and adventurous women (or is adaptable). A toilet that separates liquid from solids is ideal. The styrofoam "Separett" seat is common in outhouses in Sweden. 
 
-I used a porcelain separating composting toilet there, too. It looked like a regular toilet. It cost about the same to install. It had no ongoing costs and produced high-grade fertilizer. It was 1000x cheaper than a septic system. 
+I used a porcelain separating composting toilet there, too. It looked like a regular toilet. It cost about the same to install and 1000x cheaper than a septic system. It had no operating costs and produced high-grade fertilizer. 
 
-Which is one of industrial design's most disastrous failures. It wastes water. It wastes nutrients, turning them into poison for ground water. 
+Which is one of industrial design's most disastrous failures (almost as bad as strollers and cribs). It wastes water. It wastes nutrients. It turns them into poison for ground water. It fails requiring costly repairs. It's a monument to self-hatred and fear of life.
 
 Composting toilets are the future. 
 
@@ -163,8 +167,8 @@ Adjust shower length and water flow with different size containers and tubes. Ma
 
 ~/~
 
-That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [open-source](/front/introduction#open-source).
+That's the state of my art of low-cost, off-grid, DIY darkroom design and construction. As always, the principles involved (like, water flows downhill) are infinitely adaptable. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [open-source](/front/introduction#open-source).
 
 ~/~
 
-That's also the end of the body of my book. Thank you for reading. I hope it helps you find yourself, recover your health in body and soul, feel joy, and be successful and free.
+That's also the end of the body of my book. Thank you for reading. I hope it helps you find yourself, recover your health in body and soul, feel joy, be successful in all ways, and be free of crime.

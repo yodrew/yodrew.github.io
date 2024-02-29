@@ -1,8 +1,8 @@
 ---
 title: other writings
 layout: redirect
-redirect: ../../other/
 permalink: /other-writings/
+redirect: ../../other/
 ---
 
 Page moved to [other](/other)

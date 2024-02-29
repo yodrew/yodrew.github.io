@@ -1,7 +1,7 @@
 ---
 title: rapture
-permalink: /darkness-conjecture/rapture/
 layout: redirect
+permalink: /darkness-conjecture/rapture/
 redirect: ../../conjecture/rapture
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: the darkness hypothesis
+layout: post
 date: 2013-04-11 00:00:00 Z
 permalink: "/blog/2013/04/the-darkness-hypothesis/"
-layout: post
 ---
 
 For four years, I have been trying to do a 14-day retreat. I thought short retreats were of little value, that a long retreat was the only action that mattered. But a room good for 14-day retreats is harder to set up than one for 5- or 9-day retreats. In my dysfunction, it was too big a leap for me, like trying to jump across a wide river. In my [last retreat](http://andrewdurham.com/2x2), I discovered my first stepping stone.

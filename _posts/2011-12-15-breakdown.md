@@ -1,8 +1,8 @@
 ---
 title: breakdown
+layout: post
 date: 2011-12-15 00:00:00 Z
 permalink: "/blog/2011/12/breakdown/"
-layout: post
 ---
 
 Something important started to change for me last week. I have been hiding my own need for darkness by trying to make it happen for others. I wrote these posts about it on my facebook page this week:

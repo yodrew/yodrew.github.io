@@ -1,7 +1,7 @@
 ---
 title: the conjecture
-permalink: /darkness-conjecture/conjecture/
 layout: redirect
+permalink: /darkness-conjecture/conjecture/
 redirect: ../../conjecture
 ---
 

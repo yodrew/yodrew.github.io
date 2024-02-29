@@ -1,8 +1,8 @@
 ---
 title: john zerzan
+layout: post
 date: 2012-07-15 00:00:00 Z
 permalink: "/blog/2012/07/john-zerzan/"
-layout: post
 ---
 
 John Zerzan was my neighbor in Eugene, Oregon. I got to know him through a long-lost friend who happened to help edit _Green Anarchy Magazine _with John. It was a great honor to meet him. John even critiqued one of my earlier writings, [Sociality Undenied](/other/sociality/). But until now, I had not absorbed his basic ideas from books, only gotten a shallow grasp of his thesis from his articles and conversation.

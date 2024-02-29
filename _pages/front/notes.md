@@ -14,11 +14,11 @@ The book is an integrated whole. Every word aids comprehension, including front 
 
 - [colored](/) words are links<!--notes-->
 - [*italicized*](https://foodnsport.com) links are book titles
-- if also [*asterisked*](/nhs.pdf)\*, book is free to download or read online
+- if also [*asterisked*](/f/hygiene.pdf)\*, book is free to download or read online
 
 ##### media
 
-Paper or e-paper is best for reading. Print a paper copy, or buy one: ([write](/back/services#write)). 8" or 10" e-paper devices from established companies are good. Dasung or Onyx monitors are best for writing and working.
+Paper or e-paper is best for reading. Print a paper copy from this pdf. Or buy one (see [write](/back/services#write)). 8" or 10" e-paper devices from established companies are good. Dasung or Onyx monitors are best for writing and working.
 
 Avoid backlit screens for reading: computers, tablets, phones. They irritate the eyes, disrupt concentration, and lower comprehension.
 

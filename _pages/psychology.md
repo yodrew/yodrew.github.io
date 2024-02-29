@@ -382,7 +382,7 @@ These have massive implications for hygiene's destiny, and mankind's as well.
 
 Hygiene has said illness originates with enervation (exhaustion) and toxemia (poisoning). Its new pathology explains how these conditions themselves originate in trauma. In coming to terms with trauma, hygiene can finally meet and obsolete allopathy (medicine) in its stronghold. 
 
-I discuss these implications further in [hygiene notes](/conjecture/hygiene-notes). I am only saying enough here to give you a solid basis for beginning with hygienic darkroom retreating. If it makes sense to you and you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*Science and Fine Art of Natural Hygiene*](/nhs.pdf)\*.
+I discuss these implications further in [hygiene notes](/conjecture/hygiene-notes). I am only saying enough here to give you a solid basis for beginning with hygienic darkroom retreating. If it makes sense to you and you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*.
 
 &nbsp;
 

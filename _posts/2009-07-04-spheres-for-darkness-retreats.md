@@ -1,8 +1,8 @@
 ---
 title: spheres for darkness retreats
+layout: post
 date: 2009-07-04 00:00:00 Z
 permalink: "/blog/2009/07/spheres-for-darkness-retreats/"
-layout: post
 ---
 
 Where should one do a darkness retreat?

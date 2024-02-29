@@ -1,9 +1,7 @@
 ---
 title: acknowledgments
 layout: redirect
-navprev: "../back/bibliography-influences"
-permalink: "/about/acknowledgments/"
-navnext: "../back/services"
+permalink: /about/acknowledgments/
 redirect: ../../back/acknowledgments
 ---
 

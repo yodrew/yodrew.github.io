@@ -1,8 +1,8 @@
 ---
 title: dreamtime
-permalink: /conjecture/dreamtime/
 layout: page
 navprev: hygiene-notes
+permalink: /conjecture/dreamtime/
 navnext: psychosis
 ---
 

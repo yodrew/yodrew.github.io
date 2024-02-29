@@ -1,8 +1,8 @@
 ---
 title: Poems
 layout: redirect
-redirect: ../../other/poems
 permalink: /other-writings/poems/
+redirect: ../../other/poems
 ---
 
 Page moved to [other > poems](/other/poems)

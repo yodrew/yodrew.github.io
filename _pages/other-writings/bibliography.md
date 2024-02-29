@@ -1,8 +1,8 @@
 ---
 title: Bibliography
 layout: redirect
-redirect: ../../other/bibliography
 permalink: /other-writings/bibliography/
+redirect: ../../other/bibliography
 ---
 
 Page moved to [other > bibliography](/other/bibliography)

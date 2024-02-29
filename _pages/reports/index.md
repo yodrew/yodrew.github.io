@@ -1,8 +1,8 @@
 ---
 title: retreat reports
+layout: redirect
 permalink: /reports/
 redirect: ../../report/
-layout: redirect
 ---
 
 Page moved to [report](/report)

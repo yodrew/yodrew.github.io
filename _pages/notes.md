@@ -1,9 +1,7 @@
 ---
 title: notes
 layout: redirect
-navprev: 
-permalink: "/notes/"
-navnext: 
+permalink: /notes/
 redirect: ../front/notes
 ---
 

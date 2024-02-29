@@ -1,7 +1,7 @@
 ---
 title: the conjecture
-permalink: /conjecture/conjecture/
 layout: redirect
+permalink: /conjecture/conjecture/
 redirect: /conjecture
 ---
 

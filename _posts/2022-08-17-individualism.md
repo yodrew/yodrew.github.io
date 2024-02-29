@@ -1,8 +1,8 @@
 ---
 title: individualism
+layout: post
 date: 2022-08-17 00:00:00 Z
 permalink: "/blog/2022/08/individualism/"
-layout: post
 published: true
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: services
 layout: redirect
-navprev: "../back/acknowledgments"
-permalink: "/about/services/"
-navnext: "../back/license"
+permalink: /about/services/
 redirect: ../../back/services
 ---
 

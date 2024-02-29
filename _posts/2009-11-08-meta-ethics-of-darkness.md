@@ -1,8 +1,8 @@
 ---
 title: meta-ethics of darkness
+layout: post
 date: 2009-11-08 00:00:00 Z
 permalink: "/blog/2009/11/meta-ethics-of-darkness/"
-layout: post
 ---
 
 On the metaphysics of self-preservation: "Consciousness, for those organisms which possess it, is the basic means of survival." –Ayn Rand

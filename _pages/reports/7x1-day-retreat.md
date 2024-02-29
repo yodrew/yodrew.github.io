@@ -1,7 +1,7 @@
 ---
 title: 7x1-day retreat
-permalink: /report/7x1-day-retreat/
 layout: redirect
+permalink: /report/7x1-day-retreat/
 redirect: ../../report/7x1-day
 ---
 

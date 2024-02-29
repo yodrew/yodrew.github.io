@@ -1,9 +1,7 @@
 ---
 title: participate
 layout: redirect
-navprev: "../back/license"
-permalink: "/about/participate/"
-navnext: "../back/bio"
+permalink: /about/participate/
 redirect: ../../back/participate
 ---
 

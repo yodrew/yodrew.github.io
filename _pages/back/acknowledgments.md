@@ -2,7 +2,7 @@
 title: acknowledgments
 layout: page
 navprev: bibliography-influences
-permalink: "/back/acknowledgments/"
+permalink: /back/acknowledgments/
 navnext: participate
 ---
 
@@ -20,7 +20,7 @@ Thanks to hundreds of people in a dozen countries on 2 continents for over 3 dec
 
 
 - Marion Abbott, for friendship, overflowing transworld conversations, and constant in-the-trenches support starting 2016
-- Simen Kirker&oslash;d, friend, host, serious retreater and observer, with loads of ideas and help since 2013
+- Simen Kirkerød, friend, host, serious retreater and observer, with loads of ideas and help since 2013
 - Johan J&auml;rlind: investor-partner, retreat supporter, confidant, and friend in critical years 2012-13. You gave me so much, I'm speechless except... thank you.
 - Chrissy Weisgard: friend, host, client, morale-booster since 2009
 

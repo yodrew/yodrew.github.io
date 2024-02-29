@@ -1,8 +1,8 @@
 ---
 title: love vs civilization
+layout: post
 date: 2010-10-11 00:00:00 Z
 permalink: "/blog/2010/10/love-vs-civilization/"
-layout: post
 ---
 
 Mayan youth, a quietly defiant demographic, have been playing "Love the Way You Lie" by Eminem and Rihanna over and over. So I read the [lyrics](http://www.directlyrics.com/eminem-love-the-way-you-lie-lyrics.html).

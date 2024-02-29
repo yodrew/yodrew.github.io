@@ -3,7 +3,7 @@ title: Sanity and Health
 layout: page
 navprev: free
 permalink: /other/sanity/
-navnext: just-living
+navnext: laws
 ---
 
 [See NOTE below]

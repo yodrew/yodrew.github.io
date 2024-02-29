@@ -1,8 +1,8 @@
 ---
 title: building
 layout: redirect
-permalink: "/building/"
-redirect: ../resource/building
+permalink: /building/
+redirect: ../other/building
 ---
 
-Page moved [resource > building](/resource/building)
+Page moved [other > building](/other/building)

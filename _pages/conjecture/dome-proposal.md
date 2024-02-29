@@ -1,8 +1,8 @@
 ---
 title: dome proposal
-permalink: /conjecture/dome-proposal/
 layout: page
 navprev: 
+permalink: /conjecture/dome-proposal/
 navnext: 
 ---
 

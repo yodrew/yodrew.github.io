@@ -1,7 +1,7 @@
 ---
 title: four darkness experiences
-permalink: /reports/four-darkness-experiences/
 layout: redirect
+permalink: /reports/four-darkness-experiences/
 redirect: ../../report/five-darkness-experiences
 ---
 

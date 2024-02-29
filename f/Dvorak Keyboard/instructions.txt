@@ -1,9 +1,0 @@
-# Portable Keyboard Layout: Instructions
-
-- Start in file manager: > Download > Dvorak Keyboard > pkl.exe
-- TimeOut (deactivation) after 5 minutes without a keystroke
-- Toggle on/off:
-	- hit Left Alt + Right Alt at same time
-	- in quick access/utility window of taskbar, bottom right of screen, click red or green PKL icon
-- Change keybinding and timeout in pkl.ini file
-- Requires restart after logging out

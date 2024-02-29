@@ -1,8 +1,8 @@
 ---
 title: "politics: distributed and centralized"
+layout: post
 date: 2022-12-22 00:00:00 Z
 permalink: "/blog/2022/12/politics-distributed-centralized/"
-layout: post
 published: true
 ---
 

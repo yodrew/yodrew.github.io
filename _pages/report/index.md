@@ -1,7 +1,7 @@
 ---
 title: retreat reports
-permalink: /report/
 layout: page
+permalink: /report/
 navprev: 
 navnext: report/five-darkness-experiences
 ---

@@ -1,8 +1,8 @@
 ---
 title: freedom through darkness
+layout: post
 date: 2019-11-15 00:00:00 Z
 permalink: "/blog/2019/11/freedom-through-darkness/"
-layout: post
 ---
 
 _a new political strategy based on the biological origin of power_  

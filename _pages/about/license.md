@@ -1,9 +1,7 @@
 ---
 title: license
 layout: redirect
-navprev: "../back/services"
-permalink: "/about/license/"
-navnext: "../back/participate"
+permalink: /about/license/
 redirect: ../../back/license
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: long time again
+layout: post
 date: 2019-11-14 00:00:00 Z
 permalink: "/blog/2019/11/long-time-again/"
-layout: post
 ---
 
 Boy, it has been a long time again since I posted. 

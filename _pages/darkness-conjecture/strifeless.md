@@ -1,7 +1,7 @@
 ---
 title: strifeless
-permalink: /darkness-conjecture/strifeless/
 layout: redirect
+permalink: /darkness-conjecture/strifeless/
 redirect: ../../conjecture/strifeless
 ---
 

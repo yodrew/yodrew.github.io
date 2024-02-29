@@ -1,8 +1,8 @@
 ---
 title: superlight hypothesis
+layout: post
 date: 2010-01-15 00:00:00 Z
 permalink: "/blog/2010/01/superlight-hypothesis/"
-layout: post
 ---
 
 For the record: when I finally succeed in spending two weeks in darkness, here is one thing I predict will happen.

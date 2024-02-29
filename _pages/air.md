@@ -198,22 +198,24 @@ The universal vent can be shortened for use inside a silencer or other enclosure
 
 The short version is 168 x 266 x 84 thick. If an even smaller vent is required:
 
-- use thin cardboard and trim the protruding walls
+- use thin cardboard
+	- slide all baffles leftward, maintaining 32 (and 34) spacing
+	- trim the protruding walls
 - use black posterboard for walls instead of cardboard
 - shrink the design proportionally
 - use my old helix-z vent in the zip file
 
-With thought and experiment, every engineering problem can be solved. This is the awesome and terrifying power of technique: of physics and engineering. Let us use it to our advantage, for the purpose of coming back to life.
+With thought and experiment, every engineering problem can be solved. This is the awesome and terrifying power of _technique_: of physics and engineering. Let us use it to our advantage, for the purpose of coming back to life.
 
 #### threshold
 
-A bedroom door often has a gap under it, at the threshold, for ventilation. A threshold vent uses this gap to let air through but not light. The design adapts to door width, door thickness, and gap under the door. Also, it adapts to how much light is outside the door.
+A bedroom door often has a gap under it, at the threshold, for ventilation. A threshold vent uses this gap to let air through but not light. The design adapts to door width, door thickness, and gap under the door. It also adapts to how much light is outside the door.
 
-If the gap is greater than 40, add wood to bottom of door or build up threshold with boards. Or modify the vent's design using its principles. If less than 13, use black paper in place of fleece for the vent baffle, along with black paper over the threshold. If less than 6, consider trimming the bottom of the door. Or find another way to ventilate the room.
+If the gap is greater than 40, add wood to bottom of door or build up threshold with boards. Or modify the vent's design. If less than 13, use black paper in place of fleece for the vent baffle, along with black paper over the threshold. If less than 6, trim the bottom of the door or find another way to ventilate the room.
 
-Just the vent walls are enough if the light outside the door is dim. If bright, use one or two hoods as well. 
+If the light outside the door is dim, just the vent walls are enough. If bright, use one or two hoods as well. You can add them later after testing.
 
-Usually, you need to darken it anyway. Either you need a path to a bathroom. Or your supporter need to get in without lighting you up. Cover windows in the hallway. Make a curtain across the hallway with a dark blanket fixed to the walls and ceiling with tape or tacks.
+Usually, you need to darken the area outside your door anyway. Either you need a path to a bathroom. Or your supporter needs to get in without lighting up your room. Cover windows in the hallway. Make a curtain across the hallway with a dark blanket fixed to the walls and ceiling with tape or tacks.
 
 Or make a [removable partition](https://andrewdurham.shutterfly.com/313). It's a wooden frame a little wider than the hallway so it wedges in place at an angle. It has a fleece seal around the frame. It is filled with black plastic sheeting. It is penetrated by ducting or universal vents as needed.
 
@@ -233,9 +235,10 @@ plan: threshold vent - [download](/img/plan/threshold-vent.pdf)
 2. prepare pattern with instructions in [fabricate](/make#fabricate)
 3. cardboard
 	- fold at creases a little past 90° 
-	- edges of hood that fold into each other: crush to 45° so that edges of outer facing of cardboard touch
-	- put glue into creases before folding cardboard into final shape. Hold vent pieces in position with books and boards while glue dries.
+	- edges of hood that fold into each other: crush to 45° so that edges of outer facing of cardboard meet
+	- put glue into creases (except hood flange crease) before folding cardboard into final shape. Hold vent pieces in position with books and boards while glue dries.
 	- glue the seals onto hood, long skinny ones first
+	- put glue into hood flange crease and hold in position till it dries
 4. line wall and hood pieces with muslin, except on flaps, gluing it on
 5. position one vent wall on door so that it is 5 above high point of floor in swing area of door. Tack in place with masking tape. Once it is perfect, mark its position with tape. Duplicate marks on the other side of the door.
 6. attach muslin over area of door that vent will cover. Width: 420. Length: from 20 above wall on one side to same height on other, wrapped under the door. Use double-sided tape. Seal with finger nail. If no hood is needed, masking tape works, too. Use wall as guide or remove it and use tape marks. Remove wall afterward.

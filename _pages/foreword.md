@@ -1,9 +1,7 @@
 ---
 title: foreword
 layout: redirect
-navprev: 
-permalink: "/foreword/"
-navnext: 
+permalink: /foreword/
 redirect: ../front/foreword
 ---
 

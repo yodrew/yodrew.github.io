@@ -154,7 +154,7 @@ Shelton describes hygiene as "the employment of materials, agents, and influence
 
 I have grouped laws by importance and subject. Four primary laws form the context for the rest. Two of them, _Coordination_ and _Capacity_, I formulated. 
 
-This is an overhaul of the [original list](/resource/laws). I had some criticisms of it. Names in (parentheses) below derive from it.
+This is an overhaul of the [original list](/f/laws). I had some criticisms of it. Names in (parentheses) below derive from it.
 
 Here are all the Laws of Life, the strongest dose of hygienism you can get.
 
@@ -205,7 +205,7 @@ Other laws follow. The _Law of Action_ states that only the organism performs vi
 
 Thus, no drug, herb, or food heals; neither any condition nor practice; nor treatment, person, or device. There is no cure, no indication to medicate. Attempting to correct the organism from the outside further traumatizes, poisons, and exhausts its power to heal itself. Whatever benefit appears in the short term undermines vitality in the long term. Such attempts mask the body's illness and delay its healing. This is an example of the intriguing _Law of Dual Effect_.
 
-Find further discussion of these laws by [Shelton](/nhs.pdf) and other hygienists he mentions.
+Find further discussion of these laws by [Shelton](/f/hygiene.pdf) and other hygienists he mentions.
 
 #### examples
 
@@ -319,5 +319,5 @@ This is the general theory of hygiene 3.0. Now we can better apprehend our main 
 
 [^1]: Herbert Shelton, [*Natural Hygiene: Man's Pristine Way of Life*](https://bit.ly/euphoriaquote)\*, elegantly paraphrased by TC Fry, [*Life Science Health System*](https://bit.ly/lifesciencehealth)\*.
 [^2]: Sadly, White established a tradition of abusing people from the pulpits of Adventist churches. I recommend against visiting. But Walter Veith's lecture series, ["Total Onslaught"](https://adtv.watch/series/total-onslaught), is electrifying. He correlates major historical figures, events, and ideas—and the strange forces often at work in them—with the Bible and its prophecies.
-[^3]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/nhs.pdf)\*, back cover.
+[^3]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*, back cover.
 [^4]: religion, Latin, re (_again_) + leg (_law_), an internal binding to law. It is mad act, making people strange.

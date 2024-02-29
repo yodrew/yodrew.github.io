@@ -1,8 +1,8 @@
 ---
 title: psychosis
-permalink: /conjecture/psychosis/
 layout: page
 navprev: dreamtime
+permalink: /conjecture/psychosis/
 navnext: catastrophe
 ---
 

@@ -2,7 +2,7 @@
 title: license
 layout: page
 navprev: participate
-permalink: "/back/license/"
+permalink: /back/license/
 navnext: services
 ---
 

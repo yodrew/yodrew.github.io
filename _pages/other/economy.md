@@ -1,5 +1,5 @@
 ---
-title: economy
+title: Economy
 layout: page
 navprev: mechanics
 permalink: /other/economy/

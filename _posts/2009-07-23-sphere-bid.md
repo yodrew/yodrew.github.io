@@ -1,8 +1,8 @@
 ---
 title: sphere bid
+layout: post
 date: 2009-07-23 00:00:00 Z
 permalink: "/blog/2009/07/sphere-bid/"
-layout: post
 ---
 
 Here is my quick bid for the direct costs of building the sphere.

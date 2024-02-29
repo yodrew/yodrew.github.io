@@ -1,7 +1,7 @@
 ---
 title: five darkness experiences
-permalink: /report/five-darkness-experiences/
 layout: page
+permalink: /report/five-darkness-experiences/
 navprev: 
 navnext: 7-day
 ---

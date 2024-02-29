@@ -1,7 +1,7 @@
 ---
 title: 14-day retreat of lindsey vona
-permalink: /report/14-day-lindsey-vona/
 layout: page
+permalink: /report/14-day-lindsey-vona/
 navprev: 2x3-day
 navnext: 365-day-yogi
 ---

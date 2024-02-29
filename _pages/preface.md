@@ -1,9 +1,7 @@
 ---
 title: preface
 layout: redirect
-navprev: "front/foreword"
-permalink: "/preface/"
-navnext: "front/introduction"
+permalink: /preface/
 redirect: ../front/preface
 ---
 

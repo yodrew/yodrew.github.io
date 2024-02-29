@@ -1,8 +1,8 @@
 ---
 title: "scene: intro"
+layout: post
 date: 2020-11-10 12:00:01 Z
 permalink: "/blog/2020/11/scene-intro/"
-layout: post
 published: true
 ---
 

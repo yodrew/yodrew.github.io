@@ -1,7 +1,7 @@
 ---
 title: dome proposal
-permalink: /darkness-conjecture/dome-proposal/
 layout: redirect
+permalink: /darkness-conjecture/dome-proposal/
 redirect: ../../conjecture/dome-proposal
 ---
 

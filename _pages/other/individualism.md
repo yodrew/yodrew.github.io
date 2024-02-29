@@ -1,9 +1,9 @@
 ---
 title: individualism
 layout: page
-previous: nothing
+navprev: nothing
 permalink: /other/individualism/
-next: free 
+navnext: free 
 ---
 
 ### notes toward an individualist form of government

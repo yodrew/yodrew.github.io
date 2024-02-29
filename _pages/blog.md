@@ -1,8 +1,8 @@
 ---
-permalink: "/blog/"
+title: blog
 layout: blog
-navprev: "/about"
-navup: "/"
-navnext: "/conjecture"
+navprev: /about
+permalink: /blog/
+navnext: /conjecture
 ---
 

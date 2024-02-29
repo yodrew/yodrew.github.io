@@ -207,21 +207,23 @@ A hygienic Czech retreat has:
 - the same total amount of darkness (8 nights, 10 with buffer days)
 - time to absorb the benefits (2 transition and 2 buffer days)
 - a single qualified supporter (who has done a 5- or 9-day retreat and understood my book)
-- a shared building (supporter and maybe respectful housemates in other bedrooms, or kitchen used briefly during the day by staff, or multiple darkrooms with unshared walls)
+- one building for both retreater and supporter 
+	- with sonic isolation between darkroom and supporter quarters
+	- kitchen and bathroom can be used by supporter
 - lower expectations for results than in a standard retreat
 - a quiet, well-ventilated darkroom of superior design
 - hygienic (frugivorous) food 
 - better prepared retreaters
 
-The typical 7-night retreat of the Czechs may be why they avoid the injury of over-loss of false capacity despite deficiencies in their operations. Their wisdom in this can safeguard us, too, as we continue retreating while organizing standard 9-day and medium retreats.
+The typical 7-day retreat of the Czechs may be why they avoid the injury of over-loss of false capacity despite deficiencies in their operations. Their wisdom in this can safeguard us, too, until we can organize standard 9-day and medium retreats.
 
 **Problems:** Supplies might run out. The supporter might get tired or need to go out. These have three solutions.
 
 - planning: think of contingencies. Buy extra stuff: food, spare heater, fan. Whatever might break or run out. 
 - help: 
 	- a friend, assistant, or a grocery delivery service
-	- a substitute whom both know and trust relieves the supporter for a day or a night halfway through the retreat's dark period
-- telephone: supporter goes out with a phone, telling retreater. Retreater has a darkened programmed phone to call with. 3 hours max. This can happen once halfway through and on buffer and transition days. This is a last resort. 
+	- a substitute supporter relieves the main supporter for a night halfway through the retreat's dark period
+- telephone: supporter goes shopping with a phone, telling retreater. Retreater has a darkened programmed phone to call with. 3 hours max. This can happen once halfway through and on buffer and transition days. This is a last resort. 
 - breaks: supporter gets long breaks between supporting retreats, 1-2 weeks
 
 Don't push things. Err conservatively. Build in surpluses and redundancies wherever possible. The retreater needs someone around for minimal psychic shielding, as with the standard retreat. The supporter needs care, too.

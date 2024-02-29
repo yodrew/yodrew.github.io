@@ -1,8 +1,8 @@
 ---
 title: update 2019 november
+layout: post
 date: 2019-11-28 00:00:00 Z
 permalink: "/blog/2019/11/update-2019-november/"
-layout: post
 ---
 
 I figured out two important things this month:

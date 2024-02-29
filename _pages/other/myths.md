@@ -1,7 +1,7 @@
 ---
 title: myths
 layout: page
-navprev: tribal-housing
+navprev: building
 permalink: /other/myths/
 navnext: poems
 ---

@@ -1,9 +1,7 @@
 ---
 title: dedication
 layout: redirect
-navprev: 
-permalink: "/dedication/"
-navnext: 
+permalink: /dedication/
 redirect: ../front/dedication
 ---
 

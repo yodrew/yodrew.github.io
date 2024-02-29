@@ -1,9 +1,7 @@
 ---
 title: bibliography and influences
 layout: redirect
-navprev: "../back/faq"
-permalink: "/about/bibliography-influences/"
-navnext: "../back/acknowledgments"
+permalink: /about/bibliography-influences/
 redirect: ../../back/bibliography-influences
 ---
 

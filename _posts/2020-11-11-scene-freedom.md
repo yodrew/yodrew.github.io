@@ -1,8 +1,8 @@
 ---
 title: scene-freedom
+layout: post
 date: 2020-11-11 12:00:00 Z
 permalink: "/blog/2020/11/scene-freedom/"
-layout: post
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: health proposal
-permalink: /conjecture/health-proposal/
 layout: page
 navprev: 
+permalink: /conjecture/health-proposal/
 navnext: 
 ---
 

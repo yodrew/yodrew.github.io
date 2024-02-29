@@ -1,7 +1,7 @@
 ---
 title: 7-day retreat
-permalink: /report/7-day/
 layout: page
+permalink: /report/7-day/
 navprev: five-darkness-experiences
 navnext: 6-day
 ---

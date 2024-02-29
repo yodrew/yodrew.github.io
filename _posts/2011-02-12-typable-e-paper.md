@@ -1,8 +1,8 @@
 ---
 title: typable e-paper
+layout: post
 date: 2011-02-12 00:00:00 Z
 permalink: "/blog/2011/02/typable-e-paper/"
-layout: post
 ---
 
 I was talking with someone about my undying quest for typable e-paper. He concluded his comments with this suggestion:

@@ -1,7 +1,7 @@
 ---
 title: basics
-permalink: /darkness-conjecture/basics/
 layout: redirect
+permalink: /darkness-conjecture/basics/
 redirect: ../../conjecture/basics
 ---
 

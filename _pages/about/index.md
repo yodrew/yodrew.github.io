@@ -2,7 +2,7 @@
 title: about
 layout: page
 navprev: 
-permalink: "/about/"
+permalink: /about/
 navnext: /back/faq
 ---
 
@@ -25,11 +25,7 @@ See more about:
 - ways to [participate](/back/participate)
 - [me](/back/bio)
 
-### contact
-
 {% include contact.md %}
-
-### newsletter
 
 {% include newsletter.md %}
 
@@ -41,4 +37,4 @@ See more about:
 
 [web.archive.org](https://web.archive.org) does a fair job of tracking the changes.
 
-
+{% include cover.md %}

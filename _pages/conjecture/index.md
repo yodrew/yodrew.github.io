@@ -1,8 +1,8 @@
 ---
 title: the darkness conjecture
-permalink: /conjecture/
 layout: page
 navprev: 
+permalink: /conjecture/
 navnext: conjecture/basics
 ---
 

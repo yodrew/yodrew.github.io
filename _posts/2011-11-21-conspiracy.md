@@ -1,8 +1,8 @@
 ---
 title: conspiracy
+layout: post
 date: 2011-11-21 00:00:00 Z
 permalink: "/blog/2011/11/conspiracy/"
-layout: post
 ---
 
 Here is something I wrote a friend about conspiracy theory following a conversation we had recently on the subject.

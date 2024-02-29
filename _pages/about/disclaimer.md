@@ -1,9 +1,7 @@
 ---
 title: disclaimer
 layout: redirect
-navprev: "../front/dedication"
-permalink: "/about/disclaimer/"
-navnext: "../front/notes"
+permalink: /about/disclaimer/
 redirect: ../../front/disclaimer
 ---
 

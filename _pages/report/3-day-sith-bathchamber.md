@@ -1,7 +1,7 @@
 ---
 title: dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust
-permalink: /report/3-day-sith-bathchamber/
 layout: page
+permalink: /report/3-day-sith-bathchamber/
 navprev: 365-day-yogi
 navnext: 
 ---

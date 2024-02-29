@@ -1,8 +1,8 @@
 ---
 title: catastrophe
-permalink: /conjecture/catastrophe/
 layout: page
 navprev: psychosis
+permalink: /conjecture/catastrophe/
 navnext: strifeless
 ---
 

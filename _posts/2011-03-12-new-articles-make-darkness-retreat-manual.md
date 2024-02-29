@@ -1,8 +1,8 @@
 ---
 title: new articles - make darkness & retreat manual
+layout: post
 date: 2011-03-12 00:00:00 Z
 permalink: "/blog/2011/03/new-articles-make-darkness-retreat-manual/"
-layout: post
 ---
 
 EDIT: these articles were renamed "make" and "protocol"

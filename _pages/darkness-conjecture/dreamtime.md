@@ -1,7 +1,7 @@
 ---
 title: dreamtime
-permalink: /darkness-conjecture/dreamtime/
 layout: redirect
+permalink: /darkness-conjecture/dreamtime/
 redirect: ../../conjecture/dreamtime
 ---
 

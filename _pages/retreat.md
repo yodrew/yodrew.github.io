@@ -1,10 +1,8 @@
 ---
 title: retreat!
 layout: redirect
-navprev: 
-permalink: "/retreat/"
-navnext:
-redirect: ../resource/enroll
+permalink: /retreat/
+redirect: ../store/enroll
 ---
 
-Page renamed and moved to [enroll](/resource/enroll). See new process in [services](/back/services#retreat).
+Page renamed and moved to [enroll](/store/enroll). First, see whole process in [services](/back/services#retreat).

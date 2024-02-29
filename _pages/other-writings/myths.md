@@ -1,8 +1,8 @@
 ---
 title: myths
 layout: redirect
-redirect: ../../other/myths
 permalink: /other-writings/myths/
+redirect: ../../other/myths
 ---
 
 Page moved to [other > myths](/other/myths)

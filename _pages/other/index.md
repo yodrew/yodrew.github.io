@@ -29,7 +29,7 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 
 ### Health
 
-- [Sanity and Health](./sanity/) intro (this led to the [darkness conjecture](../conjecture/) then [hygienic darkroom retreat](/))
+- [Sanity and Health](./sanity/) intro (This led to the [darkness conjecture](../conjecture/) then [hygienic dark retreat](/).)
 
 ### Design
 
@@ -38,7 +38,9 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 - [Economy](./economy/) sane personal economy based on Tribal Housing (adjusted for inflation), 2023
 - [ORDO](./ordo/) an American art of placement, 2001
 - [Tribal Housing](./tribal-housing/) a design for a full life on $250 a month, 2000
-<!-- - [Gallery](https://andrewdurham.shutterfly.com) photos of my projects (at shutterfly.com)-->
+- [Building](./building) a record of some things I've made
+- Gallery - photos of my projects (currently inaccessible; under repair)
+
 
 ### Art
 
@@ -53,6 +55,7 @@ For 21 years, I have combed the edges of philosophy, health, and design for clue
 	- [Bibliography](./bibliography) five cranial supernovas + honorable mentions
 	- [Aphorisms](./aphorisms): sayings relevant to darkness <span id=new>NEW</span>
 - health
+	- [Laws](/f/laws) hygiene's Laws of Life
 	- [Virus](/f/virus) by Klein & Sniadach: the apotheosis of germ theory, medicine's favorite hoax <span id=new>NEW</span>
 	- [Fasting: A Prodigious Discovery](/f/fasting-discovery) by Albert Mosseri, French hygienic master, _excerpted from:_
 	- [Fasting: Nature's Best Remedy](/f/fasting) by Albert Mosseri

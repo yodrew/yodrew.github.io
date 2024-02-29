@@ -1,7 +1,7 @@
 ---
 title: appendix - pathology
-permalink: "/appendix-pathology/"
 layout: redirect
+permalink: /appendix-pathology/
 redirect: ../psychology#old
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: how not to retreat
+layout: post
 date: 2013-05-10 00:00:00 Z
 permalink: "/blog/2013/05/how-not-to-retreat/"
-layout: post
 ---
 
 Retreating for less than 56 hours seems to be a really bad idea. \[EDIT: glad to be wrong about this! See UPDATE below\]

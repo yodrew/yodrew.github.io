@@ -1,8 +1,8 @@
 ---
 title: new page - health proposal
+layout: post
 date: 2009-09-27 00:00:00 Z
 permalink: "/blog/2009/09/new-page-health-proposal/"
-layout: post
 ---
 
 I just added a new page, [health proposal](/darkness-conjecture/health-proposal), to the site. It is my latest attempt to apply the darkness conjecture with others in a self-supporting, mutually beneficial way.

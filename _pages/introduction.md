@@ -1,9 +1,7 @@
 ---
 title: introduction
 layout: redirect
-navprev: 
-permalink: "/introduction/"
-navnext: 
+permalink: /introduction/
 redirect: ../front/introduction
 ---
 

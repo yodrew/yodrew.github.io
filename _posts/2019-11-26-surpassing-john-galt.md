@@ -1,8 +1,8 @@
 ---
 title: surpassing john galt
+layout: post
 date: 2019-11-26 00:00:00 Z
 permalink: "/blog/2019/11/surpassing-john-galt"
-layout: post
 ---
 
 > "Poor is the pupil who does not surpass his master,  

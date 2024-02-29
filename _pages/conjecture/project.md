@@ -1,8 +1,8 @@
 ---
 title: project
-permalink: /conjecture/project/
 layout: page
 navprev: strifeless
+permalink: /conjecture/project/
 navnext: 
 ---
 

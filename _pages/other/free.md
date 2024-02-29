@@ -1,12 +1,12 @@
 ---
-title: free
+title: Free
 layout: page
 navprev: individualism
 permalink: /other/free/
 navnext: sanity
 ---
 
-[NOTE: from 2011, this was an early, flawed attempt at an [individualist politics](/other/individualism). Nothing came of this.]
+[NOTE: from 2011, this was an early, flawed attempt at an [individualist politics](/other/individualism).]
 
 A simple plan for freedom, as applied to a piece of land in Guatemala.
 

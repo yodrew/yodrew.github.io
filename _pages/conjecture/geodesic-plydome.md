@@ -1,8 +1,8 @@
 ---
 title: geodesic plydome
-permalink: /conjecture/geodesic-plydome/
 layout: page
 navprev: 
+permalink: /conjecture/geodesic-plydome/
 navnext: 
 ---
 

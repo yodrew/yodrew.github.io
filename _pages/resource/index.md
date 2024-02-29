@@ -1,10 +1,9 @@
 ---
 title: resource
-permalink: "/resource/"
-layout: page
-navprev: 
-navnext: 
+layout: redirect
+permalink: /resource/
+redirect: /store
 ---
 
-
+Page moved to [store](/store)
 

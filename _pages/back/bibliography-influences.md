@@ -2,7 +2,7 @@
 title: bibliography and influences
 layout: page
 navprev: faq
-permalink: "/back/bibliography-influences/"
+permalink: /back/bibliography-influences/
 navnext: acknowledgments
 ---
 
@@ -39,7 +39,7 @@ navnext: acknowledgments
 		- initiated into hygiene by [Frederic Patenaude](https://fredericpatenaude.com), author of _The Raw Secrets_, which I edited and co-published.
 		- _Do You Really Need Eyeglasses?_, Marilyn B. Rosanes-Berrett
 		- _Fit for Life_, Harvey and Marilyn Diamond
-		- [*Science and Fine Art of Natural Hygiene*](/nhs.pdf), Herbert Shelton
+		- [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf), Herbert Shelton
 		- _The 80/10/10 Diet_, [Dr Douglas Graham](https://foodnsport.com)
 	- _Introduction to Human Technology_ and _Human Technology_, William Arthur Evans (thanks to friend, Sterling Voss, for finding this rare work)
 

@@ -1,7 +1,7 @@
 ---
 title: geodesic plydome
-permalink: /darkness-conjecture/geodesic-plydome/
 layout: redirect
+permalink: /darkness-conjecture/geodesic-plydome/
 redirect: ../../conjecture/geodesic-plydome
 ---
 

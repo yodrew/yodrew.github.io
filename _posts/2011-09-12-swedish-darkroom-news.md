@@ -1,8 +1,8 @@
 ---
 title: swedish darkroom news
+layout: post
 date: 2011-09-12 00:00:00 Z
 permalink: "/blog/2011/09/swedish-darkroom-news/"
-layout: post
 ---
 
 Location secured for world's second hygienic darkness retreat: newly remodeled small cabin in quiet neighborhood of Swedish resort town. Modifications commence tomorrow; first retreat within two weeks.

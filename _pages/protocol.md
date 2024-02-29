@@ -266,7 +266,7 @@ Breathing is normally through the nose. The tongue rests, sucked against the roo
 
 #### beyond
 
-Beyond these ordinary objects of attention, I have often seen unusual images. Vaulted ceilings often appear. Sometimes they are low, dark, and grey or brown; sometimes high, airy, lit, and colored. Once I saw a vivid [still life mural](/report/four-darkness-experiences#2008-Oct-25). 
+Beyond these ordinary objects of attention, I have often seen unusual images. Vaulted ceilings often appear. Sometimes they are low, dark, and grey or brown; sometimes high, airy, lit, and colored. Once I saw a vivid [still life mural](/report/five-darkness-experiences#2008-Oct-25). 
 
 Such images often come in dreams and stay upon waking up. Clients have reported them, too. They are different than the imagery when looking at darkness. They come spontaneously. They have an objective quality, as if one is looking at something outside oneself. They are hyper-real: they are extremely vivid and feel more real than things in daily life. They are bracing and compelling. 
 

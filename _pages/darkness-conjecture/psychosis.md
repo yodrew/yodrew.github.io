@@ -1,7 +1,7 @@
 ---
 title: psychosis
-permalink: /darkness-conjecture/psychosis/
 layout: redirect
+permalink: /darkness-conjecture/psychosis/
 redirect: ../../conjecture/psychosis
 ---
 
