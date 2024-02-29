@@ -213,9 +213,8 @@ endorsement - [questioncopyright.org/creator_endorsed.html](https://questioncopy
 
 store - [darkroomretreat.com/store](https://darkroomretreat.com/store)  
 confer - [darkroomretreat.com/store/confer](https://darkroomretreat.com/store/confer)  
-support - [darkroomretreat.com/support](https://darkroomretreat.com/support)  
-confer - [darkroomretreat.com/store/confer](https://darkroomretreat.com/store/confer)  
 enroll - [darkroomretreat.com/store/enroll](https://darkroomretreat.com/store/enroll)  
+confer - [darkroomretreat.com/store/confer](https://darkroomretreat.com/store/confer)  
 Profound Rest Retreats - [profoundrest.wordpress.com](https://profoundrest.wordpress.com)  
 ebook at leanpub - [leanpub.com/darkroomretreat](https://leanpub.com/darkroomretreat)  
 hygienic house - [darkroomretreat.com/plan](https://darkroomretreat.com/plan)  

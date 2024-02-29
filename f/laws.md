@@ -1,9 +1,9 @@
 ---
 title: laws
 layout: page
-navprev: sanity
-permalink: /resource/laws/
-navnext: just-living
+navprev: 
+permalink: /f/laws/
+navnext: 
 ---
 
 This is the [original list](https://www.getwellstaywellamerica.com/NHygiene/LAWSlife.htm). Victoria Bidwell compiled them from Shelton, Tilden, et al. My criticisms follow. [My version](/hygiene#laws-of-life) is in my book.
