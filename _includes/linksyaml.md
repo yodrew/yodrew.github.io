@@ -6,3 +6,5 @@ permalink: /back/links/
 navnext: 
 ---
 
+Here are external links of the book, with addresses, in order of appearance.
+

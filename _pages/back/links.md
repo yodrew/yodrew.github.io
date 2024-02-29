@@ -6,9 +6,9 @@ permalink: /back/links/
 navnext: 
 ---
 
-Here are links external to the book, with addresses, in order of appearance.
+Here are external links of the book, with addresses, in order of appearance.
 
-#### notes
+###### notes
 
 underlined - [darkroomretreat.com/](https://darkroomretreat.com/)  
 *italicized* - [foodnsport.com](https://foodnsport.com)  
