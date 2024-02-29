@@ -218,6 +218,9 @@ confer - [darkroomretreat.com/store/confer](https://darkroomretreat.com/store/co
 Profound Rest Retreats - [profoundrest.wordpress.com](https://profoundrest.wordpress.com)  
 ebook at leanpub - [leanpub.com/darkroomretreat](https://leanpub.com/darkroomretreat)  
 hygienic house - [darkroomretreat.com/plan](https://darkroomretreat.com/plan)  
+Wise: andrewd1878 - [wise.com/share/andrewd1878](https://wise.com/share/andrewd1878)  
+Venmo: @andrewdurham - [venmo.com/u/andrewdurham](https://venmo.com/u/andrewdurham)  
+PayPal - [bit.ly/paypalandrew](https://bit.ly/paypalandrew)  
 
 #### bio
 

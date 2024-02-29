@@ -1,5 +1,3 @@
-<!--header-->
-
 ### blurb
 
 #### relief, recovery, healing
