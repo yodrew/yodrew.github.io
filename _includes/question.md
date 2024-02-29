@@ -23,9 +23,10 @@
 - Respond simply: 1-3 sentences are usually enough.
 - There are no trick questions.
 
-1. What percentage of my book have you read? (Please read everything, though the lists of instructions in the last 3 chapters are optional.)
+1. What percentage of my book have you read? (Please read everything. The lists of instructions in the last 4 chapters are optional.)
 2. How much would you like to retreat, on a scale of 1-10?
 3. What dark retreats have you done or attempted?
+
 4. Why would you like to do a hygienic darkroom retreat rather than another kind?
 5. How does the frugivorous menu sound to you?
 6. Would you like to maintain silence during your retreat? (You communicate with notes and claps, I talk minimally.)

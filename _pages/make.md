@@ -47,7 +47,7 @@ These are normal activities. Everyone does them to some degree. and get help wit
 
 A sniper's rule could belong to craftsman, too: "Aim small, miss small." The precision of the plans to follow helps you aim small. The designs and materials are forgiving. Little mistakes can be absorbed, bigger ones, corrected or repaired.
 
-I suggest that, your first time through these last chapters, you read everything in this one. But just read the prose parts of the next three. Skip the lists of instructions till you make something. They make too dense reading before you have great need. Eventually, they'll be replaced with graphical assembly instructions like IKEA's. For now, slog through with me.
+I suggest that, your first time through these last chapters, just read the prose parts. Skim or skip the instructions till you make something. They can make quite dense reading before you have great need.
 
 All components rely on the basic instructions in the following sections: **metric**, **tools**, **plans**, and **fabrication**. 
 

@@ -14,13 +14,11 @@ Find more information on everything below in my [store](/store).
 
 #### retreat
 
-I support retreats in person at my place or yours. They are 11 days: a [9-day Czech](/format#czech) retreat + 2 buffer days. 
+- I support retreats in person at my place or yours. They are 11 days: a [9-day Czech](/format#czech) retreat + 2 buffer days. 
 
-The process is to read, [confer](/store/confer), reserve, book, and retreat. See [enroll](/store/enroll) for details.
-
-If you plan to retreat on your own, I can [confer](/store/confer) with you about your questionnaire by email and phone.
-
-I support retreats remotely. Start by conferring with me. We can talk about it then.
+	The process is to read, [confer](/store/confer), reserve, book, and retreat. See [enroll](/store/enroll) for details.
+- I also support retreats remotely. Start by conferring with me. We can talk about it then.
+- If you plan to retreat on your own, I can [confer](/store/confer) with you about your questionnaire by email and phone.
 
 Marion Abbott of Australia at [Profound Rest Retreats](https://profoundrest.wordpress.com) is also organizing retreats. Simen Kirkerød of Norway can do it, too (write me).
 
