@@ -18,6 +18,8 @@ _continue reading for free_{: style="font-size: .5em;padding-top:-10px 0;"} [&gt
 	- [send me](/about#contact) your email and [$12+](/back/services#pay)), and I'll send it to you.
 - paper copies [available](/back/services#write)
 
+### newsletter
+
 {% include newsletter.md %}
 
 {% include cover.md %}

@@ -30,7 +30,9 @@ The process is more involved than usual. It lets us get to know each other and b
 	- fee is non-refundable. Address any concerns beforehand:
 		- info@andrewdurham.com
 		- +1 (541) 210-8470 (txt/vm)
-5. book retreat with 50% deposit within 5 days of enrollment, minus conference and enrollment fees, plus any costs of travel. This secures your dates. Let me know if a problem arises. Otherwise, your month will revert to availability. In that case, enroll again.
+5. book retreat with 50% deposit within 5 days of enrollment, minus conference and enrollment fees, plus any costs of travel. This secures your dates. 
+
+	Let me know if a problem arises. Otherwise, your month will revert to availability. You can re-enroll.
 6. [pay](/store#pay) 50% balance 2 months before your month begins, or upon my arrival
 7. tell me your starting date 1 month before the beginning of your month
 8. retreat

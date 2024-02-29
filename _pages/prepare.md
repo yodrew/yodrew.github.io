@@ -30,7 +30,7 @@ Copy and paste this into a text file and complete it for yourself. Send it to a 
 
 If I'm to be the supporter, see [enroll](/store/enroll) for further instructions. 
 
-I also [confer][/store/confer] about questionnaires as a service, checking your understanding to improve your experience and results when retreating at home.
+I also [confer][/store/confer] about questionnaires as a service, checking your comprehension of this book to improve your experience and results when retreating at home.
 
 {% include question.md %}
 

@@ -16,9 +16,9 @@ Find more information on everything below in my [store](/store).
 
 - I support retreats in person at my place or yours. They are 11 days: a [9-day Czech](/format#czech) retreat + 2 buffer days. 
 
-	The process is to read, [confer](/store/confer), reserve, book, and retreat. See [enroll](/store/enroll) for details.
-- I also support retreats remotely. Start by conferring with me. We can talk about it then.
-- If you plan to retreat on your own, I can [confer](/store/confer) with you about your questionnaire by email and phone.
+	The process is to read, [confer](/store/confer), [enroll](/store/enroll), book, and retreat.
+- I also support retreats remotely. This also begins with reading and conferring with me.
+- If you plan to retreat on your own, I can confer with you about your questionnaire by email and phone.
 
 Marion Abbott of Australia at [Profound Rest Retreats](https://profoundrest.wordpress.com) is also organizing retreats. Simen Kirkerød of Norway can do it, too (write me).
 
@@ -40,7 +40,9 @@ Get my advice on hygienic darkroom retreating, building hygienic darkrooms, and 
 
 #### design-build
 
-I design and build darkrooms as part of supporting retreats in existing buildings or from scratch. $40/hr. See my [hygienic house](/plan) for some of my latest thinking. 
+I design and build darkrooms as part of supporting retreats in existing buildings or from scratch. $40/hour + I may use it once for a 9-day retreat. 
+
+See my [hygienic house](/plan) for some of my latest thinking.
 
 {% include pay.md %}
 

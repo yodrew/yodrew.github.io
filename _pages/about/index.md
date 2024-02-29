@@ -27,9 +27,11 @@ See more about:
 
 {% include contact.md %}
 
+#### newsletter
+
 {% include newsletter.md %}
 
-### site history
+#### site history
 
 - 2000 - 2009: geocities.com/secretdesign
 - 2009 - 2013: andrewdurham.com with WordPress

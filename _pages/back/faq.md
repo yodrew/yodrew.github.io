@@ -148,17 +148,12 @@ At the moment, your doing a retreat is out of the question. You cannot do it if 
 
 <!--&nbsp;-->
 
-**2 - Why must I read a whole book just to retreat or even talk to you?**
+**2 - Why must I read a whole book just to retreat?**
 
-1. I like talking to serious people. They use what I have already given before seeking more.
-
-	Reading gives you credibility with me. It shows your diligence and sincerity. It makes our conversation vastly more profitable for both of us.
-	
-	My time must be paid for, not just in money, but in understanding and sincerity. 
-2. You read to prepare. You must know how to retreat hygienically to succeed. This is the book on it.
+1. to prepare. You must know how to retreat hygienically to succeed. This is the book on it.
 
 	It only takes 5 minutes to learn the essence of it, another 15 to learn important details. But it takes 4 hours of reading to begin countering the conditioning to sabotage it. We are not just broken but imprisoned, as well.
-3. You read to assist me. Someday, I may be able to structure retreats for those who have not read my book. Meanwhile, some of the structure necessary must exist inside a retreater. Reading the book builds that structure.
+2. to retreat soon. Someday, I may be able to structure retreats for those who have not read my book. Meanwhile, some of the structure necessary must exist inside a retreater. Reading the book builds that structure.
 
 <!--&nbsp;-->
 

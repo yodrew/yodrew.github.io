@@ -1,4 +1,4 @@
-### pay
+#### pay
 
 I accept payments by:
 
@@ -8,3 +8,4 @@ I accept payments by:
 - [PayPal](https://bit.ly/paypalandrew) (works for credit cards. Add 4% to cover fees)
 - Cryptocurrency: Litecoin, Bitcoin, Ether, Dash. Write me for addresses. 
 - Cash, check, money order, metal, Goldbacks, bank transfer, deposit, commodities, or ??: email me. Include your location.
+
