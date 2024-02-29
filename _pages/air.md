@@ -259,13 +259,13 @@ The four principles of soundproofing are:
 1. mass: heavy materials absorb low-frequency (bass) sounds
 2. absorption: fine fibers absorb high frequencies and prevent echoing in air cavities
 3. dampening: using rubbery material to dampen vibration in resonant materials like metal, wood, masonry, glass
-4. decoupling: disconnect structures and airspaces to prevent transmission of sound vibration from source to receiver
+4. decoupling: disconnect structures and airspaces to prevent transmission of sound vibration between them
 
 [Soundproofing tutorials](https://bit.ly/soundproofingtutor) abound online. 
 
-These principles apply to ventilation as well. Dampening and decoupling figure in the fan mount, mass and absorption, in the silencer. The silencer eliminates most noise, including from the fan.
+These principles apply to ventilation as well. Dampening and decoupling figure in the fan mount; mass and absorption, in the silencer. The silencer absorbs most noise, including the fan's.
 
-Fans make noise directly and indirectly. Small fans have little hum to start with, but they run at high speed, so they develop harmonics. Bigger fans start with more of a hum but they run more slowly for the same air output, so they develop less noise overall. Use fan mount below to avoid amplifying these vibrations.
+Fans make noise directly and indirectly. Small fans have little hum to start with, but they run at high speed, so they develop harmonics. Bigger fans start with more of a hum but they run more slowly for the same air output, so they develop less noise overall. Use fan mount to avoid amplifying these vibrations.
 
 Even the quietest fan makes noise because of the friction of air itself against the fan blades, housing, ducting, and vents. Because of air friction, fully silencing a ventilation system requires a silencer of some type at the room-ends of ducts. 
 
@@ -281,7 +281,7 @@ You can make or buy silencers.
 - manufactured silencers are made of metal and other super durable materials and cost $100-200.
 - [acoustic ducting](https://www.google.com/search?q=acoustic+ducting), at least 3m of 100mm with 2-3 bends
 
-Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. Thanks to Richard Nöjd of Skattungbyn, Sweden, for pointing out these cool solutions. 
+Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. Thanks to Richard Nöjd of Skattungbyn, Sweden, for showing me these solutions. 
 
 I built silencers into window recesses on two occasions. They were simpler and more effective than I hoped. They swallowed up sound. The window, open at one end, provided one face of the box. The thick wall provided 4 sides. Boards against the inside of security bars formed the box's outer face, about 20cm from the glass. Shredded fabric insulation lined the box. This technique disables the window as a light source. It is a temporary solution. It works if you have other windows you can uncover during transition days.
 
