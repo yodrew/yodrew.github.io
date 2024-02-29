@@ -150,7 +150,7 @@ Read through instructions once while studying plans.
 	- whether it will attach at side or face opening
 	- vent must clear window handles, locks, and frame
 	- if used with a double blind, shade hole in insert from direct sunlight
-3. the plan adapts to walls between 4-8mm thick. Just move walls and baffles slightly using these rules:
+3. the plan adapts to walls between 4-8mm thick. Just move walls and baffles slightly to accommodate it. Use these rules:
 	- keep inner wall flush with inner and left edges of end
 	- keep baffle _a_ flush with left edge of end
 	- move outer wall inward
@@ -158,8 +158,6 @@ Read through instructions once while studying plans.
 	- keep baffle _f_ flush with right edge of inner wall (thin dash-dotted line)
 	- keep baffles _b, c, d, e_ centered on dash-dotted lines, shifting them downward (in short version, keep _e_ flush with right edge of end and outer wall)
 	- keep side wall against outer wall
-
-		Ends will protrude rightward and, with side wall, outward.
 4. join pieces in this order:
 	1. inner half
 		1. inner wall
@@ -199,9 +197,9 @@ The universal vent can be shortened for use inside a silencer or other enclosure
 The short version is 168 x 266 x 84 thick. If an even smaller vent is required:
 
 - use thin cardboard
-	- slide all baffles leftward, maintaining 32 (and 34) spacing
-	- trim the protruding walls
-- use black posterboard for walls instead of cardboard
+	- slide baffles leftward, maintaining spacing
+	- trim protruding walls
+- use black posterboard for walls, not cardboard
 - shrink the design proportionally
 - use my old helix-z vent in the zip file
 
@@ -236,9 +234,9 @@ plan: threshold vent - [download](/img/plan/threshold-vent.pdf)
 3. cardboard
 	- fold at creases a little past 90° 
 	- edges of hood that fold into each other: crush to 45° so that edges of outer facing of cardboard meet
-	- put glue into creases (except hood flange crease) before folding cardboard into final shape. Hold vent pieces in position with books and boards while glue dries.
+	- make a form of books and boards to hold vent pieces in their final shapes. Apply glue to creases (except at hood flange). Put pieces into the form till glue dries.
 	- glue the seals onto hood, long skinny ones first
-	- put glue into hood flange crease and hold in position till it dries
+	- apply glue to crease of hood flange and fold. Make a form to hold it in position till glue dries.
 4. line wall and hood pieces with muslin, except on flaps, gluing it on
 5. position one vent wall on door so that it is 5 above high point of floor in swing area of door. Tack in place with masking tape. Once it is perfect, mark its position with tape. Duplicate marks on the other side of the door.
 6. attach muslin over area of door that vent will cover. Width: 420. Length: from 20 above wall on one side to same height on other, wrapped under the door. Use double-sided tape. Seal with finger nail. If no hood is needed, masking tape works, too. Use wall as guide or remove it and use tape marks. Remove wall afterward.
