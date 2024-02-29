@@ -246,7 +246,7 @@ plan: threshold vent - [download](/img/plan/threshold-vent.pdf)
 	- glue extra fabric at sides up the sides of the walls. Cut slit where flaps are.
 8. attach vent walls to door at marks. Use double-sided foam tape or 3M Command strips.
 9. measure and cut door baffles wide enough to seal door where there is no vent. Add 10 + half the door thickness. Length= 46 + thickness of door. Attach them to door 20 above bottom of door. Use masking tape.
-10. cover threshold with black paper if light leaks through
+10. if light leaks under the door, cover the threshold with black paper or fabric
 	
 ### soundproofing
 
