@@ -787,11 +787,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.27222967"
-     inkscape:cx="4869.0274"
-     inkscape:cy="862.97096"
+     inkscape:zoom="0.48180284"
+     inkscape:cx="1615.7999"
+     inkscape:cy="3593.8077"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer23"
      showgrid="false"
      inkscape:window-width="1359"
      inkscape:window-height="738"
@@ -1953,7 +1953,7 @@
        inkscape:groupmode="layer"
        id="layer7"
        inkscape:label="blind"
-       style="display:none;opacity:1">
+       style="display:inline;opacity:1">
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 919.4,-590.99952 h 350 m 38,0 h 126"
@@ -2374,6 +2374,60 @@
          inkscape:export-xdpi="64.190002"
          inkscape:export-ydpi="64.190002"
          transform="translate(769.4,-322.19991)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;text-anchor:start;opacity:0.99;fill:#000000;fill-opacity:1;stroke-width:0.799999;stroke-linecap:round"
+         x="1037.8781"
+         y="-683.61499"
+         id="text3057"
+         inkscape:export-xdpi="64.190002"
+         inkscape:export-ydpi="64.190002"><tspan
+           sodipodi:role="line"
+           x="1037.8781"
+           y="-683.61499"
+           style="font-size:9.87778px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.8"
+           id="tspan3055">slot*</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;text-anchor:start;opacity:0.99;fill:#000000;fill-opacity:1;stroke-width:0.799999;stroke-linecap:round"
+         x="1013.8782"
+         y="-662.61499"
+         id="text3070"
+         inkscape:export-xdpi="64.190002"
+         inkscape:export-ydpi="64.190002"><tspan
+           sodipodi:role="line"
+           x="1013.8782"
+           y="-662.61499"
+           style="font-size:9.87778px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.8"
+           id="tspan3072">*a hole in</tspan><tspan
+           sodipodi:role="line"
+           x="1013.8782"
+           y="-652.73718"
+           style="font-size:9.87778px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.8"
+           id="tspan3078">the insert, </tspan><tspan
+           sodipodi:role="line"
+           x="1013.8782"
+           y="-642.85944"
+           style="font-size:9.87778px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.8"
+           id="tspan3074">32 x 250</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;text-anchor:start;opacity:0.99;fill:#000000;fill-opacity:1;stroke-width:0.799999;stroke-linecap:round"
+         x="1349.8782"
+         y="-702.61499"
+         id="text3086"
+         inkscape:export-xdpi="64.190002"
+         inkscape:export-ydpi="64.190002"><tspan
+           sodipodi:role="line"
+           x="1349.8782"
+           y="-702.61499"
+           style="font-weight:bold;font-size:12.7px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.8"
+           id="tspan3084">double blind</tspan><tspan
+           sodipodi:role="line"
+           x="1349.8782"
+           y="-689.91498"
+           style="font-style:italic;font-size:12.7px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.8"
+           id="tspan3093">plan</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"

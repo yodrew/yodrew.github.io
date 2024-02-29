@@ -10,7 +10,7 @@ Born 1971, Twin Falls, Idaho.
 
 My family and elders trained me to think and to make things. I'm a little autistic. I can extrapolate correct analyses from little data.
 
-At 16, [joy overwhelmed me](/conjecture/rapture). It inspired me to investigate its cause full-time for 21 years. I independently studied philosophy, health, and design, interests bequeathed by my parents. I tested my findings while traveling America. I lived outside, with friends and relatives, and in small groups I met. I played music, did odd jobs, and built alternative shelters.
+At 16, [joy filled me](/conjecture/rapture). It inspired me to investigate its cause full-time for 21 years through independent study of philosophy, health, and design, which my parents taught me. I tested my findings while traveling America. I lived outside, with friends and relatives, and in small groups. I played music, did odd jobs, and built alternative shelters.
 
 In 2008, I discovered darkness as the means nature provides us to heal from trauma, the cause of our suffering. Out of this came the [*darkness conjecture*](/conjecture/), the concept of the restful use of darkness in support of the self​-healing psyche. Since then, I have:
 

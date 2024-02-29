@@ -223,6 +223,6 @@ PayPal - [bit.ly/paypalandrew](https://bit.ly/paypalandrew)
 
 #### bio
 
-joy overwhelmed me - [darkroomretreat.com/conjecture/rapture](https://darkroomretreat.com/conjecture/rapture)  
+joy filled me - [darkroomretreat.com/conjecture/rapture](https://darkroomretreat.com/conjecture/rapture)  
 *darkness conjecture* - [darkroomretreat.com/conjecture/](https://darkroomretreat.com/conjecture/)  
 Proof of concept - [darkroomretreat.com/report/2x3-day](https://darkroomretreat.com/report/2x3-day)  

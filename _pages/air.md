@@ -234,23 +234,22 @@ plan: threshold vent - [download](/img/plan/threshold-vent.pdf)
 3. cardboard
 	- fold at creases a little past 90° 
 	- edges of hood that fold into each other: crush to 45° so that edges of outer facing of cardboard meet
-	- make a form of books and boards to hold vent pieces in their final shapes. Apply glue to creases (except at hood flange). Put pieces into the form till glue dries.
 	- glue the seals onto hood, long skinny ones first
-	- apply glue to crease of hood flange and fold. Make a form to hold it in position till glue dries.
-4. line wall and hood pieces with muslin, except on flaps, gluing it on
+4. cut and glue muslin inside wall and hood pieces, except on flaps
 5. position one vent wall on door so that it is 5 above high point of floor in swing area of door. Tack in place with masking tape. Once it is perfect, mark its position with tape. Duplicate marks on the other side of the door.
 6. attach muslin over area of door that vent will cover. Width: 420. Length: from 20 above wall on one side to same height on other, wrapped under the door. Use double-sided tape. Seal with finger nail. If no hood is needed, masking tape works, too. Use wall as guide or remove it and use tape marks. Remove wall afterward.
 7. vent baffle
-	- cut piece of fleece 470 x (80 + door thickness)
-	- glue to undersides of flanges of walls
-	- glue extra fabric at sides up the sides of the walls. Cut slit where flaps are.
+	- cut piece of fleece 470 x (90 + door thickness)
+	- glue to bottom of one wall
+	- glue extra length at sides up the sides of the walls. Cut slit where flaps are.
 8. attach vent walls to door at marks. Use double-sided foam tape or 3M Command strips.
+9. glue vent baffle to bottom of other wall
 9. measure and cut door baffles wide enough to seal door where there is no vent. Add 10 + half the door thickness. Length= 46 + thickness of door. Attach them to door 20 above bottom of door. Use masking tape.
 10. if light leaks under the door, cover the threshold with black paper or fabric
 	
 ### soundproofing
 
-#### principles
+#### principlesdddd
 
 Shelter must [control exposure](/design#normal) to pollution. Noise is a form of pollution. Noise comes from outside from machines, traffic---including boats, trains, and airplanes---construction, music, fireworks, and talking and playing people. It comes from inside from machines---refrigerators, fans, water pipes and pumps), people in adjoining spaces, and their music. At some point, noise defeats a retreat. One must attenuate it somehow, even in remote locations.
 
