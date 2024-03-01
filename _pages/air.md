@@ -144,13 +144,14 @@ Read through instructions once while studying plans.
 	3. seal: black polar fleece, medium weight. Quality check: a 10-layer stack should measure 30-35mm high.
 	4. tricot or no-see-um netting
 	5. wood glue
+	6. paint, matte black, probably spray paint. Or glue black paper to one side of cardboard, both sides of baffles, before cutting
 2. follow instructions in [fabricate](/make#fabricate)
 3. determine exact vent location
 	- in blind, panel, or silencer
 	- whether it will attach at side or face opening
 	- vent must clear window handles, locks, and frame
 	- if used with a double blind, shade hole in insert from direct sunlight
-3. the plan adapts to walls between 4-8mm thick. Just move walls and baffles slightly to accommodate it. Use these rules:
+4. the plan adapts to walls between 4-8mm thick. Just move walls and baffles slightly to accommodate it. Use these rules:
 	- keep inner wall flush with inner and left edges of end
 	- keep baffle _a_ flush with left edge of end
 	- move outer wall inward
@@ -158,7 +159,7 @@ Read through instructions once while studying plans.
 	- keep baffle _f_ flush with right edge of inner wall (thin dash-dotted line)
 	- keep baffles _b, c, d, e_ centered on dash-dotted lines, shifting them downward (in short version, keep _e_ flush with right edge of end and outer wall)
 	- keep side wall against outer wall
-4. join pieces in this order:
+5. join pieces in this order:
 	1. inner half
 		1. inner wall
 		2. top end
@@ -169,26 +170,26 @@ Read through instructions once while studying plans.
 	2. outer half
 		1. outer wall
 		2. baffles a, c, e	
-	3. spray-paint insides matte black.
+	3. paint insides matte black
 	4. glue halves together
 		1. inner half
 		2. outer half
 		3. bottom end
 		4. 3 other flaps
 		5. seal
-8. until installation, put it in a dust-proof bag. 
-9. installation
-	2. mark slot with slot jig
+6. until installation, keep it in a dust-proof bag. 
+7. installation
+	1. mark slot with slot jig
 		- it spaces slot correctly on most blinds and panels. It can be further from corner but only 20 closer on panels.
 		- face opening, 35 x 248, on blinds, panels, or outside silencer, with shell
 		- side opening, 32 x 248, inside silencer or other enclosure, without shell
-	3. cut out slot
-	4. position vent over slot and fit vent flaps through it
-	5. when attaching to soft material like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
-	6. fold flap at crease and tape it down. Tape makes vent removable. Only glue it in place if you are certain of not moving it for years.
-	7. repeat with other long flap, then with short flaps
-	8. secure side opening with screws. Screw through inner wall into panel or blocks. Or screw from other side into inner wall. If blind material is soft (plastic, fabric, paper, cardboard), use fender washers.
-	9. vent must be shaded to minimize fading of black paper and warping. Usually, insert of double-blind or white material over window will do this. Otherwise, cover shell with white paper. If in direct sun, shade it somehow.
+	2. cut out slot
+	3. position vent over slot and fit vent flaps through it
+	4. when attaching to soft material like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
+	5. fold flap at crease and tape it down. Tape makes vent removable. Only glue it in place if you are certain of not moving it for years.
+	6. repeat with other long flap, then with short flaps
+	7. secure side opening with screws. Screw through inner wall into panel or blocks. Or screw from other side into inner wall. If blind material is soft (plastic, fabric, paper, cardboard), use fender washers.
+	8. vent must be shaded to minimize fading of black paper and warping. Usually, insert of double-blind or white material over window will do this. Otherwise, cover shell with white paper. If in direct sun, shade it somehow.
 
 ##### short
 

@@ -248,9 +248,9 @@ Here are schedules in calendar form for:
 
 ##### ladder
 
-For a long time, I was stuck in the course of retreats I had envisioned. It was like an oversized ladder with a missing rung between 5-day and 9-day standard retreats. It was too far to get a leg up. And I could not stay with 5-day retreats and suffer more over-loss of false capacity.
+For a long time, I was stuck in the course of retreats I had envisioned. It was like a ladder made for 3m high giants. And it had a missing rung between 5-day and 9-day standard retreats. It was too far to get a leg up. And I could not stay with 5-day retreats and suffer more over-loss of [false capacity](/hygiene#false-capacity).
 
-The Czech retreat is the missing rung. Now the ladder is complete:
+The [Czech retreat](/format#czech) is the missing rung. Now the ladder is complete:
 
 1. read my book
 2. darken your room for sleep
@@ -297,13 +297,13 @@ For example, in the above story, the yogi exposed himself to a tiny amount of li
 
 He attributed his miraculous recovery, not to his practices in darkness nor the ayurvedic herbs he took, but to Lord Krishna. Krishna is an incarnation of Vishnu, the preserver. He is a projection of the self-preserving power of life. 
 
-Christ is called the author of life. The Christ principle is in all living things. Jesus modeled it. The miraculous effects of his complete identification with the Christ.
+Jesus the Christ is called the author of life. The Christ principle is in all living things. Jesus modeled it. His complete identification with the Christ naturally resulted in miracles.
 
 He said all who believe in Him, the Christ, would do all he did and more. For he would go to the Father, something even greater that we cannot yet behold. 
 
-One needn't be a Hindu or Christian to appreciate the vivifying principle in these ideas—and in every organism. The principle means you and I are enough. We have within ourselves the life we need to recover. We need only provide it proper conditions.
+One needn't be a Hindu or Christian to appreciate the vivifying principle in these ideas—and in every organism. The principle means you and I are enough. We have within ourselves the living power we need to recover ourselves. We need only provide it the proper conditions.
 
-This, we can do. 
+This much we can do. 
 
 ### warning
 
@@ -323,7 +323,7 @@ Fortunately, avoiding them is easy once you know. In the list, each is linked to
 
 	By ignoring my instructions and warnings, maybe you can discover more ways to get hurt in darkness. But why? As my late legal counsel, DeWaynn Rogers, would ask, "What is the penalty for following instructions?"
 
-	In the future, we will have more data. We will have studied, applied, and reflected upon all this enough to see better ways. I promise to update the book to reflect them.
+	In the future, we will have more data. We will have studied, applied, and reflected upon all this enough to see better ways. I will update my writings to reflect them, just as I have for 15 years.
 	
 	Until then, stick to the tried and true. Err conservatively. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
 

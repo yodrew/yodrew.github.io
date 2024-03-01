@@ -310,9 +310,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21740244"
-     inkscape:cx="2058.0018"
-     inkscape:cy="1319.7376"
+     inkscape:zoom="0.25916991"
+     inkscape:cx="1333.4714"
+     inkscape:cy="1153.4542"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -410,7 +410,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1070,13 +1070,13 @@
         <path
            id="rect896-3"
            style="display:inline;fill:#b4b4b4;fill-opacity:0.396078;fill-rule:evenodd;stroke:#000000;stroke-width:0.399999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 2841.7003,22.000586 V 354.00048 h 114 V 22.000586 Z m 81.9997,281.999894 -32,-8e-5 V 56.000549 l 32,-7.4e-5"
+           d="M 2841.7003,36.000586 V 354.00048 h 114 V 36.000586 Z m 81.9997,267.999894 -32,-8e-5 V 56.000549 l 32,-7.4e-5"
            sodipodi:nodetypes="ccccccccc" />
         <path
            sodipodi:nodetypes="ccccc"
            inkscape:connector-curvature="0"
            id="path2340-5"
-           d="M 2773.7005,56.000586 V 304.00059 h 68 V 56.000586 Z"
+           d="m 2773.7005,106.00059 v 248 h 68 v -248 z"
            style="display:inline;vector-effect:none;fill:#b4b4b4;fill-opacity:0.396078;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:14.2848;stroke-opacity:1"
            inkscape:export-xdpi="46.717403"
            inkscape:export-ydpi="46.717403"
@@ -1085,14 +1085,14 @@
            sodipodi:nodetypes="ccccc"
            inkscape:connector-curvature="0"
            id="path2344-6"
-           d="m 2773.7005,22.000587 v 34 h 68 v -34 z"
+           d="m 2773.7005,72.000587 v 34.000003 h 68 V 72.000587 Z"
            style="display:inline;vector-effect:none;fill:#b4b4b4;fill-opacity:0.396078;fill-rule:evenodd;stroke:#000000;stroke-width:0.399999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:14.2848;stroke-opacity:1"
            inkscape:export-xdpi="46.717403"
            inkscape:export-ydpi="46.717403"
            inkscape:export-filename="/home/hill/wood8mmparts.png" />
         <path
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.4;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:14.2848;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-           d="m 2649.7003,22.00048 v 268 h 56 v -268 z m 12,12 h 32 v 244 h -32 z"
+           d="m 2649.7003,86.00048 v 268 h 56 v -268 z m 12,12 h 32 v 244 h -32 z"
            id="path885-0"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccc"
@@ -1129,7 +1129,7 @@
            sodipodi:nodetypes="ccccc"
            inkscape:connector-curvature="0"
            id="path1984"
-           d="M 2705.7005,56.000587 V 304.00059 h 68 V 56.000587 Z"
+           d="m 2705.7005,106.00059 v 248 h 68 v -248 z"
            style="display:inline;vector-effect:none;fill:#b4b4b4;fill-opacity:0.396078;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:14.2848;stroke-opacity:1"
            inkscape:export-xdpi="46.717403"
            inkscape:export-ydpi="46.717403"
@@ -1138,14 +1138,14 @@
            sodipodi:nodetypes="ccccc"
            inkscape:connector-curvature="0"
            id="path1987"
-           d="m 2705.7005,22.000587 v 34 h 68 v -34 z"
+           d="m 2705.7005,72.000587 v 34.000003 h 68 V 72.000587 Z"
            style="display:inline;vector-effect:none;fill:#b4b4b4;fill-opacity:0.396078;fill-rule:evenodd;stroke:#000000;stroke-width:0.399999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:14.2848;stroke-opacity:1"
            inkscape:export-xdpi="46.717403"
            inkscape:export-ydpi="46.717403"
            inkscape:export-filename="/home/hill/wood8mmparts.png" />
         <path
            style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.6, 9.59999999999999964;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 2725.7003,56.000567 V 304.00059"
+           d="M 2725.7003,106.00057 V 354.00059"
            id="path3181"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -1161,7 +1161,7 @@
            x="8936.0225"
            y="-1640.2618"
            id="text3101-2"
-           transform="matrix(0.26458333,0,0,0.26458333,382.80216,521.17657)"
+           transform="matrix(0.26458333,0,0,0.26458333,382.80216,571.17657)"
            inkscape:export-filename="/home/hill/wood8mmparts.png"
            inkscape:export-xdpi="46.717403"
            inkscape:export-ydpi="46.717403"><tspan
@@ -1199,7 +1199,7 @@
            transform="matrix(0,-0.9999984,1.0000016,0,0,0)"
            id="text2060-3"
            y="2669.7268"
-           x="-290.08203"
+           x="-354.08215"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:94%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;letter-spacing:-0.79375px;word-spacing:0.0254px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:0.498039;stroke:none;stroke-width:0.282223"
            xml:space="preserve"
            inkscape:export-filename="/home/hill/wood8mmparts.png"
@@ -1207,42 +1207,42 @@
            inkscape:export-ydpi="46.717403"><tspan
              style="font-size:9.87778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
              y="2669.7268"
-             x="-290.08203"
+             x="-354.08215"
              sodipodi:role="line"
              id="tspan1612-6">12                                                246</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.70139px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;text-align:start;letter-spacing:-0.4445px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
            x="2649.8149"
-           y="271.59512"
+           y="335.59512"
            id="text2064-0"
            inkscape:export-filename="/home/hill/wood8mmparts.png"
            inkscape:export-xdpi="46.717403"
            inkscape:export-ydpi="46.717403"><tspan
              sodipodi:role="line"
              x="2649.8149"
-             y="271.59512"
+             y="335.59512"
              id="tspan2062-6"
              style="font-size:9.70139px;line-height:0.9;text-align:start;text-anchor:start;stroke-width:0.282222">12    32    12</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
            x="2672.2014"
-           y="32.595127"
+           y="96.595131"
            id="text2114-2"
            inkscape:export-filename="/home/hill/wood8mmparts.png"
            inkscape:export-xdpi="46.717403"
            inkscape:export-ydpi="46.717403"><tspan
              sodipodi:role="line"
              x="2672.2014"
-             y="32.595127"
+             y="96.595131"
              style="font-size:9.87778px;line-height:0.9;text-align:start;text-anchor:start;stroke-width:0.282222"
              id="tspan2112-6">56</tspan></text>
         <text
            transform="matrix(0,-0.9999984,1.0000016,0,0,0)"
            id="text1610-9"
            y="2648.8269"
-           x="-165.51711"
+           x="-229.5172"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:94%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0.0254px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:0.498039;stroke:none;stroke-width:0.282223"
            xml:space="preserve"
            inkscape:export-filename="/home/hill/wood8mmparts.png"
@@ -1250,12 +1250,12 @@
            inkscape:export-ydpi="46.717403"><tspan
              style="font-size:9.87778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
              y="2648.8269"
-             x="-165.51711"
+             x="-229.5172"
              sodipodi:role="line"
              id="tspan1608-2">270</tspan></text>
         <text
            id="text2122-1"
-           y="89.187576"
+           y="153.18758"
            x="2661.4167"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3472px;line-height:0;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0.0254px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:0.498039;stroke:none;stroke-width:0.282223"
            xml:space="preserve"
@@ -1263,12 +1263,12 @@
            inkscape:export-xdpi="46.717403"
            inkscape:export-ydpi="46.717403"><tspan
              style="font-weight:bold;font-size:12.3472px;line-height:94%;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.282223"
-             y="89.187576"
+             y="153.18758"
              x="2661.4167"
              sodipodi:role="line"
              id="tspan1616-8">seal</tspan><tspan
              style="font-size:9.87778px;line-height:93%;text-align:start;letter-spacing:-0.529167px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.282223"
-             y="98.942459"
+             y="162.94246"
              x="2661.4167"
              sodipodi:role="line"
              id="tspan926-7">56 x 268</tspan><tspan
@@ -1276,44 +1276,44 @@
              sodipodi:role="line"
              id="tspan11587"
              x="2661.4167"
-             y="108.12879">fleece</tspan><tspan
+             y="172.1288">fleece</tspan><tspan
              style="font-style:italic;font-size:9.87778px;line-height:94%;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.282223"
              sodipodi:role="line"
              id="tspan11589"
              x="2661.4167"
-             y="117.36452">pattern</tspan><tspan
+             y="181.36452">pattern</tspan><tspan
              style="font-style:normal;font-size:9.87778px;line-height:94%;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.282223"
              sodipodi:role="line"
              id="tspan11591"
              x="2661.4167"
-             y="126.64963">-make 2</tspan><tspan
+             y="190.64963">-make 2</tspan><tspan
              style="font-style:normal;font-size:9.87778px;line-height:94%;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.282223"
              sodipodi:role="line"
              id="tspan11595"
              x="2661.4167"
-             y="135.93474">seals </tspan></text>
+             y="199.93474">seals </tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
-           x="2668.458"
-           y="321.17993"
+           x="2708.458"
+           y="45.179932"
            id="text4978-3"
            inkscape:export-xdpi="94.089996"
            inkscape:export-ydpi="94.089996"><tspan
              sodipodi:role="line"
-             x="2668.458"
-             y="321.17993"
-             style="font-style:normal;font-weight:bold;font-size:12.7px;line-height:1;stroke-width:0.282222"
+             x="2708.458"
+             y="45.179932"
+             style="font-style:normal;font-weight:bold;font-size:11.2889px;line-height:1;stroke-width:0.282222"
              id="tspan4974-6">universal vent parts</tspan><tspan
              sodipodi:role="line"
-             x="2668.458"
-             y="333.87994"
-             style="font-style:italic;font-weight:normal;font-size:12.7px;line-height:1;stroke-width:0.282222"
+             x="2708.458"
+             y="56.468834"
+             style="font-style:italic;font-weight:normal;font-size:11.2889px;line-height:1;stroke-width:0.282222"
              id="tspan735-7">pattern</tspan><tspan
              sodipodi:role="line"
-             x="2668.458"
-             y="346.57993"
-             style="font-style:normal;font-size:12.7px;line-height:1;stroke-width:0.282222"
+             x="2708.458"
+             y="67.757736"
+             style="font-style:normal;font-size:11.2889px;line-height:1;stroke-width:0.282222"
              id="tspan2158">fleece, paper</tspan></text>
         <text
            xml:space="preserve"
@@ -1447,7 +1447,7 @@
            transform="matrix(0,-0.9999984,1.0000016,0,0,0)"
            id="text11561"
            y="2733.8838"
-           x="-190.0818"
+           x="-240.08188"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:94%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;letter-spacing:-0.79375px;word-spacing:0.0254px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:0.498039;stroke:none;stroke-width:0.282223"
            xml:space="preserve"
            inkscape:export-filename="/home/hill/wood8mmparts.png"
@@ -1455,21 +1455,21 @@
            inkscape:export-ydpi="46.717403"><tspan
              style="font-size:9.87778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
              y="2733.8838"
-             x="-190.0818"
+             x="-240.08188"
              sodipodi:role="line"
              id="tspan11559">250                                                      34</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.70139px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:Sans;text-align:start;letter-spacing:-0.4445px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
            x="2709.8149"
-           y="300.59512"
+           y="350.59512"
            id="text11565"
            inkscape:export-filename="/home/hill/wood8mmparts.png"
            inkscape:export-xdpi="46.717403"
            inkscape:export-ydpi="46.717403"><tspan
              sodipodi:role="line"
              x="2709.8149"
-             y="300.59512"
+             y="350.59512"
              id="tspan11563"
              style="font-size:9.70139px;line-height:0.9;text-align:start;text-anchor:start;stroke-width:0.282222">20        48                  68</tspan></text>
         <path
