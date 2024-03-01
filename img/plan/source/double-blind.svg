@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="78.104172"
-   inkscape:export-xdpi="78.104172"
-   inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/universal-vent-elevation.png"
+   inkscape:export-ydpi="64.190002"
+   inkscape:export-xdpi="64.190002"
+   inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/double-blind.png"
    sodipodi:docname="double-blind.svg"
    inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    id="svg8"
@@ -652,9 +652,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37839659"
-     inkscape:cx="1569.552"
-     inkscape:cy="23.959796"
+     inkscape:zoom="0.4300334"
+     inkscape:cx="1345.1813"
+     inkscape:cy="404.95164"
      inkscape:document-units="mm"
      inkscape:current-layer="layer7"
      showgrid="false"
@@ -731,7 +731,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1210,7 +1210,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="configuration"
-     style="display:inline">
+     style="display:none">
     <path
        id="path2706"
        style="display:inline;fill:none;fill-opacity:0.376471;fill-rule:evenodd;stroke:#262626;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

@@ -160,23 +160,25 @@ Read through instructions once while studying plans.
 	- keep baffles _b, c, d, e_ centered on dash-dotted lines, shifting them downward (in short version, keep _e_ flush with right edge of end and outer wall)
 	- keep side wall against outer wall
 5. join pieces in this order:
-	1. inner half
+	1. seal: glue 2 seals together with minimum of glue: a skinny bead around outer perimeter, with a little extra at the corners.
+	2. inner half
 		1. inner wall
 		2. top end
 		3. long folded flap, 1 short flap 
 		4. baffles b, d, f
 		5. side wall
 		6. 2 spacers with only 2 dots of glue each for removability
-	2. outer half
+	3. outer half
 		1. outer wall
 		2. baffles a, c, e	
-	3. paint insides matte black
-	4. glue halves together
+	4. paint insides matte black
+	5. glue halves together
 		1. inner half
 		2. outer half
 		3. bottom end
-		4. 3 other flaps
-		5. seal
+	6. add 
+		1. 3 other flaps
+		2. seal
 6. until installation, keep it in a dust-proof bag. 
 7. installation
 	1. mark slot with slot jig
