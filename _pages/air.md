@@ -252,7 +252,7 @@ plan: threshold vent - [download](/img/plan/threshold-vent.pdf)
 	
 ### soundproofing
 
-#### principlesdddd
+#### principles
 
 Shelter must [control exposure](/design#normal) to pollution. Noise is a form of pollution. Noise comes from outside from machines, traffic---including boats, trains, and airplanes---construction, music, fireworks, and talking and playing people. It comes from inside from machines---refrigerators, fans, water pipes and pumps), people in adjoining spaces, and their music. At some point, noise defeats a retreat. One must attenuate it somehow, even in remote locations.
 
