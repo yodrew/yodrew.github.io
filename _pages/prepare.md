@@ -24,6 +24,8 @@ Once you do it yourself, others will want to know about it. You will naturally h
 	- if not, [retreat](/back/services#retreat) with me, [Marion](https://profoundrest.wordpress.com) or [inquire](/about#contact) about Simen.
 5. Gather gear and retreat!
 
+<!--pagebreak-->
+
 ### questionnaire
 
 Copy and paste this into a text file and complete it for yourself. Send it to a supporter.
@@ -33,8 +35,6 @@ If I'm to be the supporter, see [enroll](/store/enroll) for further instructions
 I also [confer][/store/confer] about questionnaires as a service, checking your comprehension of this book to improve your experience and results when retreating at home.
 
 {% include question.md %}
-
-<!--pagebreak-->
 
 ### menu
 

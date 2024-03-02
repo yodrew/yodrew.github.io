@@ -1,11 +1,11 @@
-#### contact
+#### 1 &nbsp; contact
 
 1. Name
 2. Email
 3. Phone number
 4. Good times to call
 
-#### quiz
+#### 2 &nbsp; quiz
 
 1. What is the purpose of a hygienic retreat?
 2. What heals you in darkness?
@@ -18,7 +18,7 @@
 9. How much does the air you breathe weigh compared to the food you eat?
 10. What does this imply about the importance of continuous fresh air?
 
-#### personal
+#### 3 &nbsp; personal
 
 - Respond simply: 1-3 sentences are usually enough.
 - There are no trick questions.
