@@ -167,7 +167,7 @@ Read through instructions once while studying plans.
 		3. long folded flap, 1 short flap 
 		4. baffles b, d, f
 		5. side wall
-		6. 2 spacers with only 2 dots of glue each for removability
+		6. 2 spacers. Attach a piece of tape around an edge so you can pull them out from the openings once vent is dry. Use only 2 dots of glue on each spacer for removability, just enough to hold them in place as you fit the halves together.
 	3. outer half
 		1. outer wall
 		2. baffles a, c, e	
@@ -179,7 +179,7 @@ Read through instructions once while studying plans.
 	6. add 
 		1. 3 other flaps
 		2. seal
-6. until installation, keep it in a dust-proof bag. 
+6. Let it dry. until installation, keep it in a dust-proof bag. 
 7. installation
 	1. mark slot with slot jig
 		- it spaces slot correctly on most blinds and panels. It can be further from corner but only 20 closer on panels.

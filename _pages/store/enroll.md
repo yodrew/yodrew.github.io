@@ -29,14 +29,14 @@ The process is more involved than usual. It lets us get to know each other and b
 3. [confer](/store/confer)
 4. receive approval with enrollment code. Code is good for a year. Otherwise, confer again.
 5. enroll below to reserve a month for your retreat 
-	- select a month. Enrolling reserves it for 5 days.
-	- fee applies to deposit
 	- fee is non-refundable. Address any concerns beforehand:
 		- info@andrewdurham.com
 		- +1 (541) 210-8470 (txt/vm)
+	- select a month. Enrolling reserves it for 5 days.
+	- fee applies to deposit
 5. book retreat with 50% deposit within 5 days of enrollment, minus conference and enrollment fees, plus any costs of travel. This secures your dates. 
 
-	Let me know if a problem arises. Otherwise, your month will revert to availability. You can re-enroll.
+	Let me know if a problem arises. Otherwise, your month will revert to being available again. You can re-enroll.
 6. [pay](/store#pay) 50% balance 2 months before your month begins, or upon my arrival
 7. tell me your starting date 1 month before the beginning of your month
 8. retreat
@@ -48,7 +48,7 @@ The process is more involved than usual. It lets us get to know each other and b
 - less than a month before your month: 25% credit, 25% refund (minus fees)
 - within your month: 25% credit
 
-#### change fees
+#### change
 
 - change months
 	- after enrollment, before deposit: $50
