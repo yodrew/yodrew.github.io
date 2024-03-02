@@ -12,7 +12,6 @@ Retreat at my place in America or yours anywhere the USA has good relations.
 
 A retreat lasts 11 days. It is a [9-day Czech](/format#czech) retreat + [2 buffer](/format#extra) days. I offer one retreat per month. Choose a month now and dates within it later.
 
-
 ![plan: 9-day retreat](/img/plan/image/9-day.png)
 
 ![plan: 9-day2 retreat](/img/plan/image/9-day2.png)

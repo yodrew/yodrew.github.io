@@ -95,38 +95,46 @@ Hygienic darkroom retreating is that chance.
 
 At last we are prepared to understand the secret of why hygienic darkroom retreating works. There are three reasons: physiology, attitude, and environment
 
-1. Physiology
-	1. Circadian rhythms: We have a 24-hour wake-sleep cycle. It is governed by the circadian system. This system is controlled by a tiny region of the brain. It is called the [suprachiasmatic nucleus](https://en.wikipedia.org/wiki/suprachiasmatic_nucleus). It has an internal 24-hour clock and resets itself with light. It rests atop the optic chiasm, the intersection of the optic nerves coming from the backs of the eyes. The eyes send it a direct signal of the presence or absence of light. This is prior to the imagery in the signal decoded by the visual cortex of the brain. 
+##### 1 - Physiology
 
-		The suprachiasmatic nucleus, for example, instructs the pineal gland to secrete a famous hormone, [melatonin](https://en.wikipedia.org/wiki/melatonin) into the bloodstream. This hormone causes us to sleep, dream, and lose appetite. In absolute extended darkness, the pineal gland _floods_ the body with melatonin, intensifying these restful processes. 
+1. Circadian rhythms: We have a 24-hour wake-sleep cycle. It is governed by the circadian system. This system is controlled by a tiny region of the brain. It is called the [suprachiasmatic nucleus](https://en.wikipedia.org/wiki/suprachiasmatic_nucleus). It has an internal 24-hour clock and resets itself with light. It rests atop the optic chiasm, the intersection of the optic nerves coming from the backs of the eyes. The eyes send it a direct signal of the presence or absence of light. This is prior to the imagery in the signal decoded by the visual cortex of the brain. 
 
-		Melatonin is but one of many hormones, nervous signals, and processes that facilitate the deep rest and sleep necessary to recover from and assimilate the benefits of waking life.
-	2. Destimulation
-		- Conservation: we conserve the energy consumed by sensory processing. It turns sensations into percepts, data into information. Almost half the brain is dedicated to sensory processing. Sight requires twice as much as all other senses combined. Darkness eliminates external visual data and minimizes other kinds. 
-		- Calm: without the abstract stimulation of visual data, the abstract mind slows down
-			- fewer thoughts occur
-			- thinking becomes harder
-			- thinking becomes _less interesting_ (!)
-			- directing attention restfully becomes *much* easier. (See [attention](/protocol#attention))
+	The suprachiasmatic nucleus, for example, instructs the pineal gland to secrete a famous hormone, [melatonin](https://en.wikipedia.org/wiki/melatonin) into the bloodstream. This hormone causes us to sleep, dream, and lose appetite. In absolute extended darkness, the pineal gland _floods_ the body with melatonin, intensifying these restful processes. 
 
-		- Balance: the remaining sensations feed the feeling and moving centers of intelligence. Outwardly unoccupied, the internal sense of touch sharpens in its [many aspects](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, aspects of consciousness suppressed in civilization, reactivate. They balance the psychic workload, making it more efficient, saving energy and internal activity.
-	3. Inactivity
-		- Resting causes rapid recovery of homeostasis, the foundation of healing
+	Melatonin is but one of many hormones, nervous signals, and processes that facilitate the deep rest and sleep necessary to recover from and assimilate the benefits of waking life.
+
+2. Destimulation
+	- Conservation: we conserve the energy consumed by sensory processing. It turns sensations into percepts, data into information. Almost half the brain is dedicated to sensory processing. Sight requires twice as much as all other senses combined. Darkness eliminates external visual data and minimizes other kinds. 
+	- Calm: without the abstract stimulation of visual data, the abstract mind slows down
+		- fewer thoughts occur
+		- thinking becomes harder
+		- thinking becomes _less interesting_ (!)
+		- directing attention restfully becomes *much* easier. (See [attention](/protocol#attention))
+	- Balance: the remaining sensations feed the feeling and moving centers of intelligence. Outwardly unoccupied, the internal sense of touch sharpens in its [many aspects](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, aspects of consciousness suppressed in civilization, reactivate. They balance the psychic workload, making it more efficient, saving energy and internal activity.
+3. Inactivity
+	- Resting causes rapid recovery of homeostasis, the foundation of healing
 	- It induces the stillness required for repair
 	- It enables conservation of the extra vital energy the process of healing consumes. 
-2. Attitude: hygiene's passive attitude toward healing aligns the conscious and unconscious parts of the self. It enables the internal peace and cooperation necessary for super-intensified healing (miracles) to occur. At first, only knowledge of this attitude is necessary. Belief comes later. 
 
-	The hygienic attitude is the essential difference between hygienic retreats and other types. The ego is assured that the crisis will be handled by a superior faculty. The ego finally relaxes its grip. It relinquishes to the unconscious the task of fixing its old crisis.
+##### 2 - Attitude
 
-	Active practices do not compensate for deficient conditions. The passive attitude inspires great care in providing proper conditions. The best darkroom and best retreats result. 
+Hygiene's passive attitude toward healing aligns the conscious and unconscious parts of the self. It enables the internal peace and cooperation necessary for super-intensified healing (miracles) to occur. At first, only knowledge of this attitude is necessary. Belief comes later. 
 
-	The attitude rests on knowledge of hygiene, physiology, and the complimentary roles of the conscious and unconscious. This calls for study. For hygiene, I recommend my book, [Shelton's](/f/hygiene.pdf), and [Douglas Graham's](https://foodnsport.com). For psychology, choose among those in my [bibliography](/back/bibliography-influences).
-3. Environment: a retreat provides the organism all the conditions of profound rest:
-	- social: security, solitude, silence, support, time
-	- mechanical: darkness, warmth, fresh air, comfort, electromagnetic neutrality, safety
-	- personal: frugivorous food, pure water, sleep, exercise, knowledge
+The hygienic attitude is the essential difference between hygienic retreats and other types. The ego is assured that the crisis will be handled by a superior faculty. The ego finally relaxes its grip. It relinquishes to the unconscious the task of fixing its old crisis.
 
-	In terms of experiencing profound rest and miraculous healing, a hygienic darkroom retreat is the perfect storm.
+Active practices do not compensate for deficient conditions. The passive attitude inspires great care in providing proper conditions. The best darkroom and best retreats result. 
+
+The attitude rests on knowledge of hygiene, physiology, and the complimentary roles of the conscious and unconscious. This calls for study. For hygiene, I recommend my book, [Shelton's](/f/hygiene.pdf), and [Douglas Graham's](https://foodnsport.com). For psychology, choose among those in my [bibliography](/back/bibliography-influences).
+
+##### 3 - Environment
+
+A retreat provides the organism all the conditions of profound rest:
+
+- social: security, solitude, silence, support, time
+- mechanical: darkness, warmth, fresh air, comfort, electromagnetic neutrality, safety
+- personal: frugivorous food, pure water, sleep, exercise, knowledge
+
+In terms of experiencing profound rest and miraculous healing, a hygienic darkroom retreat is the perfect storm.
 
 ### distinctions
 
