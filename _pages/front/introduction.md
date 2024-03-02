@@ -22,7 +22,7 @@ How? By _hygienic darkroom retreating_: profound rest for the self-healing organ
 2. The primary condition of healing is profound rest. 
 3. The most profound psychic rest occurs in extended total darkness _as a physiological response_
 
-Because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily---by itself---when we voluntarily provide ourselves sufficient conditions of rest. This is fully developed in [secret](/darkroom-retreat#secret). It is contextualized in [hygienic psychology](/psychology#hygienic-psychology).
+Because the process of healing is automatic, it is foolproof. The psyche needs darkness for rest like lungs need air for breathing and eyes need light for seeing. It knows no substitute. Healing happens involuntarily---by itself---when we voluntarily provide ourselves with sufficient conditions of rest. This is fully developed in [secret](/darkroom-retreat#secret). It is contextualized in [hygienic psychology](/psychology#hygienic-psychology).
 
 Through abstract theory and concrete practice, this book tells how to provide all the conditions of rest in perfect proportion. Most importantly, it introduces the passive, hygienic _attitude_ toward healing. Merely knowing it opens the door to super-intensified healing, ie, miracles. When you are ready, you can walk through it. 
 
@@ -52,9 +52,9 @@ Your first retreats are gratifying warm-ups. You will get relief, sleep, and hea
 
 ##### darkroom
 
-A darkroom is a bedroom, suite, or house that is perfectly dark. Sealing a room like this often requires additional ventilation measures. A darkroom can be basic or deluxe. To summarize the practical point of this book, I advocate arranging basic darkness in your bedroom now, deluxe darkness in a remote location later. 
+A darkroom is a bedroom, suite, or house that is perfectly dark. Sealing a room like this often requires additional ventilation measures. A darkroom can be basic or deluxe. To summarize the practical point of this book, I advocate making basic darkness in your bedroom now, and arranging for deluxe darkness in another location later. 
 
-Basic darkness means perfectly dark, well-ventilated, reasonably quiet, and comfortable. This provides: darkness for nightly sleep; a place to familiarize yourself with extended darkness at your own pace; and a place for your first short retreats.
+Basic darkness means perfectly dark, well-ventilated, reasonably quiet, and comfortable. This provides darkness for nightly sleep; a place to familiarize yourself with extended darkness at your own pace; and a place for your first short retreats.
 
 Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom is built in a small fully functional house in a quiet location. Like all houses should be but are not, it is perfectly and easily darkened. More in [design](/design).
 
@@ -100,15 +100,17 @@ psychic
 
 lifeway
 :	a way of life; everything that happens with people in a given group in the course of living.  
-&nbsp; &nbsp; I once used the word, culture, for this. Then my neighbor, [John Zerzan](https://johnzerzan.net), explained to me that culture is recent: an aspect of civilization. I wanted a single word which would include all approaches to man's existence. Lifeway compresses the phrase "way of life" into one word. It is common in anthropology.
+&nbsp; &nbsp; I once used the word, culture, for this. Then my neighbor, [John Zerzan](https://johnzerzan.net), explained to me that culture is recent: an aspect of civilization. I wanted a single word that would include all approaches to man's existence. Lifeway compresses the phrase "way of life" into one word. It is common in anthropology.
 
 ##### usage
 
-I don't use neologisms. I don't use words in any special sense. Virtually any dictionary will clear up confusion you may have while reading. Read through the senses and the etymology as well.
+I don't use neologisms. I don't use words in any special sense. A dictionary will clear up any confusion you may have while reading. Read through the senses and the etymology as well.
 
-My usage is sometimes unusual. I take pains to recover the original or essential meanings of words by digging into etymology and historical usage. Bad philosophical influences, manipulation by elites, and sloppy popular usage constantly degrade the meanings of high-level abstractions. Words become corrupt or acquire unfortunate associations. Language is artificial and must be maintained.
+My usage is sometimes uncommon. I take pains to recover the original or essential meanings of words by digging into etymology and historical usage. Bad philosophical influences, manipulation by elites, and sloppy popular usage constantly degrade the meanings of high-level abstractions. Words become corrupt or acquire unfortunate associations. Language is artificial and must be maintained.
 
-I consider this half the job of intellectuals. The Oxford English Dictionary exemplifies this effort. Pre-1970 editions of American Heritage Dictionary and Webster's are excellent. Beware of newer lexicology. It is both better and worse than ever due to accelerating divergence of philosophical influences.
+I consider this half the job of intellectuals. The Oxford English Dictionary exemplifies this effort. I used to jot down words to look up in it on my next visit to the library. Pre-1970 editions of American Heritage Dictionary and Webster's are excellent dictionaries in single volumes.
+
+Beware of newer lexicology. Idealism dominates academia. Its radical irrationality (eg, Mao's political correctness and Adorno's ) has corrupted English.
 
 ### background
 
@@ -242,7 +244,9 @@ This book is for the:
 - hygienist, who senses hygiene's unrealized potential 
 - whatever you may be, you who detect something of import here
 
-Hygienic darkroom retreating is for anyone to whom it makes sense and who feels moved to do it.  whether to heal from acute illness or just see what it's like. Physical illness originates in trauma, especially psychic trauma. Which is highly amenable to self-healing in darkness.
+Hygienic darkroom retreating is for anyone to whom it makes sense and who feels moved to do it, whether to heal from acute illness or just see what it's like. 
+
+Chronic physical illness originates in trauma. Trauma heals in darkness. Then the organism becomes able to heal the illness, sometimes concurrently. Do not underestimate the power of the self-healing organism in darkness. 
 
 Darkness is not an escape. It suits everyone, but not necessarily right now. Sometimes illness or problems need to be addressed in more pressing and obvious ways first. Hygiene offers many means to do so. Keep one eye open for this possibility. 
 
@@ -286,8 +290,6 @@ This book is at [leanpub.com/darkroomretreat/](https://leanpub.com/darkroomretre
 - elaborative [blog](/blog) posts
 - related [myths](/other/myths) and
 - essays, designs, prose, poetry, and lyrics since[1988](/other). They marked my way to the restful use of darkness.
-
-<!--pagebreak-->
 
 #### open-source
 

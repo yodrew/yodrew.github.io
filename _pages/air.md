@@ -117,9 +117,9 @@ plan: universal vent, plan - [download](/img/plan/universal-vent-plan.pdf)
 
 plan: universal vent, walls - [download](/img/plan/universal-vent-wall.pdf)
 
-![plan: universal vent, parts](/img/plan/image/universal-vent-part.png)
+![plan: universal vent, parts](/img/plan/image/universal-vent-parts.png)
 
-plan: universal vent, parts - [download](/img/plan/universal-vent-part.pdf)
+plan: universal vent, parts - [download](/img/plan/universal-vent-parts.pdf)
 
 <!--pagebreak-->
 

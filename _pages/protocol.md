@@ -12,7 +12,7 @@ Darkroom retreating is like the rest of hygiene. Practice consistently follows t
 
 We need profound rest to recover from exhaustion or injury. This makes our task in darkness simple and clear: maintain the conditions of rest. This frees the autonomic self to return the whole being to health and function as quickly as possible. The autonomic self does most of the work and all the complicated parts. It indicates to the volitional self the simple ways to help
 
-Darkroom retreating is nothing less than recovery of the lost self. In darkness, you will begin to reunite with yourself. It's as if a peg-legged sailor were to awaken one day to find his leg had started to grow back. The more you com back to ourself happens, the more you become your own guide. This chapter helps you navigate your first retreats. It is a map, a reference, if you or your supporters get lost.
+Darkroom retreating is nothing less than recovery of the lost self. In darkness, you will begin to reunite with yourself. It's as if a peg-legged sailor were to awaken one day to find his leg had started to grow back. The more you come back to yourself, the more you become your own guide. This chapter helps you do your first retreats. It is a map. You and your supporters can refer to it if any of you get lost.
 
 Hygienic darkroom retreating is new, and I am still learning. The final authority in hygiene is life itself. Consider these notes from the field and an invitation to explore an idea whose time has come.
 
@@ -274,11 +274,11 @@ On the one hand, I don't think we should get fascinated with them. One the other
 
 Darkness impresses me as a waking portal to the dreamworld. Which is also called [dreamtime](/conjecture/dreamtime) or _timespace_. This is the other basic dimension of reality. 
 
-We should have access to it. Indigenous people have. Civilized people do not because of psychic malfunction from major trauma. Maybe we can finally pull ourselves together. 
+We should have access to it. Indigenous people do. Civilized people do not because of psychic malfunction from major trauma. Maybe we can finally pull ourselves together using darkness.
 
 ### experience
 
-Resting in darkness affects the foundations of life. time, sex, and power. Here are preliminary observations from my retreats and a few from others.
+Resting in darkness affects fundamental things in life, like time, sex, and power. Here is what I have observed about them during my retreats.
 
 #### time
 
@@ -333,28 +333,32 @@ You might feel tense, like crawling in your skin. You might curl up and cry. It'
 If discomfort feels like too much to be endured, here are things you can do about it:
 
 - examine your basic conditions like a hygienist:
-	- is the room secure?
-	- do you feel safe with your supporter?
-	- is the darkroom safe?
-	- is it totally dark?
-	- is it quiet enough? Are any noises bothering you?
-	- do you have enough fresh air and warmth?
-	- are you:
-		- drinking enough water? (4L water maximum)
-		- exercising? (2 hours maximum)  
-		- each of these can instantly ease discomfort
-	- is the food good?
-	- is your bed comfortable?
-	- do you need to pee, poop, or bathe?
-	- is anything else not working?
-	- do you need a few words with your supporter?
-	- is something actually wrong, or is something just unfamiliar about your experience? If the latter, might the organism be working on something difficult but not harmful, and you can stay with the process until it finishes in some hours?
+	- survival
+		- is the room secure?
+		- is the darkroom safe?
+		- do you feel safe with your supporter?
+		- do you need a few words with your supporter?
+	- mechanical
+		- is it totally dark?
+		- is it quiet enough? Are any noises bothering you?
+		- do you have enough fresh air and warmth?
+		- is the food good?
+		- is your bed comfortable?
+		- is anything else not working?
+	- behavioral
+		- are you:
+			- drinking enough water? (2.5L water minimum, 4 maximum)
+			- exercising? (2 hours maximum)  
+			- each of these can instantly ease discomfort
+		- do you need to pee, poop, or bathe?
+	- procedural
+		- is something actually wrong, or is something just unfamiliar about your experience? If the latter, might the organism be working on something difficult but not harmful, and you can stay with the process until it finishes in some hours?
 	- is there something about the process you are struggling with, dislike, or don't understand? Your supporter can probably help you figure it out.
 - use sensation as a brake on the process
 	- talk or sing to yourself
 	- talk to your supporter
 	- red light: A red LED light is pure red light. It gives no signal to the circadian system to bring rest to an end and prepare you for action. If other techniques don't help you ease your discomfort, turn on the red light for a minute. Don't do this regularly. If you have a supporter, have him bring the light and take it away.
-	- if you still can't stand it, use natural light as a last resort. Slowly uncover the window or open the door as much and long as needed. Start with eyes closed and turned away from the light. Open your eyes, but do not look into the light directly. If this is insufficient, step outside. When you feel calm again, go back into darkness again. 
+	- if you still can't stand it, use natural light as a last resort. Slightly uncover the window or crack open the door for 3-30 minutes. Start with eyes closed and turned away from the light. Open your eyes, but do not look into the light directly. If this is insufficient, let in more light. Next, step outside. When you feel calm again, re-enter darkness. 
 - see more techniques in the phobia section below
 
 Waiting it out often works. Enduring. Hanging on. In some case, retreating can feel unbearably difficult. It is perfectly alright to not resume the retreat at this time. Darkness is natural, but reacquaintance with it and oneself in it can take time and must not be rushed.

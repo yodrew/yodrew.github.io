@@ -14,9 +14,9 @@ At 15, out of the blue, great joy overcame me. The moment blossomed into hours, 
 
 Then it disappeared. _Why_? The need gripped me to solve this mystery. After a long investigation, I did.*
 
-The solution included a way to recover joy. Freud had identified the destroyer of joy: trauma. I discovered the essential condition nature provides us to heal from trauma: darkness, used restfully.
+The solution included a way to recover joy. Freud had identified the destroyer of joy: trauma. I discovered the essential condition nature provides us to heal from trauma: darkness used restfully.
 
-Joy comes from health, not achievement or acquisition. It comes from being, not doing or having. It is the feeling of being fully alive. It means all is well with oneself.
+Joy comes from health, not achievement or acquisition. It comes from being, not from doing or having. It is the feeling of being fully alive. It means all is well with oneself.
 
 Lack of joy---suffering---comes from damage from trauma. Given profound rest in darkness, trauma heals by itself, and joy returns.
 
