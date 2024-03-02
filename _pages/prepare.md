@@ -36,6 +36,8 @@ I also [confer][/store/confer] about questionnaires as a service, checking your 
 
 {% include question.md %}
 
+<!--pagebreak-->
+
 ### menu
 
 #### summary

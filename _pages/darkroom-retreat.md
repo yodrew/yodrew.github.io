@@ -126,6 +126,8 @@ Active practices do not compensate for deficient conditions. The passive attitud
 
 The attitude rests on knowledge of hygiene, physiology, and the complimentary roles of the conscious and unconscious. This calls for study. For hygiene, I recommend my book, [Shelton's](/f/hygiene.pdf), and [Douglas Graham's](https://foodnsport.com). For psychology, choose among those in my [bibliography](/back/bibliography-influences).
 
+<!--pagebreak-->
+
 ##### 3 - Environment
 
 A retreat provides the organism all the conditions of profound rest:
