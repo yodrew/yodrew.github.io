@@ -6,7 +6,7 @@ permalink: /back/acknowledgments/
 navnext: participate
 ---
 
-Thanks to hundreds of people in a dozen countries on 2 continents for over 3 decades, who morally and materially aided me during my prodigal search, especially my Norwegian:
+Thanks to hundreds of people in a dozen countries on 2 continents for over 3 decades, who morally and materially aided me during my prodigal search, especially my Norwegian...
 
 #### editors
 
@@ -32,7 +32,7 @@ Immediate, extended, and adopted: I leaned on all of you that would let me. It c
 - Grandmother Anna Lou Craig Callen Posey, always there
 - Brother Francois, for constant experience of love
 - Cousin Christopher, for your generosity and grit
-- Uncle Jim---dropout, drug dealer, beach bum, loser, cool-ass motherfucker---for laughingly giving the system the finger till the day you died. RIP, man.
+- Uncle Jim---dropout, drug dealer, beach bum, dumpster diver, Mexican pastry lover, loser, cool-ass motherfucker---for laughingly giving the system the finger till the day you died. RIP, man.
 - Trimurti: my second family, torn away as soon as I noticed, for helping further raise me
 
 #### influences
@@ -60,11 +60,13 @@ Each of you gave me the world.
 - America
 	- Crea Egan for helping Harold begin with darkness, thus opening the door for me.
 	- Rob Miller, Malia Shultheis, and Jen Carroll: supporters and early retreat hosts
-	- Brian Sullivan: full-throttle collaborator, who gave first help in developing these ideas and, as always, trying them out
+	- Brian Sullivan: early collaborator, who gave first help in developing these ideas and, as always, trying them out
 	- Jesse King, John Monroe, and Elisabeth Goward, Dome Villagers at Maitreya Ecovillage, Eugene: camaraderie and support
 	- Blanche Colson: for getting Harold and me started in commercial window coverings for darkrooms. Of course, it was cardboard.
 	- [Hannah Christina Torres](https://hannahtorres.massagetherapy.com) for the second window covering idea
 	- Daniel Tucker and Les Stitt, then Ben Ramsey and Stephanie: for KCMO shelter
+	- Frank Cicela: supporter since 2002
+	- Brad Crutchfield: friend, always-interested supporter, and deep well-wisher
 - Guatemala
 	- The Maya: for your friendship and unshakable presence
 	- Niels Gronau: for your miraculous Guatemalan facility
@@ -80,8 +82,6 @@ Each of you gave me the world.
 	- Oscar, Limme, and Max at Kulturforeningen Gryning of Helsingborg: friends, hosts, and supporters. Cheers!
 	- Anna Ericksson: supporter and darkness experimenter
 	- Sanna Aatig: friend, supporter, host, and nurse in my darkest days
-	- Frank Cicela: supporter since 2002
-	- Brad Crutchfield: friend, always-interested supporter, and deep well-wisher
 	- &Aring;sa Ringstrom and Johan L&ouml;rne: friends and supporters
 	- Richard N&ouml;jd for hard-won darkroom design ideas
 	- A woman, unnamed, who initiated me in an essential part of my lost self, leading to the [conclusive test](/report/2x3-day/) of this idea

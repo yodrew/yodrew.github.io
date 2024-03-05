@@ -3,14 +3,13 @@ title: plan
 layout: page
 navprev: design
 permalink: /plan/
-navnext: make
+navnext:
 ---
 
 ### hygienic house
 
 ...for healthy living and retreating  
 A design and budget  
-Updated 2022 04 08 10:00 UTC
 
 ### design
 
@@ -30,6 +29,7 @@ I built this small short conic hut (~3m diameter x 2.5m high) in 2008. It shows 
 
 - notes below
 - download [spreadsheet](/img/plan/source/conicbudget.xlsx)
+- prices from 2022 Apr
 
 |ITEM|TYPE|ELEMENT|COMPONENT|PART|MATERIAL|SIZE mm|AMT mm|AMT ft|UNIT ft|QUANTITY|COST/UNIT|COST|ESTIMATE|NOTES|
 | ---:| --- |---| --- | --- | --- | ---:| ---:| ---:| ---:| ---:| ---:|---:| ---:| --- |
@@ -202,26 +202,13 @@ I built this small short conic hut (~3m diameter x 2.5m high) in 2008. It shows 
 
 ### Notes
 
-v.3.1
-I noticed 20% was not added to MATERIAL costs in bottom group of totals. Corrected. Bid increased to $15,352
-
-v.3
-Massive increase in bid: doubled to $14k
-
-- Equity (wages) added
-- Work period doubled to 4 months to include all TYPES, phases, and prototyping delays
-- Stipend 
-	- increased by 1/3 to cover all personal expenses (see [sane personal economy](/other/economy))
-	- extended for new work period
-- MATERIAL costs padded by 20%. Usual 10% for breakage and mistakes, plus 10% in case of more insane price increases
-- Estimate of license doubled and built into shell cost
-I hope actual cost will be lower. I will track time, purchases, personal expenses to find savings.
-
-v.2
-Totals added at bottom for main categories and materials
-
-v.1
 I found COSTS of nearly all main materials. Figures for many minor materials are ESTIMATES. I made the estimates halfway through getting prices. Some were way off. But the total was close. So I expect the final budget to be close to the above figures.
+
+- Equity = wages
+- Work period includes all TYPES, phases, and prototyping delays
+- MATERIAL costs padded by 20%. Usual 10% for breakage and mistakes, plus 10% in case of more price increases
+
+I hope actual cost will be lower. I will track time, purchases, personal expenses to find savings.
 
 All the prices are for new materials except door and window hardware. Hinges and latches are cheap and plentiful at Habitat for Humanity ReStores. There is also opportunity in the design for economizing with used and found materials.
 

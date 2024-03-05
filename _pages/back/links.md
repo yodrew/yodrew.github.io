@@ -1,13 +1,3 @@
----
-title: external links
-layout: page
-navprev: bio
-permalink: /back/links/
-navnext: 
----
-
-Here are external links of the book, with addresses, in order of appearance.
-
 ###### notes
 
 underlined - [darkroomretreat.com/](https://darkroomretreat.com/)  
@@ -39,7 +29,7 @@ myths - [darkroomretreat.com/other/myths](https://darkroomretreat.com/other/myth
 #### hygiene
 
 rapture - [darkroomretreat.com/conjecture/rapture](https://darkroomretreat.com/conjecture/rapture)  
-fasting - [darkroomretreat.com/f/fasting](https://darkroomretreat.com/f/fasting)  
+fasting - [darkroomretreat.com/f/fasting-discovery](https://darkroomretreat.com/f/fasting-discovery)  
 Frederic Patenaude - [fredericpatenaude.com](https://fredericpatenaude.com)  
 *The 80/10/10 Diet* - [foodnsport.com](https://foodnsport.com)  
 Loren Lockman - [tanglewoodwellnesscenter.com](https://tanglewoodwellnesscenter.com)  
@@ -124,9 +114,12 @@ Fresh-R - [fresh-r.eu](https://fresh-r.eu)
 Renewaire - [renewaire.com](https://www.renewaire.com)  
 filial attachment - [continuum-concept.org](https://continuum-concept.org)  
 December 2011 - [darkroomretreat.com/report/6-day](https://darkroomretreat.com/report/6-day)  
+*100 page summary* - [darkroomretreat.com/f/wireless](https://darkroomretreat.com/f/wireless)  
 *A Fuller Explanation* - [arvindguptatoys.com/arvindgupta/synergy-fuller.pdf](https://www.arvindguptatoys.com/arvindgupta/synergy-fuller.pdf)  
 round shelter designs - [darkroomretreat.com/other/links](https://darkroomretreat.com/other/links)  
 plan - [darkroomretreat.com/plan](https://darkroomretreat.com/plan)  
+Breathing Walls - [breathingwalls.com](https://breathingwalls.com)  
+IBE - [buildingbiology.net](https://buildingbiology.net)  
 
 #### make
 
@@ -209,20 +202,8 @@ Andrew Durham - [darkroomretreat.com/](https://darkroomretreat.com/)
 github repo - [github.com/yodrew/yodrew.github.io](https://github.com/yodrew/yodrew.github.io)  
 endorsement - [questioncopyright.org/creator_endorsed.html](https://questioncopyright.org/creator_endorsed.html)  
 
-#### services
-
-store - [darkroomretreat.com/store](https://darkroomretreat.com/store)  
-confer - [darkroomretreat.com/store/confer](https://darkroomretreat.com/store/confer)  
-enroll - [darkroomretreat.com/store/enroll](https://darkroomretreat.com/store/enroll)  
-Profound Rest Retreats - [profoundrest.wordpress.com](https://profoundrest.wordpress.com)  
-ebook at leanpub - [leanpub.com/darkroomretreat](https://leanpub.com/darkroomretreat)  
-hygienic house - [darkroomretreat.com/plan](https://darkroomretreat.com/plan)  
-Wise: andrewd1878 - [wise.com/share/andrewd1878](https://wise.com/share/andrewd1878)  
-Venmo: @andrewdurham - [venmo.com/u/andrewdurham](https://venmo.com/u/andrewdurham)  
-PayPal - [bit.ly/paypalandrew](https://bit.ly/paypalandrew)  
-
 #### bio
 
-joy filled me - [darkroomretreat.com/conjecture/rapture](https://darkroomretreat.com/conjecture/rapture)  
+joy overcame me - [darkroomretreat.com/conjecture/rapture](https://darkroomretreat.com/conjecture/rapture)  
 *darkness conjecture* - [darkroomretreat.com/conjecture/](https://darkroomretreat.com/conjecture/)  
 Proof of concept - [darkroomretreat.com/report/2x3-day](https://darkroomretreat.com/report/2x3-day)  

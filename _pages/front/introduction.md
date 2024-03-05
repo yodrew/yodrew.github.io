@@ -79,10 +79,10 @@ normal
 psyche
 : the faculty of knowing, specifically of man, including:
 
-	- forms of intelligence and associations
-		- moving: sensation / physical / instinctive / gut / reptilian
-		- feeling: perception / emotional / intuitive / heart / mammalian
-		- thinking: conception / mental / intellectual / brain / rational
+	-  intelligence:  form / center / functions / association
+		- moving: sensation / gut / physical, instinct / reptilian  
+		- feeling: perception / heart / emotional, intuition / mammalian
+		- thinking: conception / brain / mental, intellect / rational
 	- parts (used as both adjectives and nouns)
 		- unconscious: coordinates processes fundamental to life like metabolism, cell division, and blood oxygen levels. It cannot become conscious or directly controlled except to an insignificant or backfiring degree, through intense yogic practices, techniques like hypnosis or biofeedback, or psychoactive substances. Synonyms: autonomic, involuntary
 		- subconscious: acquired automatized knowledge, which can be made conscious, like walking, emotional associations, cognizing words, and dreaming

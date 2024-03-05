@@ -71,7 +71,7 @@ The extent and organization of this list are somewhat arbitrary. It simply helps
 
 #### rest
 
-This book mainly deals with the condition of rest. It is half of life. In our action-obsessed lifeway, we disdain and resist it. We view it as laziness, indulgence, a waste of time. This is an obvious aspect of mass civilized psychosis.
+This book mainly deals with the condition of rest. It is half of life. In our action-obsessed [lifeway](/front/introduction#glossary), we disdain and resist it. We view it as laziness, indulgence, a waste of time. This is an obvious aspect of mass civilized psychosis.
 
 Rest is an end in itself. It is another equal aspect of living. Moreover, nothing else is possible without it, neither action nor healing. As Shelton says, "Time spent at rest is never wasted." If we wish to be healthy, we simply must correct ourselves in this matter.
 
@@ -79,7 +79,7 @@ We rest for two reasons: because we are tired and because we are ill. Thus rest 
 
 Ordinary rest includes nightly sleep, naps, and relaxation, alternated with daily activity in light. It is for recovering from being tired from daily life. It is for maintenance of health.
 
-Profound rest is
+Profound rest is:
 
 - deep: more restful and accompanied by greater healing
 - concentrated: more occurs per day
@@ -96,15 +96,15 @@ Profound rest occurs under four main conditions. They are (in order of increasin
 
 These can be used in any combination. Hygienic darkroom retreating begins with #1, 2, & 4. It can include #3 later. There are over 10 other conditions of rest, to be discussed in chapter 2.
 
-The benefits of profound rest accumulate day by day. If interrupted, some healing processes must start over. To heal from major trauma, a good night's sleep is not enough, even several in a row. We must bring hygienic retreats into our lives to get the profound rest we need.
+The benefits of profound rest accumulate day by day. If interrupted, some healing processes must start over. To heal from major trauma, a good night's sleep is not enough, even several in a row. The rest must go on day and night for days for healing to occur. We must bring hygienic retreats into our lives to get the profound rest we need.
 
 ### history
 
 #### hygienists
 
-Hygiene originated at the peak of the Enlightenment in America. It is a gift of children of the Revolutionaries, perhaps besting that of their parents. The country was new. Everything was possible. Three men dared to see everything anew.
+Hygiene originated at the peak of the Enlightenment in America. It is a gift of the children of the Revolutionaries, rivaling the great gift from their parents. The country was new. Everything was possible. Three men dared to see everything about health with fresh eyes.
 
-In 1822, Dr Isaac Jennings abandoned drugging. He prescribed fasting under the guise of sugar pills. His success drew patients from far and wide.
+In 1822, Dr Isaac Jennings abandoned drugging. He prescribed fasting under the guise of sugar and bread pills taken with copious amounts of water. His success drew patients from far and wide.
 
 Hygiene became a mass movement in 1832 with the lectures of Sylvester Graham, physiologist, preacher, and the namesake of Graham (whole wheat) flour.
 
@@ -116,17 +116,17 @@ Many other bold men and women alike gave their lives to hygiene. They touched te
 
 If hygiene were software, these initial efforts would be version 1.0. 
 
-Hygiene 2.0 was marked by integration. After the untimely death of Dr Trall, John Tilden buoyed hygiene with his practice and neat formulations. His concept of toxemia is now widespread.
+Hygiene 2.0 was marked by integration. After the untimely death of Dr Trall, John Tilden buoyed hygiene with his practice, books, and neat formulations. His concept of toxemia is now widespread.
 
-By uncompromising insight and Olympian effort, Herbert Shelton revived and systematized hygiene for the 20th century. He published a score of books and 40 years of magazines. He supervised over 20,000 fasts. He counted Gandhi among his adherents and suffered similar persecutions. He rechristened hygiene, "Natural Hygiene", to distinguish it from medicine's corruption of the word to just mean cleanliness.
+By uncompromising insight and Olympian effort, Herbert Shelton revived and systematized hygiene for the 20th century. He published a score of books and 40 years of magazines. He supervised over 20,000 fasts. He counted Gandhi among his adherents and suffered similar persecutions. He rechristened hygiene as "Natural Hygiene" to distinguish it from medicine's corruption of the word to just mean cleanliness.
 
-Albert Mosseri of France further modernized hygiene with his piquant prose and prodigious innovation in [fasting](/f/fasting).
+Albert Mosseri of France further modernized hygiene with his piquant prose and prodigious innovation in [fasting](/f/fasting-discovery).
 
 Mosseri's reader and translator, [Frederic Patenaude](https://fredericpatenaude.com) of Quebec, introduced Mosseri to a wider audience through his magazine "Just Eat an Apple" and hygienic book, _Raw Secrets_ (which I helped edit and publish).
 
 Shelton's student, TC Fry, created a widely-used hygienic course of study. A student of Fry, Harvey Diamond and his wife, Marilyn, introduced hygiene to millions (including me) with their book, _Fit for Life_.
 
-Another student of Fry is Douglas Graham. He wrote [*The 80/10/10 Diet*](https://foodnsport.com), a trenchant presentation of hygienic diet. It uses the familiar idea of calories in the titular ratio to explain healthy eating. It makes frugivorous diet accessible. 
+Another student of Fry is Douglas Graham. He wrote [*The 80/10/10 Diet*](https://foodnsport.com), a trenchant and radical presentation of hygienic diet. It uses the familiar idea of calories in the titular ratio to explain healthy eating clearly. It makes frugivorous diet accessible. 
 
 [Loren Lockman](https://tanglewoodwellnesscenter.com)'s teachings and practice of frugivorous diet are unusually elegant. I learned from and fasted and worked with him in 2003 and 2004.
 

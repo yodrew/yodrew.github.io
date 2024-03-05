@@ -236,6 +236,8 @@ Here are schedules in calendar form for:
 - 5-day retreat
 - 9-day retreat
 
+Or read them in [linear form](/schedule).
+
 <!--pagebreak-->
 
 ![plan: 2-day mini schedule](/img/plan/image/2-day-mini.png)

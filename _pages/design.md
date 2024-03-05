@@ -170,11 +170,23 @@ As always, I had the darkroom to myself. I had tested my comfort in the apartmen
 
 I would not have done a long retreat there, but the short one I did nearly saved my life. It bought me two more months of internal stability to work on this book. And it revealed a widely available setting for short retreats.
 
-The worst noise comes from the relentless grinding of machines: stereos, traffic, ventilation and refrigeration equipment on buildings, and construction. It seems fine at first but soon becomes intolerable, like a drill to the skull. Fortunately, a [silencer](/air#silencer) is amazingly effective at neutralizing external noise. 
+The worst noise comes from the relentless grinding of machines: stereos, traffic, ventilation and refrigeration equipment on buildings, and construction. It can seem fine at first. But soon it becomes intolerable. A [silencer](/air#silencer) is amazingly effective at neutralizing external noise. House-in-house or room-within-a-room construction, with decoupled walls and floating floor, is necessary to stop low frequencies.
 
-Then, the larger the building and the more electrical wiring and steel framing and reinforcement it has, the more it disturbs electromagnetically. Finally, there is high-frequency wireless radiation, that planet-size microwave oven we now live inside of. Fortunately, it exponentially decreases in intensity with distance from the source. At least you can turn off all wireless devices under your power. Long term, you can move or install shielding.
-	
-One can become so vulnerable in profound rest that the wrong setting can become harmful. Make sure you feel comfortable in a large or occupied building. Be confident you will be ok when retreating there. If the influence of the building undermines the restfulness of the retreat too much, stop the retreat and try again elsewhere.
+### subtle
+
+Buildings can have subtle problems that most of us have difficulty detecting. This is a place where the feeling and moving [centers of intelligence](/psychology#psychosis) come into play.
+
+The larger the building, the more electrical wiring, and the more steel framing and reinforcement it has, the more it is electromagnetically disturbing. Baubiologie[^1], the advanced building science from Germany, has exposed this danger since the 1950s. 
+
+Then there is high-frequency wireless radiation like cellular, wifi, and bluetooth signals. They comprise the planet-size, psychotronic microwave oven we now live inside of. Fortunately, it exponentially decreases in intensity with distance from the source. You can turn off all wireless devices under your power, and it makes a difference. The mass of a building absorbs some of it. Long term, you can move or install shielding. Magnesium oxide sheeting over or in place of drywall is especially helpful.
+
+Written evidence of damage from wireless radiation lies in the safety warnings in the manuals of cellphones, microwaves, and wifi routers. The US Navy made a [*100 page summary*](/f/wireless) of thousands of pages of military research into the harmfulness of wireless devices _50 years ago_. Widespread lack of concern about it is a textbook example of denial, a symptom of mass trauma-induced  [mass psychosis](/psychology#psychosis).
+
+One can become so vulnerable in profound rest that the wrong setting can become harmful. Make sure you feel comfortable in a large or occupied building. Be confident you will be ok when retreating there.
+
+Let instinct guide you. Observe what your body does. Do you relax or does your body language close? Do you feel pulled into the building, or do you make moves for the door? Your body knows what is good.
+
+If it seems ok, test it by staying a night or two. Later, if the influence of the building undermines the restfulness of the retreat too much, stop the retreat and try again elsewhere.
 
 Make extra preparations to doubly protect yourself from distress on your transition days: no shopping, visitors, media, or travel. Following my weird retreat in 2011, I was not thinking straight. I moved to an even less restful location only one day after. This proved even more harmful than the first location. Post-retreat planning is critical. See [post-retreat](/protocol#post-retreat).
 
@@ -223,3 +235,5 @@ Now, let's learn to make our prison cells into escape vehicles. The next chapter
 ![plan: hygienic house / conic](/img/plan/image/conic.png)
 
 See [plan](/plan) on my website for a color sketch, downloads, and budget. Also in zip file.
+
+[^1]: Building Biology in English. [Breathing Walls](https://breathingwalls.com) is an exceedingly instructive manual of baubiological technique. The International Institute for Bau-Biologie and Ecology [IBE](https://buildingbiology.net) in Florida offers a course.

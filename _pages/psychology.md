@@ -227,15 +227,17 @@ The human organism is resilient in some ways and delicate in others. Darkness al
 
 Trauma is not just a memory. It is damage with tangible, ongoing consequences. As you would expect, psychic trauma causes psychic illness: psychosis.
 
-Every day, under our breath or aloud in exasperation, we call people and situations crazy. What if our colloquialism were clinically accurate? What if it were precisely what is wrong with us? What if we have been right about it the whole time?
+Every day, we call things crazy. Under our breath or aloud, we get exasperated with people and situations. What if our colloquialism were clinically accurate? What if it were precisely what is wrong with us? What if we have been right about it the whole time?
 
-Sages throughout history have observed in us civilized people a pattern of _mass functional psychosis_. Mass means universal. Functional means able to survive long enough to reproduce. Psychosis has two senses.
+Sages throughout history have observed in us civilized people a pattern of _functional mass psychosis_. Functional means able to survive long enough to reproduce. Mass means universal. Psychosis means psychic illness. It has two senses.
 
-Broadly, psychosis means psychic illness. Which mostly results from trauma. Which leads to exhaustion and intoxification: the abject acceptance of poisonous ideas, attitudes, emotions, and behavior. These compound in further dysfunctions of thinking, feeling, and moving intelligences. Dysfunction leads to failure and pain, both physical, emotional, and intellectual. Sickness, unhappiness, and confusion (or dogmatism) characterize civilized people. Such comprehensive chronic dysfunction marks our psychosis.
+Broadly, psychosis means psychic illness. It originates in trauma. Which leads to exhaustion and intoxification. These lead to the abject acceptance of poisonous ideas, attitudes, emotions, and behavior. These compound in further dysfunctions of thinking, feeling, and moving intelligences. Dysfunction leads to failure and pain, both physical, emotional, and intellectual. Sickness, unhappiness, and confusion (including dogmatism) characterize civilized people. Comprehensive chronic dysfunction marks our psychosis.
 
-Narrowly, psychosis means the inability to distinguish fantasy from reality. Our particular fantasy is that the sliver of reality we are aware of makes up the whole of reality. Any idea that doesn't fit into our postage stamp-worldview gets unnoticed, ignored, or crushed. We can't help it. It is the inevitable pathology of mass major psychic trauma. 
+Narrowly, psychosis means the inability to distinguish fantasy from reality. Our particular fantasy is that the sliver of reality we do know about makes up the whole of reality. Any idea that doesn't fit into our postage stamp-sized worldview gets unnoticed, ignored, or crushed. We can't help it. It is the inevitable pathology of mass major psychic trauma. 
 
-The sliver consists of the grossest part of reality. Scientists call it spacetime: three maneuverable dimensions of space, with one dimension of time, the present, locked in forward motion. Being grossly sensible, spacetime is especially amenable to intellection and mechanical manipulation. Thus our hyper-mental, industrial lifeway. We emphasize thinking at the expense of feeling and, to a lesser extent, action. We exalt the useless activity of athletics and prefer to make machines do the rest for us. Obsessive control of this sliver enables enough of us to survive each generation to imagine we are doing as well as possible.
+The sliver we know about consists of the grossest part of reality. Scientists call it spacetime: three maneuverable dimensions of space, with one dimension of time, the present, locked in forward motion. Being grossly sensible, spacetime is especially amenable to intellection and mechanical manipulation. 
+
+This gives rise to our hyper-mental, industrial lifeway. We emphasize thinking at the expense of feeling and, to a lesser extent, action. We exalt the useless activity of athletics and prefer to make machines do the rest for us. Obsessive control of this sliver enables enough of us to survive each generation to imagine we are doing as well as possible.
 
 However, some of us find this common state to be... sheer insanity, if you don't mind. We have experienced grace, joy, and flashes of harmony with reality. We cannot help but see glaring proofs of mass psychosis in:
 
@@ -253,17 +255,17 @@ However, some of us find this common state to be... sheer insanity, if you don't
 
 I could go on. No doubt, you could extend the list yourself. Perhaps you have wept over the world's desperate madness. Perhaps you have wept over your own.
 
-Calling something crazy usually halts further consideration and conversation. After all, "you can't fix crazy." So what good does it do to think about it? Is it even craziness? Or is it human nature, as we have long assumed? That is what most religion and philosophy say. Nothing overcomes nature. So they render themselves helpless by their own pronouncements. Also, they excuse themselves.
+Calling something crazy usually halts further consideration and conversation. After all, "you can't fix crazy." So what good does it do to think about it? Is it even craziness? Or is it human nature? Is it what we have been pleased to call the human condition? That is what most religion and philosophy say. Nothing overcomes nature. So they render themselves helpless by their own pronouncements. Also, they excuse themselves.
 
-Conventional psychology has failed to fix our craziness. And psychological reformers have proven ineffective. They consign their tough cases to psychiatry, surrendering to its worship of drugs. It is the further medical application of our culture's mythos of original sin. In other words, debilitation, incompetence, failure, and suffering are human nature. We refuse further examination of symptoms and causes. Mass psychosis is the biggest elephant in our room. 
+Conventional psychology has failed to fix our craziness. And psychological reformers have proven ineffective. They consign their tough cases to psychiatry, surrendering to its worship of drugs. It is the further medical application of our culture's mythos of original sin. In other words, debilitation, incompetence, failure, and suffering are human nature. We refuse further examination of causes. Mass psychosis is the biggest elephant in our room. 
 
 I submit, we are actually crazy. But we weren't always. Something went terribly wrong and here we are. Happily, we are alive. Therefore we are self-healing. So somehow we can recover.
 
-What would we recover? Common sense, memory, and honesty. Joy and empathy. Vigor and grace. For starters. Much more awaits us. When thinking, feeling, and moving centers of intelligence function again, and in harmony with each other, life will improve to a degree known only in legend. 
+What would we recover? Common sense, memory, and honesty. Joy and empathy. Vigor and grace---for starters. Much more awaits us. When thinking, feeling, and moving centers of intelligence function again, and in harmony with each other, life will improve to a degree known only in legend.[^4]
 
-I mean engagement with the other basic plane of reality. It mirrors spacetime, so some cutting edge scientists call it timespace: three dimensions of time---past, present, future---and one dimension of space, that is, one location.[^4] Australian Aboriginals call it dreamtime. Kogi Indians call it the _aluna_. 
+Harmonious function will come from re-engagement with the other basic plane of reality: timespace. Some cutting edge scientists call it this because it mirrors spacetime. Timespace has three dimensions of time---past, present, future---that one can choose from, and one, unchoosable dimension of space, that is, one location per moment in time.[^5] Australian Aboriginals call it dreamtime. Kogi Indians call it the _aluna_. 
 
-They access it at will for daily living. It is how they can track someone 100 miles through the desert a year later with only a scrap of his clothing. Or talk to people on the other side of the world without telephones. Or go out to meet a scarce deer in the middle of nowhere to bring back for food. It is how spiritual adepts famously know things they have no normal way of knowing.
+They access it at will for daily living. It is how they can track someone 100 miles through the desert a year later with only a scrap of his clothing. Or talk to people on the other side of the world without telephones. Or go out to meet a scarce deer in the middle of nowhere and bring it back for food. It is how spiritual adepts famously know things they have no normal way of knowing.
 
 Dreamtime is perceived primarily through the feeling center of intelligence, not the senses. It is intuition. With psychic integrity, it can be just as precise and accessible as the eyes aided by microscope or telescope, or a camera on a drone.
 
@@ -315,7 +317,7 @@ Trauma changes form but keeps its intensity. Society rearranges itself into civi
 
 What if we are the butt of a bad cosmic joke? If so, then our wars, big and small, are pointless. No one started it. No one need be punished. Everyone is essentially innocent. Everyone is free to walk away from the conflict and heal. 
 
-Trauma from such large-scale events is unavoidable. It is natural. Trying to prevent it is futile. Hope lies in having a way to recover from it.[^5][^6]
+Trauma from such large-scale events is unavoidable. It is natural. Trying to prevent it is futile. Hope lies in having a way to recover from it.[^6][^7]
 
 <!--pagebreak-->
 
@@ -330,11 +332,11 @@ In light of the essence of hygiene, _conditional self-preservation_; the restful
 5. Rest that is profound enough for healing from major trauma occurs in total darkness.
 6. By hygienic darkroom retreating, we gain relief, rest, and recovery of health and its attributes.
 
-Hygiene upholds basic findings of psychology from several traditions. Hygiene merely declines psychology's conscious over-involvement in the unconscious. Only the unconscious is competent to direct self-healing. It only needs support of the conscious. The conscious is helpless to fix the damage. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^7]
+Hygiene upholds basic findings of psychology from several traditions. Hygiene merely declines psychology's conscious over-involvement in the unconscious. Only the unconscious is competent to direct self-healing. It only needs support of the conscious. The conscious is helpless to fix the damage. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^8]
 
 #### fasting
 
-Focusing on profound psychic rest in absolute darkness is new in hygiene. Due to its naive pathology, it has focused on the profound physiological rest of fasting. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts. This reduces the significant work of sensory processing of vision[^8]. A darkroom retreat embodies this principle fully. It provides the energy and, frankly, the psychic security of food, until the underlying psychic system necessary for comfortable fasting has repaired itself.
+Focusing on profound psychic rest in absolute darkness is new in hygiene. Due to its naive pathology, it has focused on the profound physiological rest of fasting. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts. This reduces the significant work of sensory processing of vision[^9]. A darkroom retreat embodies this principle fully. It provides the energy and, frankly, the psychic security of food, until the underlying psychic system necessary for comfortable fasting has repaired itself.
 
 In other words, the psychic system is more fundamental than the digestive and eliminative systems. Darkroom retreating is thus more urgently needed than fasting in most cases.
 
@@ -352,35 +354,35 @@ Dark retreating is like fasting. The process is quiet and gradual. Usually, one 
 
 Sometimes, one must participate consciously in the process. One finds out _why_ his life has gone wrong. One sees what part of his thinking and behavior must change.
 
-In any case, one always knows the result: restoration of function. It is the recovery of the lost self. Confidence, contentedness, presence, and euphoria naturally accompany it. Hygienic darkroom retreating reveals the marvelous self-healing power of the organism under proper conditions.
+In any case, one always knows the result: restoration of function. It is the recovery of a lost part of self. Confidence, contentedness, presence, and euphoria naturally accompany it. Hygienic darkroom retreating reveals the marvelous self-healing power of the organism under proper conditions.
 
 For those who have suffered for years and failed with other approaches, the process is nothing less than miraculous. It is typical with hygiene. Time in darkness shows that if one wants a miracle, one need only provide its conditions.
 
-And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its history and consequences. One heals retroactively. One not only feels good now, but all the years of agony somehow turn to joy. It is strange to write this to you, probably stranger for you to read it without the experience. But there you have it.
+And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its history and consequences. One heals retroactively. One not only feels good now. All the years of agony somehow turn to joy. It is strange to write this to you, probably stranger for you to read it without the experience. But there you have it. That is what happens.
 
-The organism in darkness becomes like a time machine for returning to the present. Or a space ship for traveling to Earth. Or, as in ancient legend, the:
+The organism in darkness becomes like a time machine for returning to the present. Or a space ship for traveling to Earth. Or, as in ancient legends, the:
 
 - Fountain of Youth, for restoring supreme health
 - Garden of Eden, where one feels at home 
 - Golden Fleece, by which one regains natural personal power
 - Holy Grail, source of joy and wisdom
-- Panacea[^9], genius for solving all problems
+- Panacea[^10], genius for solving all problems
 - Philosopher's Stone, key to the infinite wealth of nature
 
 Typical of hygiene, the bad news of hygienic psychology is far worse than anyone imagined, and its good news, far better.
 
 ### conclusion
 
-So far in this book, we have seen four significant developments in hygiene:
+In this book, we have seen four significant developments in hygiene:
 
 1. the maturation of hygiene's laws
 2. the emergence of a hygienic psychology
-3. the radicalization of hygienic pathology with the identification of trauma as the root of all illness
+3. the radicalization of hygienic pathology by the identification of trauma as the root of all illness
 4. the greater importance of dark retreats than fasting for resting and healing
 
 These have massive implications for hygiene's destiny, and mankind's as well.
 
-Hygiene has said illness originates with enervation (exhaustion) and toxemia (poisoning). Its new pathology explains how these conditions themselves originate in trauma. In coming to terms with trauma, hygiene can finally meet and obsolete allopathy (medicine) in its stronghold. 
+Hygiene has said illness originates with enervation (exhaustion) and toxemia (poisoning). Its new pathology explains how these conditions themselves originate in trauma. In gaining the ability to deal with trauma, hygiene can finally obsolete allopathy (medicine) in its stronghold. 
 
 I discuss these implications further in [hygiene notes](/conjecture/hygiene-notes). I am only saying enough here to give you a solid basis for beginning with hygienic darkroom retreating. If it makes sense to you and you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*.
 
@@ -388,10 +390,11 @@ I discuss these implications further in [hygiene notes](/conjecture/hygiene-note
 
 [^1]: Sometimes, doctors go on strike. Life expectancy increases overnight by 9 years. It falls again the day the strike ends. See Dr Robert S Mendelsohn, _Confessions of a Medical Heretic_ for this and other amusing facts about medicine. See also [Medical Myths](https://foodkills.org/medicalmyths/)
 [^2]: Joseph Chilton Pearce, _Evolution's End_
-[^3]: This explains the unconscious motivation for the macabre fascination with genetics. This negligible and corrupt quasi-science is shot through with disgust for life and mechanistic control-freakishness.
-[^4]: ["Enigma 2012"](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/), a lecture on video by David Wilcock
-[^5]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual book, [*In Search of the Miraculous*](/f/search.pdf)\*.
-[^6]: See my longer essay about cataclysm, [catastrophe](/conjecture/catastrophe)
-[^7]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
-[^8]: Bernarr Zovluck, [Alternative Healing](http://towardsfreedom.com/iwrters/bernarr-zovluck/alternative-healing-what-nobody-understands/): What Nobody Understands. Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. This comment would help me connect darkness with hygiene a decade later.
-[^9]: Panacea is, in Greek legend, the sister of Hygieia. 
+[^3]: This explains the unconscious motivation behind the macabre fascination with genetics. This negligible and corrupt quasi-science is shot through with self-hatred, disgust for life, and mechanistic control-freakishness. Fortunately, there is a way to heal from the traumatic origins of these pathological states. Then we could go back to leaving genetics to genes and the normal attraction to beauty and strength.
+[^4]: Joseph Chilton Pearce in _Magical Child Matures_, George Gurdjieff in _In Search of the Miraculous_, and Da Free John in _The Eating Gorilla Comes in Peace_ discuss the triune nature of man's intelligence. Also see the [glossary](/front/introduction#glossary) for my overview of the psyche's nature, qualities, and functioning. 
+[^5]: ["Enigma 2012"](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/), a lecture on video by David Wilcock
+[^6]: This echoes one of Gurdjieff's main points: that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual book, [*In Search of the Miraculous*](/f/search.pdf)\*.
+[^7]: See my longer essay about cataclysm, [catastrophe](/conjecture/catastrophe)
+[^8]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
+[^9]: Bernarr Zovluck, [Alternative Healing](http://towardsfreedom.com/iwrters/bernarr-zovluck/alternative-healing-what-nobody-understands/): What Nobody Understands. Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. His comment would help me connect darkness with hygiene a decade later.
+[^10]: Panacea is, in Greek legend, the sister of Hygieia. 

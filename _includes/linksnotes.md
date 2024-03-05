@@ -1,0 +1,1 @@
+- external links are listed at the very end of this book, in element _z_- a link followed by a letter or number  "crosslinks" to another section within the book. For example, [media](/front/notes#media) crosslinks to the section below, "media", in this element _b_, notes.

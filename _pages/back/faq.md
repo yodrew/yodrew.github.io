@@ -146,16 +146,9 @@ Maybe you mean it sounds pointless or dreadful. In fact, a retreat often begins 
 
 At the moment, your doing a retreat is out of the question. You cannot do it if you don't want to, you cannot want to if you don't believe in it; and you cannot believe in it if you don't know enough about it for it to make sense to you. So forget about doing it. The only thing that matters is, does it interest you enough to learn more about it? If so, then I can recommend a good book about it.
 
-<!--&nbsp;-->
-
 **2 - Why must I read a whole book just to retreat?**
 
-1. to prepare. You must know how to retreat hygienically to succeed. This is the book on it.
-
-	It only takes 5 minutes to learn the essence of it, another 15 to learn important details. But it takes 4 hours of reading to begin countering the conditioning to sabotage it. We are not just broken but imprisoned, as well.
-2. to retreat soon. Someday, I may be able to structure retreats for those who have not read my book. Meanwhile, some of the structure necessary must exist inside a retreater. Reading the book builds that structure.
-
-<!--&nbsp;-->
+To do something worthwhile, you must know how to do it. This including knowing how not to do it and how to counter lifelong conditioning to fail at it, which all of us receive in this lifeway. Hygiene, in particular, works better the more one understands it.
 
 **3 - Isn't total darkness unnatural? Shouldn't we be exposed to stars and moon at night?**
 
@@ -171,17 +164,19 @@ Our obsession with building---the principle activity of civilization for 13,000 
 
 **4 - This sounds Satanic.**
 
-Some Christians who have encountered this idea have attempted to equate physical darkness with the spiritual darkness the Bible speaks against, and is thus Satanic. 
+Some Christians I have met have attempted to equate physical darkness with the spiritual darkness the Bible speaks against, and is thus Satanic. 
 
-Taking metaphors literally is precisely the abysmal stupidity that rational people rightly mock fundamentalists for. Real Biblical expositors like John MacArthur and Walter Veith warn against it. The Bible is rich with symbols. Their meanings have all been worked out for those who will bother to study.
-
-This would mean that physical light is spiritual light. This amounts to sun worship... which is itself Satanism. It shows how stupidity, at some point, becomes evil.
+Taking metaphors literally is just what rational people mock fundamentalists for. It would also mean that physical light is spiritual light. This amounts to sun worship... which is itself Satanism. It shows how stupidity, at some point, becomes evil.
 
 Satan lies about everything. The defining lie of Satanism is that salvation comes by work. Jesus said that salvation comes only by grace, not works. The idea of hygienic darkroom retreating is that healing (a kind of salvation) comes by rest. Rest is the opposite of work and a corollary of grace.
 
-If a single Biblical passage speaks against extended rest in physical darkness, I'd like to know it. The Bible does tell of several extremely good things that happened during or immediately after people had extended stays in darkness. I demand explanations for them. For example, Elijah in the cave, Jonah in the whale, Lazarus and Jesus in their tombs—not to mention the creation of the world and prayer in closets.
+Does the Bible tell of something bad that happened due to someone's extended stay in darkness? Does  it warn against extended rest in physical darkness? If so, I'd like to know it.
 
-Myself, I began to sense Christ during my dark retreats. If darkness were evil, it should have driven me further away from that sense. It should have inclined me toward greater evil. The psychopaths I have met, including some Christians, hate and fear darkness. I think _the One_ they serve fears it, too.
+The Bible does tell of extremely good things that happened during or immediately after extended stays in darkness. I demand explanations for them. For example, Elijah in the cave, Jonah in the whale, Lazarus and Jesus in their tombs—not to mention the creation of the world and prayer in closets.
+
+Myself, I began to sense Christ during my dark retreats. If darkness were evil, it should have driven me further away from that sense. It should have inclined me toward greater evil. The opposite occurred.
+
+The psychopaths I have met, including some Christians, hate and fear darkness. I think _the One_ they serve fears it, too.
 
 The God of Psalm 139:13 fears nothing. “If I ascend to heaven, you are there; if I make my bed in Sheol, you are there... Even the darkness is not dark to you.” King David was capable of using two different senses of the same word in the same sentence. Like most of his readers, you probably can, too.
 
@@ -193,9 +188,9 @@ There are many ways to gain temporary relief. Some can help one cope with the wo
 
 But no significant recovery occurs. It is merely acceptable or maybe impressive by our lifeway's low standards.
 
-For full recovery, as with all living functions, nature provides single universal conditions and specific combinations thereof. We're not talking about which color to paint a house. Physiology doesn't provide options to suit one's tastes. 
+For all living functions, nature provides single universal conditions and specific combinations thereof. Physiology doesn't provide options to suit one's tastes. We're not talking about which color to paint a house.
 
-To breathe, one must have air. To heal from major trauma, one must have darkness and associated conditions of profound rest. These solutions are available everywhere and work for everyone, even other animals. They have no substitutes. Physiology is what it is. Post-modernist dogma doesn't alter it one whit.
+To breathe, one must have air. To heal from major trauma, one must have darkness and associated conditions of profound rest. These solutions have no substitutes. They are available everywhere and work for everyone, even other animals. Physiology is what it is. Post-modernist dogma doesn't alter it one whit.
 
 We can look at it in the negative as well. If this tired statement were true,
 
@@ -211,20 +206,46 @@ We can look at it in the negative as well. If this tired statement were true,
 	- its specific needs of water for quenching thirst, air for breathing, etc
 	- suffering's being an indication in all other cases that something is wrong and needs attention
  
-Evidence shows all these are false. Again, relativism makes fashionable philosophy but poor biology. Repeating it changes nothing. 
+Evidence shows all these are false. Relativism makes fashionable philosophy but poor biology. Repeating it changes nothing. 
 
-Reality is not what they told you it was in college. They defrauded you of a lot of time and money. But it's not too late for you. See my [bibliography](/back/bibliography-influences) and [here](/other/bibliography) for a rehabilitative course of study. Cutting your losses will be easier when you have a replacement for all that nonsense. 
+Reality is what it is. It is not what they said it was in college. They defrauded you of a lot of time and money. It is not too late. Cut your losses.
 
-<!--&nbsp;-->
+This will be easier when you have a replacement for the collection of poisonous delusions ruining your life. See my [bibliographies here](/back/bibliography-influences) and [here](/other/bibliography) for a rehabilitative course of study.
 
 **6 - If hygienic darkroom retreating is so great for healing, why are you still sick?**
 
-Complete healing through profound rest in darkness requires full application of this method. This, in turn, requires a team, a proper facility, and a complete method. 
+Consider the following imaginary conversation.
 
-I had none of these. First, the idea had to be developed into a practical solution. Meanwhile, I was using up my reserves. I made damaging errors.
+&nbsp;
 
-By resting in darkness, I was saved from suicide twice. I am very healthy compared to a corpse.
+_How big a problem is suffering?_
 
-This book is the result of what I have seen, induced, and deduced, not just what I have done. It is up to you to reason it through and decide for yourself whether you will try it or not. I do not replace your own judgment.
+The biggest.
 
-It is natural to be curious about my circumstances. It is a mistake to dismiss my thesis because of them. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded. 
+_How important is a solution to it?_
+
+Topmost.
+
+_How hard would it be to solve it?_
+
+Near-impossible.
+
+_How much of an achievement would solving it be?_
+
+Staggering.
+
+_What might it do to one who solved it?_
+
+Wreck or kill him.
+
+_If he survived and is just beginning to apply it fully, what would his condition be?_
+
+Still wrecked.
+
+_If he still has a sense of humor, how much more of an achievement would that be?_
+
+Ok, I get the point. Thank you. I'll finish reading your book now.
+
+_Great! You're welcome. Next question._
+
+It is natural to be curious about my circumstances. It is fallacious to dismiss my thesis because of them. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded. 

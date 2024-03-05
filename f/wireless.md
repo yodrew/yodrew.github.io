@@ -6,9 +6,9 @@ permalink: /f/wireless/
 navnext:
 ---
 
-A real whopper on wireless radiation from our friends in the Navy. Everyone who was anyone in the rollout of wireless technology knew this stuff 50 years ago. That they went full steam ahead anyway tells you what position we occupy in their view. 
+Here's a real whopper from our friends in the Navy. It's the table of contents from a 100-page summary of 2000 research papers on the harmfulness of wireless radiation. Everyone who was anyone in the rollout of wireless technology knew this stuff 50 years ago. That they went full steam ahead anyway tells you what our place we occupy in their worldview.
 
-Excerpted from [PDF](https://www.stetzerelectric.com/wp-content/uploads/Naval-Medical-Research-Institute-1972-Full-Bibliography.pdf)
+Here is the [full summary](https://www.stetzerelectric.com/wp-content/uploads/Naval-Medical-Research-Institute-1972-Full-Bibliography.pdf).
 
 ---
 
@@ -183,6 +183,6 @@ It is the hope of the author that this bibliography will provide guidance to the
     5. Loss of Hair
     6. Brittleness of Hair
     7. Sensations of Buzzing Vibrations, Pulsations, and Tickling About the Head and Ears
-    8. Copious Perspiration, Salivation, and Protrusion of Tonpue
+    8. Copious Perspiration, Salivation, and Protrusion of Tongue
     9. Changes in the Operation of Implanted Cardiac Pacemakers
     10. Changes in Circadian Rhythms

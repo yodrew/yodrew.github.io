@@ -192,17 +192,21 @@ But we still desire these activities. Frustration is the conflict between desire
 
 #### not
 
-There are three things the hygienic use of darkness is not: spiritual discipline, therapy, or a psychedelic.
+There are three things the hygienic use of darkness is not: spiritual, therapeutic, or psychedelic.
 
-##### not spiritual discipline
+##### not spiritual
 
-Discipline depends on the will. Will is the most delicate, energy-consuming, and ineffective part of the psyche. It is the part most in need of rest. But discipline sets the will in motion and gives it the main role. Discipline steals energy from healing of the faculties on which it depends. It gives the least possible benefit for the time, energy, and effort expended. It produces impressive results only by our abysmal standards. It prevents accomplishment of the top priority: full recovery of the psyche from its catastrophic damage.
+Spirituality deals with the smallest part of the psyche: the intersection of the conscious and especially mental aspects. It is an intense discipline. It depends on the will and on thinking. 
 
-For example, meditation, like all spiritual practice, entails _super-effort to force access to subtle energy reserves to fuel artificial transformation_ (see Gurdjieff). 
+Will is the most delicate, energy-consuming, and ineffective part of the psyche. It is the most damaged and most in need of rest.  
+
+Discipline takes energy from the processes that heal the willdepends. It gives the least possible benefit for the time, energy, and effort expended. It produces impressive results only by our abysmal standards. It prevents accomplishment of the top priority: full recovery of the psyche from its catastrophic damage.
+
+For example, meditation, like all spiritual practice, entails _super-effort to force access to subtle energy reserves to fuel artificial transformation_[^]. 
 
 The hygienic approach entails exactly the opposite: _profound rest to accumulate energy for autonomic restoration_. At rest, the conscious self makes no attempt to ameliorate suffering. It only puts conditions of healing at the disposal of the unconscious. Whose job it is to coordinate the healing of the organism.
 
-Discipline begins with accepting an artificial internal conflict as natural. I mean, "the monstrous absurdity of original sin" (–Ayn Rand). Then one struggles "against nature" (–Gurdjieff), fighting habits with practices to achieve an ideal. Jean Liedloff warned about this adversarial approach to life. As Jesus told Peter, "Get thee behind me, Satan." Satan is the Adversary, the liar, the thief.
+Discipline begins with accepting an artificial internal conflict as natural. I mean, "the monstrous absurdity of original sin" (–Ayn Rand). Then one struggles "against nature" (–Gurdjieff), overcoming habits with practices to achieve an ideal. Jean Liedloff warned about this adversarial approach to life. As Jesus told Peter, "Get thee behind me, Satan." Satan is the Adversary: the liar, thief, killer, and destroyer.
 
 Hygiene begins with an assumption of natural harmony, of non-contradiction. It gives a logical, non-adversarial explanation of illness. This naturally motivates one to fulfill his supportive role in illness, which functions to restore health.
 
@@ -212,9 +216,9 @@ Supervision places subtle controls on the individual, limiting the experience an
 
 Hygiene disintegrates rackets: medical, spiritual, or otherwise.
 
-I also recommend the liberating ideas of two great and daring thinkers: Walter Veith[^4] and George Kavassilas[^5].
+I also recommend the liberating ideas of two great and daring thinkers about spirituality: Walter Veith[^4] and George Kavassilas[^5].
 
-##### not therapy
+##### not therapeutic
 
 Therapy is done _to_ a passive organism to heal or cure it from the outside. The the principal actor in a therapeutic session is not the organism, but the therapist, therapy, or therapeutic substances or machines. But these are instruments of will. While depending on the organism to react to treatment, therapy views the organism as incapable of initiating a movement toward health. _It fails to see such movement in disease itself_.
 
@@ -224,19 +228,33 @@ But the organism does not experience darkness as an absence; but rather, as yet 
 
 In a darkroom retreat, darkness does nothing. Like air or water, darkness merely presents an opportunity to the self-preserving organism to express its ceaseless tendency toward wholeness in another way. The principal actor is life, not its conditions nor any treatment.
 
-##### not a psychedelic
+##### not psychedelic
 
-I mean it is not related to an abnormal condition, like a substance or sleep-deprivation, to consciously experience normally unconscious phenomena.
+The psychedelic approach uses an abnormal condition, like a toxic substance or sleep-deprivation, to consciously experience normally unconscious phenomena. Hygiene only uses normal conditions.
 
-Nor is it thrill-seeking. The awesome images and associated feelings one can have in darkness are impressive and subtly nourishing. But having such cool experiences is not the point. Recovering the capacity to live normally is the point. Here at hygiene 3.0 HQ, we are cutting through spiritual materialism.
+Neither do we seek thrills in hygiene. The awesome images and associated feelings one can have in darkness are impressive and subtly nourishing. But having such cool experiences is not the point. Recovering the capacity to live normally is the point. Here at hygiene 3.0 HQ, we are cutting through spiritual materialism.
 
-Because of Mantak Chia's book, _Darkroom Enlightenment_, and the similarity of experience, many people believe that endogenous DMT highs happen in darkroom retreats. But it is unproven. It is conjecture. Current methods of detecting DMT would require the pineal gland to be removed, dissected, and analyzed, killing the subject. Psychedelic and dark retreat researcher, Ondrej Skala, told me this. He cited his associate, Dr Marek Malus, professor of psychology at the University of Ostrava, Czech Republic. Dr Malus, whom I met there, is the world's leading academic researcher of dark retreating. 
+Because of Mantak Chia's book, _Darkroom Enlightenment_, and the similarity of experience, many people believe that endogenous DMT highs happen in darkroom retreats. But it is conjecture. It is unproven.
 
-Spirituality, therapy, and psychedelics share a vain strategy to end suffering: make the unconscious conscious. Then the conscious can somehow fix the unconscious. Which is viewed as inert, even resistant to fixing things. This attitude is stupid and clumsy. It whips a tired, injured conscious into work it can never do and insults and abuses the expert unconscious. It is internalized tyranny.
+Current methods of detecting DMT in the pineal gland would require it to be removed, dissected, and analyzed, killing the subject. Psychedelic and dark retreat researcher, Ondrej Skala, told me this. He cited his associate, Dr Marek Malus, professor of psychology at the University of Ostrava, Czech Republic. Dr Malus, whom I met there, is the world's leading academic researcher of dark retreating.
 
-Predictably, the internal forces capable of the work respond by going on strike. Next to nothing happens that should. In standard psychotic fashion, this gives conventional minds no pause. Indeed, it confirms their adversarial expectations of the organism. It calls for further intervention. Which makes no sense and never works, so try it again!
+I recommend against drugs of all kinds. They destroy the self-control necessary for success in any endeavor. With regards to self-discovery and recovery, drugs are child's play. They intoxify body and soul, hollowing out the being. They reinforce the false strategy of externalizing power that characterizes our incapacity.
 
-In contrast, the hygienic use of darkness is passive as regards the will. The will only plays a supportive role. The autonomic self is the lead actor. The will recognize and supports it. Zero conflict. Maximum efficiency. Perfect result.
+I might also say that drugs do not lead to enlightenment, but destroy the subtle nervous system that enlightenment depends on. But I will go further: enlightenment is an unworthy goal. We need something much greater than enlightenment to fix our problems and live fully.
+
+Lastly, drugs are expensive and legally treacherous. They associate one with the wrong sort of people and destroy normal conditions of life: work, relationships, rest.
+
+Just say yo (Spanish for, "I"). Get yourself back the way nature provides.
+
+##### not summary
+
+Spirituality, therapy, and psychedelics share a vain strategy to end suffering: _make the unconscious conscious so the conscious can somehow fix it_. They all view the unconscious as inert, even resistant to fixing things. This attitude is stupid and clumsy. It whips a tired, injured conscious into work it can never do. It insults and abuses the expert unconscious while leaching its products. It is internalized tyranny.
+
+Predictably, the unconscious, which is capable of the work, responds by going on strike. Next to nothing happens that should.
+
+Naturally, this gives conventional psychotic minds no pause. Indeed, it confirms their adversarial expectations of the organism. They call for further intervention. Which makes no sense and never works. So try it again!
+
+In contrast, the hygiene respects the abilities of the unconscious. It is passive as regards the will. The will only plays a supportive role. The autonomic self is the lead actor. The will recognize and supports it. Zero conflict. Maximum efficiency. Perfect result.
 
 ### mechanics
 
