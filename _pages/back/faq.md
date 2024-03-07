@@ -201,7 +201,7 @@ We can look at it in the negative as well. If this tired statement were true,
 - the deep healing necessary in cases of cataclysmic trauma could occur without profound rest
 - profound rest can occur in semi-darkness and other compromised conditions
 - or psychic trauma is not the primary cause of metaphysical suffering
-- or life has no specific needs for recovering from such pain. It is all random. And this is true despite
+- or life has no specific needs for recovering from such pain. It is all random. And this is true despite:
 	- its specific and universal need of rest for recovery in all other cases. 
 	- its specific needs of water for quenching thirst, air for breathing, etc
 	- suffering's being an indication in all other cases that something is wrong and needs attention
@@ -216,10 +216,10 @@ This will be easier when you have a replacement for the collection of poisonous 
 
 Complete healing through profound rest in darkness requires full application of this method. This, in turn, requires a team, a proper facility, and a complete method. 
 
-I had none of these. First, the idea had to be developed into a practical solution. Meanwhile, I was using up my reserves. I made damaging errors.
+I had none of these. A complete method had to be developed from a basic idea. This took 11 years of experiments and reflection. In my trials, I made damaging errors. Meanwhile, I was using up my reserves.
 
-By resting in darkness, I was saved from suicide twice. I am very healthy compared to a corpse. And my attitude about fixing fundamental problems in life is the healthiest in the world.
+I do claim that, by resting in darkness, I was saved from suicide twice. I am very healthy compared to a corpse. And my attitude about fixing fundamental problems in life is among the healthiest in the world.
 
-This book is the result of what I have seen, induced, and deduced, not just what I have done. It is up to you to reason it through and decide for yourself whether you will try it or not. I am not a substitute for your own judgment.
+This book is not about just what I have done. It is also based on what I have glimpsed from the furthest edges while in darkness. It is up to you to reason it through and decide for yourself whether you will try it or not. I and my condition do not substitute for your own judgment.
 
-It is natural to be curious about my circumstances. It is fallacious to dismiss my thesis because of them. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded.
+It is natural to be curious about my condition. It is fallacious to dismiss my thesis because of them. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded.
