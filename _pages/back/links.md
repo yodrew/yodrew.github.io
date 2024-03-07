@@ -1,3 +1,13 @@
+---
+title: external links
+layout: page
+navprev: bio
+permalink: /back/links/
+navnext: 
+---
+
+Here are external links of the book, with addresses.
+
 ###### notes
 
 underlined - [darkroomretreat.com/](https://darkroomretreat.com/)  
@@ -201,6 +211,18 @@ Andrew Durham - [darkroomretreat.com/](https://darkroomretreat.com/)
 ♥ - [copyheart.org](https://copyheart.org)  
 github repo - [github.com/yodrew/yodrew.github.io](https://github.com/yodrew/yodrew.github.io)  
 endorsement - [questioncopyright.org/creator_endorsed.html](https://questioncopyright.org/creator_endorsed.html)  
+
+#### services
+
+store - [darkroomretreat.com/store](https://darkroomretreat.com/store)  
+confer - [darkroomretreat.com/store/confer](https://darkroomretreat.com/store/confer)  
+enroll - [darkroomretreat.com/store/enroll](https://darkroomretreat.com/store/enroll)  
+Profound Rest Retreats - [profoundrest.wordpress.com](https://profoundrest.wordpress.com)  
+ebook at leanpub - [leanpub.com/darkroomretreat](https://leanpub.com/darkroomretreat)  
+hygienic house - [darkroomretreat.com/plan](https://darkroomretreat.com/plan)  
+Wise: andrewd1878 - [wise.com/share/andrewd1878](https://wise.com/share/andrewd1878)  
+Venmo: @andrewdurham - [venmo.com/u/andrewdurham](https://venmo.com/u/andrewdurham)  
+PayPal - [bit.ly/paypalandrew](https://bit.ly/paypalandrew)  
 
 #### bio
 

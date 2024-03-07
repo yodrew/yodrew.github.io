@@ -238,7 +238,7 @@ _What might it do to one who solved it?_
 
 Wreck or kill him.
 
-_If he survived and is just beginning to apply it fully, what would his condition be?_
+_If he survived and is just beginning to learn to apply it fully, what would his condition be?_
 
 Still wrecked.
 
@@ -248,4 +248,4 @@ Ok, I get the point. Thank you. I'll finish reading your book now.
 
 _Great! You're welcome. Next question._
 
-It is natural to be curious about my circumstances. It is fallacious to dismiss my thesis because of them. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded. 
+It is natural to be curious about my circumstances. It is fallacious to dismiss my thesis because of them. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded.

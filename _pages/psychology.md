@@ -50,9 +50,9 @@ By contrast, hygiene is primarily concerned with the cause and conditions of hea
 My formulation of hygiene's generic pathology is simple. It describes the three ways an organism falls ill: by trauma, exhaustion, or poisoning. It describes the three corresponding ways it heals: repair, elimination, and re-energization.
 
 1. **causes of disease**
-	1. **trauma**: injury or damage to living tissue, whether psychical or psychical, subtle or gross. The younger the individual is, the greater his susceptibility to trauma, the subtler its form, and the wider its variety (eg, not sleeping with parents or not being nursed); yet the more rapid his recovery can be. If unhealed, trauma leads to every illness over time.
+	1. **trauma**: injury or damage to living tissue, whether psychical or psychical, subtle or gross. The younger the individual is, the greater his susceptibility to trauma, the subtler its form, and the wider its variety (eg, not sleeping with parents or not being nursed); yet the more rapid his recovery can be. If unhealed, trauma leads to exhaustion and poisoning, thus every illness over time.
 	2. **exhaustion**: a greatly lowered energy state, sudden or prolonged. It results from overwork, distress, intense emotion, or extreme environmental factors: danger, temperature, atmospheric pressure, noise, frequencies, vibration, etc (equivalent to _enervation_, below).
-	3. **poisoning**: sudden intake or chronic excess of substances—gases, liquids, food, solids—or emotions or ideas that are toxic or in too great a quantity (similar to _toxemia_, below).
+	3. **poisoning**: intake of a toxic substance, emotion, impression, or idea (similar to _toxemia_, below). The organism expends tremendous energy in neutralizing and expelling it. Chronic or exceeding intake leads to every known disease.
 2. **processes of healing**
 	1. **repair**: the renewal and replacement of tissue after normal use; the regeneration and knitting of tissue back together following trauma
 	2. **elimination**: removal of waste and toxins, both endogenous and exogenous, from cells through the lymph, blood, and organs of elimination
@@ -112,9 +112,9 @@ As Hygieia is the daughter of Aesculapius, the Greek god of medicine, so is hygi
 
 Critics of medicine first called it allopathy. Medicine uses poisons to cause symptoms of _another_ disease. The idea is that, in the body's forced struggle against the other disease, it will overcome the first one. Then the poisonous medicine is removed. The patient quickly recovers from the artificial disease and is left in health. 
 
-When sick, take poison. Get sicker to get well. 
+When sick, take poison. Hurt yourself to be well. 
 
-War is peace. Hate is love. Slavery is freedom.
+War is peace. Love is hate. Freedom is slavery.
 
 The doctrine of original sin underlies allopathy. This doctrine says life is inherently corrupt and impotent. Suffering and disease are natural and unavoidable. They are our fate. We are not naturally well. We must be forced to be well, just as we must be forced to be good. Nevermind that:
 

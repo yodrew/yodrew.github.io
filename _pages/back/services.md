@@ -32,7 +32,7 @@ Marion Abbott of Australia at [Profound Rest Retreats](https://profoundrest.word
 
 #### speak
 
-Invite me to edify your audience. $1000 + expenses.
+Invite me to speak to your audience. $1000 + expenses.
 
 #### consult
 
