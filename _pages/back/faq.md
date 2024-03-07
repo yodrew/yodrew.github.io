@@ -214,38 +214,12 @@ This will be easier when you have a replacement for the collection of poisonous 
 
 **6 - If hygienic darkroom retreating is so great for healing, why are you still sick?**
 
-Consider the following imaginary conversation.
+Complete healing through profound rest in darkness requires full application of this method. This, in turn, requires a team, a proper facility, and a complete method. 
 
-&nbsp;
+I had none of these. First, the idea had to be developed into a practical solution. Meanwhile, I was using up my reserves. I made damaging errors.
 
-_How big a problem is suffering?_
+By resting in darkness, I was saved from suicide twice. I am very healthy compared to a corpse. And my attitude about fixing fundamental problems in life is the healthiest in the world.
 
-The biggest.
-
-_How important is a solution to it?_
-
-Topmost.
-
-_How hard would it be to solve it?_
-
-Near-impossible.
-
-_How much of an achievement would solving it be?_
-
-Staggering.
-
-_What might it do to one who solved it?_
-
-Wreck or kill him.
-
-_If he survived and is just beginning to learn to apply it fully, what would his condition be?_
-
-Still wrecked.
-
-_If he still has a sense of humor, how much more of an achievement would that be?_
-
-Ok, I get the point. Thank you. I'll finish reading your book now.
-
-_Great! You're welcome. Next question._
+This book is the result of what I have seen, induced, and deduced, not just what I have done. It is up to you to reason it through and decide for yourself whether you will try it or not. I am not a substitute for your own judgment.
 
 It is natural to be curious about my circumstances. It is fallacious to dismiss my thesis because of them. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded.
