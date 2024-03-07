@@ -8,7 +8,9 @@ navnext: make
 
 Nature works. Occasionally, disaster strikes and chaos ensues. We must restore order. We need a plan. So we design.
 
-### normal
+### considerations
+
+#### normal
 
 Hygiene uses only normal conditions. A darkroom is merely what all shelter should be: easily darkened. The purpose of buildings is to provide shelter. Shelter is a means of controlling one's exposure to elements, pollution, and people for rest, safety, and security.
 
@@ -24,7 +26,7 @@ We have darkness at any time by covering eyes with hands. It is part of the shel
 
 The civilized obsession with building expresses the impulse to self-healing on a social scale. Knowing this, we can voluntarize the activity. We can direct it explicitly toward its implicit goal: to provide the conditions of profound rest. We can define and meet its specifications.
 
-### start
+#### start
 
 Start in your own bedroom. You already know you can sleep there, what problems need mitigation, where things are and how they work. You already paid for it. You need access to darkness every night anyway. It makes sense to begin darkening it.
 
@@ -32,7 +34,7 @@ If it is truly not worth darkening or unsuitable for short retreats, it is unsui
 
 If, for whatever reason, you wish to darken a room elsewhere, then sleep there three nights beforehand. See if anything about it might disturb you which you cannot practically change: noise, odors or poor ventilation, atmosphere. Mind your senses, feelings, and state of mind. Will you be comfortable there? Do you actually sleep? Will darkening and ventilating it be a reasonable effort? If so, proceed. If not, conserve your initiative and keep looking.
 
-### types
+#### types
 
 There are basic and dedicated darkrooms. 
 
@@ -40,7 +42,7 @@ A basic darkroom is built to basic specifications below, probably in your bedroo
 
 A dedicated darkroom is built to full specifications below in a small house in a quiet location. It is for all kinds of people for retreats of any length, short (up to 9 days), medium (3-8 weeks), and long (3-12 months). It requires all the specifications below. If it is your first darkroom, start with a fully functional house. This means it has automated heating, running hot water, mechanical ventilation, and electricity. Later, when you know more, you can build something new.
 
-### standards
+#### standards
 
 Most of my retreats succeeded or failed because of how well the darkroom itself worked. Do not tolerate stale air, frequent or extended noise, light leaks, dangers, discomforts, poor food, etc. Poor conditions cause stress. Stress compromises a retreat. If it becomes distress, it ruins a retreat. So handle problems ahead of time rather than imagining you can endure them. That is for spiritual athletes and other egomaniacs. Listen to your body and soul. Listen to your life.
 
@@ -150,7 +152,9 @@ I welcome everyone's improvements to these specifications judged by the objectiv
 	- shelf for personal storage
 	- space for simple exercise
 	
-### quiet
+### qualities
+
+#### quiet
 
 Silence is critical to retreating. I was in denial about this for years. It is even more difficult than ventilation. An unacceptable noise level is more common than air pollution and less controllable.
 
@@ -172,7 +176,7 @@ I would not have done a long retreat there, but the short one I did nearly saved
 
 The worst noise comes from the relentless grinding of machines: stereos, traffic, ventilation and refrigeration equipment on buildings, and construction. It can seem fine at first. But soon it becomes intolerable. A [silencer](/air#silencer) is amazingly effective at neutralizing external noise. House-in-house or room-within-a-room construction, with decoupled walls and floating floor, is necessary to stop low frequencies.
 
-### subtle
+#### subtle
 
 Buildings can have subtle problems that most of us have difficulty detecting. This is a place where the feeling and moving [centers of intelligence](/psychology#psychosis) come into play.
 
@@ -190,7 +194,7 @@ If it seems ok, test it by staying a night or two. Later, if the influence of th
 
 Make extra preparations to doubly protect yourself from distress on your transition days: no shopping, visitors, media, or travel. Following my weird retreat in 2011, I was not thinking straight. I moved to an even less restful location only one day after. This proved even more harmful than the first location. Post-retreat planning is critical. See [post-retreat](/protocol#post-retreat).
 
-### round
+#### round
 
 _Note: A round darkroom is unimportant for short retreats. Plan one both for shelter and for medium and long retreats._
 
