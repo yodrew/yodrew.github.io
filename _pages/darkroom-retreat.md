@@ -220,31 +220,39 @@ I also recommend the liberating ideas of two great and daring thinkers about spi
 
 ##### not therapeutic
 
-Therapy is done _to_ a passive organism to heal or cure it from the outside. The the principal actor in a therapeutic session is not the organism, but the therapist, therapy, or therapeutic substances or machines. But these are instruments of will. While depending on the organism to react to treatment, therapy views the organism as incapable of initiating a movement toward health. _It fails to see such movement in disease itself_.
+Therapy is done _to_ a passive organism to heal or cure it from the outside. The principal actor in a therapeutic session is not the organism, but the therapist, therapy, or therapeutic substance or mechanism. But these are all instruments of will. None can perform even one of the millions of organic processes of healing. It is a big show.
+
+Therapy depends on the organism to react to treatment. It views the organism as incapable of initiating movement toward health. _It fails to see such movement in disease itself_.
+
+A patient in therapy implicitly accepts its view of him as helpless. He denies his involuntary self-healing ability. He continues neglecting its conditions. It is suppressed, annulled. 
 
 Academic science has a similarly objectifying approach to darkroom retreating, though in reverse. It is called _Chamber REST_ (Restricted Environmental Stimulation Therapy). As the name implies, and in accordance with scientific materialism, it tends to reduce a retreat and its effects to destimulation: _absence_ of usual sensory stimuli. The subject is then probed, monitored, and interrogated as to what is happening in this absence. 
 
-But the organism does not experience darkness as an absence; but rather, as yet another condition it takes hold of and uses. The most obvious example is that one can make darkness an object of attention. One can look at it. Darkness, like night itself, is a normal period of time in life. Academics miss the enormous intelligence of the organism at work. Willfully blind, it stabs in the dark.
+But the organism does not experience darkness as an absence; but rather, as yet another condition it takes hold of and uses. The most obvious example is that one can make darkness an object of attention. One can look at it. Darkness, like night itself, is a normal period of time in life. Academics miss the enormous intelligence of the organism at work. Willfully blind, they stab in the dark.
 
 In a darkroom retreat, darkness does nothing. Like air or water, darkness merely presents an opportunity to the self-preserving organism to express its ceaseless tendency toward wholeness in another way. The principal actor is life, not its conditions nor any treatment.
 
 ##### not psychedelic
 
-The psychedelic approach uses an abnormal condition, like a toxic substance or sleep-deprivation, to consciously experience normally unconscious phenomena. Hygiene only uses normal conditions.
+The psychedelic approach uses an abnormal condition, like a toxic substance, sleep-deprivation, or sensory deprivation to consciously experience normally unconscious phenomena. Hygiene only uses normal conditions. If it is not food, earth, air, or water, it is non-nutritive. Thus it is needless and abnormal to ingest, inhale, or absorb.
 
-Neither do we seek thrills in hygiene. The awesome images and associated feelings one can have in darkness are impressive and subtly nourishing. But having such cool experiences is not the point. Recovering the capacity to live normally is the point. Here at hygiene 3.0 HQ, we are cutting through spiritual materialism.
+Neither do we seek thrills in hygiene. The awesome images and feelings one can have in darkness are impressive and subtly nourishing. But having such cool experiences is not the point. Recovering the capacity to live normally is the point. Here at hygiene 3.0 HQ, we are cutting through spiritual materialism.
 
 Because of Mantak Chia's book, _Darkroom Enlightenment_, and the similarity of experience, many people believe that endogenous DMT highs happen in darkroom retreats. But it is conjecture. It is unproven.
 
 Current methods of detecting DMT in the pineal gland would require it to be removed, dissected, and analyzed, killing the subject. Psychedelic and dark retreat researcher, Ondrej Skala, told me this. He cited his associate, Dr Marek Malus, professor of psychology at the University of Ostrava, Czech Republic. Dr Malus, whom I met there, is the world's leading academic researcher of dark retreating.
 
-I recommend against drugs of all kinds. They destroy the self-control necessary for success in any endeavor. With regards to self-discovery and recovery, drugs are child's play. They intoxify body and soul, hollowing out the being. They reinforce the false strategy of externalizing power that characterizes our incapacity.
+I cannot overstate my recommendation against drugs of all kinds. They destroy the self-control necessary for success in any healthy endeavor. With regards to self-discovery and self-recovery, drugs are child's play. This includes ayahuasca and iboga. They intoxify body and soul, hollowing out the being. They reinforce the false strategy of externalization that keeps one in need of them, and. Drugs are a racket.
 
-I might also say that drugs do not lead to enlightenment, but destroy the subtle nervous system that enlightenment depends on. But I will go further: enlightenment is an unworthy goal. We need something much greater than enlightenment to fix our problems and live fully.
+Do the lives of many people improve with plant medicines? Obviously---at the surface. But improvement comes at the expense of the underlying vitality needed to heal at the root. We don't just need improvement. We need a solution.
 
-Lastly, drugs are expensive and legally treacherous. They associate one with the wrong sort of people and destroy normal conditions of life: work, relationships, rest.
+Spiritually, I could also say that drugs do not lead to enlightenment; that they destroy the subtle nervous system enlightenment depends on; that great masters eschew and condemn them. But I reject the premise that enlightenment is a worthy goal. We need something much greater to end our suffering, solve our problems, and live fully. Drugs destroy the means of accomplishing this: health and self-regard.
 
-Just say yo (Spanish for, "I"). Get yourself back the way nature provides.
+Drugs are expensive and legally treacherous. They lead one to associate with misguided, destructive people. And they corrode basic conditions of life: work, relationship, rest.
+
+A major clue to the abnormality of drugs lies in the fact that, in the restful use of darkness, the compulsion and even the thought of using them vanishes. It crumbles when natural energy, clarity, fulfillment, and purpose return. Dependency falls away. Life as oneself becomes appealing again.
+
+Just say Yo (Spanish for "I"). Get yourself back the way nature provides.
 
 ##### not summary
 

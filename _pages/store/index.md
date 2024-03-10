@@ -19,7 +19,7 @@ How about it?
 ### retreat
 
 - [confer](./confer): benefit the most from retreating by understanding the hygienic approach. Have me check your [questionnaire](/prepare#questionnaire) and discuss it with you by phone. It is the first step to retreating with me. Improve the experience and results of retreating on your own, as well.
-- [enroll](./enroll) for a retreat with me, either here or at your place. Start benefiting from the invincible power of your self-healing organism by providing it the best possible conditions to rest and heal.
+- [enroll](./enroll) for a retreat with me, either here or at your place. Unleash the invincible power of your self-healing organism by providing it the best possible conditions to rest and heal.
 
 ### write
 

@@ -159,13 +159,14 @@ zip file - [darkroomretreat.com/darkroom-retreat.zip](https://darkroomretreat.co
 #### water
 
 composting toilets - [darkroomretreat.com/blog/2024/02/compost-toilet](https://darkroomretreat.com/blog/2024/02/compost-toilet)  
-vented urinal - [darkroomretreat.com/report/2x3-day#mechanical-report](https://darkroomretreat.com/report/2x3-day#mechanical-report)  
+pee bottle - [darkroomretreat.com/report/2x3-day#mechanical-report](https://darkroomretreat.com/report/2x3-day#mechanical-report)  
 gridbeam.com - [gridbeam.com](https://gridbeam.com)  
 
 #### faq
 
 Marion Abbott - [profoundrest.wordpress.com](https://profoundrest.wordpress.com)  
 here - [darkroomretreat.com/other/bibliography](https://darkroomretreat.com/other/bibliography)  
+Yourfallacy.is/incredulity - [yourfallacy.is/incredulity](https://yourfallacy.is/incredulity)  
 
 #### bibliography-influences
 

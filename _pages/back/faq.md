@@ -144,11 +144,19 @@ Maybe you mean it sounds pointless or dreadful. In fact, a retreat often begins 
 
 **1 - I could never do a darkroom retreat.**
 
-At the moment, your doing a retreat is out of the question. You cannot do it if you don't want to, you cannot want to if you don't believe in it; and you cannot believe in it if you don't know enough about it for it to make sense to you. So forget about doing it. The only thing that matters is, does it interest you enough to learn more about it? If so, then I can recommend a good book about it.
+At the moment, your doing a retreat is out of the question. You cannot do it if you don't want to. You cannot want to if you don't believe in it. And you cannot believe in it if you don't know enough about it for it to make sense to you. So forget about doing it. The only thing that matters is, does it interest you enough to learn more about it? If so, then I can recommend a good book about it.
+
+<!--&nbsp;-->
 
 **2 - Why must I read a whole book just to retreat?**
 
-To do something worthwhile, you must know how to do it. This including knowing how not to do it and how to counter lifelong conditioning to fail at it, which all of us receive in this lifeway. Hygiene, in particular, works better the more one understands it.
+To do something worthwhile, you must know how to do it. This includes knowing how not to do it and how to counter lifelong conditioning to fail at it. Which all of us receive in this lifeway.
+
+Hygiene, in particular, depends on your knowledge of it to work. Unlike medicine, hygiene precludes mentally passivity. There is no better way to learn about hygienic darkroom retreating than to read my book.
+
+It also shows me you are serious. I only want serious clients. They only want the real thing. They know why a retreat with me is it.
+
+<!--&nbsp;-->
 
 **3 - Isn't total darkness unnatural? Shouldn't we be exposed to stars and moon at night?**
 
@@ -212,6 +220,8 @@ Reality is what it is. It is not what they said it was in college. They defraude
 
 This will be easier when you have a replacement for the collection of poisonous delusions ruining your life. See my [bibliographies here](/back/bibliography-influences) and [here](/other/bibliography) for a rehabilitative course of study.
 
+<!--&nbsp;-->
+
 **6 - If hygienic darkroom retreating is so great for healing, why are you still sick?**
 
 Complete healing through profound rest in darkness requires full application of this method. This, in turn, requires a team, a proper facility, and a complete method. 
@@ -223,3 +233,19 @@ I do claim that, by resting in darkness, I was saved from suicide twice. I am ve
 This book is not about just what I have done. It is also based on what I have glimpsed from the furthest edges while in darkness. It is up to you to reason it through and decide for yourself whether you will try it or not. I and my condition do not substitute for your own judgment.
 
 It is natural to be curious about my condition. It is fallacious to dismiss my thesis because of them. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded.
+
+<!--&nbsp;-->
+
+**7 - I'm skeptical / I have doubts about this / I don't believe it.**
+
+[Yourfallacy.is/incredulity](https://yourfallacy.is/incredulity). Disbelief is not an argument. Nor is disagreement.
+
+Skepticism pretends to be rational. But baseless doubt is just as irrational as baseless belief. It is arbitrary: to be rejected out of hand. 
+
+You haven't named the flaw in the argument, so you have no grounds to object. Indeed, if you believe you are a serious person, you are obligated to replicate the experiment. 
+
+You have no reason to doubt. The most you can say is, I don't know or, I'll have to think about this. Without knowledge, you cannot reasonably decide one way or another about it. 
+
+Are you saying I'm lying? Or delusional? Or that the predictable results of using darkness restfully don't exist? You have no way to know. Probably, you are just afraid. Fear, discomfort, or unfamiliarity with an idea is not a reason to reject it. What are you afraid of? Do you know? 
+
+Baseless doubt is a manifestation of unconscious denial resulting from unhealed major trauma. It is proof of the very thing you attempt to refute with it. It confirms everything I have asserted. It utterly vacates your contention. It binds you more tightly to the necessity of trying darkness. 

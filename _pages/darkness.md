@@ -3,7 +3,7 @@ title: 10 &nbsp; darkness
 layout: page
 navprev: air
 permalink: /darkness/
-navnext: water
+navnext: water	
 ---
 
 There is darkness, and then there is _darkness_. We're going for the second kind: perfect and absolute. There is a 1,000,000% difference between 99% and 100% dark. In 100% darkness, the mind has nothing left to hold onto, no reason to resist. Finally it can let go, fall into the well of itself, and be renewed.

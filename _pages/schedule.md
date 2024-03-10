@@ -7,7 +7,7 @@ navnext:
 ---
 
 | **2-day** |  |  |  |
-|  |  |  |  |
+| --- | --- | --- | --- |
 |  | 2-day hygienic darkroom mini-retreat |  |  |
 |  | example schedule for retreating at home |  |  |
 |  | 24hr clock |  |  |

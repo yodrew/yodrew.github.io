@@ -156,7 +156,7 @@ In the course of days alone in a darkroom, psychic trouble from one's past inevi
 
 Why are these things so deeply buried? 
 
-Besides injury and shock, trauma immediately causes the first four stages of disease that Tilden describes: enervation, toxemia, irritation, inflammation. The organism surges into action with the shock and sudden demand for energy, nutrients, circulation, and hormones to manage pain and awareness. Meanwhile, incapacity and malfunction snowball.
+Besides injury and shock, trauma instantly causes the first four stages of disease that Tilden describes: enervation, toxemia, irritation, inflammation. The organism surges into action with the shock and sudden demand for energy, nutrients, circulation, and hormones to manage pain and awareness. Incapacity and malfunction snowball.
 
 Consciousness contracts with trauma. The psyche contracts from the world on a sensory level. It restricts higher functions like reflection and reason, diverting their energy rations to stabilize critical functions. Awareness of the painful event itself is unnecessary. It often disturbs the process. This is why trauma manifests as amnesia, denial, stupidity, callousness, and clumsiness: the inabilities to remember, to admit, to know, to feel, to move.
 
@@ -164,9 +164,9 @@ Consider movies with an amnesiac premise. The protagonist is injured, cannot rem
 
 Our amnesia begins with what is called infant or childhood amnesia. Who remembers his birth or first years? Who would want to? "Scientists" generally believe that memory does not reach back that far. But indigenous people and less traumatized civilized people demonstrate something else. They casually recount details of leaving the womb, meeting their parents outside, and encountering the world around them for the first time.
 
-By the same token, denial is not moral failure. It is unconscious biological success. Devastating trauma usually befalls civilized infants. Damage, deprivation, and pain overload the fragile structure of their psyches. Denial locks basic functions into routines and restricts higher, creative ones. This prevents trauma from shattering psychic integrity. It also turns people into robots.
+By the same token, denial is not moral failure. It is psychobiological success. Devastating trauma usually befalls civilized infants. Damage, deprivation, and pain overload the fragile structure of their psyches. Denial locks basic functions into odd routines and restricts higher, creative ones. This prevents trauma from shattering psychic integrity. It also turns people into robots.
 
-If trauma is too great, it overwhelms the psyche's defense mechanisms. The psychic system fails and death results, as with SIDS---Sudden Infant Death Syndrome. Or one escapes with autism or blindness, for example. It beats dying. Denial persists until the psyche heals enough to bear witness to the horror of what was denied. 
+If trauma is too great, it overwhelms the psyche's defense mechanisms. The psychic system fails and death results, as with SIDS---Sudden Infant Death Syndrome. Or one escapes with autism or blindness, for example. It beats dying. Denial persists until the psyche heals enough to bear witness to the horror of the event it denied. 
 
 Meanwhile, we suffer from three other epidemics: stupidity, callousness, clumsiness. Psychic damage causes decreases in thinking, feeling, and moving intelligence. The normal joy, brightness, and grace of most children give way before they have a chance to establish themselves. We look aghast at the pitiful results, in ourselves and in others.
 
@@ -257,23 +257,27 @@ I could go on. No doubt, you could extend the list yourself. Perhaps you have we
 
 Calling something crazy usually halts further consideration and conversation. After all, "you can't fix crazy." So what good does it do to think about it? Is it even craziness? Or is it human nature? Is it what we have been pleased to call the human condition? That is what most religion and philosophy say. Nothing overcomes nature. So they render themselves helpless by their own pronouncements. Also, they excuse themselves.
 
-Conventional psychology has failed to fix our craziness. And psychological reformers have proven ineffective. They consign their tough cases to psychiatry, surrendering to its worship of drugs. It is the further medical application of our culture's mythos of original sin. In other words, debilitation, incompetence, failure, and suffering are human nature. We refuse further examination of causes. Mass psychosis is the biggest elephant in our room. 
+Conventional psychology has failed to fix our craziness. And psychological reformers have proven ineffective. They consign their tough cases to psychiatry, surrendering to its worship of drugs. It is the medical application to the soul of our culture's mythos of original sin. In other words, debilitation, incompetence, failure, and suffering are human nature. 
+
+We refuse further examination of causes. Mass psychosis is the biggest elephant in our room. 
 
 I submit, we are actually crazy. But we weren't always. Something went terribly wrong and here we are. Happily, we are alive. Therefore we are self-healing. So somehow we can recover.
 
-What would we recover? Common sense, memory, and honesty. Joy and empathy. Vigor and grace---for starters. Much more awaits us. When thinking, feeling, and moving centers of intelligence function again, and in harmony with each other, life will improve to a degree known only in legend.[^4]
+What would we recover? Common sense, memory, and honesty. Joy and empathy. Vigor and grace---for starters. Much more awaits us. When thinking, feeling, and moving centers of intelligence function again, and in harmony with each other, life improves to a degree known only in legend.[^4]
 
-Harmonious function will come from re-engagement with the other basic plane of reality: timespace. Some cutting edge scientists call it this because it mirrors spacetime. Timespace has three dimensions of time---past, present, future---that one can choose from, and one, unchoosable dimension of space, that is, one location per moment in time.[^5] Australian Aboriginals call it dreamtime. Kogi Indians call it the _aluna_. 
+Harmonious function will come from re-engagement with the other basic plane of reality: timespace. Some cutting edge scientists call it this because it mirrors spacetime. Timespace has three choosable dimensions of time---past, present, future---and one, unchoosable dimension of space. That is, one location per moment in time.[^5] Australian Aboriginals call it dreamtime. Kogi Indians call it the _aluna_. 
 
-They access it at will for daily living. It is how they can track someone 100 miles through the desert a year later with only a scrap of his clothing. Or talk to people on the other side of the world without telephones. Or go out to meet a scarce deer in the middle of nowhere and bring it back for food. It is how spiritual adepts famously know things they have no normal way of knowing.
+They access it at will for daily living. It is how they could track someone 100 miles through the desert a year later with only a scrap of his clothing. Or talk to people on the other side of the world without telephones. Or go out to meet a scarce deer in the middle of nowhere and bring it back for food. It is how spiritual adepts famously know things they have no common way of knowing.
 
-Dreamtime is perceived primarily through the feeling center of intelligence, not the senses. It is intuition. With psychic integrity, it can be just as precise and accessible as the eyes aided by microscope or telescope, or a camera on a drone.
+Dreamtime is engaged primarily through the feeling center of intelligence, not the senses. This is intuition. With psychic integrity, it can be just as precise and accessible as the eyes aided by microscope or telescope, or a camera on a drone.
 
-The feeling center, being more fragile than the sensorium and less aggressive than intellect, rarely works well among us civilized people. So to scientific materialists, dreamtime doesn't exist. They dismiss it out of hand despite millennia of evidence. Which even most civilized people have some of. Knowing someone specific is about to call is common. Such strange experiences stick in one's mind, unexplained for decades like personal X-files. If you talk about this stuff in conventional settings, others will call you crazy. But if you rest in darkness long enough, access to it reopens and promises to return permanently.
+The feeling center, being more fragile than the sensorium and less aggressive than intellect, rarely works well among us civilized people. So, to scientific materialists, dreamtime doesn't exist. They dismiss it out of hand despite millennia of evidence. Which even most civilized people have some of.
 
-I will not dwell on something that is so unusual that you must see it for yourself, as you will in darkness. But this vast and rich side of life that we largely miss must cease going unremarked in psychology and hygiene. It is stupid and embarrassing. The academy likes to ignore the two other (greater) bodies of human knowledge: the spiritual and the indigenous. We will not.
+Knowing someone specific is about to call is common. Such strange experiences stick in one's mind, unexplained for decades like personal X-files. If you talk about this stuff in conventional settings, others will call you crazy. But if you rest in darkness long enough, access to it reopens and promises to return permanently. 
 
-By my rough estimation, we are currently functioning at 2% of capacity. In other words, things with us are as bad as they can get while still allowing us to raise children to reproductive age. To embellish the idea, at 1%, you're institutionalized; 0%, dead. In the opposite direction, at 3%, you're a local hero; 4%, famous; 5%, a national star; 10%, a genius; 20%, a saint; and 30-40%, a messiah. 
+I will not dwell on something that is so unusual that you must see it for yourself, as you will in darkness. But this vast and rich side of life that we largely miss must cease going unremarked in psychology and hygiene. Doing so is stupid and embarrassing. The academy likes to ignore the two other (greater) bodies of human knowledge: the spiritual and the indigenous. We will not.
+
+By my rough estimation, we are currently functioning at 2% of capacity. In other words, things with us are as bad as they can get while still allowing us to raise children to reproductive age. To embellish the idea: at 1%, you're insane; at 0%, dead. In the opposite direction, at 3%, you're a local hero; 4%, famous; 5%, an international star; 10%, a genius; 20%, a saint; and 30-40%, a messiah. 
 
 The greatest people in our history had to lower their level of functioning from a normal 90-100% just so we could bear their presence. But what did each of them say, one way or another? _All this and more ye shall do._ This is our task. The first person to raise from the dead is oneself.
 
@@ -283,19 +287,21 @@ The hygienic view of health and sanity is the brain of this approach. Darkroom r
 
 Pathology is the study of illness, especially its etiology: the chain of cause and effect that leads to symptoms. 
 
-Hygiene is radical because it deals unflinchingly in first causes. It begins by observing that health is the normal state of organisms under normal conditions. Life itself started out in integrity and health. Nature cannot generate a diseased species. Disease only occurs when something goes wrong with conditions, when harmful ones are present and beneficial ones are absent or in disproportion. 
+Hygiene is radical because it deals unflinchingly in first causes. It begins by observing that health is the normal state of organisms under normal conditions. Life itself started out in integrity and health. Nature cannot generate a diseased species. Disease only occurs when something goes wrong with conditions. It means harmful conditions are present and beneficial ones are absent or in disproportion. 
 
-This gives hygiene a rational standard for evaluating conditions proposed as beneficial. Hygiene asks, what normal relationship to life does this condition have? Did its absence cause the disease in the first place? If not, then its presence won't correct matters and we can dismiss the proposal.
+This gives hygiene a rational standard for evaluating conditions proposed as beneficial for handling disease. Hygiene asks, what normal relationship to life does this condition have? Is it part of the natural course of things? Did its absence cause the disease in the first place? If not, then its presence won't correct matters and we can dismiss the proposal.
 
-In the case of using darkness to heal from psychic illness, well, once upon a time, we _were_ deprived the shelter we instinctively sought in order to heal from whatever traumatized us. We got hurt but got no chance to heal. Resting in a darkroom finally addresses this little-noticed intermediate cause of ongoing suffering and illness.
+In the case of using darkness to heal from psychic illness, well, once upon a time, we _did_ lack the shelter we instinctively sought in order to heal from whatever traumatized us. We got hurt but got no chance to heal. Resting in a darkroom finally addresses this little-noticed intermediate cause of ongoing suffering and illness.
 
-Why were we deprived? One way or another, our parents, our source of shelter, were also the source of our trauma. Busy inflicting one, they could not provide the other very well. It is the absolute worst, most taboo, most terrible truth we all know and spend most of our lives avoiding. I am sorry.
+Why were we deprived? One way or another, our parents, our source of shelter, were also the source of our trauma. Busy inflicting the one, they could not very well provide the other. It is the absolute worst, most taboo, most terrible truth we all know and spend most of our lives avoiding. I am sorry.
 
-Of course, they suffered similar trauma at the hands of their parents. It rendered most of them incapable of providing us such shelter. It compelled their antipathy toward us. They denied us rest just as they denied their own need for rest, just as their parents conditioned them to, just as their parents were equally traumatized, denied, and conditioned, going back 400 generations. On this level, everyone is innocent.
+Of course, they suffered similar trauma at the hands of their parents. It rendered them incapable of providing us such shelter. It compelled their antipathy toward us. They denied us rest just as they denied their own need for rest, just as their parents conditioned them to, just as their parents were equally traumatized, denied, and conditioned, going back 400 generations. 
 
-However, everyone exists on many levels, not just such abstract and eternal ones. On a concrete and immediate level, all parents remain 100% responsible for what they did and did not to children in their care. Only by viewing parents as responsible can we become responsible parents ourselves. Otherwise the double burden is too much. Those who shield their parents from justice, even privately, inevitably unload the injustice they suffered upon their own children.
+On this level, everyone is innocent.
 
-Major trauma injures, shocks, and disorients everyone concerned. One gets lost in the slow-motion nightmare of its infliction. Who deals the wound and who sustains it? Who was helpless and who was at fault? Of course grown-ups start it with kids. But kids feel it is their fault. Lines blur and before they know it, people have become their parents and the cycle begins again.
+However, everyone exists on many levels, not just such abstract and eternal ones. On a concrete and immediate level, all parents remain 100% responsible for what they did and did not do to children in their care. Only by viewing parents as responsible can we become responsible parents ourselves. Otherwise the double burden is too much. Those who shield their parents from justice, even in secret, will unload the injustice they suffered upon their own children. It is an iron law of parenting.
+
+Major trauma injures, shocks, and disorients everyone concerned. One gets lost in the slow-motion nightmare of its infliction. Who deals the wound and who sustains it? Who was helpless and who was at fault? Of course grown-ups start it with kids. But kids feel it is their fault. Lines blur and before they know it, kids have become their parents and the cycle begins again.
 
 How did the snowball of trauma begin? 
 

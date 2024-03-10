@@ -99,7 +99,7 @@ Here are further design constraints, photos, plans, and instructions for making 
 - minimal size (220 x 77 x 290 / 140 x 67 x 281){fits under door, sticks out 20mm each side and up 60mm}
 - easy to make (medium){medium}
 - elegant (yes: simple compact form, uses common materials){yes: adapts to nearly all swinging doors}
-- cheap ($4 in materials, 2-hour assembly time){$2 in materials, 1-hour assembly time}
+- cheap ($4 in materials, 2-hour assembly time){$2 in materials, 1-hour assembly time} {#helix}
 
 #### universal
 
@@ -197,16 +197,15 @@ Read through instructions once while studying plans.
 
 The universal vent can be shortened for use inside a silencer or other enclosure. The enclosure must have two or more blackened corners that light must go around. Follow instructions in wall drawing. Also note dash-dotted lines in plan and elevation views. 
 
-The short version is 168 x 266 x 84 thick. If an even smaller vent is required:
+The short version is 168 x 266 x 84. If an even smaller vent is required:
 
 - use thin cardboard
 	- slide baffles leftward, maintaining spacing
 	- trim protruding walls
-- use black posterboard for walls, not cardboard
+- use my old helix-z vent in the zip file (140 x 281 x 68 in the body)
 - shrink the design proportionally
-- use my old helix-z vent in the zip file
 
-With thought and experiment, every engineering problem can be solved. This is the awesome and terrifying power of _technique_: of physics and engineering. Let us use it to our advantage, for the purpose of coming back to life.
+With thought and experiment, every engineering problem can be solved. This is the awesome and terrifying power of _technique_: of physics and engineering. Let us use it to our advantage, for the purpose of coming back to life. {#threshold-vent}
 
 #### threshold
 

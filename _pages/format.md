@@ -217,7 +217,7 @@ A hygienic Czech retreat has:
 
 The typical 7-day retreat of the Czechs may be why they avoid the injury of over-loss of false capacity despite deficiencies in their operations. Their wisdom in this can safeguard us, too, until we can organize standard 9-day and medium retreats.
 
-**Problems:** Supplies might run out. The supporter might get tired or need to go out. These have three solutions.
+**Problems:** Supplies might run out. The supporter might get tired or need to go out. Here are solutions:
 
 - planning: think of contingencies. Buy extra stuff: food, spare heater, fan. Whatever might break or run out. 
 - help: 
