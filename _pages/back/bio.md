@@ -8,7 +8,7 @@ navnext: links
 
 Born 1971, Twin Falls, Idaho. 
 
-My family and elders trained me to think and to make things. We discussed philosophy, health, and design constantly at home. They became my main interests. 
+My family and elders trained me to think and to make things. We constantly discussed philosophy, health, and design. They became my main interests. 
 
 At 16, [joy overcame me](/conjecture/rapture) for 3 months. It inspired me to independently investigate its cause full-time for 21 years. I studied my interests.
 

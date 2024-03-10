@@ -226,26 +226,26 @@ This will be easier when you have a replacement for the collection of poisonous 
 
 Complete healing through profound rest in darkness requires full application of this method. This, in turn, requires a team, a proper facility, and a complete method. 
 
-I had none of these. A complete method had to be developed from a basic idea. This took 11 years of experiments and reflection. In my trials, I made damaging errors. Meanwhile, I was using up my reserves.
+I had none of these. A complete method had to be developed from a basic idea. This took 11 years of experiments and reflection. In my trials, I made the damaging error of ([over-loss](/hygiene#false-capacity)). I was using up my reserves.
 
-I do claim that, by resting in darkness, I was saved from suicide twice. I am very healthy compared to a corpse. And my attitude about fixing fundamental problems in life is among the healthiest in the world.
+I do claim that, by resting in darkness, I was saved from suicide twice. I am healthy compared to a corpse. And my attitude about fixing fundamental problems in life is among the healthiest in the world.
 
-This book is not about just what I have done. It is also based on what I have glimpsed from the furthest edges while in darkness. It is up to you to reason it through and decide for yourself whether you will try it or not. I and my condition do not substitute for your own judgment.
+This book is not just about what I have done. It is also based on what I have glimpsed from the furthest edges of experience while in darkness. It is up to you to reason it through and decide for yourself whether you will try it or not. I and my condition do not substitute for your own judgment.
 
-It is natural to be curious about my condition. It is fallacious to dismiss my thesis because of them. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded.
+It is natural to be curious about my condition. It is fallacious to dismiss my thesis because of it. Ad hominem is especially popular these days. But refuting my thesis requires addressing it point by point on its own terms. So far, no one has succeeded.
 
 <!--&nbsp;-->
 
 **7 - I'm skeptical / I have doubts about this / I don't believe it.**
 
-[Yourfallacy.is/incredulity](https://yourfallacy.is/incredulity). Disbelief is not an argument. Nor is disagreement.
+[Yourfallacy.is/incredulity](https://yourfallacy.is/incredulity). Disbelief is not an argument. Skepticism is baseless doubt. It pretends to be rational and scientific, but is just as irrational as baseless belief. It is arbitrary: without evidence and to be instantly rejected. But let us go further.
 
-Skepticism pretends to be rational. But baseless doubt is just as irrational as baseless belief. It is arbitrary: to be rejected out of hand. 
+Until you name the flaw in the argument, you have no grounds to object. Sophistry is an evasion amounting to concession. Then, if you believe you are a serious person, you are obliged to replicate the experiment. If you don't, it shows you are not serious.
 
-You haven't named the flaw in the argument, so you have no grounds to object. Indeed, if you believe you are a serious person, you are obligated to replicate the experiment. 
+You have no reason to doubt. The most you can say is, I don't know. Or, I'll have to read or think more about this. Without knowledge, you cannot reasonably decide one way or another about it.
 
-You have no reason to doubt. The most you can say is, I don't know or, I'll have to think about this. Without knowledge, you cannot reasonably decide one way or another about it. 
+Maybe you are saying I'm lying. Or delusional. Or that the logical and predictable results of using darkness restfully don't exist. But then how do you know? Merely because it contradicts your view?
 
-Are you saying I'm lying? Or delusional? Or that the predictable results of using darkness restfully don't exist? You have no way to know. Probably, you are just afraid. Fear, discomfort, or unfamiliarity with an idea is not a reason to reject it. What are you afraid of? Do you know? 
+Probably, you are just afraid. But fear, discomfort, or unfamiliarity with an idea is not a reason to reject it. What are you afraid of? Do you know? 
 
-Baseless doubt is a manifestation of unconscious denial resulting from unhealed major trauma. It is proof of the very thing you attempt to refute with it. It confirms everything I have asserted. It utterly vacates your contention. It binds you more tightly to the necessity of trying darkness. 
+Baseless doubt is a manifestation of unconscious denial resulting from unhealed major trauma. It proves the very thing you are attempting to refute by it. It confirms everything I have asserted. It utterly vacates your contention. And it binds you more tightly to the necessity of trying darkness.

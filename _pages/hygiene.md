@@ -128,21 +128,21 @@ Shelton's student, TC Fry, created a widely-used hygienic course of study. A stu
 
 Another student of Fry is Douglas Graham. He wrote [*The 80/10/10 Diet*](https://foodnsport.com), a trenchant and radical presentation of hygienic diet. It uses the familiar idea of calories in the titular ratio to explain healthy eating clearly. It makes frugivorous diet accessible. 
 
-[Loren Lockman](https://tanglewoodwellnesscenter.com)'s teachings and practice of frugivorous diet are unusually elegant. I learned from and fasted and worked with him in 2003 and 2004.
+[Loren Lockman](https://tanglewoodwellnesscenter.com)'s teachings and practice of frugivorous diet are unusually elegant. I learned from him and fasted and worked with him in 2003 and 2004.
 
 There are many hygienists to seek out. These have been important to me.
 
 #### influence
 
-Health was a popular movement in the 1800s in the West. Many semi-natural approaches emerged. Hygiene was the most rational, pleasing, and effective. It was the vanguard. The 19th century's famous improvements in public health resulted.
+Health was a popular movement in the 1800s in the West. Many semi-natural approaches emerged. Hygiene was the most rational, pleasing, and effective. It became the vanguard. The 19th century's famous improvements in public health resulted.
 
 Hygiene remains the most effective and influential approach to health and healing in history. It now benefits virtually everyone on the planet several times a day, whether he knows it or not. It is now common knowledge that rest, fresh, air pure, water bathing, exercise, and nutritious food are essential to a healthy life.
 
 These were new ideas 200 years ago. They benefit people more than medicine even pretends to. They provide endless ways to avoid doctors. They hint at compelling truths each new generation goes searching for.
 
-Medicine opposed this progress. It took credit for what it could not stop. It made war on hygiene's teachings, institutions, and practisers with propaganda, lobbying, and legal prosecution.
+Medicine opposed this progress at every turn. It took credit for what it could not stop. It made war on hygiene's teachings, institutions, and practisers with propaganda, lobbying, and legal prosecution.
 
-Hygiene invited such attack by over-emphasizing toxemia. Medicine used this flaw to reduce hygiene to cleanliness. Medicine made hygiene seem like it never existed with one hand while nearly destroying it with the other.
+Hygiene invited such attack by over-emphasizing the secondary principle of toxemia. Medicine used this flaw to reduce hygiene to cleanliness. Medicine made hygiene seem like it never existed with one hand while nearly destroying it with the other.
 
 Hygiene 3.0 begins with the recognition of trauma as the root of disease; the restful use of darkness to heal from it; and a hygienic psychology based on these two. This is the ground of hygiene's revival. It will regain its former ascendancy and attain permanent dominance.
 
@@ -257,21 +257,23 @@ Likewise, heroic discipline or super-effort (doing something twice as much or tw
 
 This law has a strange implication. The benefit one derives from anything cannot exceed one's capacity for it. When structure is damaged (as with virtually all of us now), the unconscious self prevents further damage from the increased energy of normal levels of pleasure, joy, fulfillment, and success running through damaged circuits. We often call the results of this life-saving mechanism "self-sabotage" or "bad habits". But we can best understand it as a symptom of disease. Thus, as hygienists, we seek to understand and support it, not fight it like the moralists. Which hygienists have unfortunately been when up against a person's habits.
 
-Same goes for more obvious means of self-protection like resistance and stubbornness.
+The same is true of more obvious means of self-protection like resistance and stubbornness.
 
-Imagine a damaged electrical device. Simply running a regular amount of power through it won't repair it, and may well cause further damage to circuitry. It is best to immediately stop it, turn it off, unplug it, and bring it to a mechanic for repair.
+Imagine a damaged electrical device. Running it won't repair it. It may well cause further damage. It is best to immediately stop it, turn it off, unplug it, and bring it to a technician for repair.
 
-Likewise, one's capacity for ordinary rest determines how much of it one will enjoy. A good night's sleep begins a deep healing process that may take days or weeks to complete. A good night's sleep entails stillness and leads to re-energization and clarity. These tend to irritate damaged capacity. It's like re-breaking a badly set bone. The organism accepts it if the new energy will fuel a complete repair. But if light and activity will interrupt the process in the morning, then, from the comprehensive perspective of capacity, it's best to not start at all. 
+Likewise, one's capacity for ordinary rest determines how much of it one will enjoy. A good night's sleep begins a deep healing process that may take days or weeks to complete. A good night's sleep entails stillness and leads to re-energization and clarity.
+
+These lead to irritation. It's like the pain of re-breaking a badly set bone. The organism accepts it if the new energy will fuel a complete repair. But if light and activity will interrupt the process in the morning, then, from the comprehensive perspective of capacity, it's best to not start at all. 
 
 If, due to a lack of time, safety, or understanding we have not met all the conditions of healing, then unconsciously, we will be prevented from sleeping until we can _really_ sleep. Insomnia typically results. As with the rest of functioning, only in profound rest does the organism restore its capacity for ordinary rest. 
 
 This analysis applies to everything we try that repeatedly fails and frustrates us. 
 
-Like staying on a good diet. One starts eating well. Congestion clears. Sleep becomes easy and delicious. Clarity, motivation, and joy return. Eventually, the energy level reaches a fever pitch and something snaps. With the indifference of an executioner and the self-awareness of a narcissist, one inhales three pieces of cake that, just a few days before, was obviously horrifying. 
+Like staying on a good diet. One starts eating well. Congestion clears. Sleep becomes easy and delicious. Clarity, motivation, and joy return. Eventually, the energy level reaches a fever pitch and something snaps. With the indifference of an executioner and the self-awareness of a narcissist, one inhales three pieces of cake that, an hour before, was obviously horrifying. 
 
-The unbearable level of energy in real emotion has the same effect on many of us. Or in meeting a magnificent personality. Or in getting a once-in-a-lifetime opportunity. Choke artistry springs from nowhere. "Boy, it's time for an all-night movie marathon! Where's the ice cream?" To prevent further damage to capacity, the autonomic self does whatever it takes to curb one's enthusiasm.
+The unbearable level of energy in real emotion has the same effect on many of us. Or in meeting a magnificent personality (and getting star-struck). Or in getting a once-in-a-lifetime opportunity. Choke artistry springs from nowhere. "Boy, it's time for an all-night movie marathon! Where's the ice cream?" To prevent further damage to capacity, the autonomic self does whatever it takes to curb one's enthusiasm.
 
-Thus, we can see how moralization about choices, habits, commitment, etc, is ineffective because it is irrelevant. We are not creatures of habit. We are beings of capacity. In any given moment, we do absolutely the best we possibly can. Whether willed or automatic, every thought, every feeling, every action is an utmost expression of one's capacity. The instant capacity rises or falls, so does function. Life cannot do otherwise.
+Thus, we can see how moralization about choices, habits, commitment, etc, is ineffective because it is irrelevant. We are not creatures of habit. We are beings of capacity. In any given moment, we do absolutely the best we possibly can. Whether willed or automatic, every thought, every feeling, every action is an utmost expression of one's capacity. The instant that capacity rises or falls, so does function. Life cannot do otherwise.
 
 Genuine benefits gained by normal efforts simply realize one's capacity. That's why they feel fun. When emergencies or unusual opportunities call for extra effort, the body supplies adrenaline for it. But we err in continuing to exert extra effort over a prolonged time span for any purpose, let alone the mind-boggling task of restoring our original capacity. The will fails to achieve it. Only the involuntary power that gave us life in the first place can. This power cannot be manipulated, only provided for.
 
@@ -320,6 +322,6 @@ This is the general theory of hygiene 3.0. Now we can better apprehend our main 
 &nbsp;
 
 [^1]: Herbert Shelton, [*Natural Hygiene: Man's Pristine Way of Life*](https://bit.ly/euphoriaquote)\*, elegantly paraphrased by TC Fry, [*Life Science Health System*](https://bit.ly/lifesciencehealth)\*.
-[^2]: Sadly, White established a tradition of abusing people from the pulpits of Adventist churches. I recommend against visiting. But Walter Veith's lecture series, ["Total Onslaught"](https://adtv.watch/series/total-onslaught), is electrifying. He correlates major historical figures, events, and ideas—and the strange forces often at work in them—with the Bible and its prophecies.
+[^2]: White helped renew the spirit of Reformation in America in her books and visions. Sadly, she did it by plagiarizing much of her brilliant books. And she started a tradition of abusing people from the pulpits of Adventist churches. I recommend against visiting. But the lecture series of Adventist, Walter Veith, ["Total Onslaught"](https://adtv.watch/series/total-onslaught), is electrifying. He correlates major historical figures, events, and ideas—and the strange forces often at work in them—with the Bible and its prophecies.
 [^3]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*, back cover.
-[^4]: religion, Latin, re (_again_) + leg (_law_), an internal binding to law. It is a mad act, making people strange.
+[^4]: religion, Latin, re (_again_) + leg (_law_), an internal binding to law. It is a desperate act, making people strange.

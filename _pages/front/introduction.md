@@ -136,9 +136,9 @@ Hygiene completely secularizes the use of darkness for the specific purpose of h
 
 #### hygiene
 
-Medicine led us to believe hygiene is just cleanliness (see [history](/hygiene#history). In fact, hygiene deals with all aspects of health. Any good dictionary proves this. Hygiene is broad and deep. 
+Medicine led us to believe hygiene is just cleanliness (see [history](/hygiene#history)). In fact, hygiene deals with all aspects of health scientifically. Any good dictionary proves this. Hygiene is broad and deep. 
 
-We have the word at all because of _Natural Hygiene_. This is a radical school of natural health originating in America in 1832. It led the global natural health movement of the 19th century.
+The word is common because of _Natural Hygiene_. It is a radical school of natural health originating in America in 1822. It led the global natural health movement of the 19th century.
 
 Hygiene respects the self-preserving nature of life. It observes that organisms both maintain and recover health under normal conditions of life. So it studies organic self-preservation and how to provide its conditions.
 
