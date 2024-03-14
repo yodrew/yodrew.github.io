@@ -238,7 +238,13 @@ It is natural to be curious about my condition. It is fallacious to dismiss my t
 
 **7 - I'm skeptical / I have doubts about this / I don't believe it.**
 
-[Yourfallacy.is/incredulity](https://yourfallacy.is/personal-incredulity). Disbelief is not an argument. Skepticism is baseless doubt. It pretends to be rational and scientific, but is just as irrational as baseless belief. It is arbitrary: without evidence and to be instantly rejected. But let us go further.
+[____Yourfallacy.is/personal-incredulity____](https://yourfallacy.is/personal-incredulity). Disbelief is not an argument. 
+
+Baseless doubt is just as irrational as baseless belief. Baseless means _arbitrary_: without evidence in the particular case. 
+
+Skepticism pretends to be rational and scientific. But it is arbitrary. By its own admission, it is without evidence. Arbitrary statements are to be rejected out of hand. 
+
+But let us go further.
 
 Until you name the flaw in the argument, you have no grounds to object. Sophistry is an evasion amounting to concession. Then, if you believe you are a serious person, you are obliged to replicate the experiment. If you don't, it shows you are not serious.
 
