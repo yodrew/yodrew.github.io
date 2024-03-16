@@ -53,7 +53,7 @@ Both designs below are composting bucket toilets. The basic design is simple and
 
 It's that simple, but I wrote more about [composting toilets](/blog/2024/02/compost-toilet) to allay concerns and provide more details
 
-## paper upgrade
+#### paper upgrade
 
 Finally attain cleanliness behind. Prevent abrasion, itching, and infection. Replace toilet paper with water. 
 
@@ -90,7 +90,7 @@ Graphic description:
 Pros: simple, cheap, fast  
 Cons: not ventilated, not stable enough for squatting, not separating (see upgrade)
 
-## upgrade
+#### upgrade
 
 This is a minimalist composting toilet box. It is a light wooden frame and plastic skirt, not a heavy solid box. Highly adaptable. It:
 
@@ -111,7 +111,7 @@ plan: toilet - [download](/img/plan/toilet.pdf)
 
 Note: if you intend to use a separating tub (see option #3), get it first. Gap between platforms may need to be adjusted to fit it. This will also affect lengths of front, back, and spanner of toilet seat adapter. 
 
-## build
+##### build
 
 1. frame
 	1. cut boards
@@ -136,7 +136,7 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 		- 50--100- off floor
 		- 10--30- smaller than return duct to fit over it snugly
 
-## options
+##### options
 
 1. toilet seat adapter
 	- make adapter
