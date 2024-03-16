@@ -92,11 +92,11 @@ Here are further design constraints, photos, plans, and instructions for making 
 {threshold vent specifications in curly braces}
 
 - durable (protected by cardboard shell){protected by wood reinforcement, subject to damage by kicking but easily rebuilt, could be made of sheet metal or shielded with cardboard or thin wooden boards}
-- thin enough to fit between blind and window (<80mm) or door and threshold {adjustable}
-- cross-sectional area >78cm<sup>2</sup> (85cm<sup>2</sup>){60--120cm<sup>2</sup>} to equal standard 100mm diameter ducting
-- fully traps light, sending light around at least 5 corners (6 corners / 4 corners + enclosure's corners){2-6 fabric-covered corners} 
-- short airway (240mm / 160){140mm} 
-- minimal size (220 x 77 x 290 / 140 x 67 x 281){fits under door, sticks out 20mm each side and up 60mm}
+- thin enough to fit between blind and window (<80-) or door and threshold {adjustable}
+- cross-sectional area >78cm<sup>2</sup> (85cm<sup>2</sup>){60--120cm<sup>2</sup>} to equal standard 100- diameter ducting
+- fully traps light, sending light around at least 5 corners (6 corners / 4 corners + enclosure's corners){2--6 fabric-covered corners} 
+- short airway (240- / 160){140-} 
+- minimal size (220 x 290 x 77 / 140 x 281 x 67){fits under door, sticks out 20- each side and up 60-}
 - easy to make (medium){medium}
 - elegant (yes: simple compact form, uses common materials){yes: adapts to nearly all swinging doors}
 - cheap ($4 in materials, 2-hour assembly time){$2 in materials, 1-hour assembly time} {#helix}
@@ -137,11 +137,11 @@ Do you wish to manufacture vents? A set of simple wooden or sheet metal template
 Read through instructions once while studying plans.
 
 1. materials:
-	1. walls, 4-8mm thick
+	1. walls, 4--8- thick
 		1. cardboard: double-layer is stable if kept dry and out of direct sun and intense heat.
 		2. wood: thin tongue and groove boards, masonite, exterior plywood aged 3+ months, or marine plywood. Avoid interior plywood. Its especially toxic glue outgasses a long time.
-	2. flaps: black acid-free posterboard/cardstock/coverstock, 250-400gsm or thin tightly woven fabric like poplin or twill
-	3. seal: black polar fleece, medium weight. Quality check: a 10-layer stack should measure 30-35mm high.
+	2. flaps: black acid-free posterboard/cardstock/coverstock, 250--400gsm or thin tightly woven fabric like poplin or twill
+	3. seal: black polar fleece, medium weight. Quality check: a 10-layer stack should measure 30--35- high.
 	4. tricot or no-see-um netting
 	5. wood glue
 	6. paint, matte black, probably spray paint. Or glue black paper to one side of cardboard, both sides of baffles, before cutting
@@ -151,11 +151,11 @@ Read through instructions once while studying plans.
 	- whether it will attach at side or face opening
 	- vent must clear window handles, locks, and frame
 	- if used with a double blind, shade hole in insert from direct sunlight
-4. the plan adapts to walls between 4-8mm thick. Just move walls and baffles slightly to accommodate it. Use these rules:
+4. the plan adapts to walls between 4--8- thick. Just move walls and baffles slightly to accommodate it. Use these rules:
 	- keep inner wall flush with inner and left edges of end
 	- keep baffle _a_ flush with left edge of end
 	- move outer wall inward
-	- keep inner and outer walls 68mm apart (with spacers)
+	- keep inner and outer walls 68- apart (with spacers)
 	- keep baffle _f_ flush with right edge of inner wall (thin dash-dotted line)
 	- keep baffles _b, c, d, e_ centered on dash-dotted lines, shifting them downward (in short version, keep _e_ flush with right edge of end and outer wall)
 	- keep side wall against outer wall
@@ -182,7 +182,7 @@ Read through instructions once while studying plans.
 6. Let it dry. until installation, keep it in a dust-proof bag. 
 7. installation
 	1. mark slot with slot jig
-		- it spaces slot correctly on most blinds and panels. It can be further from corner but only 20 closer on panels.
+		- it spaces slot correctly on most blinds and panels. It can be further from corner but only 20- closer on panels.
 		- face opening, 35 x 248, on blinds, panels, or outside silencer, with shell
 		- side opening, 32 x 248, inside silencer or other enclosure, without shell
 	2. cut out slot
@@ -226,11 +226,11 @@ plan: threshold vent - [download](/img/plan/threshold-vent.pdf)
 <!--pagebreak-->
 
 1. materials
-	- cardboard, double-wall, 4-6mm thick (400 x 600 strawberry flat box is perfect) 
+	- cardboard, double-wall, 4--6- thick (400 x 600 strawberry flat boxes are perfect) 
 	- fleece, black, 200 x 1000
 	- muslin, black, 500 x 700
-	- cardstock (posterboard), black, acid-free, 180-300gsm, 550 x 700, for hood, maybe threshold.
-	- thin double-sided tape
+	- cardstock (posterboard), black, acid-free, 180--300gsm, 550 x 700 for seals, maybe threshold.
+	- double-sided clear plastic tape or adhesive
 	- double-sided foam mounting tape or 3M Command strips
 2. prepare pattern with instructions in [fabricate](/make#fabricate)
 3. cardboard
@@ -238,15 +238,15 @@ plan: threshold vent - [download](/img/plan/threshold-vent.pdf)
 	- edges of hood that fold into each other: crush to 45° so that edges of outer facing of cardboard meet
 	- glue the seals onto hood, long skinny ones first
 4. cut and glue muslin inside wall and hood pieces, except on flaps
-5. position one vent wall on door so that it is 5 above high point of floor in swing area of door. Tack in place with masking tape. Once it is perfect, mark its position with tape. Duplicate marks on the other side of the door.
-6. attach muslin over area of door that vent will cover. Width: 420. Length: from 20 above wall on one side to same height on other, wrapped under the door. Use double-sided tape. Seal with finger nail. If no hood is needed, masking tape works, too. Use wall as guide or remove it and use tape marks. Remove wall afterward.
+5. position one vent wall on door so that it is 5- above high point of floor in swing area of door. Tack in place with masking tape. Once it is perfect, mark its position with tape. Duplicate marks on the other side of the door.
+6. attach muslin over area of door that vent will cover. Width: 420-. Length: from 20- above wall on one side to same height on other, wrapped under the door. Use double-sided tape. Seal with finger nail. If no hood is needed, masking tape works, too. Use wall as guide or remove it and use tape marks. Remove wall afterward.
 7. vent baffle
 	- cut piece of fleece 470 x (90 + door thickness)
 	- glue to bottom of one wall
 	- glue extra length at sides up the sides of the walls. Cut slit where flaps are.
 8. attach vent walls to door at marks. Use double-sided foam tape or 3M Command strips.
 9. glue vent baffle to bottom of other wall
-9. measure and cut door baffles wide enough to seal door where there is no vent. Add 10 + half the door thickness. Length= 46 + thickness of door. Attach them to door 20 above bottom of door. Use masking tape.
+9. measure and cut door baffles wide enough to seal door where there is no vent. Add 10 + half the door thickness. Length = (46 + door thickness). Attach them to door 20- above bottom of door. Use masking tape.
 10. if light leaks under the door, cover the threshold with black paper or fabric
 	
 ### soundproofing
@@ -255,7 +255,7 @@ plan: threshold vent - [download](/img/plan/threshold-vent.pdf)
 
 Shelter must [control exposure](/design#normal) to pollution. Noise is a form of pollution. Noise comes from outside from machines, traffic---including boats, trains, and airplanes---construction, music, fireworks, and talking and playing people. It comes from inside from machines---refrigerators, fans, water pipes and pumps), people in adjoining spaces, and their music. At some point, noise defeats a retreat. One must attenuate it somehow, even in remote locations.
 
-The four principles of soundproofing are: 
+The four principles of soundproofing are:
 
 1. mass: heavy materials absorb low-frequency (bass) sounds
 2. absorption: fine fibers absorb high frequencies and prevent echoing in air cavities
@@ -279,8 +279,8 @@ You can make or buy silencers.
 - my double-turn box design is below, $2-$10 depending on your material salvaging skills.
 - [DIY straight tube](https://bit.ly/diysilencer) 
 - [for sound booths](https://bit.ly/silencerbooth). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
-- manufactured silencers are made of metal and other super durable materials and cost $100-200.
-- [acoustic ducting](https://www.google.com/search?q=acoustic+ducting), at least 3m of 100mm with 2-3 bends
+- manufactured silencers are made of metal and other super durable materials and cost $100--200.
+- [acoustic ducting](https://www.google.com/search?q=acoustic+ducting), at least 3m of 100- with 2--3 bends
 
 Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. Thanks to Richard Nöjd of Skattungbyn, Sweden, for showing me these solutions. 
 
@@ -298,9 +298,9 @@ Rockwool works. It is unpleasant to work with, but it is fairly odorless. Polyes
 
 Fiberglass is terrible to work with and often smells of chemicals. Closed cell foam, like styrofoam, polyisocyanurate boards, camping pads, etc, does not work due to non-porosity.
 
-Discarded furniture is made of melamine, an excellent material for silencer boxes. It is particle board with resin veneer, usually 15 or 19mm thick. Marine plywood uses non-toxic glue. Otherwise, avoid plywood or line with foil or mylar. 
+Discarded furniture is made of melamine, an excellent material for silencer boxes. It is particle board with resin veneer, usually 15- or 19- thick. Marine plywood uses non-toxic glue. Otherwise, avoid plywood or line with foil or mylar. 
 
-Use a table saw to cut the 8 pieces so they come out square. Or have a carpenter do it for you, including the holes. Just take the drawing with you, modified for your needs. The carpenter probably has some extra melamine laying around to sell you cheap. To screw pieces together, first drill pilot holes so edges don't break. I always drill pilot holes in wood less than 30mm wide for this reason.
+Use a table saw to cut the 8 pieces so they come out square. Or have a carpenter do it for you, including the holes. Just take the drawing with you, modified for your needs. The carpenter probably has some extra melamine laying around to sell you cheap. To screw pieces together, first drill pilot holes so edges don't break. I always drill pilot holes in wood less than 30- wide for this reason.
 
 To insulate, make round tubes of plastic screen. Cover with porous fabric if insulation is fine, like cellulose. Stuff insulation around it and close the box. Roughen the plastic surface first with sandpaper so the glue sticks. 
 
@@ -318,13 +318,15 @@ In Czech Republic, I visited a large music recording studio in the middle of Brn
 
 They called it "house-in-house". In America, "room within a room". My brother had mentioned building a few music studios like this. The walls and ceilings of each structure don't touch. The inner room's floor "floats" on vibration-dampening springs or rubber blocks. 
 
-Then I visited an anechoic chamber at the Petrof Piano Factory in Hradec Kralove. It was extreme soundproofing! It was a 6m concrete cube, resting on leaf springs inside another building, with a 1m gap between the two. One stepped over a gap between the two, as in a subway, through a 1.2m thick door. Cones of foam 1m long protruded from the ceiling, walls, door, and floor. Suspended in the middle was a steel grill platform for a piano and engineer. With no measurable noise or echo inside, they could test a piano's sound with extreme precision.
+Then I visited an anechoic chamber at the Petrof Piano Factory in Hradec Kralove. It was extreme soundproofing! It was a 6m concrete cube, resting on leaf springs inside another building, with a 1m gap between the two. 
 
-You have probably heard of these rooms. People claim to start going crazy. That is hype. The silence was heavenly. I would have happily stayed inside for a week. 
+To enter, I stepped over a gap, as in a subway, through a 120cm thick door. Foam cones 1m long protruded from the ceiling, walls, door, and floor. Suspended in the middle was a steel grill platform for a piano and engineer. With no measurable noise or echo inside, they could test a piano's sound with extreme precision.
+
+You have probably heard of these rooms. People claim to start going crazy in them. That is hype. The silence was heavenly. I could have stayed in there for a month. 
 
 The engineer was kind enough to give me 10 minutes. Sigh.
 
-Anyway, the house-in-house technique is practical for silencing bedrooms for darkrooms. The gap between the houses must be at least 50mm all around. The floated floor is 12-19mm plywood on a frame, insulated and sheathed. Walls and ceiling are also insulated frames with drywall on both sides. Dual pane windows, airtight door seals, and silenced ventilation complete the construction.
+Anyway, the house-in-house technique is practical for silencing bedrooms for darkrooms. The gap between the houses must be at least 50- all around. The floating floor is 12--19- plywood on a frame, insulated and sheathed. Walls and ceiling are also insulated frames with drywall on both sides. Dual pane windows, airtight door seals, and silenced ventilation complete the construction.
 
 ### machines
 
@@ -334,20 +336,20 @@ Use an axial case fan, also known as a squirrel cage fan. Most common in desktop
 
 - DC (direct current)
 - 12V (volts) but run on as little as 6V, reducing speed, noise, and airflow
-- 120--200mm diameter
+- 120--200- diameter
 - 600--1200RPM (revolutions per minute)
 - maximum 20dB (decibels)
 - 65--200cmh (cubic meters per hour) or 40--120cfm (cubic feet per minute)
 
-I recommend 200mm fans. I redesigned the fan mount for them rather than the 120mm fans I used for years. They move a lot of air and are very quiet. I have Cooler Master brand. Noctua makes the best and quietest fans available, running as low as 7dB.
+I recommend 200- fans. I redesigned the fan mount for them rather than the 120- fans I used for years. They move a lot of air and are very quiet. I have Cooler Master brand. Noctua makes the best, quietest fans available, running as low as 7dB. Maybe you could hear that if you're a bat.
 
-However, a common 120mm fan is better than nothing. It usually requires a silencer. It is salvageable from a desktop computer power supply, $3 at thrift stores or flea markets, or $5--40 at a computer or electronics store. Avoid AC (alternating current) fans due to their penetrating hum (more on noise below). 
+However, a common 120- fan is better than nothing. It usually requires a silencer. It is salvageable from a desktop computer power supply, $3 at thrift stores or flea markets, or $5--40 at a computer or electronics store. Avoid AC (alternating current) fans due to their penetrating hum (more on noise below). 
 
-Power it from the grid with an AC/DC adapter. 12V case fans run on as little as 6V. A universal adapter with pole switching and variable voltage (3-12V) for speed control is $5-10 at variety stores. Thrift stores have boxes of cheap adapters of fixed voltage if you know what voltage you want. 
+Power it from the grid with an AC/DC adapter. 12V case fans run on as little as 6V. A universal adapter with pole switching and variable voltage (3--12V) for speed control is $5--10 at variety stores. Thrift stores have boxes of cheap adapters of fixed voltage if you know what voltage you want. 
 
 Off grid, use car or household batteries or a solar power system. To control speed, use a DC/DC car adapter from eBay. If you have no fan movement? Switch the +/-- poles on the adapter or switch the positive and negative wires.
 
-Blower fans are interesting. They overcome resistance in ducts and HRVs and move a ton of air. 120mm units on eBay are $10-20. They need silencers and more powerful adapters. Larger slower quieter ones would be better. I built one once. It took a lot of time!
+Blower fans are interesting. They overcome resistance in ducts and HRVs and move a ton of air. 120- units on eBay are $10--20. They need silencers and more powerful adapters. Larger slower quieter ones would be better. I built one once, about 500- dia x 100- thick. It was fun but it took a lot of time!
 
 #### fan mount
 
@@ -359,12 +361,12 @@ The design is fairly self-explanatory:
 	- a fan suspended in a web of 2 concentric rings of rubber, stretched between 4 screw posts, anchored in a wooden base
 	- modular, fitting silencer in any configuration
 - materials
-	- base: 272 x 272 x 19 (center hole, 194 diameter). Cut precisely with jig, band, or coping saw; router; or have a carpenter do it for you. Screw hole centers 20 from corners
-	- case fan: 200 (computer fan)
-	- screws: 4@5 x 60 machine + 4 nuts + 4 T-nuts, 4 fender washers
-	- rubber: 1-2 thick, 28 wide, 1700 long. Use inner tube of car, motorcycle, or bicycle wheel. It is tricky to work out distances between loops so that rubber has enough tension to suspend fan without too much movement. Loops and buckle make it all adjustable.
-	- loop: wire, 1mm, bent to fit tight 
-	- gap: 0.5--1 between base and fan
+	- base: 272 x 272 x 19 (center hole, 194- diameter). Cut precisely with jig, band, or coping saw; router; or have a carpenter do it for you. Screw hole centers 20- from corners
+	- case fan: 200- (computer fan)
+	- screws: 4, 5 x 60 machine + 4 nuts + 4 T-nuts, 4 fender washers
+	- rubber: 28 x 1700 x 1--2. Use regular bicycle inner tube. Distances between loops and buckles vary with thickness of rubber. Tighten webbing enough to suspend fan without too much movement. 
+	- loop: wire, 1-, bent to fit tight 
+	- gap: 0.5--1- between base and fan
 - assembly
 	- lay out rubber strip.
 	- figure out order to slide loops on. Do so.
@@ -387,9 +389,9 @@ In my first major darkroom in Guatemala, I had no electricity.
 
 At first, to create a draft, I made lamps that burned cooking oil inside a lightproof chimney. It was a messy, unreliable, and labor-intensive process. No one should ever repeat it. But it worked long enough for my brain to make the leap to the 20th century and remember the existence of batteries.
 
-AA batteries made a quick and dirty solution. One night requires 4-8 batteries, alkaline or rechargeable. Connect them in series: positive end of one to negative end of the next. 
+AA batteries made a quick and dirty solution. One night requires 4--8 batteries, alkaline or rechargeable. Connect them in series: positive end of one to negative end of the next. 
 
-Voltage adds up like this. Each battery is 1.5V, so 4 batteries=6V. Some fans need 7V or 9V to start, thus 5 or 6 batteries. Increase fan speed by adding batteries to the pack, up to 8. Increase pack life by using bigger batteries or another series in parallel (fan wires contacting ends of both series).
+Voltage adds up like this. Each battery is 1.5V, so 4 batteries = 6V. Some fans need 7V or 9V to start, thus 5 or 6 batteries. Increase fan speed by adding batteries to the pack, up to 8. Increase pack life by using bigger batteries or another series in parallel (fan wires contacting ends of both series).
 
 I was isolated and just learning. This simple discovery encouraged me after weeks of the fascinating absurdity of oil lamp-driven convective ventilation. However, changing batteries every day also quickly got to be a pain. So I bit the bullet and got a proper solar power system for less than $100:
 
@@ -410,7 +412,7 @@ If you live in a cold place, I highly recommend buying and installing a [Heat Re
 
 Fine wire heat exchange (fiwihex) technology is my favorite. It is 15x more efficient than plate exchangers. It is compact. A low power fan will supply air to one person. So it can be installed at point of use with little to no ducting. Fiwihex cores have been available for $150 from [Viking House](http://viking-house.ie) and possibly [Fresh-R](https://fresh-r.eu). These companies' _Breathing Windows_ embody an intriguing design for a complete ventilation system. 
 
-However, I lived with one for six months and found it too loud due to its small, high-RPM fans with no silencing. If fans were separated and silenced, fiwihex would be great. A 200mm axial case fan works (I tried it). DC  blower fans could work with silencing. Building your own HRV is doable.
+However, I lived with one for six months and found it too loud due to its small, high-RPM fans with no silencing. If fans were separated and silenced, fiwihex would be great. A 200- axial case fan works (I tried it). DC  blower fans could work with silencing. Building your own HRV is doable.
 
 It also needs a filter despite the manufacturers' strange denials. Just a leg of a stocking inside a tube for each intake is enough. It's much easier to remove, clean, and replace than using the core itself as a filter (the manufacturer's strange instruction).
 
@@ -431,7 +433,7 @@ In some cases, an air purifier becomes necessary. If your house is near a factor
 
 Do not use an ionizer. It produces toxic levels of ozone.
 
-Recently, I upgraded the ventilation system of a darkroom in Czech Republic where people burn coal for heat. Coal smoke smells terrible. I installed an activated carbon filter into the silencer. The $50, 18 x 18 cm filter eliminated the smell. Catching the particles would require HEPA filtration, but it was less important at the time. 
+Recently, I upgraded the ventilation system of a darkroom in Czech Republic where people burn coal for heat. Coal smoke smells terrible. I installed an activated carbon filter into the silencer. The $50, 180 x 180 filter eliminated the smell. Catching the particles would require HEPA filtration, but it was less important at the time. 
 
 The filter also stops all light and some sound. It requires a fan more powerful than a case fan to overcome the resistance it presents. A blower fan does this. I have yet to test one with a silencer. If that works, I'll adapt the fan mount for one.
 

@@ -26,7 +26,7 @@ Health, of course, is the point. We are organisms, so our purpose is to live. To
 
 What is health like, according to our science?
 
-> "Health does not consist merely of the absence of symptoms of illness. It is a state of positive well-being that is evidenced by a constant state of euphoria. It is rarely, if ever, experienced by humans today."
+> "Health does not consist merely of the absence of symptoms of illness. It is a state of positive well-being that is evidenced by a constant state of euphoria. It is rarely, if ever, experienced by humans today."  
 --Herbert Shelton, father of modern hygiene[^1]
 
 Euphoria is the sign of function that my adolescent [rapture](/conjecture/rapture) hinted at. Once tasted, nothing else will do. What conditions would make it possible? Identifying and providing conditions is hygiene's forte. It accomplishes this by making observations of life in nature along certain lines.
@@ -71,13 +71,13 @@ The extent and organization of this list are somewhat arbitrary. It simply helps
 
 #### rest
 
-This book mainly deals with the condition of rest. It is half of life. In our action-obsessed [lifeway](/front/introduction#glossary), we disdain and resist it. We view it as laziness, indulgence, a waste of time. This is an obvious aspect of mass civilized psychosis.
+This book mainly deals with the condition of rest. It is half of life. In our action-obsessed lifeway, we disdain and resist rest. We view it as laziness, indulgence, a waste of time. This is an obvious aspect of mass civilized psychosis.
 
 Rest is an end in itself. It is another equal aspect of living. Moreover, nothing else is possible without it, neither action nor healing. As Shelton says, "Time spent at rest is never wasted." If we wish to be healthy, we simply must correct ourselves in this matter.
 
 We rest for two reasons: because we are tired and because we are ill. Thus rest is of two kinds: ordinary and profound. 
 
-Ordinary rest includes nightly sleep, naps, and relaxation, alternated with daily activity in light. It is for recovering from being tired from daily life. It is for maintenance of health.
+Ordinary rest includes daily sleep, naps, and relaxation, alternated with daily activity in light. It is for recovering from the tiredness, the wear and tear of daily life. It is for maintenance of health.
 
 Profound rest is:
 

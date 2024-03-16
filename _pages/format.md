@@ -38,7 +38,8 @@ We often feel groggy after sleeping a lot after many short nights. Some people c
 
 In fact, we are tapping into the first layer of a backlog of lost sleep. Feeling groggy is the first phase of catching up. This can take days. Reversing sleep deprivation is like withdrawing from a strong drug. Like me, you may need a retreat to get to the other side of it without backsliding.
 
-In the meantime, this format helps us remember how important darkness is. Next step is to make an [instant mask](/darkness#instant). When ready for perfect darkness for nightly sleep, make  your room dark, quiet, airy, _and_ easily reopened to daylight with [blackout blinds](/darkness#blind), [lightproof vents](/darkness#vent), silencing [fan mounts](/air#fan-mount), and duct [silencers](/air#silencer).
+
+In the meantime, this format helps us remember how important darkness is. The next step is to make an [instant mask](/darkness#instant). When ready for perfect darkness, make [window coverings](/darkness#window) and a [door seal](/darkness#door-seal), maybe [lightproof vents](/darkness#lightproof) and a [fan mount](/air#fan-mount), and maybe even a [silencer](/air#silencer). Then your room will be dark, quiet, airy, _and_ easily reopened to light during the day.
 
 #### nightly
 

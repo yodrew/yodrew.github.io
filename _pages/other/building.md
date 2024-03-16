@@ -40,7 +40,7 @@ These came after my childhood instruction in design and making things with my pa
 |2015|building|x|hexayurt|styrofoam|Paris|France|M Richter, V Bouchard|
 |2017|building|x|hexayurt|styrofoam|Orgiva|Spain|TomTom|
 |2017|component||rhomboid hexayurt floor with triangular joists|wood|Orgiva|Spain|TomTom|
-|2019-20|component||portable bathroom & kitchen, greywater, rain harvesting @wagon||Litosice|Czech Repubic|Pavel, Honza & , Jaroslav & Jana|
+|2019-20|component||portable bathroom & kitchen, greywater, rain harvesting @wagon||Litosice|Czech Repubic|Pavel, Honza, & Jaroslav & Jana|
 |2023|building||vault, mobile|plywood|E||BW|
 |2023|building||conic hut, portable|plywood|E||R&K|
 

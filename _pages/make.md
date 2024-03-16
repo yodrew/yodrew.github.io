@@ -41,7 +41,7 @@ This chapter provides basic information that applies to all components of a dark
 	
 Designs are low-cost, low-tech, and work off-grid.
 
-A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes a knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement.
+A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement.
 
 These are normal activities. Everyone does them to some degree. and get help with the rest. If you can walk down stairs without falling, slice a loaf of bread, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, a mechanical engineer and my grand-elder, told me when my time came, "Become a craftsman." Perhaps your time has come. Become a craftsman.
 
@@ -59,35 +59,41 @@ If you need more specific advice for darkening your space, I provide [design con
 
 ### metric
 
-I give all measurements in metric. Unlabeled measurements are in millimeters (mm). 
+All measurements are in metric. Most are in millimeters with -, x, or +. Examples:
 
-Are you used to the inches, pounds, and gallons of the imperial system? Get a handle on the brain-descrambling metric system in a split-minute:
+- 50- = 50mm
+- 50--60- = 50mm to 60mm
+- 50 x 40 x 3 = 50mm wide x 40mm high x 10mm deep/thick
+- 50 + door thickness = 50mm + door thickness
+- in a drawing, 50 = 50mm
+
+Are you used to the inches, pounds, and gallons of the imperial system? Get a handle on the brain-clearing metric system in a split-minute:
 
 1. Count to 10 and multiply by 10 like you do with other numbers. Wrangle no more with fractions and many conversion factors. 
-	- basic metric conversions:
-		- length: 1000mm=100cm=1m (millimeter, centimeter, meter)
-		- volume: 1L=10dL=1000mL (liter, deciliter, milliliter)
-		- mass: 1kg=10hg=1000g (kilogram, hectogram, gram. Mass is like weight. But it uses a balance, not a spring scale, so it does not depend on Earth's gravity. Build a darkroom in space!)
-	- cool intraconversions: 
-		- 1L=10cm x 10cm x 10cm (1000cm<sup>3</sup>)
-		- 1L water=1kg
-		- thus, 1mL water=1cm<sup>3</sup>=1g 
-		- brilliant! simple! humane! 
-2. Make the metric system tangible. Visualize the following imperial near-equivalents. Use them to imagine my descriptions, and make estimations. Not for precise conversions or large quantities.
-	- length
-		- 25mm = 1" (inch)
-		- 100mm = 4"
+	- basic conversions:
+		- length: 1m = 100cm = 1000- (meter, centimeter, millimeter)
+		- volume: 1L = 10dL = 1000mL (liter, deciliter, milliliter)
+		- mass: 1kg = 10hg = 1000g (kilogram, hectogram, gram) Mass is like weight. But it uses a balance, not a spring scale, so it does not depend on Earth's gravity. Build a darkroom in space!)
+	- cool intra-conversions: 
+		- 1L = 10cm x 10cm x 10cm (1000cm<sup>3</sup>)
+		- 1L water = 1kg, thus:
+		- 1mL water = 1cm<sup>3</sup> = 1g 
+		- brilliant! simple! humane!
+2. Make the metric system tangible. Visualize the following imperial near-equivalents. Then use them to imagine my descriptions and make estimations. Not for exact conversions or large quantities.
+	- length	
+		- 25- = 1" (inch) (Exact factor is 25.4-)
+		- 100- = 4"
 		- 30cm = 1' (foot)
-		- 1m = 1 yard & 4" 
+		- 1m = 1 yard & 4" or 40"
 		- 3m = 10'
-		- 1km = 0.6 mile
+		- 1km = 0.6 mile / 1 mile = 1.6km
 	- area
 		- 1m<sup>2</sup> = 11'<sup>2</sup>
-		- 4' x 8' sheet = 120cm x 240cm (~3m<sup>2</sup>)
+		- 4' x 8' sheet = 122cm x 244cm = 3m<sup>2</sup>
 		- A0-A8 paper size system. A sheet's 1:&radic;2 proportion remain the same when cut in half the short way. A0 = 841 x 1189 = 1m<sup>2</sup>. A1 = 595 x 841 = 0.5m<sup>2</sup>. A4, the metric counterpart to North American letter size paper, is 210 x 297 = 0.0625m<sup>2</sup> (1/16m<sup>2</sup>)
 	- volume
 		- 4L = 1 gallon
-		- 1.7cmh = 1cfm (cubic meter per hour to cubic feet per minute; for airflow)
+		- 1.7cmh = 1cfm (for airflow: cubic meter per hour to cubic feet per minute)
 	- mass 
 		- 28g = 1 oz
 		- 1kg = 2.2 lb
@@ -99,37 +105,38 @@ Making components requires most or all of these tools:
 1. table or desk
 2. measure
 	1. Note: before purchase, test tools for accuracy, which can vary between identical tools, even of good brands. Instructions below.
-	2. metric ruler, 45-50cm, clear plastic. If reproducing plans by hand rather than printing them, also get a 30cm [Incra ruler](https://www.incra.com). For its effortless marking precision, I recommend it for making anything at all ever. It's the greatest hand tool I have ever used.
-	3. meter stick, steel with engraved marks
-		1. put marked edges of two sticks together so 40cm mark of one meets 60cm mark of other
+	2. metric ruler, 45--50cm, clear plastic. If reproducing plans by hand rather than printing them, also get a 30cm [Incra ruler](https://www.incra.com). For its effortless marking precision, I recommend it for making anything at all ever. It's the greatest hand tool I have ever used.
+	3. metric measuring tape, 5m
+		1. common in dollar stores and Harbor Freight Tools in America
+		2. hook tape on end of meter stick and compare marks for accuracy of external measurement
+		3. push end of meter stick against a wall, put tape on top of meter stick, and compare marks for accuracy of internal measurement
+	4. optional: meter stick, steel with engraved marks
+		1. skip this in America. It's too hard to find. You just need a long straight edge. 
+		2. put marked edges of two sticks together so 40cm mark of one meets 60cm mark of other
 		2. push ends of both against a wall and check how well marks line up
 		3. repeat with other sticks till you find a match
 		4. buy one of them 
-	3. metric measuring tape, 5m
-		1. use a tape whose case length is easily and accurately added to the figure on the tape itself. Some measuring tapes are designed to give highly accurate internal measurements, eg, between sills.
-		2. hook tape on end of meter stick and compare marks for accuracy of external measurement
-		3. push end of meter stick against a wall, put tape on top of meter stick, and compare marks for accuracy of internal measurement
 3. mark
-	1. 0.5mm mechanical pencil
+	1. 0.5- mechanical pencil
 	2. ballpoint pen, black or blue ink
 	3. black marker
 	4. straight pin with colored plastic head or masking tape handle
 	5. magnifying glass (even a tiny plastic one works, like the one in a Swiss Army knife)
 4. crease, score, cut 
-	1. straight edge 200mm longer than your longest piece will be. 1-2mm-thick steel is best. An aluminum door or window frame member also works well. A board less than 12mm thick with a perfectly straight edge (check it!) is fine.
+	1. straight edge 200- longer than your longest piece will be. 1--2- thick steel is best. An aluminum door or window frame member also works well. A board less than 12- thick with a perfectly straight edge (check it!) is fine.
 	2. table knife: use back of tip for creasing
 	3. razor knife with new blade: use for scoring and cutting. To score is to cut halfway through thickness of material with razor knife so it remains one piece and folds very easily
 	4. scissors for both paper and fabric
 5. join
 	1. masking tape
 	2. wood glue, unthickened, any grade
-	3. glue syringe, 20-50mL for precise, efficient gluing
+	3. glue syringe, 20--50mL for precise, efficient gluing
 		- available
-			- at kitchen supply shops, with 2-3mm stainless needles
+			- at kitchen supply shops, with 2--3- stainless needles
 			- at discount variety stores (dollar stores, bazars) 
-			- at pharmacies. Also get a 2mm x 40--50mm needle. Perhaps cut off the tip. If unavailable, use a cartridge from ballpoint pen, the fat (4-5mm) tapering type. Clean it out and trim it down to point in taper that fits over nipple of syringe
+			- at pharmacies. Also get a 2 x 40--50 needle. Perhaps cut off the tip. If unavailable, use a cartridge from ballpoint pen, the fat (4--5-) tapering type. Clean it out and trim it down to point in taper that fits over nipple of syringe
 			- at woodworking shops, with needles
-		- remove needle and plunger. Cover nipple with finger and fill from back, leaving 10mm unfilled. Replace plunger barely. Point nipple upward and uncover it. Wait for air bubble to rise to top. Then push plunger in till air is cleared from syringe. Replace needle and use.
+		- remove needle and plunger. Cover nipple with finger and fill from back, leaving 10- unfilled. Replace plunger barely. Point nipple upward and uncover it. Wait for air bubble to rise to top. Then push plunger in till air is cleared from syringe. Replace needle and use.
 
 ### plans
 
@@ -139,7 +146,7 @@ I have drawn the plans on a computer for precision, clarity, and ease of modific
 2. compare drawings to photos.
 3. read the instructions through a couple times in the days before making begins.
 4. then _follow the instructions_, one step at a time, and you ought to end up with the intended component. 
-5. dimensions are X x Y x Z (left-right, up-down, in-out, ie, width, height, depth)
+5. dimensions are X x Y x Z (left-right x up-down x forward-backward; width x height x depth/thickness)
 
 Understanding often comes through doing. If this does not work, write me and I'll try to sort out the confusion and maybe improve the instructions and drawings for others, too.
 
@@ -172,9 +179,9 @@ Download all plans at once with the darkroom retreat [zip file](/darkroom-retrea
 	1. large format printing is cheap, extremely accurate, and much faster and easier than desktop printing. Most print shops, including Staples and Office Depot, now offer large format printing.
 	2. email your files to print shop or take them on a USB flash drive
 	3. paper: specify cheapest option
-	4. have files printed in actual size, with no scaling. Before paying, check measurements with ruler or measuring tape. Distortion should not exceed 1mm over a 250mm span.
+	4. have files printed in actual size, with no scaling. Before paying, check measurements with ruler or measuring tape. Distortion should not exceed 1- over a 250- span.
 
-		After resigning myself to 2mm distortion per 250mm (0.8%) with desktop printers, I was shocked to find almost no distortion with large format printing, maybe 0.5mm/500mm (0.1%). But then it made sense because architects, engineers, and builders depend on this service for their blueprints. 
+		After resigning myself to 2- distortion per 250- (0.8%) with desktop printers, I was shocked to find almost no distortion with large format printing, maybe 0.5-/500- (0.1%). But then it made sense because architects, engineers, and builders depend on this service for their blueprints. 
 		
 		[Note: it turns out that machine was very well maintained. Another large format print job I had done was quite distorted. So, get a guarantee of accuracy and check before paying.] 
 2. desktop
@@ -183,8 +190,8 @@ Download all plans at once with the darkroom retreat [zip file](/darkroom-retrea
 		1. open file with Adobe Reader (not Adobe Professional) 
 		2. in print dialogue, select: "Poster"; Tile Scale: 100%; Overlap: 1.0in; Cut marks: yes; Labels: yes
 		3. use A4, letter, or legal size, possibly A3
-		4. Distortion over 250mm span should not exceed 1mm.
-		5. after printing one file, check measurements against ruler to 1mm tolerance.
+		4. Distortion over 250- span should not exceed 1-.
+		5. after printing one file, check measurements against ruler to 1- tolerance.
 	3. join sheets 
 		1. cut a small wedge out of overlapping cut mark to align it with matching cut mark on sheet below
 		2. align cut marks at perimeter of plan first, then the one(s) in the middle. 
@@ -258,10 +265,10 @@ These instructions apply to all components, or as indicated. Read further instru
 	3. cut parts exactly around plan outline with scissors 
 	4. leave plans taped to mask side seals
 	5. remove plans from other parts
-	6. repeat steps 1-4 to make
+	6. repeat steps 1--4 to make
 		 - 2 mask center seals
-		 - 4 mask covers. For the 4th cover, use optional cotton fabric, add 20mm on side for seam allowance, and leave plan taped to fabric.
-	7. skip remaining steps 3-4 and resume special instructions
+		 - 4 mask covers. For the 4th cover, use optional cotton fabric, add 20- on side for seam allowance, and leave plan taped to fabric.
+	7. skip remaining steps and resume special instructions
 3. paper/cardboard parts
 	1. between holes in cardboard
 		- circled pairs: crease front, fold forward

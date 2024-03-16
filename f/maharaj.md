@@ -11,29 +11,33 @@ navnext:
 
 This is the text of a rare book about a 185 year-old yogi, Shriman Tapasviji Maharaj. He attained his great age by doing three long Ayurvedic retreats at ages [100](#chapter-10), [150](#chapter-27) (in the dark), and [165](#chapter-32). They are called Kaya Kalpa treatments in the book. (Click age numbers to skip to corresponding chapters.) The first and last retreats seem to have taken place with light.
 
-I am not a spiritual person anymore. I am a realist, a hygienist, a scientist. I do not endorse the philosophy or method described in the text (nor in the commentaries before and after). I just regard it as useful data to consider. I think it can be extracted, rationally recontextualized by hygiene, and used to even greater benefit than the author enjoyed. But that effort has barely begun.
+I am not a spiritual person anymore. I am a realist, a hygienist, a scientist. I do not endorse the philosophy or method described in the text (nor in the commentaries before and after). I just regard it as useful data to consider. I think it can be extracted, rationally recontextualized by hygiene, and used to even greater benefit than the author enjoyed. I have started recontextualizing it in my book, but much remains unknown to me.
 
-The biography is full of standard yogi adventures: heroic practices and resulting visions, astral travels, spontaneous healings of the devout, meetings with reincarnated deceased relatives, with other miraculous saints, and with immortals, scrapes with authorities, reproval of knaves, defeat of black magicians, etc. It is fun or uplifting or annoying or it makes your head spin, depending on your perspective. It is like Yogananda's autobiography.
+The biography is full of standard yogi adventures: heroic practices and resulting visions, astral travels, spontaneous healings of the devout, meetings with reincarnated deceased relatives, miraculous saints, and immortals, scrapes with authorities, reproval of knaves, defeat of black magicians, etc. It is fun or uplifting or annoying or it makes your head spin, depending on your perspective. It is like Yogananda's autobiography, but at a faster pace.
 
 Some years ago, I read an [excerpt](/report/365-day-yogi) of this book from the website of Rhio, a raw foodist. It struck me somehow. It gave me a measure of hope at the beginning of my physical decline in middle age. I republished it here after looking into the subject, Tapasviji. Here is what I found. 
 
 I found websites with stories of and testimonies about Tapasviji by his many disciples. They seemed as sincere and authentic as any I had read about Gurdjieff or other significant teachers. 
 
-Tapasviji was regarded as an elder by Shivabalayogi (whose intense darshan I happened to have had in Seattle in 1991). Shivabalayogi was, in turn, well regarded by Anandamayi Ma. She is universally recognized as one of India's greatest saints of the 20th century. Her name is the highest recommendation one can get in the spiritual arena.
+Tapasviji was regarded as an elder by Shivabalayogi (whose intense darshan I happened to have had in Seattle in 1991). Shivabalayogi was, in turn, well regarded by Anandamayi Ma. She is universally recognized as one of India's greatest saints of the 20th century. Her name is the highest recommendation one can get in the spiritual arena. It is enough to regard Tapasviji as bona fide.
 
-Tapasviji authorized T S Anantha Murty to write the book. Murty's attitude is manifestly the same as other disciples I have known personally who have written such books. They would sooner die than to report other than exactly what they saw or were told. 
+He left a long trail of official records, evidence, and witnesses behind. Some of it, at least, could be dug up and verified.
 
-The publisher, Da Free John, a strange man with a boatload of faults, was nonetheless a serious teacher who wrote and published exceedingly serious stuff. Georg Feuerstein, who wrote the foreword, is a world-renowned scholar of the East. They are familiar with fake and fourth-rate teachers, whose name is legion. They would not have touched this if it weren't serious material.
+Tapasviji authorized T S Anantha Murty to write the book. Murty's attitude is the same as other disciples I have known personally who have written such books about their masters. They would sooner die than to report other than exactly what they saw or were told. 
 
-The above report is what verification looks like in the spiritual arena. There, only first-hand knowledge is the final proof of things, as it is in the serious quarter of any arena. Everyone must get it for himself. The words of saints and scripture are to be taken as preliminary proofs or strong indications.
+The publisher, Da Free John, a strange man not without faults, was nonetheless a serious teacher who wrote and published exceedingly serious stuff. Georg Feuerstein, who wrote the foreword, is a world-renowned scholar of the East. They are familiar with fake and fourth-rate teachers, whose name is legion. They would not have touched this if it weren't serious material.
 
-All this is enough for me to regard the book seriously. I was born in the spiritual arena. I spent time with saints as a boy and man. I know what I am looking at when I see it. Chapter 27, about Tapasviji's 1-year dark retreat, is especially worth reading, considering, and testing personally. For now, that is part of my plan. This business of getting decrepit with age is for the birds.
+The above report is what verification looks like in the spiritual arena. Anyway, only first-hand knowledge is the final proof of things there, as it is in the serious quarter of any arena. Everyone must get it for himself. The words of saints and scripture are to be taken as preliminary proofs or strong indications.
 
-#### book provenance 
+All this is enough for me to regard the book seriously. I was born in the spiritual arena. I spent time with saints as a boy and man. I know what is fake and what is real in that world. 
 
-After reading Rhio's excerpt, I occasionally found a copy of this book for sale online for $200. It was out of my price range. Finally, one turned up for $40, so Harold and I bought it together.
+Chapter 27, about Tapasviji's 1-year dark retreat, is especially worth reading, considering, and testing personally. For now, that is part of my plan. This business of getting decrepit with age is for the birds.
 
-Unable to make my scanner work, I photographed it. Then I used Optical Character Recognition (OCR) to extract the text into separate files. I concatenated (joined) them into a single file, below. I added links for the chapters and corrected some of the footnote numbers. Lots of OCR errors remain.
+#### provenance 
+
+After reading Rhio's excerpt, I occasionally found a copy of this book for sale online for $200. It was out of my price range. Finally, one turned up for $40, so I bought it with someone else, who now has the hard copy.
+
+Unable to make my scanner work, I photographed it. Then I used Optical Character Recognition (OCR) to extract the text into separate files. I concatenated (joined) them into a single file, below. I added links for the chapters and corrected some of the footnote numbers. I have corrected some OCR errors. Many remain.
 
 If you would like the zip file (306 MB) of the photographs and individual OCR text files, [send me $10](/back/services#pay) and a message. It would be good if someone turned them into a single PDF with searchable text and maybe remove the yellow tinge of the photos, then unleashed it on the interwebs.
 

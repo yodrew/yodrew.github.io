@@ -110,7 +110,7 @@ My usage is sometimes uncommon. I take pains to recover the original or essentia
 
 I consider this half the job of intellectuals. The Oxford English Dictionary exemplifies this effort. I used to jot down words to look up in it on my next visit to the library. Pre-1970 editions of American Heritage Dictionary and Webster's are excellent dictionaries in single volumes.
 
-Beware of newer lexicology. Idealism dominates academia. Its radical irrationality (eg, Mao's political correctness and Adorno's ) has corrupted English.
+Beware of newer lexicology. Idealism dominates intellectuals. Its radical irrationality has corrupted English. I mean the modern heirs of Plato and Kant: Bernays, Adorno, Mao (political correctness), Marcuse, etc.
 
 ### background
 
@@ -168,7 +168,9 @@ Slowly, I absorbed the essence of Natural Hygiene's radical perspective through 
 
 It took time because I started out confused. A mess of alternative dietary ideas floated around my head since childhood. Fortunately, I was committed to logic. The rationality and simplicity of hygiene made it finally click. I started studying it on my own.
 
-Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I am grateful to him for this. I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people stick with eating healthy food and others don't (see [capacity](/hygiene#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
+Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I am grateful to him for this.
+
+I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people stick with eating healthy food and others don't (see [capacity](/hygiene#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
 
 ##### purna
 
@@ -176,7 +178,7 @@ Purna Steinitz was my guru for several years between 2000-2008. I first heard ab
 
 The idea struck me as strange. The well-lit Apollonian upper world of spirituality attracted me most. As a budding hygienist, I thought we needed _light_. But like a lot of earthy things Purna said, the idea of renewal in darkness stayed with me. 
 
-I also learned from him the ideas of capacity, function, and how one's results come from how one is being. As with darkness and grace, I have extracted them from his spiritual context and put them into the more profitable biological one of this book.
+I also learned from him the ideas of capacity, function, and how one's results come from how one is being. As with darkness and grace, I have extricated them from the spiritual context and put them into the more profitable biological one of this book.
 
 ##### harold
 
@@ -218,15 +220,15 @@ With this breakthrough, my search ended. Development began, starting with testin
 
 Over the course of my 27 retreats of 2--7 days, noticeable restoration of my psychic integrity and function has occurred. My body's scent has improved. I regained some access to my long-buried sexuality. From one retreat, I woke up feeling like an adult for the first time in 41 years. This feeling has never left me. Alongside my childish panic in the face of challenges, an adult now steadily thinks through them. 
 
-In retreat, symptoms of fibromyalgia dissipate. Aches and pains dissolve. Flexibility returns. I wake up _just knowing_ things that had always stumped me. Issues that dogged me for decades resolve themselves. Insomnia, exhaustion, and suicidality evaporate. Clarity, energy, ease, and purpose return for weeks at a time. I naturally exercise, like a cat or a child. Basic functioning lasts two months. All these things come after years or decades without them.
+In retreat, symptoms of fibromyalgia dissipate. Aches and pains dissolve. Flexibility returns. I wake up _just knowing_ things that had always stumped me. Issues that dogged me for decades resolve themselves. Insomnia, exhaustion, and suicidality evaporate. Clarity, energy, ease, and purpose return for weeks at a time. I naturally exercise, like a cat or a child. Basic functioning lasts two months after just a short retreat. All these things come after years or decades without them.
 
 In all these small miracles, I have sensed far greater ones await in darkness. I gained invincible hope, the will to persist, and a more precise compass for finding my way.
 
-Besides this supporting evidence, told in greater detail in my [retreat reports](/report), no data contradicting the basic idea has yet emerged. Meanwhile, interest in darkness is growing worldwide. 
+Besides this and other supporting evidence, told in greater detail in my [retreat reports](/report), no data contradicting the basic idea has yet emerged. Meanwhile, interest in darkness is growing worldwide. 
 
-In Europe, I met a renowned professor of psychology and researcher in REST (Restricted Environmental Stimulation Therapy). This is the academic approach to both flotation and dark retreating. She unqualifiedly agreed with my theory of psychical healing. She proposed research with my exact method, once I had a darkroom. I was not ready and could not arrange it, but it was a good sign.
+In Europe, I met a renowned professor of psychology and researcher in REST (Restricted Environmental Stimulation Therapy). This is the academic approach to both flotation and dark retreating. She unqualifiedly agreed with my theory of psychophysical healing. She proposed research with my exact method, once I had a darkroom. I was not ready and could not arrange it, but it was a good sign.
 
-Wherever I go, people are struck by the logic of hygiene and darkness. They want to try a retreat.
+Wherever I go, people are as struck by the logic of hygiene and darkness as I am. They want to try a retreat.
 
 ### application
 
@@ -250,7 +252,7 @@ Chronic physical illness originates in trauma. Trauma heals in darkness. Then th
 
 Darkness is not an escape. It suits everyone, but not necessarily right now. Sometimes illness or problems need to be addressed in more pressing and obvious ways first. Hygiene offers many means to do so. Keep one eye open for this possibility. 
 
-Learning about hygiene through darkroom retreating reveals hygiene's scope like nothing else. It helps one understand the basic processes of health in a complete context of body _and_ soul. It shows where one is in the process of healing. It offers encouragement and hope. It puts things in perspective. Familiarity with hygiene is critical to healing from any illness. To this end, Herbert Shelton's [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf) is essential reading.
+Learning about hygiene through darkroom retreating reveals hygiene's scope like nothing else. It helps one understand the basic processes of health in a complete context of body _and_ soul. It shows where one is in the process of healing. It offers encouragement and hope. It puts things in perspective. Familiarity with hygiene is critical to healing from any illness. To this end, Herbert Shelton's [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\* is essential reading.
 
 #### how to use this book
 
@@ -289,7 +291,7 @@ This book is at [leanpub.com/darkroomretreat/](https://leanpub.com/darkroomretre
 - [early essays](/conjecture) linked to in this book
 - elaborative [blog](/blog) posts
 - related [myths](/other/myths) and
-- essays, designs, prose, poetry, and lyrics since[1988](/other). They marked my way to the restful use of darkness.
+- essays, designs, prose, poetry, and lyrics since [1988](/other). They marked my way to the restful use of darkness.
 
 #### open-source
 

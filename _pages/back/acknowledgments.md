@@ -29,10 +29,10 @@ Thanks to hundreds of people in a dozen countries on 2 continents for over 3 dec
 Immediate, extended, and adopted: I leaned on all of you that would let me. It can't be easy rearing a stubborn 20, 30, then 40 year-old psychotic child in defiance of a world that denies everything real. Thanks, especially, to:
 
 - Brother Paul, for shelter and guidance you should never have had to give
-- Grandmother Anna Lou Craig Callen Posey, always there
+- Grandmother Anna Lou Craig Callen Posey, always there. RIP.
 - Brother Francois, for constant experience of love
 - Cousin Christopher, for your generosity and grit
-- Uncle Jim---dropout, drug dealer, beach bum, dumpster diver, Mexican pastry lover, loser, cool-ass motherfucker---for laughingly giving the system the finger till the day you died. RIP, man.
+- Uncle Jim---dropout, drug dealer, beach bum, dumpster diver, Mexican pastry lover, loser, cool-ass mofo---for laughingly giving the system the finger till the day you died. RIP, man.
 - Trimurti: my second family, torn away as soon as I noticed, for helping further raise me
 
 #### influences
@@ -62,7 +62,7 @@ Each of you gave me the world.
 	- Rob Miller, Malia Shultheis, and Jen Carroll: supporters and early retreat hosts
 	- Brian Sullivan: early collaborator, who gave first help in developing these ideas and, as always, trying them out
 	- Jesse King, John Monroe, and Elisabeth Goward, Dome Villagers at Maitreya Ecovillage, Eugene: camaraderie and support
-	- Blanche Colson: for getting Harold and me started in commercial window coverings for darkrooms. Of course, it was cardboard.
+	- Blanche Colson: for getting me started in commercial window coverings for darkrooms. Of course, it was cardboard.
 	- [Hannah Christina Torres](https://hannahtorres.massagetherapy.com) for the second window covering idea
 	- Daniel Tucker and Les Stitt, then Ben Ramsey and Stephanie: for KCMO shelter
 	- Frank Cicela: supporter since 2002

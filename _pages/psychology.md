@@ -10,7 +10,7 @@ navnext: format
 
 Hygiene's primary structure is sound. It deals in universal facts of biology. It is objective. It constrains its analysis and recommendations to the abilities of a reasonable man living an ordinary life nearly anywhere in the world. 
 
-But hygiene has secondary flaws. It has lacked a psychology. Its general pathology avoids trauma, the first cause of disease. We must correct these. 
+But hygiene has had secondary flaws. It has lacked a psychology. Its general pathology has avoided trauma, the first cause of disease. We must correct these. 
 
 Hygiene has not been hygienic enough. Some of its secondary ideas and practices contradict its fundamental principles. So we can use hygiene's own principles and methods to correct it. This self-correcting quality is a hallmark of great systems.
 
@@ -401,8 +401,8 @@ I discuss these implications further in [hygiene notes](/conjecture/hygiene-note
 [^3]: This explains the unconscious motivation behind the macabre fascination with genetics. This negligible and corrupt quasi-science is shot through with self-hatred, disgust for life, and mechanistic control-freakishness. Fortunately, there is a way to heal from the traumatic origins of these pathological states. Then we could go back to leaving genetics to genes and the normal attraction to beauty and strength.
 [^4]: Joseph Chilton Pearce in _Magical Child Matures_, George Gurdjieff in _In Search of the Miraculous_, and Da Free John in _The Eating Gorilla Comes in Peace_ discuss the triune nature of man's intelligence. Also see the [glossary](/front/introduction#glossary) for my overview of the psyche's nature, qualities, and functioning. 
 [^5]: ["Enigma 2012"](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/), a lecture on video by David Wilcock
-[^6]: This echoes one of Gurdjieff's main points: that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual book, [*In Search of the Miraculous*](/f/search.pdf)\*.
-[^7]: See my longer essay about cataclysm, [catastrophe](/conjecture/catastrophe)
+[^6]: This echoes one of Gurdjieff's main points: that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See [*In Search of the Miraculous*](/f/search.pdf)\*.
+[^7]: See my longer essay, [catastrophe](/conjecture/catastrophe).
 [^8]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
 [^9]: Bernarr Zovluck, [Alternative Healing](http://towardsfreedom.com/iwrters/bernarr-zovluck/alternative-healing-what-nobody-understands/): What Nobody Understands. Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. His comment would help me connect darkness with hygiene a decade later.
 [^10]: Panacea is, in Greek legend, the sister of Hygieia. 

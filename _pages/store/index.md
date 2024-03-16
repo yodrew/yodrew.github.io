@@ -8,7 +8,7 @@ navnext:
 
 ### why, how, what
 
-I do all this to provide a way to recover our lost selves, so that we can restore the world to its original splendor and live full lives in it. 
+I do what I do to provide a way to recover our lost selves, so that we can restore the world to its original splendor and live full lives in it. 
 
 I search nature for ways to accomplish this. She shows me, and I develop them into simple means anyone can use.
 

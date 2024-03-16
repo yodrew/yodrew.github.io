@@ -184,7 +184,7 @@ The larger the building, the more electrical wiring, and the more steel framing 
 
 Then there is high-frequency wireless radiation like cellular, wifi, and bluetooth signals. They comprise the planet-size, psychotronic microwave oven we now live inside of. Fortunately, it exponentially decreases in intensity with distance from the source. You can turn off all wireless devices under your power, and it makes a difference. The mass of a building absorbs some of it. Long term, you can move or install shielding. Magnesium oxide sheeting over or in place of drywall is especially helpful.
 
-Written evidence of damage from wireless radiation lies in the safety warnings in the manuals of cellphones, microwaves, and wifi routers. The US Navy made a [*100 page summary*](/f/wireless) of thousands of pages of military research into the harmfulness of wireless devices _50 years ago_. Widespread lack of concern about it is a textbook example of denial, a symptom of mass trauma-induced  [mass psychosis](/psychology#psychosis).
+Written evidence of damage from wireless radiation lies in the safety warnings in the manuals of cellphones, microwaves, and wifi routers. The US Navy made a [*100 page summary*](/f/wireless)\* of thousands of pages of military research into the harmfulness of wireless devices _50 years ago_. Widespread lack of concern about it is a textbook example of denial, a symptom of mass trauma-induced  [mass psychosis](/psychology#psychosis).
 
 One can become so vulnerable in profound rest that the wrong setting can become harmful. Make sure you feel comfortable in a large or occupied building. Be confident you will be ok when retreating there.
 
@@ -206,7 +206,7 @@ Round buildings feel sheltering. They shield occupants from subtle energy, physi
 
 We have a psychobiological expectation of roundness in our environment. Nature is a symphony of curves: circles, ellipses, parabolas, catenaries, spirals, cones, and spheres. Curvature arises from innumerable straight-edged shapes at the microscopic scale: mostly triangles, pentagons, and hexagons; tetrahedrons, octahedrons, dodecahedrons and icosahedrons; their stellations and combinations; and the occasional cube.
 
-Buckminster Fuller demonstrated in his _Synergetics_ (see [*A Fuller Explanation*](https://www.arvindguptatoys.com/arvindgupta/synergy-fuller.pdf)*) that these shapes, in turn, arise from nature's coordinate system. Made of close-packed spheres, it is octatetrahedronal, not cubic (Cartesian). It is four-dimensional, not three. All these shapes are inherently compelling, familiar, and alive to us.
+Buckminster Fuller demonstrated in his _Synergetics_ (see [*A Fuller Explanation*](https://www.arvindguptatoys.com/arvindgupta/synergy-fuller.pdf)\*) that these shapes, in turn, arise from nature's coordinate system. Made of close-packed spheres, it is octatetrahedronal, not cubic (Cartesian). It is four-dimensional, not three. All these shapes are inherently compelling, familiar, and alive to us.
 
 By comparison, a square building feels lifeless and imprisoning. By nature, the right angle stops movement: of things, people, and energy. This stagnation saps and poisons occupants over the long term. Even turning at right angles while walking is jarring and militaristic. 
 
@@ -240,4 +240,4 @@ Now, let's learn to make our prison cells into escape vehicles. The next chapter
 
 See [plan](/plan) on my website for a color sketch, downloads, and budget. Also in zip file.
 
-[^1]: Building Biology in English. [Breathing Walls](https://breathingwalls.com) is an exceedingly instructive manual of baubiological technique. The International Institute for Bau-Biologie and Ecology [IBE](https://buildingbiology.net) in Florida offers a course.
+[^1]: Building Biology in English. [Breathing Walls](https://breathingwalls.com) is an exceedingly practical manual of baubiological theory and technique. The International Institute for Bau-Biologie and Ecology [IBE](https://buildingbiology.net) in Florida offers a course.

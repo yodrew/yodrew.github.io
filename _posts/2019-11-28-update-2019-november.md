@@ -67,9 +67,9 @@ The greatness of hygienic darkroom retreating has only been potential, not actua
 One might think I would have at least not gotten worse. But two other factors came into play.
 
 - A retreat long enough to heal requires a team. But I could not work with others at first. The same sensitivity that enabled me to discover darkness makes me vulnerable to others' influence. I could not protect the vision I had from them. I had to work mostly alone till it was stable in my mind. My condition worsened due to exhaustion. Now that the method is complete, it cannot be compromised. This is all that matters. Everything I lost can be recovered in darkness.
-- I hurt myself with too many 5-day retreats. I did not know their danger. Doing a couple 5-day retreats is fine. But I did 15! They strip a person of artificial survival skills. Normal capacity replaces these in darkness, but this takes at least an 9-day retreat. See darkroomretreat.com/hygiene#false-capacity and darkroomretreat.com/format#warning for more.
+- I hurt myself with too many 5-day retreats. I did not know their danger. Doing a couple 5-day retreats is fine. But I did 15! They strip a person of artificial survival skills. Normal capacity replaces these in darkness, but this takes at least an 9-day retreat. See [false capacity](/hygiene#false-capacity) and [warning](/format#warning) for more.
 
-    A 5-day retreat is enough to glimpse the potential of darkness, to get relief and begin healing, and to develop the method. So I kept doing it. But it has cost me greatly. I am debilitated. Some days, it frightens me. I hold on and await my chance to recover. 
+    A 5-day retreat is enough to get relief and begin healing, to develop the method, and to glimpse the potential of darkness. So I kept doing it. But it cost me greatly. I am debilitated. Some days, it frightens me. I hold on and await my chance to recover. 
 
     I should be in a hospital being nursed back to health. But the hospital I need does not exist. It must be organized, funded, designed, and built. The staff must be trained. Somehow, I must direct a lot of this. Meanwhile, I cling to life. Once I have retreated, I will be stable and able to handle things normally. 
 

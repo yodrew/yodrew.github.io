@@ -63,6 +63,8 @@ five darkness experiences - [darkroomretreat.com/report/five-darkness-experience
 *The 80/10/10 Diet* - [foodnsport.com](https://foodnsport.com)  
 Loren Lockman - [youtube.com/user/LorenLockman](https://www.youtube.com/user/LorenLockman)  
 *Science and Fine Art of Natural Hygiene* - [darkroomretreat.com/f/hygiene.pdf](https://darkroomretreat.com/f/hygiene.pdf)  
+William Arthur Evans - [darkroomretreat.com/blog/2009/08/william-arthur-evans/](https://darkroomretreat.com/blog/2009/08/william-arthur-evans/)  
+*In Search of the Miraculous* - [darkroomretreat.com/f/search.pdf](https://darkroomretreat.com/f/search.pdf)  
 "Total Onslaught" - [adtv.watch/series/total-onslaught](https://adtv.watch/series/total-onslaught)  
 *Our Universal Journey* - [ourjourneyhome.earth/market-place#section-1592035487385](https://www.ourjourneyhome.earth/market-place#section-1592035487385)  
 *God Control Matrix* - [youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1)  
@@ -153,20 +155,18 @@ PCO - [sciencedirect.com/science/article/pii/S0926337316308001](https://www.scie
 
 #### darkness
 
-Conan the Barbarian - [youtube.com/watch?v=Oo9buo9Mtos](https://www.youtube.com/watch?v=Oo9buo9Mtos)  
 zip file - [darkroomretreat.com/darkroom-retreat.zip](https://darkroomretreat.com/darkroom-retreat.zip)  
 
 #### water
 
 composting toilets - [darkroomretreat.com/blog/2024/02/compost-toilet](https://darkroomretreat.com/blog/2024/02/compost-toilet)  
 pee bottle - [darkroomretreat.com/report/2x3-day#mechanical-report](https://darkroomretreat.com/report/2x3-day#mechanical-report)  
-gridbeam.com - [gridbeam.com](https://gridbeam.com)  
 
 #### faq
 
 Marion Abbott - [profoundrest.wordpress.com](https://profoundrest.wordpress.com)  
 here - [darkroomretreat.com/other/bibliography](https://darkroomretreat.com/other/bibliography)  
-Yourfallacy.is/incredulity - [yourfallacy.is/incredulity](https://yourfallacy.is/incredulity)  
+Yourfallacy.is/personal-incredulity - [yourfallacy.is/personal-incredulity](https://yourfallacy.is/personal-incredulity)  
 
 #### bibliography-influences
 
@@ -223,7 +223,7 @@ ebook at leanpub - [leanpub.com/darkroomretreat](https://leanpub.com/darkroomret
 hygienic house - [darkroomretreat.com/plan](https://darkroomretreat.com/plan)  
 Wise: andrewd1878 - [wise.com/share/andrewd1878](https://wise.com/share/andrewd1878)  
 Venmo: @andrewdurham - [venmo.com/u/andrewdurham](https://venmo.com/u/andrewdurham)  
-PayPal - [bit.ly/paypalandrew](https://bit.ly/paypalandrew)  
+PayPal - [paypal.com/ncp/payment/KRPFPSXEFEUE4](https://www.paypal.com/ncp/payment/KRPFPSXEFEUE4)  
 
 #### bio
 

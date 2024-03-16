@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870, 2021-01-15)"
-   sodipodi:docname="toilet-squatx.svg"
+   sodipodi:docname="toilet-squat.svg"
    inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-squat.png"
    inkscape:export-xdpi="33.34845"
    inkscape:export-ydpi="33.34845">
@@ -776,11 +776,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.11206088"
-     inkscape:cx="3004.1345"
-     inkscape:cy="2405.785"
+     inkscape:zoom="0.19742406"
+     inkscape:cx="1607.8222"
+     inkscape:cy="2900.7234"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1359"
      inkscape:window-height="738"
@@ -897,7 +897,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -920,7 +920,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 1"
-     style="display:inline"
+     style="display:none"
      transform="translate(0.1,239.32064)">
     <path
        id="path2409"
@@ -976,7 +976,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-155.26691,598.88916)"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
@@ -1369,12 +1369,11 @@
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845" />
     <path
-       d="M 162.36721,235.74792 V 216.74789 H 702.3672 v 19.00003 z"
+       d="M 36.0003,595.31643 V 576.3164 h 481.99999 v 19.00003 z"
        id="path169"
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:0.705882;stroke:#000000;stroke-width:0.4;stroke-linejoin:round"
        sodipodi:nodetypes="ccccc"
-       transform="translate(-155.36691,359.56851)"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845" />
     <path
@@ -1382,8 +1381,7 @@
        style="fill:#ffffff;fill-opacity:0.500717;stroke:#000000;stroke-width:0.4;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        id="path1248"
-       d="m 191.36693,-237.2521 -18.99972,2e-5 v -88 l 18.99972,10e-6 z"
-       transform="translate(-155.36691,359.56851)"
+       d="m 36.00002,94.31642 -18.99972,2e-5 V 5.316445 l 18.99972,1.1e-5 z"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845" />
     <path
@@ -1391,17 +1389,15 @@
        style="fill:#ffffff;fill-opacity:0.5;stroke:#000000;stroke-width:0.4;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        id="path964"
-       d="m 692.36693,-237.2521 -18.99972,2e-5 v -88 l 18.99972,10e-6 z"
-       transform="translate(-155.36691,359.56851)"
+       d="m 537.00002,94.31642 -18.99972,2e-5 V 5.316445 l 18.99972,1.1e-5 z"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845" />
     <path
-       d="m 162.36721,-325.25208 v -19.00003 H 702.3672 v 19.00003 z"
+       d="M 36.0003,34.31643 V 15.3164 h 481.99999 v 19.00003 z"
        id="path955"
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:0.705882;stroke:#000000;stroke-width:0.4;stroke-linejoin:round"
        sodipodi:nodetypes="ccccc"
-       transform="translate(-155.36691,359.56851)"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845" />
     <path
@@ -1409,8 +1405,7 @@
        style="fill:#ffffff;fill-opacity:0.705882;stroke:#000000;stroke-width:0.4;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        id="path1264"
-       d="m 692.36693,216.7479 -18.99972,2e-5 v -88 l 18.99972,1e-5 z"
-       transform="translate(-155.36691,359.56851)"
+       d="m 537.00002,605.31641 -18.99972,2e-5 v -89 l 18.99972,10e-6 z"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845" />
     <path
@@ -1418,8 +1413,7 @@
        style="fill:#ffffff;fill-opacity:0.705882;stroke:#000000;stroke-width:0.4;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        id="path1294"
-       d="m 191.36693,216.7479 -18.99972,2e-5 v -88 l 18.99972,1e-5 z"
-       transform="translate(-155.36691,359.56851)"
+       d="m 36.00002,605.31641 -18.99972,2e-5 v -89 l 18.99972,10e-6 z"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845" />
     <path
@@ -1433,9 +1427,23 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer5"
+     id="layer6"
      inkscape:label="Layer 4"
-     style="display:inline"
+     style="display:none">
+    <path
+       id="path1349"
+       style="display:inline;fill:#cacaca;fill-opacity:0.34;stroke:none;stroke-width:0.600001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 192.36691,-324.25248 -22,-1 v 542.0004 h 21 v 21 h 481.99996 v -21 h 21 v -542.0004 h -21 v -21 H 191.36691 Z m -1.6e-4,3.6e-4 478.00028,1 1,537.99967 H 192.36675 Z"
+       sodipodi:nodetypes="cccccccccccccccccc"
+       transform="translate(-155.26691,598.88914)"
+       inkscape:export-xdpi="33.34845"
+       inkscape:export-ydpi="33.34845" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 5"
+     style="display:none"
      transform="translate(0.1,239.32064)">
     <path
        sodipodi:nodetypes="ccccc"
@@ -1493,17 +1501,9 @@
        inkscape:connector-curvature="0"
        style="display:inline;fill:#ffffff;fill-opacity:0.498099;stroke:#000000;stroke-width:0.4;stroke-linejoin:round"
        sodipodi:nodetypes="ccccc"
-       transform="translate(-155.36691,359.56851)"
        inkscape:export-xdpi="33.34845"
-       inkscape:export-ydpi="33.34845" />
-    <path
-       id="path1349"
-       style="display:inline;fill:#cacaca;fill-opacity:0.34;stroke:none;stroke-width:0.600001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 192.36691,-324.25248 -22,-1 v 542.0004 h 21 v 21 h 481.99996 v -21 h 21 v -542.0004 h -21 v -21 H 191.36691 Z m -1.6e-4,3.6e-4 478.00028,1 1,537.99967 H 192.36675 Z"
-       sodipodi:nodetypes="cccccccccccccccccc"
-       transform="translate(-155.36691,359.56851)"
-       inkscape:export-xdpi="33.34845"
-       inkscape:export-ydpi="33.34845" />
+       inkscape:export-ydpi="33.34845"
+       transform="translate(-155.36691,359.56851)" />
     <path
        id="rect953"
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.500164;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
@@ -1571,7 +1571,7 @@
        inkscape:export-ydpi="33.34845" />
     <g
        id="g958"
-       transform="translate(-630.46692,865.56853)"
+       transform="translate(-611.46692,865.56853)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -1676,7 +1676,7 @@
     </g>
     <g
        id="g1033"
-       transform="translate(-140.46691,865.56853)"
+       transform="translate(-159.46691,865.56853)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -1851,7 +1851,7 @@
     </g>
     <g
        id="g1274"
-       transform="translate(-135.46691,841.56852)"
+       transform="translate(-135.46691,870.56852)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -1886,7 +1886,7 @@
     </g>
     <g
        id="g1288"
-       transform="translate(-135.46691,783.56852)"
+       transform="translate(-135.46691,811.56852)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -1921,7 +1921,7 @@
     </g>
     <g
        id="g1318"
-       transform="translate(-635.46691,841.56852)"
+       transform="translate(-635.46691,870.56852)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -1956,7 +1956,7 @@
     </g>
     <g
        id="g2488"
-       transform="translate(-635.46691,783.56852)"
+       transform="translate(-635.46691,811.56852)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -1991,7 +1991,7 @@
     </g>
     <g
        id="g877"
-       transform="translate(-135.46691,387.56852)"
+       transform="translate(-135.46691,359.56852)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -2026,7 +2026,7 @@
     </g>
     <g
        id="g887"
-       transform="translate(-135.46691,329.56852)"
+       transform="translate(-135.46691,300.56852)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -2061,7 +2061,7 @@
     </g>
     <g
        id="g915"
-       transform="translate(-635.46691,329.56852)"
+       transform="translate(-635.46691,300.56852)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -2096,7 +2096,7 @@
     </g>
     <g
        id="g1047"
-       transform="translate(-630.46692,305.56851)"
+       transform="translate(-611.46692,305.56851)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -2201,7 +2201,7 @@
     </g>
     <g
        id="g1090"
-       transform="translate(-140.46691,305.56851)"
+       transform="translate(-159.46691,305.56851)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -2236,7 +2236,7 @@
     </g>
     <g
        id="g1258"
-       transform="translate(-635.46691,387.56852)"
+       transform="translate(-635.46691,359.56852)"
        style="display:inline"
        inkscape:export-xdpi="33.34845"
        inkscape:export-ydpi="33.34845">
@@ -2682,7 +2682,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="text"
-     style="display:inline"
+     style="display:none"
      transform="translate(0.083,239.32058)">
     <text
        xml:space="preserve"

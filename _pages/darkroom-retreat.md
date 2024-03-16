@@ -14,11 +14,11 @@ My observations about the psyche and darkness follow. I show how hygiene applies
 
 #### psyche
 
-Shelton reviewed hygienic ideas about the psyche. "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^1] 
+Shelton reviewed hygienic ideas about the psyche. "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^1]
 
-Shelton's own unsentimental view is: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^2] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).
+Shelton's own unsentimental view is: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^2] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).[^3]
 
-Furthermore, the psyche is the _primary_ system in the human organism. "Consciousness---for those living organisms which possess it---is the basic means of survival," said philosopher, Ayn Rand, in her _meta-ethics_[^3]. Whatever affects the psyche hugely affects the rest of the organism, whether for good or ill.
+Furthermore, the psyche is the _primary_ system in the human organism. "Consciousness---for those living organisms which possess it---is the basic means of survival," said philosopher, Ayn Rand, in her _meta-ethics_[^4]. Whatever affects the psyche hugely affects the rest of the organism, whether for good or ill.
 
 The psyche coordinates all other systems. It does so consciously, subconsciously, and unconsciously. The psyche is diffuse throughout the organism. It functions at every scale. It autonomically monitors and harmonizes all processes. How many at once? 70 trillion cells * 5 million processes per cell = 350 quintillion 350,000,000,000,000,000,000) organic processes per second.
 
@@ -196,17 +196,17 @@ There are three things the hygienic use of darkness is not: spiritual, therapeut
 
 ##### not spiritual
 
-Spirituality deals with the smallest part of the psyche: the intersection of the conscious and especially mental aspects. It is an intense discipline. It depends on the will and on thinking. 
+Spirituality deals with the smallest part of the psyche: the intersection of the conscious and especially mental aspects. Spiritual practice is intense discipline. It depends on the will and on thinking. 
 
 Will is the most delicate, energy-consuming, and ineffective part of the psyche. It is the most damaged and most in need of rest.  
 
-Discipline takes energy from the processes that heal the willdepends. It gives the least possible benefit for the time, energy, and effort expended. It produces impressive results only by our abysmal standards. It prevents accomplishment of the top priority: full recovery of the psyche from its catastrophic damage.
+Using the will for spiritual discipline takes energy from the processes that healing the will depends on. In terms of healing, it gives the least possible benefit for the time, energy, and effort expended. It produces impressive results only by our abysmal standards. It prevents accomplishment of the top priority: full recovery of the psyche from its catastrophic damage.
 
-For example, meditation, like all spiritual practice, entails _super-effort to force access to subtle energy reserves to fuel artificial transformation_[^]. 
+For example, meditation, like all spiritual practice, entails _super-effort to force access to subtle energy reserves to fuel artificial transformation_[^5]. 
 
 The hygienic approach entails exactly the opposite: _profound rest to accumulate energy for autonomic restoration_. At rest, the conscious self makes no attempt to ameliorate suffering. It only puts conditions of healing at the disposal of the unconscious. Whose job it is to coordinate the healing of the organism.
 
-Discipline begins with accepting an artificial internal conflict as natural. I mean, "the monstrous absurdity of original sin" (–Ayn Rand). Then one struggles "against nature" (–Gurdjieff), overcoming habits with practices to achieve an ideal. Jean Liedloff warned about this adversarial approach to life. As Jesus told Peter, "Get thee behind me, Satan." Satan is the Adversary: the liar, thief, killer, and destroyer.
+Discipline begins with accepting an artificial internal conflict as natural. I mean, "the monstrous absurdity of original sin." (--Ayn Rand[^6]) Then one struggles "against nature" (--Gurdjieff), overcoming habits with practices to achieve an ideal. Jean Liedloff warned about this adversarial approach to life.[^7] As Jesus told Peter, "Get thee behind me, Satan." Satan is the Adversary: the liar, thief, killer, and destroyer.
 
 Hygiene begins with an assumption of natural harmony, of non-contradiction. It gives a logical, non-adversarial explanation of illness. This naturally motivates one to fulfill his supportive role in illness, which functions to restore health.
 
@@ -216,7 +216,7 @@ Supervision places subtle controls on the individual, limiting the experience an
 
 Hygiene disintegrates rackets: medical, spiritual, or otherwise.
 
-I also recommend the liberating ideas of two great and daring thinkers about spirituality: Walter Veith[^4] and George Kavassilas[^5].
+I also recommend the liberating ideas of two great and daring thinkers about spirituality: Walter Veith[^6] and George Kavassilas[^7].
 
 ##### not therapeutic
 
@@ -298,13 +298,13 @@ A retreater is especially vulnerable. Darkrooms must be strongholds against male
 
 Evil is real. Malevolent psychopaths and narcissists are among us. Whether physically or socially, they must by dealt with, and in ways that do not make matters worse.
 
-Statistics are surprising. Andrei Lobaczewski was a clinical psychologist and a wise man. He studied psychopathy on a mass scale. He found 6% of the population were psychopaths. Narcissists made up 12% more[^6]. That is about 1 in 6 people. Most of them are not evildoers. But most evil is perpetrated by psychopaths or narcissists.[^7]
+Statistics are surprising. Andrei Lobaczewski, author of _Political Ponerology_ was a clinical psychologist. He studied psychopathy on a mass scale within a mass psychopathic state (Poland under the Nazis then communists). He found 6% of the population are psychopaths. Narcissists make up 12% more[^8]. That is about 1 in 6 people. Most of them are not evildoers due to good training and the law. But most evil is perpetrated by psychopaths or narcissists.[^9]
 
-As decency breaks down, they receive poorer treatment and training as children. Society provides them more support and justifications. They take advantage of the naive in both criminal and non-criminal ways.
+As decency breaks down, they receive poorer treatment and training as children. Society provides them more opportunities and justifications. They take advantage of the naive in both criminal and non-criminal ways.
 
 Prepare yourself.
 
-You've probably noticed if you are psychically unstable or dangerous. Others will have told you. Take it seriously. Study it. Study yourself. Use rational philosophy and darkness to gain in psychobiological normalcy. You can become increasingly harmless and useful to yourself and others. See also, [severe psychosis](/protocol#severe-psychosis).
+I you are psychically unstable or dangerous, you may have noticed. Others will have told you. Take it seriously. Study it. Study yourself. You can become increasingly harmless and useful to yourself and others. Use rational philosophy, psychology, and darkness to gain in psychobiological normalcy. See also, [severe psychosis](/protocol#severe-psychosis).
 
 #### safety
 
@@ -322,7 +322,7 @@ One does nothing directly in a retreat to cause healing. So one's focus should b
 - darkroom
 	- [design](/design) and [make](/make) a darkroom (1 month) or [retreat](/back/services#retreat) at one of ours
 - support
-	-[5-day retreat](/format#5-day) can be done alone. Just make sure no unsympathetic people are around. Support can be nice. Arrange it with someone with common sense, a stable personality, reliability, and sympathy. This is important for both mechanical and psychical reasons. See [support](/protocol#support).
+	- [5-day retreat](/format#5-day) can be done alone. Just make sure no unsympathetic people are around. Support can be nice. Arrange it with someone with common sense, a stable personality, reliability, and sympathy. This is important for both mechanical and psychical reasons. See [support](/protocol#support).
 
 Then schedule the retreat, collect food, and begin.
 
@@ -334,8 +334,13 @@ Buckle up. We are heading into the psychological implications of hygienic darkro
 
 [^1]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*, p35
 [^2]: Ibid, p139
-[^3]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
-[^4]: Walter Veith, Adventist evangelist and former biology professor, exposes most spiritual activity as Satanism, ie, the lie of works-based salvation. In his sing-song voice, he makes crystal clear the unified story arc of the Bible and the meaning of Christ's message of salvation by grace. (Hygiene's restful approach to healing translates this message into biological terms.) See his astonishing video series, ["Total Onslaught"](https://adtv.watch/series/total-onslaught).
-[^5]: [*Our Universal Journey*](https://www.ourjourneyhome.earth/market-place#section-1592035487385)\* by George Kavassilas, ET contactee and philosopher, exposes all spiritual activity as part of an all-too-real, cosmic-scale [*God Control Matrix*](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1). George has genuinely new and compelling ideas, from his cosmopolitics and exponential physics to his psychophysiology and ontology of the eternal individual.
-[^6]: [*Political Ponerology*](/f/ponerology.pdf)\* by Andrei Lobaczewski, clinical psychologist. He studied psychopathy on a mass scale under the Nazis then the communists in Poland. He and his multi-generational team, working in secret, found its patterns, mechanisms—and simple preventatives. Here is an [excellent introductory interview](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
-[^7]: ["Psychopaths Among Us"](http://www.hare.org/links/saturday.html), on the critical work of Robert Hare, psychologist and creator of the _Psychopathy Checklist_.
+[^3]: William Arthur Evans[^3] psychobiologist, said that each cell has thoughts, feelings, and instincts. Conscious experience summarizes those trillions of inputs and provides access to them.
+Evans surpassed the hygienists in his grasp of this issue and in some of his results. He helped his clients trace and correct physical maladies through their feelings. His books are extraordinary. See my blog post [William Arthur Evans](/blog/2009/08/william-arthur-evans/) and the [bibliography](/back/bibliography-influences) here.
+[^4]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
+[^5]: For all references to Gurdjieff, see [*In Search of the Miraculous*](/f/search.pdf)\*, PD Ouspensky's incomparable spiritual book about Gurdjieff's teachings.
+[^6]: _Atlas Shrugged_, in Galt's Speech.
+[^7]: See _The Continuum Concept_, Liedloff's incomparable book about natural relationship, especially with children.
+[^8]: Walter Veith, Adventist evangelist and former biology professor, exposes most spiritual activity as Satanism, ie, the lie of works-based salvation. In his sing-song voice, he makes crystal clear the unified story arc of the Bible and the meaning of Christ's message of salvation by grace. (Hygiene's restful approach to healing translates this message into biological terms.) See his astonishing video series, ["Total Onslaught"](https://adtv.watch/series/total-onslaught).
+[^9]: [*Our Universal Journey*](https://www.ourjourneyhome.earth/market-place#section-1592035487385)\* by George Kavassilas, ET contactee and philosopher. George exposes all spiritual activity as part of an all-too-real, cosmic-scale [*God Control Matrix*](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1). George has genuinely new and compelling ideas, from his cosmopolitics and exponential physics to his psychophysiology and ontology of the eternal individual.
+[^10]: [*Political Ponerology*](/f/ponerology.pdf)\* by Andrei Lobaczewski, clinical psychologist. He studied psychopathy on a mass scale under the Nazis then the communists in Poland. He and his multi-generational team, working in secret, found its patterns, mechanisms—and simple preventatives. Here is an [excellent introductory interview](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
+[^11]: ["Psychopaths Among Us"](http://www.hare.org/links/saturday.html), on the critical work of Robert Hare, psychologist and creator of the _Psychopathy Checklist_.
