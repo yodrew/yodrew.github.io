@@ -220,17 +220,19 @@ I also recommend the liberating ideas of two great and daring thinkers about spi
 
 ##### not therapeutic
 
-Therapy is done _to_ a passive organism to heal or cure it from the outside. The principal actor in a therapeutic session is not the organism, but the therapist, therapy, or therapeutic substance or mechanism. But these are all instruments of will. None can perform even one of the millions of organic processes of healing. It is a big show.
+Therapy is done _to_ a passive organism in the attempt to heal or cure it from the outside. The principal actor in a therapeutic session is not the organism, but the therapist, therapy, or therapeutic substance or mechanism.
 
-Therapy depends on the organism to react to treatment. It views the organism as incapable of initiating movement toward health. _It fails to see such movement in disease itself_.
+But these are all instruments of will. None can perform even one of the millions of organic processes of healing. It is a big show. A lie. Most effects are down to the [stimulant delusion](/hygiene#stimulant-delusion)
 
-A patient in therapy implicitly accepts its view of him as helpless. He denies his involuntary self-healing ability. He continues neglecting its conditions. It is suppressed, annulled. 
+Therapy depends on the organism to react to treatment. But it views the organism as incapable of initiating movement toward health. _It fails to see such movement in disease itself_.
+
+Perforce, a patient in therapy accepts its assertion of his helplessness. He thus denies his involuntary self-healing ability. He continues neglecting its conditions. The unconscious gets the message. It is suppressed, largely annulled. 99.99% of its power remains dormant. It can only do great things in partnership with the conscious.
 
 Academic science has a similarly objectifying approach to darkroom retreating, though in reverse. It is called _Chamber REST_ (Restricted Environmental Stimulation Therapy). As the name implies, and in accordance with scientific materialism, it tends to reduce a retreat and its effects to destimulation: _absence_ of usual sensory stimuli. The subject is then probed, monitored, and interrogated as to what is happening in this absence. 
 
-But the organism does not experience darkness as an absence; but rather, as yet another condition it takes hold of and uses. The most obvious example is that one can make darkness an object of attention. One can look at it. Darkness, like night itself, is a normal period of time in life. Academics miss the enormous intelligence of the organism at work. Willfully blind, they stab in the dark.
+But the organism does not experience darkness as an absence; but rather, as yet another condition it takes hold of and uses. An obvious illustration is that one can make darkness an object of attention. One can look at it. Darkness, like night itself, is a normal period of time in life. Academics and therapists miss the enormous intelligence of the organism at work, even as they pay lip service to it. Willfully blind, they probe in the dark.
 
-In a darkroom retreat, darkness does nothing. Like air or water, darkness merely presents an opportunity to the self-preserving organism to express its ceaseless tendency toward wholeness in another way. The principal actor is life, not its conditions nor any treatment.
+In a darkroom retreat, darkness does nothing. Like air or water, darkness is an inert condition. It merely presents an opportunity to the self-preserving organism to express its ceaseless tendency toward wholeness in another way. The principal actor is life, not its conditions nor any treatment or therapist.
 
 ##### not psychedelic
 

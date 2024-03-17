@@ -7,9 +7,9 @@
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="toilet.svg"
-   inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet2.png"
-   inkscape:export-xdpi="28.1"
-   inkscape:export-ydpi="28.1"
+   inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet.png"
+   inkscape:export-xdpi="28.075163"
+   inkscape:export-ydpi="28.075163"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,46 +19,6 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect865"
-       effect="spiro"
-       lpeversion="0" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect861"
-       effect="spiro"
-       lpeversion="0" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect847"
-       effect="spiro"
-       lpeversion="0" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect843"
-       effect="spiro"
-       lpeversion="0" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect829"
-       effect="spiro"
-       lpeversion="0" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect825"
-       effect="spiro"
-       lpeversion="0" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect811"
-       effect="spiro"
-       lpeversion="0" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect807"
-       effect="spiro"
-       lpeversion="0" />
     <inkscape:path-effect
        is_visible="true"
        id="path-effect9374"
@@ -1530,9 +1490,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12742447"
-     inkscape:cx="1082.9945"
-     inkscape:cy="2354.3359"
+     inkscape:zoom="0.087094437"
+     inkscape:cx="3852.1404"
+     inkscape:cy="2939.3381"
      inkscape:document-units="mm"
      inkscape:current-layer="g9116"
      showgrid="false"
@@ -1695,8 +1655,8 @@
          sodipodi:nodetypes="ccccc"
          style="display:inline;mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.705882;stroke:#000000;stroke-width:0.400001;stroke-linejoin:miter"
          inkscape:connector-curvature="0"
-         id="path5974"
-         d="m 686.7003,143.0162 37.99972,1e-4 v -580 l -37.99972,10.00005 z"
+         id="path2518"
+         d="m 686.7003,143.0162 37.99972,1e-4 v -580 l -37.99972,5e-5 z"
          inkscape:export-xdpi="32.618504"
          inkscape:export-ydpi="32.618504"
          inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-plan.png" />
@@ -1725,39 +1685,17 @@
        id="g8584"
        inkscape:label="skirt"
        style="display:inline">
-      <circle
-         style="display:inline;mix-blend-mode:normal;fill:#c8c8c8;fill-opacity:0.5;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path4058"
-         cx="634.59998"
-         cy="-202.26271"
-         r="5" />
       <path
-         id="path4242"
-         style="font-variation-settings:normal;display:inline;opacity:1;mix-blend-mode:normal;vector-effect:none;fill:#c8c8c8;fill-opacity:0.5;fill-rule:evenodd;stroke:#000000;stroke-width:0.400002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         d="m 638.69999,-440.38334 h 30 v 2.99999 h -30 z"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-xdpi="32.638824"
-         inkscape:export-ydpi="32.638824"
-         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png"
-         transform="translate(0.09999989,239.32065)" />
+         id="path1649"
+         style="font-variation-settings:normal;display:inline;opacity:1;mix-blend-mode:normal;vector-effect:none;fill:#c8c8c8;fill-opacity:0.5;fill-rule:evenodd;stroke:#000000;stroke-width:1.51182;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 2336.5039,673.51172 c -10.4367,-4.2e-4 -18.8978,8.45976 -18.8984,18.89648 -4e-4,10.43749 8.4609,18.89886 18.8984,18.89844 1.2698,-0.004 2.5359,-0.13508 3.7793,-0.39258 v 109.99805 h 11.3379 v -113.38477 -0.002 h 113.3867 V 696.1875 h -109.998 c 0.2575,-1.24338 0.389,-2.50955 0.3925,-3.7793 -6e-4,-10.43672 -8.4617,-18.8969 -18.8984,-18.89648 z"
+         sodipodi:nodetypes="ssccccccccccs"
+         transform="matrix(0.26458333,0,0,0.26458333,16.6003,-384.86287)" />
       <path
-         id="path4244"
-         style="font-variation-settings:normal;display:inline;opacity:1;mix-blend-mode:normal;vector-effect:none;fill:#c8c8c8;fill-opacity:0.5;fill-rule:evenodd;stroke:#000000;stroke-width:0.400002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         d="m 638.69999,-437.38335 v 30 H 635.7 v -30 z"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-xdpi="32.638824"
-         inkscape:export-ydpi="32.638824"
-         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png"
-         transform="translate(0.09999989,239.32065)" />
-      <path
-         d="M 635.80003,-178.663 H 1045.8 V 363.33702 H 635.80003 Z"
          id="path8490"
-         inkscape:connector-curvature="0"
-         style="display:inline;fill:#cacaca;fill-opacity:0.34325;stroke:#000000;stroke-width:0.6;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:nodetypes="ccccc"
-         inkscape:export-xdpi="32.638824"
-         inkscape:export-ydpi="32.638824"
-         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png" />
+         style="display:inline;fill:#cacaca;fill-opacity:0.34325;stroke:#000000;stroke-width:2.26772;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2396.9746,779.33789 v 226.77151 h -56.6914 v 1594.9609 h 56.6914 v 226.7715 H 3889.8887 V 779.33789 Z m 1114.9629,226.77151 a 151.1811,151.1811 0 0 1 151.1816,151.1816 151.1811,151.1811 0 0 1 -151.1816,151.1817 151.1811,151.1811 0 0 1 -151.1816,-151.1817 151.1811,151.1811 0 0 1 151.1816,-151.1816 z"
+         transform="matrix(0.26458333,0,0,0.26458333,16.6003,-384.86287)" />
       <path
          sodipodi:nodetypes="ccccc"
          style="display:inline;fill:#ffffff;fill-opacity:0.496292;stroke:#000000;stroke-width:0.4;stroke-linejoin:miter"
@@ -1982,7 +1920,7 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          x="179.25345"
-         y="763.35541"
+         y="674.35541"
          id="text8950"
          transform="rotate(-90)"
          inkscape:export-xdpi="32.638824"
@@ -1991,7 +1929,7 @@
            sodipodi:role="line"
            id="tspan8948"
            x="179.25345"
-           y="763.35541"
+           y="674.35541"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Italic';stroke-width:0.282222">side elevation</tspan></text>
       <text
          xml:space="preserve"
@@ -2176,49 +2114,69 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222"
            id="tspan9104">  89 x 410 x 19,  4 legs</tspan></text>
       <text
-         id="text6183"
-         y="711.01868"
-         x="193.53342"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0.9;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         id="text22050"
+         y="944.10889"
+         x="316.44321"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0.9;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
+         xml:space="preserve"
+         transform="rotate(-90)"
+         inkscape:export-xdpi="32.638824"
+         inkscape:export-ydpi="32.638824"
+         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png"><tspan
+           y="944.10889"
+           x="316.44321"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Italic';text-align:center;text-anchor:middle;stroke-width:0.282222"
+           id="tspan22076">duct</tspan><tspan
+           y="962.39691"
+           x="316.44321"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Italic';text-align:center;text-anchor:middle;stroke-width:0.282222"
+           id="tspan22287">hole</tspan></text>
+      <text
+         transform="rotate(-90)"
+         id="text3786"
+         y="713.02582"
+         x="126.45383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
          xml:space="preserve"
          inkscape:export-xdpi="32.638824"
          inkscape:export-ydpi="32.638824"
-         transform="rotate(-90)"
          inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png"><tspan
-           y="711.01868"
-           x="193.53342"
+           y="713.02582"
+           x="126.45383"
+           id="tspan3784"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Italic';text-align:start;text-anchor:start;stroke-width:0.282222"
-           id="tspan6181">brace</tspan></text>
+           style="font-size:20.32px;line-height:1.25;stroke-width:0.282222">brace</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
-         x="682.28607"
+         x="741.28607"
          y="-419.77151"
-         id="text5151"
+         id="text5596"
          inkscape:export-xdpi="32.618504"
          inkscape:export-ydpi="32.618504"
          inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-plan.png"
          transform="translate(-1.1874999e-7,1.2916666e-5)"><tspan
            sodipodi:role="line"
-           id="tspan5149"
-           x="682.28607"
+           id="tspan5594"
+           x="741.28607"
            y="-419.77151"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">back</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
-         x="596.28607"
-         y="-447.77151"
-         id="text5155"
+         x="596.67181"
+         y="-447.51025"
+         id="text3680"
          inkscape:export-xdpi="32.618504"
          inkscape:export-ydpi="32.618504"
          inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-plan.png"
          transform="translate(-1.1874999e-7,1.2916666e-5)"><tspan
            sodipodi:role="line"
-           id="tspan5153"
-           x="596.28607"
-           y="-447.77151"
+           id="tspan3678"
+           x="596.67181"
+           y="-447.51025"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">hinge</tspan></text>
     </g>
   </g>
@@ -2386,11 +2344,11 @@
        inkscape:label="skirt"
        style="display:inline">
       <path
-         d="m 517.80001,471.337 v 410 H 35.800001 v -410 z"
+         d="m 517.80001,486.337 v 395 H 35.800001 v -395 H 156.8003 l -1e-5,-15 h 240 v 15 z"
          id="path948"
          inkscape:connector-curvature="0"
          style="display:inline;fill:#c9c9c9;fill-opacity:0.25;stroke:#000000;stroke-width:0.600001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:nodetypes="ccccc"
+         sodipodi:nodetypes="ccccccccc"
          inkscape:export-xdpi="32.618504"
          inkscape:export-ydpi="32.618504"
          inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-plan.png" />
@@ -2683,6 +2641,15 @@
          inkscape:export-xdpi="32.618504"
          inkscape:export-ydpi="32.618504" />
       <path
+         d="m 156.8003,486.337 -1e-5,-15 h 240 v 15 z"
+         id="path3403"
+         inkscape:connector-curvature="0"
+         style="display:inline;fill:#c9c9c9;fill-opacity:0.25;stroke:#000000;stroke-width:0.600001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-xdpi="32.618504"
+         inkscape:export-ydpi="32.618504"
+         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-plan.png" />
+      <path
          id="path13586"
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:0.497533;fill-rule:evenodd;stroke:#000000;stroke-width:0.400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          d="m 45.800292,-207.66295 h 88.999998 v 10 H 45.800292 Z"
@@ -2725,7 +2692,7 @@
       <path
          id="path14176"
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#c8c8c8;fill-opacity:0.497533;fill-rule:evenodd;stroke:#000000;stroke-width:0.400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         d="m 45.800292,-197.66295 h 88.999998 v 27 c 0,1.69716 -1.10181,3 -3,3 H 48.800292 c -1.698957,0.0593 -3,-1.28726 -3,-3 z"
+         d="m 45.800292,-197.66295 h 88.999998 v 27 c 0,1.71797 -1.10181,3 -3,3 H 48.800292 c -1.698958,0 -3,-1.28726 -3,-3 z"
          sodipodi:nodetypes="ccccccc"
          inkscape:export-xdpi="32.638824"
          inkscape:export-ydpi="32.638824"
@@ -2815,7 +2782,7 @@
       <path
          id="path960"
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.500164;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         d="m 16.70031,-446.9836 h 139.99998 v 600 H 16.70031 Z"
+         d="m 16.70031,-436.9836 h 139.99998 v 590 H 16.70031 Z"
          sodipodi:nodetypes="ccccc"
          inkscape:export-xdpi="32.618504"
          inkscape:export-ydpi="32.618504"
@@ -3548,6 +3515,42 @@
          inkscape:path-effect="#path-effect2045"
          inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png" />
       <g
+         id="g2081"
+         transform="translate(-518.76684,-299.83151)"
+         style="display:inline"
+         inkscape:export-xdpi="32.638824"
+         inkscape:export-ydpi="32.638824"
+         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223;shape-rendering:crispEdges"
+           d="m 662.76721,-280.25209 c 0,0.16569 -0.13434,0.3 -0.30003,0.3 -0.16567,0 -0.29998,-0.13431 -0.29998,-0.3 0,-0.16569 0.13431,-0.3 0.29998,-0.3 0.16569,0 0.30003,0.13431 0.30003,0.3 z"
+           id="path2073"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sssss" />
+        <path
+           sodipodi:nodetypes="sssss"
+           inkscape:connector-curvature="0"
+           id="path2075"
+           d="m 664.1672,-280.25208 c 0,0.93888 -0.7611,1.69999 -1.70002,1.69999 -0.93885,0 -1.69998,-0.76111 -1.69998,-1.69999 0,-0.93889 0.76113,-1.70001 1.69998,-1.70001 0.93892,0 1.70002,0.76112 1.70002,1.70001 z"
+           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.12598;stroke-opacity:1;shape-rendering:crispEdges" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
+           id="path2077"
+           inkscape:path-effect="#path-effect2083"
+           inkscape:original-d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
+           id="path2079"
+           inkscape:path-effect="#path-effect2085"
+           inkscape:original-d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
          id="g2095"
          transform="translate(-493.76686,-269.83151)"
          style="display:inline"
@@ -3703,6 +3706,42 @@
          inkscape:export-xdpi="32.618504"
          inkscape:export-ydpi="32.618504"
          inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-plan.png" />
+      <g
+         id="g33054"
+         transform="translate(-252.76684,-299.83151)"
+         style="display:inline"
+         inkscape:export-xdpi="32.638824"
+         inkscape:export-ydpi="32.638824"
+         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223;shape-rendering:crispEdges"
+           d="m 662.76721,-280.25209 c 0,0.16569 -0.13434,0.3 -0.30003,0.3 -0.16567,0 -0.29998,-0.13431 -0.29998,-0.3 0,-0.16569 0.13431,-0.3 0.29998,-0.3 0.16569,0 0.30003,0.13431 0.30003,0.3 z"
+           id="path33046"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sssss" />
+        <path
+           sodipodi:nodetypes="sssss"
+           inkscape:connector-curvature="0"
+           id="path33048"
+           d="m 664.1672,-280.25208 c 0,0.93888 -0.7611,1.69999 -1.70002,1.69999 -0.93885,0 -1.69998,-0.76111 -1.69998,-1.69999 0,-0.93889 0.76113,-1.70001 1.69998,-1.70001 0.93892,0 1.70002,0.76112 1.70002,1.70001 z"
+           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.12598;stroke-opacity:1;shape-rendering:crispEdges" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
+           id="path33050"
+           inkscape:path-effect="#path-effect33058"
+           inkscape:original-d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
+           id="path33052"
+           inkscape:path-effect="#path-effect33062"
+           inkscape:original-d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
       <path
          sodipodi:nodetypes="ccccc"
          style="display:inline;fill:#ffffff;fill-opacity:0.705882;stroke:#000000;stroke-width:0.400001;stroke-linejoin:miter"
@@ -3721,150 +3760,6 @@
          inkscape:export-xdpi="32.618504"
          inkscape:export-ydpi="32.618504"
          inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-plan.png" />
-      <g
-         id="g803"
-         transform="translate(-518.76686,-269.83151)"
-         style="display:inline"
-         inkscape:export-xdpi="32.638824"
-         inkscape:export-ydpi="32.638824"
-         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png">
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223;shape-rendering:crispEdges"
-           d="m 662.76721,-280.25209 c 0,0.16569 -0.13434,0.3 -0.30003,0.3 -0.16567,0 -0.29998,-0.13431 -0.29998,-0.3 0,-0.16569 0.13431,-0.3 0.29998,-0.3 0.16569,0 0.30003,0.13431 0.30003,0.3 z"
-           id="path795"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssss" />
-        <path
-           sodipodi:nodetypes="sssss"
-           inkscape:connector-curvature="0"
-           id="path797"
-           d="m 664.1672,-280.25208 c 0,0.93888 -0.7611,1.69999 -1.70002,1.69999 -0.93885,0 -1.69998,-0.76111 -1.69998,-1.69999 0,-0.93889 0.76113,-1.70001 1.69998,-1.70001 0.93892,0 1.70002,0.76112 1.70002,1.70001 z"
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.12598;stroke-opacity:1;shape-rendering:crispEdges" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
-           id="path799"
-           inkscape:path-effect="#path-effect807"
-           inkscape:original-d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
-           id="path801"
-           inkscape:path-effect="#path-effect811"
-           inkscape:original-d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-      </g>
-      <g
-         id="g821"
-         transform="translate(-518.76686,-328.83151)"
-         style="display:inline"
-         inkscape:export-xdpi="32.638824"
-         inkscape:export-ydpi="32.638824"
-         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png">
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223;shape-rendering:crispEdges"
-           d="m 662.76721,-280.25209 c 0,0.16569 -0.13434,0.3 -0.30003,0.3 -0.16567,0 -0.29998,-0.13431 -0.29998,-0.3 0,-0.16569 0.13431,-0.3 0.29998,-0.3 0.16569,0 0.30003,0.13431 0.30003,0.3 z"
-           id="path813"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssss" />
-        <path
-           sodipodi:nodetypes="sssss"
-           inkscape:connector-curvature="0"
-           id="path815"
-           d="m 664.1672,-280.25208 c 0,0.93888 -0.7611,1.69999 -1.70002,1.69999 -0.93885,0 -1.69998,-0.76111 -1.69998,-1.69999 0,-0.93889 0.76113,-1.70001 1.69998,-1.70001 0.93892,0 1.70002,0.76112 1.70002,1.70001 z"
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.12598;stroke-opacity:1;shape-rendering:crispEdges" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
-           id="path817"
-           inkscape:path-effect="#path-effect825"
-           inkscape:original-d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
-           id="path819"
-           inkscape:path-effect="#path-effect829"
-           inkscape:original-d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-      </g>
-      <g
-         id="g839"
-         transform="translate(-252.76686,-269.83151)"
-         style="display:inline"
-         inkscape:export-xdpi="32.638824"
-         inkscape:export-ydpi="32.638824"
-         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png">
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223;shape-rendering:crispEdges"
-           d="m 662.76721,-280.25209 c 0,0.16569 -0.13434,0.3 -0.30003,0.3 -0.16567,0 -0.29998,-0.13431 -0.29998,-0.3 0,-0.16569 0.13431,-0.3 0.29998,-0.3 0.16569,0 0.30003,0.13431 0.30003,0.3 z"
-           id="path831"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssss" />
-        <path
-           sodipodi:nodetypes="sssss"
-           inkscape:connector-curvature="0"
-           id="path833"
-           d="m 664.1672,-280.25208 c 0,0.93888 -0.7611,1.69999 -1.70002,1.69999 -0.93885,0 -1.69998,-0.76111 -1.69998,-1.69999 0,-0.93889 0.76113,-1.70001 1.69998,-1.70001 0.93892,0 1.70002,0.76112 1.70002,1.70001 z"
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.12598;stroke-opacity:1;shape-rendering:crispEdges" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
-           id="path835"
-           inkscape:path-effect="#path-effect843"
-           inkscape:original-d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
-           id="path837"
-           inkscape:path-effect="#path-effect847"
-           inkscape:original-d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-      </g>
-      <g
-         id="g857"
-         transform="translate(-252.76686,-328.83151)"
-         style="display:inline"
-         inkscape:export-xdpi="32.638824"
-         inkscape:export-ydpi="32.638824"
-         inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/toilet-side.png">
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223;shape-rendering:crispEdges"
-           d="m 662.76721,-280.25209 c 0,0.16569 -0.13434,0.3 -0.30003,0.3 -0.16567,0 -0.29998,-0.13431 -0.29998,-0.3 0,-0.16569 0.13431,-0.3 0.29998,-0.3 0.16569,0 0.30003,0.13431 0.30003,0.3 z"
-           id="path849"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssss" />
-        <path
-           sodipodi:nodetypes="sssss"
-           inkscape:connector-curvature="0"
-           id="path851"
-           d="m 664.1672,-280.25208 c 0,0.93888 -0.7611,1.69999 -1.70002,1.69999 -0.93885,0 -1.69998,-0.76111 -1.69998,-1.69999 0,-0.93889 0.76113,-1.70001 1.69998,-1.70001 0.93892,0 1.70002,0.76112 1.70002,1.70001 z"
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.12598;stroke-opacity:1;shape-rendering:crispEdges" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
-           id="path853"
-           inkscape:path-effect="#path-effect861"
-           inkscape:original-d="m 659.46721,-280.25208 2.09996,4.2e-4 m 1.79992,0 2.10012,-4.2e-4"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
-           id="path855"
-           inkscape:path-effect="#path-effect865"
-           inkscape:original-d="m 662.46721,-283.25208 v 2.10008 m 0,1.79997 v 2.09995"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
-      </g>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -4496,8 +4391,8 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222"
-         x="-310.1073"
-         y="12.155737"
+         x="-375.1073"
+         y="11.155737"
          id="text2831"
          inkscape:export-xdpi="32.618504"
          inkscape:export-ydpi="32.618504"
@@ -4505,8 +4400,8 @@
          transform="rotate(-90)"><tspan
            sodipodi:role="line"
            id="tspan2829"
-           x="-310.1073"
-           y="12.155737"
+           x="-375.1073"
+           y="11.155737"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.282222">brace</tspan></text>
       <text
          xml:space="preserve"

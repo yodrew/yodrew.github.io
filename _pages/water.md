@@ -44,6 +44,9 @@ Both designs below are composting bucket toilets. The basic design is simple and
 	- put 15L more sawdust in another bucket by the toilet
 	- with a scoop, put a 0.5L of sawdust in toilet after each use
 	- place toilet by return vent, away from bed
+	- simple big improvement to system: when just peeing: 
+		- use a vented [pee bottle](/report/2x3-day#mechanical-report). It works for men and adventurous women (or is adaptable)
+		- pee into a small bucket and empty it into food scrap bucket. Sugar in food scraps neutralizes odor of pee. Could also works for emptying separating tub of toilet upgrade, below.
 - disposal
 	- pour off liquid under trees and bushes
 	- dump solids in a covered compost pile enclosed with wire fencing or plywood
@@ -165,14 +168,25 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 	2. trim skirt
 	3. why: balance for squatting is perfect
 4. separating tub
-	1. get ~3L squarish storage container, ~240 rim x ~80 depth
-	2. adjust gap between platforms so tub fits between them
-	3. make and attach rails as drawn
-	4. comments
-		- why: unwetted poop smells the least. Emptying is less frequent and messy. 
-		- tub slides forward to catch pee, back over bucket to catch bidet water. Empty container into a pee bottle. 
-		- this may be tricky in darkness. A wide single bucket that catches everything works, too. Then, when just peeing, use a vented [pee bottle](/report/2x3-day#mechanical-report). It works for men and adventurous women (or is adaptable). Or pee into small bucket and empty into food scrap bucket. Sugar in food scraps neutralizes odor of pee.
-		- tub is too high for sitting. Sitting requires a low, large funnel and tube leading away, perhaps through a wall, to a container below. Buy or make a funnel: cut the bottom off a large square plastic bottle. Drill a hole in the cap. Put a small tube (8--15- ID) through it. Put a smooth, floating ball over the drain to seal out odor. Screw funnel to front board near top edge. This is a lot easier to manage than a tub when a squatting, too. 
+	1. why:
+		- unwetted poop smells the least
+		- emptying is less frequent and neater
+	2. get ~3L squarish storage container, ~240 rim x ~80 depth
+	3. adjust gap between platforms so tub fits between them
+	4. make and attach rails as drawn
+	5. tub slides forward to catch pee, back over bucket to catch bidet water. Empty container into a pee bottle.
+	6. Emptying the tub may be tricky in darkness. Thus the advantage of a wide single bucket that catches everything. See "simple big improvement" at beginning of toilet section. 
+	7. when sitting, the tub only works for women. It is too close for men. We need something lower.
+
+		For example, another bucket or a small plastic garbage can. Maybe cut away almost half of the top 100- leaving a backstop and the bucket's handle.
+
+		Or a large funnel and tube leading away, perhaps through a wall, to a large container below. Restaurants discard 20L cooking oil bottles in boxes.
+
+		Buy a funnel and attach a tube or hose. Or make one: cut the bottom off a large plastic bottle. Drill a hole in the cap. Put a small tube (8--15- ID) through it.
+
+		Put a smooth, floating ball over the drain to seal out odor. Screw funnel to front board near top edge, maybe hang it from the underside of (fixed) platforms with wire, plumber's tape, or a strip of the bottle's bottom that was cut away.
+
+		A funnel that doesn't move is a lot easier to operate than a tub when a squatting, too. Bidet water falls in the poop bucket. The sawdust absorbs it.
 		
 ### bath
 

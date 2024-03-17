@@ -227,55 +227,60 @@ The human organism is resilient in some ways and delicate in others. Darkness al
 
 Trauma is not just a memory. It is damage with tangible, ongoing consequences. As you would expect, psychic trauma causes psychic illness: psychosis.
 
-Every day, we call things crazy. Under our breath or aloud, we get exasperated with people and situations. What if our colloquialism were clinically accurate? What if it were precisely what is wrong with us? What if we have been right about it the whole time?
+Every day, we call things crazy. Under our breath or aloud, we get exasperated with people and situations. "It's madness!" What if our colloquialisms were clinically accurate? What if we really are psychotic? What if we have been right about our basic problem the whole time? 
 
 Sages throughout history have observed in us civilized people a pattern of _functional mass psychosis_. Functional means able to survive long enough to reproduce. Mass means universal. Psychosis means psychic illness. It has two senses.
 
-Broadly, psychosis means psychic illness. It originates in trauma. Which leads to exhaustion and intoxification. These lead to the abject acceptance of poisonous ideas, attitudes, emotions, and behavior. These compound in further dysfunctions of thinking, feeling, and moving intelligences. Dysfunction leads to failure and pain, both physical, emotional, and intellectual. Sickness, unhappiness, and confusion (including dogmatism) characterize civilized people. Comprehensive chronic dysfunction marks our psychosis.
+Broadly, psychosis means psychic illness. It originates in trauma. Which leads to exhaustion and intoxification. These lead to the abject acceptance of poisonous ideas, attitudes, emotions, and behavior. These compound in further dysfunctions of thinking, feeling, and moving intelligences. Dysfunction leads to failure and pain, both physical, emotional, and intellectual. Sickness, unhappiness, and confusion (or dogmatism) characterize civilized people. Comprehensive chronic dysfunction marks our psychosis.
 
-Narrowly, psychosis means the inability to distinguish fantasy from reality. Our particular fantasy is that the sliver of reality we do know about makes up the whole of reality. Any idea that doesn't fit into our postage stamp-sized worldview gets unnoticed, ignored, or crushed. We can't help it. It is the inevitable pathology of mass major psychic trauma. 
+Narrowly, psychosis means the inability to distinguish fantasy from reality. Our particular fantasy is that the sliver of reality we do know about makes up the whole of reality. Any idea that doesn't fit into our postage stamp-sized worldview gets unnoticed, ignored, rejected, or crushed. We can't help it. It is the inevitable pathology of mass major psychic trauma. 
 
-The sliver we know about consists of the grossest part of reality. Scientists call it spacetime: three maneuverable dimensions of space, with one dimension of time, the present, locked in forward motion. Being grossly sensible, spacetime is especially amenable to intellection and mechanical manipulation. 
+The sliver we know about consists of the gross part of reality. Scientists call it spacetime: three maneuverable dimensions of space, with one dimension of time, the present, locked in forward motion. Being grossly sensible, spacetime is especially amenable to intellection and mechanical manipulation. 
 
-This gives rise to our hyper-mental, industrial lifeway. We emphasize thinking at the expense of feeling and, to a lesser extent, action. We exalt the useless activity of athletics and prefer to make machines do the rest for us. Obsessive control of this sliver enables enough of us to survive each generation to imagine we are doing as well as possible.
+This gives rise to our hyper-mental, industrial lifeway. We emphasize thinking at the expense of feeling and, to a lesser extent, action. We exalt the useless activity of athletics and make machines do the rest for us. Obsessive control of this sliver enables enough of us to survive in style to imagine we are doing better than anyone ever did.
 
 However, some of us find this common state to be... sheer insanity, if you don't mind. We have experienced grace, joy, and flashes of harmony with reality. We cannot help but see glaring proofs of mass psychosis in:
 
 - righteous wars against the innocent
 - controls in the name of freedom
-- degrading poverty amidst mind-boggling wealth
+- degrading poverty amidst staggering wealth
 - useless work and wearisome recreation
-- undernourishment from overfeeding
+- stupefying education
 - confusing philosophy and soulless religion
 - alienation among crowds---civilization's calling card
-- mass depression, anxiety, schizophrenia, slow or fast suicide
-- lifestyle diseases (cancer, diabetes, cardiovascular and digestive diseases)
-- stupefying education
+- mass depression, anxiety, schizophrenia
 - sickening health care
+- lifestyle diseases (cancer, diabetes, cardiovascular and digestive diseases)
+- overfeeding and undernourishment
+- A lifeway of mass slow suicide 
 
-I could go on. No doubt, you could extend the list yourself. Perhaps you have wept over the world's desperate madness. Perhaps you have wept over your own.
+I could go on. No doubt, you could extend the list yourself. Perhaps you have also wept over the world's desperate madness. Perhaps you have wept over your own.
 
-Calling something crazy usually halts further consideration and conversation. After all, "you can't fix crazy." So what good does it do to think about it? Is it even craziness? Or is it human nature? Is it what we have been pleased to call the human condition? That is what most religion and philosophy say. Nothing overcomes nature. So they render themselves helpless by their own pronouncements. Also, they excuse themselves.
+Calling something crazy usually halts further consideration and conversation. After all, "you can't fix crazy." So what good does it do to think about it? Is it even craziness? Or is it just human nature? Is it what we have been pleased to call the human condition? That is what most religions and philosophies say. Nothing overcomes nature. So they render themselves helpless by their own pronouncements. Also, they excuse themselves.
 
-Conventional psychology has failed to fix our craziness. And psychological reformers have proven ineffective. They consign their tough cases to psychiatry, surrendering to its worship of drugs. It is the medical application to the soul of our culture's mythos of original sin. In other words, debilitation, incompetence, failure, and suffering are human nature. 
+Conventional psychology has failed to fix our craziness. And psychological reformers have proven ineffective. They consign their tough cases to psychiatry, surrendering to its cult of drug worship. It is the medical application to the soul of our culture's mythos of original sin. In other words, debilitation, incompetence, failure, and suffering are human nature.
 
 We refuse further examination of causes. Mass psychosis is the biggest elephant in our room. 
 
-I submit, we are actually crazy. But we weren't always. Something went terribly wrong and here we are. Happily, we are alive. Therefore we are self-healing. So somehow we can recover.
+I submit, we are actually crazy.
 
-What would we recover? Common sense, memory, and honesty. Joy and empathy. Vigor and grace---for starters. Much more awaits us. When thinking, feeling, and moving centers of intelligence function again, and in harmony with each other, life improves to a degree known only in legend.[^4]
+But we weren't always. Something went terribly wrong and here we are. Happily, we are alive. Therefore we are self-healing. So somehow we can recover.
 
-Harmonious function will come from re-engagement with the other basic plane of reality: timespace. Some cutting edge scientists call it this because it mirrors spacetime. Timespace has three choosable dimensions of time---past, present, future---and one, unchoosable dimension of space. That is, one location per moment in time.[^5] Australian Aboriginals call it dreamtime. Kogi Indians call it the _aluna_. 
+What would we recover? For starters: common sense, memory, and honesty. Joy and empathy. Vigor and grace. Much more awaits us. When thinking, feeling, and moving centers of intelligence function again---and in harmony with each other---life improves to a degree known only in legend.[^4]
 
-They access it at will for daily living. It is how they could track someone 100 miles through the desert a year later with only a scrap of his clothing. Or talk to people on the other side of the world without telephones. Or go out to meet a scarce deer in the middle of nowhere and bring it back for food. It is how spiritual adepts famously know things they have no common way of knowing.
+Harmonious function will come from re-engagement with the other basic plane of reality: timespace. Some cutting edge scientists call it this because it mirrors spacetime. Timespace has three choosable dimensions of time---past, present, future---and one, unchoosable dimension of space. That is, one location per moment in time.[^5] Australian Aboriginals call it dreamtime.
+
+They access it at will for daily living. It is how they could track someone 100 miles through the desert a year later with only a scrap of his clothing. Or go out to meet a scarce deer in the middle of nowhere and bring it back for food. 
+
+Kogi Indians call it the _aluna_. It is how they talk to people on the other side of the world without telephones. It is how spiritual adepts famously know things they have no common way of knowing. And how mothers know things about their children at great distances.
 
 Dreamtime is engaged primarily through the feeling center of intelligence, not the senses. This is intuition. With psychic integrity, it can be just as precise and accessible as the eyes aided by microscope or telescope, or a camera on a drone.
 
 The feeling center, being more fragile than the sensorium and less aggressive than intellect, rarely works well among us civilized people. So, to scientific materialists, dreamtime doesn't exist. They dismiss it out of hand despite millennia of evidence. Which even most civilized people have some of.
 
-Knowing someone specific is about to call is common. Such strange experiences stick in one's mind, unexplained for decades like personal X-files. If you talk about this stuff in conventional settings, others will call you crazy. But if you rest in darkness long enough, access to it reopens and promises to return permanently. 
+Knowing someone specific is about to call is common. Such strange experiences stick in one's mind, unexplained for decades like personal X-files. Talk about this stuff in conventional settings, and others will call you crazy. Rest in darkness long enough, and access to it reopens and promises to return permanently. 
 
-I will not dwell on something that is so unusual that you must see it for yourself, as you will in darkness. But this vast and rich side of life that we largely miss must cease going unremarked in psychology and hygiene. Doing so is stupid and embarrassing. The academy likes to ignore the two other (greater) bodies of human knowledge: the spiritual and the indigenous. We will not.
+I will not dwell on something that is so unusual that you must see it for yourself, as you will in darkness. But this vast and rich side of life that we largely miss must cease going unremarked in psychology and hygiene. Doing so is stupid and embarrassing. The academy ignores the two other (greater) bodies of human knowledge: the spiritual and the indigenous. We will not.
 
 By my rough estimation, we are currently functioning at 2% of capacity. In other words, things with us are as bad as they can get while still allowing us to raise children to reproductive age. To embellish the idea: at 1%, you're insane; at 0%, dead. In the opposite direction, at 3%, you're a local hero; 4%, famous; 5%, an international star; 10%, a genius; 20%, a saint; and 30-40%, a messiah. 
 
@@ -287,7 +292,7 @@ The hygienic view of health and sanity is the brain of this approach. Darkroom r
 
 Pathology is the study of illness, especially its etiology: the chain of cause and effect that leads to symptoms. 
 
-Hygiene is radical because it deals unflinchingly in first causes. It begins by observing that health is the normal state of organisms under normal conditions. Life itself started out in integrity and health. Nature cannot generate a diseased species. Disease only occurs when something goes wrong with conditions. It means harmful conditions are present and beneficial ones are absent or in disproportion. 
+Hygiene is radical because it deals unflinchingly in first causes. It begins by observing that radiant, euphoric health is the normal state of organisms under normal conditions. Life itself started out in integrity and health. Nature cannot generate a diseased species. Disease only occurs when something goes wrong with conditions. It means harmful conditions are present and beneficial ones are absent or in disproportion. 
 
 This gives hygiene a rational standard for evaluating conditions proposed as beneficial for handling disease. Hygiene asks, what normal relationship to life does this condition have? Is it part of the natural course of things? Did its absence cause the disease in the first place? If not, then its presence won't correct matters and we can dismiss the proposal.
 

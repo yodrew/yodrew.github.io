@@ -206,25 +206,27 @@ Round buildings feel sheltering. They shield occupants from subtle energy, physi
 
 We have a psychobiological expectation of roundness in our environment. Nature is a symphony of curves: circles, ellipses, parabolas, catenaries, spirals, cones, and spheres. Curvature arises from innumerable straight-edged shapes at the microscopic scale: mostly triangles, pentagons, and hexagons; tetrahedrons, octahedrons, dodecahedrons and icosahedrons; their stellations and combinations; and the occasional cube.
 
-Buckminster Fuller demonstrated in his _Synergetics_ (see [*A Fuller Explanation*](https://www.arvindguptatoys.com/arvindgupta/synergy-fuller.pdf)\*) that these shapes, in turn, arise from nature's coordinate system. Made of close-packed spheres, it is octatetrahedronal, not cubic (Cartesian). It is four-dimensional, not three. All these shapes are inherently compelling, familiar, and alive to us.
+Buckminster Fuller demonstrated in his _Synergetics_ (see [*A Fuller Explanation*](https://www.arvindguptatoys.com/arvindgupta/synergy-fuller.pdf)\*) that these shapes, in turn, arise from nature's coordinate system: the shape of space itself. Made of close-packed spheres, it is octetrahedronal, not cubic (Cartesian). It is four-dimensional, not three. All these shapes are inherently compelling, familiar, and alive to us.
 
 By comparison, a square building feels lifeless and imprisoning. By nature, the right angle stops movement: of things, people, and energy. This stagnation saps and poisons occupants over the long term. Even turning at right angles while walking is jarring and militaristic. 
 
 We compensate by making square (rectilinear or orthogonal) buildings larger than necessary to push corners away. We soften and round them out by filling their corners with stuff. Ever dissatisfied, we remodel. When that fails, we move, perhaps destroying a family or business in the process. 
 
-Eventually, the only thing to do about such a toxic building is demolish it, or unconsciously arrange for it to burn down or even get bombed. Behind the apparent irrationality of wastefulness, greed, carelessness, crime, and war lies a biological imperative to break free.
+Eventually, the only thing to do about such toxic buildings is demolish them. When hysterical, we unconsciously arrange for it to burn down or even get bombed. Behind the apparent irrationality of wastefulness, greed, carelessness, crime, and war lies a biological imperative to break free from Roman slave-city architecture.
 
 Due to gravity, single right angles of linear structures, like trees and stalactites, abound in nature. But not squares and cubes. Squares are inherently weak and inefficient. They collapse without diagonal support (triangulation) and require more edge for the same amount of area as circles. They mate poorly with the curved universe. A few minerals have cubic crystals, like salt. Not much else.
 
-Orthogonal construction breeds decadence, disease, and violence. Rectilinearity is the geometry of slavery: Romans built on grids because they are easily policed. It is a military-economic strategy widely copied to the current day. Black Elk, a Plains Indian accustomed to tipis, observed the demoralizing effect of log cabins on his people on reservations. He decided, "It is a bad way to live, for there can be no power in a square."
+Orthogonal construction breeds decadence, disease, and violence. Rectilinearity is the geometry of slavery: Romans built on grids because they are easily policed. It is a military-economic strategy widely used to the current day.
 
-How tiresome to find we live in voluntary prisons. What is to be done?
+Black Elk, a Plains Indian accustomed to tipis, observed the demoralizing effect of log cabins on his people on reservations. He decided, "It is a bad way to live, for there can be no power in a square."
+
+How tiresome to learn that we live in voluntary prisons. What is to be done?
 
 The problem solves itself. We simply turn our prisons into escape pods. After all, we do need to stop moving around. We are sick. We are slaves. We need to rest, to recover ourselves, to reset our relationship to the world. Conscious of the immobilizing influence of these boxes, these cells, we can turn it to our advantage. We use it to stop. 
 
 But not halfway, like beasts pacing restlessly in a cage. We stop fully, more and faster than anyone expected, without the slightest concession to the demand to constantly be busy. We can even say this is what our buildings were always for.
 
-So rectilinear buildings are not just acceptable for short retreats, but perfectly suitable. We begin to remedy them by an art of placement: feng shui, vastuveda, wabi sabi, or [ordo](/other/ordo). This may render them suitable for medium-length retreats. If not, and certainly for long retreats, we replace, vacate, and dismantle them. We burn or bury their materials or renew them through re-use in round buildings. 
+So rectilinear buildings are not just acceptable for short retreats, but perfectly suitable. We can remedy them by an art of placement: feng shui, vastuveda, wabi sabi, or [ordo](/other/ordo). This may render them suitable for medium-length retreats. If not, and certainly for long retreats, we replace, vacate, and dismantle them. We burn or bury their materials or renew them through re-use in round buildings. 
 
 A good building for the long-term is round or has five or more walls in a regular polygon. Walls can be rectangles. Right angles where floors meet walls are fine. But not where walls meet ceilings or each other, as in orthogonal floor plans.
 

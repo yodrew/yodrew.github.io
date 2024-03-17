@@ -43,7 +43,7 @@ I describe the overall process of retreating in [format](/format), especially th
 	- turn cellphone off or put it in flight mode to stop calls and minimize electromagnetic radiation
 - lights out
 	- how to do everything in a totally dark room: slowly!
-	- _Important_: avoid hitting your head when standing or sitting. Make a circle with your arms in front of yourself at chest height, hands together, when moving up or down. Practice this a few times in light with eyes closed, near something you will touch with your hands.
+	- _Important_: avoid hitting your head when standing up or sitting down. Make a circle with your arms in front of yourself at chest height, hands together, when moving up or down. Practice this a few times in light with eyes closed, near something you will touch with your hands.
 	- put food scraps in bucket provided inside the room
 	- things slowly go out of place in darkness. If you would like the bed remade, lost shoes found, etc, ask your supporter.
 	- If you notice a light leak, immediately look away. Find something to cover it with. See [gear](/prepare#gear) for materials to do this with. Tell your supporter so he can plug the leak.
@@ -131,12 +131,13 @@ My ideas of support have evolved since my first retreat. Once a day, Harold brou
 
 For my first clients, I brought food more often and talked more than a couple minutes. It became too much. I thought of myself as a facilitator. But I was not sure about this. Sometimes I could see it was too much.
 
-Then a client came who wanted to retreat in silence. He communicated with notes and clapping in response to my questions. One clap meant no; two, yes; three, repeat the question. His retreat was up to him and he knew it. He just wanted practical support and the passive psychic support of my being around.
+Then a client came who wanted to retreat in silence. He communicated with notes and clapping in response to my questions. One clap meant no; two, yes; three, repeat the question. (Any distinct sound works: whistle, tap, finger snap, etc.)
 
-I liked this a lot. It eased my worries and helped me trust in life more. Rather than a facilitator, I started thinking of myself as a supporter. I later tried retreating without any support. In some ways, 
-I much preferred the solitude and lack of interruption.
+His retreat was up to him and he knew it. He just wanted practical support and the passive psychic support of my being around.
 
-However, that was only a 5-day retreat, and I was in a small, remote village of friends. For 9-day retreats, I have found that having someone nearby, on call, is critical. 
+I liked this a lot. It eased my worries and helped me trust in life more. Rather than a facilitator, I started thinking of myself as a supporter. 
+
+I later tried retreating without any support. In some ways, I preferred the solitude and lack of interruption. But it was only a 5-day retreat, and I was in a small, remote village of friends. For 9-day retreats, I have found that having someone nearby, on call, is critical. 
 
 A retreater is in a kind of womb. Supporters are like parents. They remain available while going about their regular lives. They help absorb a retreater's occasional excesses of energy, as well. Jean Liedloff explains more details of this perspective in [*The Continuum Concept*](https://continuum-concept.org).
 

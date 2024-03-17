@@ -159,8 +159,8 @@ zip file - [darkroomretreat.com/darkroom-retreat.zip](https://darkroomretreat.co
 
 #### water
 
-composting toilets - [darkroomretreat.com/blog/2024/02/compost-toilet](https://darkroomretreat.com/blog/2024/02/compost-toilet)  
 pee bottle - [darkroomretreat.com/report/2x3-day#mechanical-report](https://darkroomretreat.com/report/2x3-day#mechanical-report)  
+composting toilets - [darkroomretreat.com/blog/2024/02/compost-toilet](https://darkroomretreat.com/blog/2024/02/compost-toilet)  
 
 #### faq
 
