@@ -198,9 +198,9 @@ There are three things the hygienic use of darkness is not: spiritual, therapeut
 
 Spirituality deals with the smallest part of the psyche: the intersection of the conscious and especially mental aspects. Spiritual practice is intense discipline. It depends on the will and on thinking. 
 
-Will is the most delicate, energy-consuming, and ineffective part of the psyche. It is the most damaged and most in need of rest.  
+Will is the most delicate, energy-consuming, and surface-level part of the psyche. It is the most damaged by trauma and the most in need of rest.  
 
-Using the will for spiritual discipline takes energy from the processes that healing the will depends on. In terms of healing, it gives the least possible benefit for the time, energy, and effort expended. It produces impressive results only by our abysmal standards. It prevents accomplishment of the top priority: full recovery of the psyche from its catastrophic damage.
+Using the will for spiritual discipline takes energy from the processes that healing the will depends on. In terms of healing, it gives the least possible benefit for the time, energy, and effort expended. It produces impressive results only by our abysmal standards. It prevents accomplishment of the top priority: full recovery of the psyche from its catastrophic damage. Which, ironically, is what drives people to spiritual things.
 
 For example, meditation, like all spiritual practice, entails _super-effort to force access to subtle energy reserves to fuel artificial transformation_[^5]. 
 
@@ -216,21 +216,27 @@ Supervision places subtle controls on the individual, limiting the experience an
 
 Hygiene disintegrates rackets: medical, spiritual, or otherwise.
 
-I also recommend the liberating ideas of two great and daring thinkers about spirituality: Walter Veith[^6] and George Kavassilas[^7].
+I also recommend the liberating ideas of two great and daring thinkers about spirituality: Walter Veith[^8] and George Kavassilas[^9].
 
 ##### not therapeutic
 
 Therapy is done _to_ a passive organism in the attempt to heal or cure it from the outside. The principal actor in a therapeutic session is not the organism, but the therapist, therapy, or therapeutic substance or mechanism.
 
-But these are all instruments of will. None can perform even one of the millions of organic processes of healing. It is a big show. A lie. Most effects are down to the [stimulant delusion](/hygiene#stimulant-delusion)
+But these are all instruments of will. None can perform even one of the millions of organic processes of healing. It is a big show. A lie. Most of the effects are down to the _stimulant delusion_. Shelton wrote a whole chapter on it, starting with this:
+
+> Throughout all systems and methods of therapeutics there runs the basic error that what they call the therapeutic actions of their various procedures represent the beneficial actions of these things upon the body, or that they call out actions on the part of the body that are beneficial or useful in overcoming “disease.” The truth is that these so-called “therapeutic actions” of “remedies” are actions of the body to defend it against the “remedies.”[^10]
 
 Therapy depends on the organism to react to treatment. But it views the organism as incapable of initiating movement toward health. _It fails to see such movement in disease itself_.
 
-Perforce, a patient in therapy accepts its assertion of his helplessness. He thus denies his involuntary self-healing ability. He continues neglecting its conditions. The unconscious gets the message. It is suppressed, largely annulled. 99.99% of its power remains dormant. It can only do great things in partnership with the conscious.
+Perforce, a patient in therapy accepts its assertion of his helplessness. He thus denies his involuntary self-healing ability. He continues neglecting its conditions. The unconscious gets the message. It is suppressed, largely annulled. 99.99% of its power remains dormant. Without conscious support, it cannot do the great things it is capable of.
 
-Academic science has a similarly objectifying approach to darkroom retreating, though in reverse. It is called _Chamber REST_ (Restricted Environmental Stimulation Therapy). As the name implies, and in accordance with scientific materialism, it tends to reduce a retreat and its effects to destimulation: _absence_ of usual sensory stimuli. The subject is then probed, monitored, and interrogated as to what is happening in this absence. 
+Academic science has a similarly objectifying approach to darkroom retreating, though in reverse. It is called _Chamber REST_ (Restricted Environmental Stimulation Therapy). As the name implies, and in accordance with scientific materialism, it tends to reduce a retreat and its effects to destimulation: _absence_ of usual sensory stimuli. The subject is then probed, monitored, and interrogated as to what is happening in this absence.
 
-But the organism does not experience darkness as an absence; but rather, as yet another condition it takes hold of and uses. An obvious illustration is that one can make darkness an object of attention. One can look at it. Darkness, like night itself, is a normal period of time in life. Academics and therapists miss the enormous intelligence of the organism at work, even as they pay lip service to it. Willfully blind, they probe in the dark.
+Physically, darkness is the absence of light. But the organism does not experience darkness as an absence but as another condition to take hold of and use. To illustrate this, one can make darkness an object of attention. One can look at it. It is like a screen a movie is projected on. 
+
+To be in darkness is to sink into non-existent being, the background of [existence](/other/existence). One meets the essence of intrigue and mystery. One comes fully into one's own presence.
+
+Like nighttime itself, darkness characterizes a normal period of time in life. Time does not stop. The world does not cease to exist. Something is still there. Academics and therapists miss the enormous intelligence of the organism at work in darkness, even as they depend on it for the minor data they allow it to produce for them to collect. Willfully blind, having presumed their subject into hiding, they probe in the dark.
 
 In a darkroom retreat, darkness does nothing. Like air or water, darkness is an inert condition. It merely presents an opportunity to the self-preserving organism to express its ceaseless tendency toward wholeness in another way. The principal actor is life, not its conditions nor any treatment or therapist.
 
@@ -300,7 +306,7 @@ A retreater is especially vulnerable. Darkrooms must be strongholds against male
 
 Evil is real. Malevolent psychopaths and narcissists are among us. Whether physically or socially, they must by dealt with, and in ways that do not make matters worse.
 
-Statistics are surprising. Andrei Lobaczewski, author of _Political Ponerology_ was a clinical psychologist. He studied psychopathy on a mass scale within a mass psychopathic state (Poland under the Nazis then communists). He found 6% of the population are psychopaths. Narcissists make up 12% more[^8]. That is about 1 in 6 people. Most of them are not evildoers due to good training and the law. But most evil is perpetrated by psychopaths or narcissists.[^9]
+Statistics are surprising. Andrei Lobaczewski, author of _Political Ponerology_ was a clinical psychologist. He studied psychopathy on a mass scale within a mass psychopathic state (Poland under the Nazis then communists). He found 6% of the population are psychopaths. Narcissists make up 12% more[^11]. That is about 1 in 6 people. Most of them are not evildoers due to good training and the law. But most evil is perpetrated by psychopaths or narcissists.[^12]
 
 As decency breaks down, they receive poorer treatment and training as children. Society provides them more opportunities and justifications. They take advantage of the naive in both criminal and non-criminal ways.
 
@@ -336,7 +342,7 @@ Buckle up. We are heading into the psychological implications of hygienic darkro
 
 [^1]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*, p35
 [^2]: Ibid, p139
-[^3]: William Arthur Evans[^3] psychobiologist, said that each cell has thoughts, feelings, and instincts. Conscious experience summarizes those trillions of inputs and provides access to them.
+[^3]: William Arthur Evans, psychobiologist, said that each cell has thoughts, feelings, and instincts. Conscious experience summarizes those trillions of inputs and provides access to them.
 Evans surpassed the hygienists in his grasp of this issue and in some of his results. He helped his clients trace and correct physical maladies through their feelings. His books are extraordinary. See my blog post [William Arthur Evans](/blog/2009/08/william-arthur-evans/) and the [bibliography](/back/bibliography-influences) here.
 [^4]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
 [^5]: For all references to Gurdjieff, see [*In Search of the Miraculous*](/f/search.pdf)\*, PD Ouspensky's incomparable spiritual book about Gurdjieff's teachings.
@@ -344,5 +350,6 @@ Evans surpassed the hygienists in his grasp of this issue and in some of his res
 [^7]: See _The Continuum Concept_, Liedloff's incomparable book about natural relationship, especially with children.
 [^8]: Walter Veith, Adventist evangelist and former biology professor, exposes most spiritual activity as Satanism, ie, the lie of works-based salvation. In his sing-song voice, he makes crystal clear the unified story arc of the Bible and the meaning of Christ's message of salvation by grace. (Hygiene's restful approach to healing translates this message into biological terms.) See his astonishing video series, ["Total Onslaught"](https://adtv.watch/series/total-onslaught).
 [^9]: [*Our Universal Journey*](https://www.ourjourneyhome.earth/market-place#section-1592035487385)\* by George Kavassilas, ET contactee and philosopher. George exposes all spiritual activity as part of an all-too-real, cosmic-scale [*God Control Matrix*](https://youtube.com/playlist?list=PLV75wDOASk_eAijH1idZyya3AE7RmwbG1). George has genuinely new and compelling ideas, from his cosmopolitics and exponential physics to his psychophysiology and ontology of the eternal individual.
-[^10]: [*Political Ponerology*](/f/ponerology.pdf)\* by Andrei Lobaczewski, clinical psychologist. He studied psychopathy on a mass scale under the Nazis then the communists in Poland. He and his multi-generational team, working in secret, found its patterns, mechanisms—and simple preventatives. Here is an [excellent introductory interview](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
-[^11]: ["Psychopaths Among Us"](http://www.hare.org/links/saturday.html), on the critical work of Robert Hare, psychologist and creator of the _Psychopathy Checklist_.
+[^10]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*, p103
+[^11]: [*Political Ponerology*](/f/ponerology.pdf)\* by Andrei Lobaczewski, clinical psychologist. He studied psychopathy on a mass scale under the Nazis then the communists in Poland. He and his multi-generational team, working in secret, found its patterns, mechanisms—and simple preventatives. Here is an [excellent introductory interview](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
+[^12]: ["Psychopaths Among Us"](http://www.hare.org/links/saturday.html), on the critical work of Robert Hare, psychologist and creator of the _Psychopathy Checklist_.
