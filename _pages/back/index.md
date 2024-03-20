@@ -1,17 +1,9 @@
 ---
 title: back
-layout: page
-navprev: water
+layout: redirect
 permalink: /back/
-navnext: back/faq
+redirect: https://hygienicdarkretreat.com/back/
 ---
 
-- [faq](./faq)
-- [bibliography-influences](./bibliography-influences/)
-- [acknowledgments](./acknowledgments/)
-- [participate](./participate)
-- [license](./license/)
-- [services](./services/)
-- [bio](./bio)
-- [links](./links)
+Page moved to <https://hygienicdarkretreat.com/back/>
 

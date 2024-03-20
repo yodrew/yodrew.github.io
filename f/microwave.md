@@ -1,8 +1,9 @@
 ---
 title: microwave
 layout: redirect
-permalink: /f/microwave.md
-redirect: ../wireless
+permalink: /f/microwave
+redirect: https://hygienicdarkretreat.com/f/microwave
 ---
 
-Page moved to [f > wireless](/f/wireless)
+Page moved to <https://hygienicdarkretreat.com/f/microwave>
+.md

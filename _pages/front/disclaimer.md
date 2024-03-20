@@ -1,10 +1,9 @@
 ---
 title: disclaimer
-layout: page
-navprev: ../
+layout: redirect
 permalink: /front/disclaimer/
-navnext: dedication
+redirect: https://hygienicdarkretreat.com/front/disclaimer/
 ---
 
-This work is not intended as medical advice. The responsibility for the consequences of your taking any action described herein lies not with the author, publisher, or distributors.
+Page moved to <https://hygienicdarkretreat.com/front/disclaimer/>
 

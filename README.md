@@ -1,3 +1,3 @@
-# hygienic darkroom retreat
+# darkroomretreat.com
 
-Howdy. This is the source code of my website on hygienic darkroom retreating. It amounts to free and open source psychology, so a git repo was fitting. Dig in, make pull requests with corrections, suggestions, new pages and blog posts you have written, etc. Welcome.
+Howdy. This was the source code of my website, <https://darkroomretreat.com>. It has been renamed and moved to <https://hygienicdarkretreat.com>. The page-for-page meta redirects seem to be working. The code repository is at <https://github.com/swimmingly/swimmingly.github.io>

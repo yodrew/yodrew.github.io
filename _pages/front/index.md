@@ -1,15 +1,9 @@
 ---
 title: front
-layout: page
-navprev: ../
+layout: redirect
 permalink: /front/
-navnext: front/dedication
+redirect: https://hygienicdarkretreat.com/front/
 ---
 
-- [blurb](/)
-- [disclaimer](./disclaimer)
-- [dedication](./dedication)
-- [notes](./notes)
-- [foreword](./foreword)
-- [preface](./preface)
-- [introduction](./introduction)
+Page moved to <https://hygienicdarkretreat.com/front/>
+

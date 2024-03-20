@@ -2,8 +2,8 @@
 title: viruses
 layout: redirect
 permalink: /f/viruses/
-redirect: ../virus
+redirect: https://hygienicdarkretreat.com/f/viruses/
 ---
 
-Page Moved to [f > virus](/f/virus)
+Page moved to <https://hygienicdarkretreat.com/f/viruses/>
 
