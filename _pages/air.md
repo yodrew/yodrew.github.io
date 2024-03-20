@@ -274,6 +274,8 @@ Fans make noise directly and indirectly. Small fans have little hum to start wit
 
 Even the quietest fan makes noise because of the friction of air itself against the fan blades, housing, ducting, and vents. Because of air friction, fully silencing a ventilation system requires a silencer of some type at the room-ends of ducts. 
 
+<!--pagebreak-->
+
 #### silencer
 
 A silencer is an larger duct section lined with insulation. Its greater volume depressurizes the airstream. This transforms low-frequency sound into into high-frequency sound. High-frequencies vibrate the fine fibers lining the silencer, transforming the sound into heat. Genius!

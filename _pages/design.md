@@ -236,7 +236,7 @@ It turns out that rectilinear construction is not simpler or easier. It's just a
 
 ~/~
 
-Now, let's learn to make our prison cells into escape vehicles. The next chapter, design, gives detailed instructions and plans for your very own darkroom.
+Now, let's learn to make our prison cells into escape vehicles. The next four "make" chapters give detailed instructions and plans for your very own darkroom.
 
 ![plan: hygienic house / conic](/img/plan/image/conic.png)
 

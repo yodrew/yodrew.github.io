@@ -30,16 +30,16 @@ The book reveals what healing requires in detail. It inspires you to heal and to
 
 #### requirements
 
-To retreat, one needs three things: knowledge, materials, and support.
+To retreat, one needs three things:
 
-- knowledge:
+1. knowledge:
 	- of hygienic theory
 	- of the practice of hygienic darkroom retreating
-- materials 
+2. materials 
 	- darkroom
 	- food
 	- personal belongings
-- support
+3. support
 	- supporters are knowledgeable: have read this book, possibly [Shelton's](/f/hygiene.pdf)
 	- experienced: have done at least a [5-day](/format#5-day) retreat
 	- sympathetic, protective of himself and retreater
@@ -290,7 +290,7 @@ This book is at [leanpub.com/darkroomretreat/](https://leanpub.com/darkroomretre
 - a series of my retreat [reports](/report)
 - [early essays](/conjecture) on darkness, linked to in this book
 - elaborative [blog](/blog) posts
-- [other](/other) writings: [myths](/other/myths), essays, designs, prose, poetry, and lyrics since 1988. They marked my way to the restful use of darkness.
+- [other](/other) writings: essays, designs, prose, myths, poetry, and lyrics since 1988, plus writings by others. They marked my way to the restful use of darkness.
 
 #### open-source
 

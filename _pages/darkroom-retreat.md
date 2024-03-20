@@ -214,15 +214,15 @@ Lastly, discipline sets up artificial dangers and obstacles. The conscious takes
 
 Supervision places subtle controls on the individual, limiting the experience and results. Disciplined traditions then spread fear of dark retreating without spiritual preparation and facilitation. It is a racket based on a self-fulfilling delusion.
 
-Hygiene disintegrates rackets: medical, spiritual, or otherwise.
+Hygiene exposes rackets: medical, spiritual, or otherwise.
 
-I also recommend the liberating ideas of two great and daring thinkers about spirituality: Walter Veith[^8] and George Kavassilas[^9].
+I recommend the liberating ideas about spirituality of two great and daring thinkers: Walter Veith[^8] and George Kavassilas[^9].
 
 ##### not therapeutic
 
 Therapy is done _to_ a passive organism in the attempt to heal or cure it from the outside. The principal actor in a therapeutic session is not the organism, but the therapist, therapy, or therapeutic substance or mechanism.
 
-But these are all instruments of will. None can perform even one of the millions of organic processes of healing. It is a big show. A lie. Most of the effects are down to the _stimulant delusion_. Shelton wrote a whole chapter on it, starting with this:
+But these are all instruments of will. None can perform even one of the millions of organic processes of healing. It is a big show. A lie. Most of the claims come from the _stimulant delusion_. Shelton wrote a whole chapter on it, starting with this:
 
 > Throughout all systems and methods of therapeutics there runs the basic error that what they call the therapeutic actions of their various procedures represent the beneficial actions of these things upon the body, or that they call out actions on the part of the body that are beneficial or useful in overcoming “disease.” The truth is that these so-called “therapeutic actions” of “remedies” are actions of the body to defend it against the “remedies.”[^10]
 
@@ -342,9 +342,9 @@ Buckle up. We are heading into the psychological implications of hygienic darkro
 
 [^1]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*, p35
 [^2]: Ibid, p139
-[^3]: William Arthur Evans, psychobiologist, said that each cell has thoughts, feelings, and instincts. Conscious experience summarizes those trillions of inputs and provides access to them. Evans surpassed the hygienists in his grasp of this issue and in some of his results. He helped his clients trace and correct physical maladies through their feelings. His books are extraordinary. See my blog post [William Arthur Evans](/blog/2009/08/william-arthur-evans/) and the [bibliography](/back/bibliography-influences) here.
+[^3]: William Arthur Evans, psychobiologist, said that each cell has thoughts, feelings, and instincts. Conscious experience summarizes those trillions of inputs and can influence them. Evans surpassed the hygienists in his grasp of this issue and in some of his results. He helped his clients trace and correct physical maladies through their feelings. His books are extraordinary. See my blog post [William Arthur Evans](/blog/2009/08/william-arthur-evans/) and the [bibliography](/back/bibliography-influences).
 [^4]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
-[^5]: For all references to Gurdjieff, see [*In Search of the Miraculous*](/f/search.pdf)\*, PD Ouspensky's incomparable spiritual book about Gurdjieff's teachings.
+[^5]: See [*In Search of the Miraculous*](/f/search.pdf)\*, PD Ouspensky's incomparable spiritual book on Gurdjieff's teachings.
 [^6]: _Atlas Shrugged_, in Galt's Speech.
 [^7]: See _The Continuum Concept_, Liedloff's incomparable book about natural relationship, especially with children.
 [^8]: Walter Veith, Adventist evangelist and former biology professor, exposes most spiritual activity as Satanism, ie, the lie of works-based salvation. In his sing-song voice, he makes clear the unified story arc of the Bible and the meaning of Christ's message of salvation by grace. (Hygiene's restful approach to healing translates this message into biological terms.) See his astonishing video series, ["Total Onslaught"](https://adtv.watch/series/total-onslaught).

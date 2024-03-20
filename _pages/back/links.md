@@ -33,7 +33,6 @@ zip file - [darkroomretreat.com/darkroom-retreat.zip](https://darkroomretreat.co
 reports - [darkroomretreat.com/report](https://darkroomretreat.com/report)  
 early essays - [darkroomretreat.com/conjecture](https://darkroomretreat.com/conjecture)  
 blog - [darkroomretreat.com/blog](https://darkroomretreat.com/blog)  
-myths - [darkroomretreat.com/other/myths](https://darkroomretreat.com/other/myths)  
 
 #### hygiene
 

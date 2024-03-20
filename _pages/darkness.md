@@ -233,7 +233,7 @@ I use masking tape. It sticks to plastic and most other things very well and cau
 
 North Americans: 1 mil = 0.025- = 25µ(microns).
 
-Minimum total thickness of plastic layers must be 0.25-. Fabric and paper would be thicker. Always use a black. It absorbs light as it tries to pass through the thickness of the material.
+Minimum total thickness of plastic layers: 0.25-. Fabric and paper: thicker. Always use black. It absorbs the most light as it passes through the thickness of the material.
 
 ##### materials
 
@@ -251,6 +251,7 @@ Minimum total thickness of plastic layers must be 0.25-. Fabric and paper would 
 
 plan: double-blind with vent - [download](/img/plan/double-blind.pdf)
 
+- plastic (continued)
 	- black-white
 		- laminated agricultural plastic
 			- called "light deprivation" tarp, used in greenhouses and for "pit tarps". I once got some for free from an agricultural plastic supply house. It was the end of a 1-ton roll of 0.125- plastic. For them it was unusable. It was a huge amount for my purpose.

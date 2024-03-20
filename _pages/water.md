@@ -119,7 +119,9 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 	4. join platforms to them
 	5. when shortening legs, allow at least 15- between top of bucket and underside of toilet. Tub requires more, of course. It must pass over bucket.
 
-<!--pagebreak-->
+![plan: toilet](/img/plan/image/toilet.png)
+
+plan: toilet - [download](/img/plan/toilet.pdf)
 
 2. skirt (attaches inside frame)
 	1. cut a strip of ~0.15- plastic, 2044 x 425 (length of leg + 15)
@@ -137,10 +139,6 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 		- next to a frame leg. Attach a wire or bracket to leg to support duct
 		- 50--100- off floor
 		- 10--30- smaller than return duct to fit over it snugly
-
-![plan: toilet](/img/plan/image/toilet.png)
-
-plan: toilet - [download](/img/plan/toilet.pdf)
 
 ##### options
 
@@ -191,8 +189,6 @@ plan: toilet - [download](/img/plan/toilet.pdf)
 
 		A funnel that doesn't move is a lot easier to operate than a tub when a squatting, too. Bidet water falls in the poop bucket. The sawdust absorbs it.
 		
-<!--pagebreak-->
-
 ### bath
 
 #### basic
