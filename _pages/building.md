@@ -5,4 +5,4 @@ permalink: /building/
 redirect: ../other/building
 ---
 
-Page moved [other > building](/other/building)
+Page moved [other > building](/other/building) 

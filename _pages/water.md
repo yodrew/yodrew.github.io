@@ -123,6 +123,8 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 
 plan: toilet - [download](/img/plan/toilet.pdf)
 
+<!--&nbsp;-->
+
 2. skirt (attaches inside frame)
 	1. cut a strip of ~0.15- plastic, 2044 x 425 (length of leg + 15)
 	2. turn assembled toilet frame upside down
