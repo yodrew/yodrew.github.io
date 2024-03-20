@@ -14,6 +14,8 @@ But light is relentless. It sneaks sideways through a single layer of clear plas
 
 I suffered many defeats at the mighty hands of light. Eliminating it demanded equally formidable techniques. I wandered continents for years to find them. Now I bestow them upon you, oh, future Conan the Barbarian<!--https://www.youtube.com/watch?v=Oo9buo9Mtos--> of lightproofing.
 
+Lone numerals are in millimeters (see [metric](/make#metric)).
+
 ### technique
 
 Generally, to darken a space,
@@ -233,10 +235,6 @@ North Americans: 1 mil = 0.025- = 25µ(microns).
 
 Minimum total thickness of plastic layers must be 0.25-. Fabric and paper would be thicker. Always use a black. It absorbs light as it tries to pass through the thickness of the material.
 
-![plan: double-blind with vent](/img/plan/image/double-blind.png)
-
-plan: double-blind with vent - [download](/img/plan/double-blind.pdf)
-
 ##### materials
 
 - plastic
@@ -248,6 +246,11 @@ plan: double-blind with vent - [download](/img/plan/double-blind.pdf)
 		- with black plastic, attach white material to outside layer. Use any thickness of plastic, fabric, paper. But leave 30--50- of black edge exposed.
 		- windows build up fierce heat when sealed with black plastic. It destroys the vacuum seal of dual or triple-pane windows. It even causes them to explode! The heat also damages paint and wood.
 		- black plastic looks spooky from the outside, attracting negative attention. White looks normal.
+
+![plan: double-blind with vent](/img/plan/image/double-blind.png)
+
+plan: double-blind with vent - [download](/img/plan/double-blind.pdf)
+
 	- black-white
 		- laminated agricultural plastic
 			- called "light deprivation" tarp, used in greenhouses and for "pit tarps". I once got some for free from an agricultural plastic supply house. It was the end of a 1-ton roll of 0.125- plastic. For them it was unusable. It was a huge amount for my purpose.
@@ -262,6 +265,8 @@ plan: double-blind with vent - [download](/img/plan/double-blind.pdf)
 	- white backside of gift wrapping paper
 - masking tape (more below)
 
+<!--pagebreak-->
+
 ##### assembly
 
 1. insert
@@ -271,7 +276,7 @@ plan: double-blind with vent - [download](/img/plan/double-blind.pdf)
 	- fit a window perfectly with no measuring: enlarge a board with 50--200- wide strips of black posterboard glued to edge, extending to the sash or sill. First, crease and fold the strip 15- from the edge.
 2. the cover is the second inner layer. It goes over the recess, extending 100--200- past it or past trim. This catches light that leaks through cracks between sill and wall.
 4. when using 2 layers of black-white plastic, fold back edge of outside layer 20--50-. This exposes black side for sealing against frame or wall.
-5. temperature control: protect your windows from heat damage!
+5. temperature control: protect windows from heat damage!
 	- reflect heat with white paper, posterboard or fabric that faces outside. At the edges, leave 30--50- black to absorb light where it makes contact with frame
 	- in extremely hot areas, install an awning, exterior blind or shutters
 6. For a handle, use a small block of wood. Screw it in from the back through a fender washer or stiff piece of plastic, like a bottle cap.

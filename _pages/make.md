@@ -59,7 +59,7 @@ If you need more specific advice for darkening your space, I provide [design con
 
 ### metric
 
-All measurements are in metric. Most are in millimeters with -, x, or +. Examples:
+All measurements are in metric. Lone numerals are in millimeters, marked by -, x, +, or, in drawings, a space. Examples:
 
 - 50- = 50mm
 - 50--60- = 50mm to 60mm

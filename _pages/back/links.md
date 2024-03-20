@@ -34,7 +34,6 @@ reports - [darkroomretreat.com/report](https://darkroomretreat.com/report)
 early essays - [darkroomretreat.com/conjecture](https://darkroomretreat.com/conjecture)  
 blog - [darkroomretreat.com/blog](https://darkroomretreat.com/blog)  
 myths - [darkroomretreat.com/other/myths](https://darkroomretreat.com/other/myths)  
-1988 - [darkroomretreat.com/other](https://darkroomretreat.com/other)  
 
 #### hygiene
 

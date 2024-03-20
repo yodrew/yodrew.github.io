@@ -288,10 +288,9 @@ Chapters are grouped in three parts:
 This book is at [leanpub.com/darkroomretreat/](https://leanpub.com/darkroomretreat) as an ebook for sale. It is free at [darkroomretreat.com](/), where you can also read: 
 
 - a series of my retreat [reports](/report)
-- [early essays](/conjecture) linked to in this book
+- [early essays](/conjecture) on darkness, linked to in this book
 - elaborative [blog](/blog) posts
-- related [myths](/other/myths) and
-- essays, designs, prose, poetry, and lyrics since [1988](/other). They marked my way to the restful use of darkness.
+- [other](/other) writings: [myths](/other/myths), essays, designs, prose, poetry, and lyrics since 1988. They marked my way to the restful use of darkness.
 
 #### open-source
 

@@ -12,6 +12,8 @@ Silencing a room is even trickier. But we have a couple aces up our sleeve for t
 
 We need to understand how ventilation works so we can design a good system. Ventilation affects both the silence and temperature of a darkroom. We will examine each of these conditions, then see how they work together in a mechanical system. Then we will make the components of the system.
 
+Lone numerals are in millimeters (see [metric](/make#metric)).
+
 ### ventilation
 
 This section is on ventilation in general. I will give design constraints and describe various systems. But first, I will address its physiological importance.
@@ -101,17 +103,19 @@ Here are further design constraints, photos, plans, and instructions for making 
 - elegant (yes: simple compact form, uses common materials){yes: adapts to nearly all swinging doors}
 - cheap ($4 in materials, 2-hour assembly time){$2 in materials, 1-hour assembly time} {#helix}
 
+
+
 #### universal
 
 The universal vent works nearly anywhere. It attaches by its face or side to a slot in any material. It can be made of cardboard or wood. Its principle adapts to any size. Walls and baffles can be thinner or thicker. It can be shortened for enclosure, eg, inside a silencer. All its rigid parts are rectangles, easily cut with a knife or table saw. It can be either for supply or return air.
 
-![plan: universal vent, elevation](/img/plan/image/universal-vent-elevation.png)
+![plan: universal vent](/img/plan/image/universal-vent.png)
 
-plan: universal vent, elevation - [download](/img/plan/universal-vent-elevation.pdf)
+plan: universal vent - [download](/img/plan/universal-vent.pdf)
 
 ![plan: universal vent, plan](/img/plan/image/universal-vent-plan.png)
 
-plan: universal vent, plan - [download](/img/plan/universal-vent-plan.pdf)
+plan: universal vent, plan
 
 ![plan: universal vent, walls](/img/plan/image/universal-vent-wall.png)
 
