@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="74.139999"
    inkscape:export-xdpi="74.139999"
    inkscape:export-filename="/home/hill/Write/darkness/yodrew.github.io/img/plan/source/universal-vent.png"
    sodipodi:docname="universal-vent.svg"
-   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    id="svg8"
    version="1.1"
    viewBox="0 0 1070.2 638.20039"
    height="638.20038mm"
-   width="1070.2mm">
+   width="1070.2mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <marker
@@ -772,11 +772,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.31313843"
-     inkscape:cx="3502.1506"
-     inkscape:cy="1116.9394"
+     inkscape:zoom="1.1328195"
+     inkscape:cx="3153.1942"
+     inkscape:cy="1358.5571"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="layer14"
      showgrid="false"
      inkscape:window-width="1359"
      inkscape:window-height="738"
@@ -1477,7 +1477,7 @@
            x="1551.4208"
            y="-19.1523"
            style="font-style:normal;font-size:7.05556px;line-height:1;stroke-width:0.282222"
-           id="tspan3179">8mm thick walls</tspan></text>
+           id="tspan3179">4–8- thick walls</tspan></text>
       <text
          id="text798"
          y="-125.00043"

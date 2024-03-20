@@ -170,7 +170,7 @@ Hygiene's emphasis on rest and healing is an important idea. It defines the appr
 
 No one before has explicitly gone into darkness with the hygienic perspective. That is, with the sole purpose of simply providing the normal conditions of life to the self-healing organism. Since the organism is the only thing that heals the organism, this is far more effective than any other approach can be. Stories of miraculous healing in darkness continue to find their way to me. But I predict they will pale in comparison to what the hygienic perspective will make possible.
 
-The effort involved is supportive: maintain the conditions of healing. It ain't a tall order, folks. Stay in the darkroom. Lie down as much as possible. Eat. Exercise. Bathe. Eliminate. Lie back down. Think when necessary. Stare at the backs of your eyelids a moment. Then feel your breath and pulse. Let sleep come. 
+The effort involved is supportive: maintain the conditions of healing. It's easy. Stay in the darkroom. Lie down and rest. Eat. Exercise. Bathe. Eliminate. Lie back down. Think when necessary. Stare at the backs of your eyelids a moment. Then feel your breath and pulse for hours. Let sleep come.
 
 It will. Darkness ensures it. Being in darkness so long, eventually one is induced to sleep, and sleep deeply. In my retreats, I have often felt positively knocked out. It is delicious. Time vanishes. Dreams are fewer. In 48 hours it is possible to catch up on all the sleep one has ever lost. (See the first of my [five darkness experiences](/report/five-darkness-experiences)). I am not speaking metaphorically. It is impossible to believe until it happens.
 
