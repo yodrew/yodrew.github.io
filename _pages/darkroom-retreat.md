@@ -342,8 +342,7 @@ Buckle up. We are heading into the psychological implications of hygienic darkro
 
 [^1]: Herbert Shelton, [*Science and Fine Art of Natural Hygiene*](/f/hygiene.pdf)\*, p35
 [^2]: Ibid, p139
-[^3]: William Arthur Evans, psychobiologist, said that each cell has thoughts, feelings, and instincts. Conscious experience summarizes those trillions of inputs and provides access to them.
-Evans surpassed the hygienists in his grasp of this issue and in some of his results. He helped his clients trace and correct physical maladies through their feelings. His books are extraordinary. See my blog post [William Arthur Evans](/blog/2009/08/william-arthur-evans/) and the [bibliography](/back/bibliography-influences) here.
+[^3]: William Arthur Evans, psychobiologist, said that each cell has thoughts, feelings, and instincts. Conscious experience summarizes those trillions of inputs and provides access to them. Evans surpassed the hygienists in his grasp of this issue and in some of his results. He helped his clients trace and correct physical maladies through their feelings. His books are extraordinary. See my blog post [William Arthur Evans](/blog/2009/08/william-arthur-evans/) and the [bibliography](/back/bibliography-influences) here.
 [^4]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
 [^5]: For all references to Gurdjieff, see [*In Search of the Miraculous*](/f/search.pdf)\*, PD Ouspensky's incomparable spiritual book about Gurdjieff's teachings.
 [^6]: _Atlas Shrugged_, in Galt's Speech.
