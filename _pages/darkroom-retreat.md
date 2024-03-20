@@ -270,7 +270,7 @@ Predictably, the unconscious, which is capable of the work, responds by going on
 
 Naturally, this gives conventional psychotic minds no pause. Indeed, it confirms their adversarial expectations of the organism. They call for further intervention. Which makes no sense and never works. So try it again!
 
-In contrast, the hygiene respects the abilities of the unconscious. It is passive as regards the will. The will only plays a supportive role. The autonomic self is the lead actor. The will recognize and supports it. Zero conflict. Maximum efficiency. Perfect result.
+In contrast, hygiene respects the abilities of the unconscious. It is passive as regards the will. The will only plays a supportive role. The autonomic self is the lead actor. The will recognizes and supports it. Zero conflict. Maximum efficiency. Perfect result.
 
 ### mechanics
 
