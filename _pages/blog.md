@@ -1,7 +1,6 @@
 ---
-title:: blog
----
-layout:: blog
+title: blog
+layout: redirect
 permalink: /blog/
 redirect: https://hygienicdarkretreat.com/blog/
 ---
