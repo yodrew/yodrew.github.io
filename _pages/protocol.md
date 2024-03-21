@@ -1,7 +1,6 @@
 ---
-title:: 5 &nbsp; protocol
----
-layout:: page
+title: 5 &nbsp; protocol
+layout: redirect
 permalink: /protocol/
 redirect: https://hygienicdarkretreat.com/protocol/
 ---

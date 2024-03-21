@@ -1,7 +1,6 @@
 ---
-title:: plan
----
-layout:: page
+title: plan
+layout: redirect
 permalink: /plan/
 redirect: https://hygienicdarkretreat.com/plan/
 ---

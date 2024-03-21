@@ -1,7 +1,6 @@
 ---
-title:: 11 &nbsp; water
----
-layout:: page
+title: 11 &nbsp; water
+layout: redirect
 permalink: /water/
 redirect: https://hygienicdarkretreat.com/water/
 ---

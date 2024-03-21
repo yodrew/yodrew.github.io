@@ -1,7 +1,6 @@
 ---
-title:: 2 &nbsp; darkroom retreat
----
-layout:: page
+title: 2 &nbsp; darkroom retreat
+layout: redirect
 permalink: /darkroom-retreat/
 redirect: https://hygienicdarkretreat.com/darkroom-retreat/
 ---

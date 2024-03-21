@@ -1,7 +1,6 @@
 ---
-title:: 10 &nbsp; darkness
----
-layout:: page
+title: 10 &nbsp; darkness
+layout: redirect
 permalink: /darkness/
 redirect: https://hygienicdarkretreat.com/darkness/
 ---

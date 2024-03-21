@@ -1,7 +1,6 @@
 ---
-title:: 7 &nbsp; design
----
-layout:: page
+title: 7 &nbsp; design
+layout: redirect
 permalink: /design/
 redirect: https://hygienicdarkretreat.com/design/
 ---

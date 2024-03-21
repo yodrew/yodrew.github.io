@@ -1,7 +1,6 @@
 ---
-title:: 1 &nbsp; hygiene
----
-layout:: page
+title: 1 &nbsp; hygiene
+layout: redirect
 permalink: /hygiene/
 redirect: https://hygienicdarkretreat.com/hygiene/
 ---

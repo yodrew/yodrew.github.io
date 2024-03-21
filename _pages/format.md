@@ -1,7 +1,6 @@
 ---
-title:: 4 &nbsp; format
----
-layout:: page
+title: 4 &nbsp; format
+layout: redirect
 permalink: /format/
 redirect: https://hygienicdarkretreat.com/format/
 ---

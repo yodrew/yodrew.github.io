@@ -1,7 +1,6 @@
 ---
-title:: 3 &nbsp; psychology
----
-layout:: page
+title: 3 &nbsp; psychology
+layout: redirect
 permalink: /psychology/
 redirect: https://hygienicdarkretreat.com/psychology/
 ---
