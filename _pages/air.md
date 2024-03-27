@@ -1,5 +1,6 @@
 ---
-title: 9 &nbsp; air
+chapter: 9
+title: air
 layout: redirect
 permalink: /air/
 redirect: https://hygienicdarkretreat.com/air/

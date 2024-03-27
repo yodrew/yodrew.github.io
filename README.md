@@ -1,3 +1,14 @@
 # darkroomretreat.com
 
-Howdy. This was the source code of my website, <https://darkroomretreat.com>. It has been renamed and moved to <https://hygienicdarkretreat.com>. The page-for-page meta redirects seem to be working. The code repository is at <https://github.com/swimmingly/swimmingly.github.io>
+Howdy. This is the repository for my old website at darkroomretreat.com. I moved everything to  
+<https://hygienicdarkretreat.com>
+
+Old links should redirect to new locations, page for page. The new repository is at  
+<https://github.com/swimmingly/swimmingly.github.io>
+
+The new Leanpub page for buying the PDF is at  
+<http://leanpub.com/hygienicdarkretreat>  
+(redirects from leanpub.com/darkroomretreat).
+
+The new zip file is at  
+<https://hygienicdarkretreat.com/hygienicdarkretreat.zip>
