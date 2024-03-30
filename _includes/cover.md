@@ -1,1 +1,0 @@
-<p style="text-align: center;margin:80px 0 0 30px"><a href="https://leanpub.com/darkroomretreat"><img src="/img/book-cover.png" label="cover image" width="50%" title="buy now" class="cover" style="padding:0"></a></p>
